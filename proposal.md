@@ -31,7 +31,7 @@ Sinh viên liệt kê các tính năng có liên quan đến đề tài nhưng d
 * Ảnh chụp kết quả chạy thử nghiệm huấn luyện và suy luận bằng mã nguồn và bộ dữ liệu có sẵn, và
 * Bản mẫu
 ### Phần Kết quả dự kiến của đề tài
-#### Nếu khóa luận theo hướng ứng dụng hoặc đồ án thì sinh viên cần trình bày các sản phẩm phần mềm với các tính năng NỔI BẬT dự kiến thu được ở đây, ví dụ như
+#### Nếu khóa luận theo hướng ứng dụng hoặc đồ án thì sinh viên cần trình bày các sản phẩm của phần mềm dự kiến thu được ở đây, ví dụ như
 * Mã nguồn ứng dụng di động, 
 * Mã nguồn ứng dụng web, 
 * Mã nguồn dịch vụ web, 
@@ -52,3 +52,4 @@ Sinh viên dựa vào phần Mục tiêu, phần Kết quả dự kiến của �
 ### Phần Tài liệu tham khảo
 Sinh viên chỉ liệt kê các sách và bài báo, và cần có ít nhất 5 tài liệu tham khảo. Sinh viên KHÔNG sử dụng các liên kết trong phần này. Các liên kết trong đề cương nếu có sinh viên để trong Footnote tại trang đề cập. Sinh viên cần thể hiện các tài liệu tham khảo theo đúng chuẩn thông dụng. Sinh viên nên sử dụng tính năng Cite (thể hiện bằng dấu nháy) của [Google Scholar](https://scholar.google.com.vn/scholar?hl=en&as_sdt=0%2C5&q=Efficient+backprop)  để biết cách trình bày tài liệu tham khảo.
 
+### _&copy; 2023 Ngô Huy Biên_
