@@ -1,1 +1,45 @@
+# Phần Mục tiêu
+Sinh viên dựa theo File “Tên và Mục tiêu” mà giảng viên đã cung cấp, các ứng dụng hoặc hệ thống tương tự, và ý tưởng đề xuất của mình để hoàn thành.
+
+# Phần Phạm vi đề tài
+Sinh viên liệt kê các tính năng có liên quan đến đề tài nhưng dự định sẽ KHÔNG làm.
+
+# Phần Cách tiếp cận dự kiến
+## Nếu khóa luận theo hướng ứng dụng hoặc thực tập dự án tốt nghiệp thì sinh viên cần trình bày
+* Bản mẫu, 
+* Kiến trúc,
+* Mô hình dữ liệu, 
+* Thuật toán, 
+* Các mục tiêu kiểm thử dự định (load testing, stress testing, penetration testing) sẽ được thực hiện trên hệ thống,
+* Phương pháp so sánh, đánh giá hệ thống với các hệ thống tương tự, và
+* Danh sách các công nghệ, công cụ dự định sẽ sử dụng. Sinh viên cần mô tả, giải thích cụ thể các sơ đồ.
+## Nếu khóa luận theo hướng nghiên cứu thì sinh viên cần trình bày
+* Các nghiên cứu liên quan trực tiếp đến đề tài,
+* Các mô hình dự kiến áp dụng hoặc cải tiến,
+* Các độ đo để so sánh, đánh giá các kết quả thu được,
+* Các nguồn dữ liệu và mã nguồn có sẵn dự kiến sẽ được dùng để huấn luyện,
+* Tài nguyên GPU dự định sẽ sử dụng, 
+* Ảnh chụp kết quả chạy thử nghiệm huấn luyện và suy luận bằng mã nguồn và bộ dữ liệu có sẵn, và
+* Bản mẫu
+# Phần Kết quả dự kiến của đề tài
+## Nếu khóa luận theo hướng ứng dụng hoặc đồ án thì sinh viên cần trình bày các sản phẩm phần mềm với các tính năng NỔI BẬT dự kiến thu được ở đây, ví dụ như
+* Mã nguồn ứng dụng di động, 
+* Mã nguồn ứng dụng web, 
+* Mã nguồn dịch vụ web, 
+* Dữ liệu mới tạo được,
+* Báo cáo các kết quả kiểm thử,
+* Báo cáo so sánh với các hệ thống tương tự,
+* Các tài liệu kỹ thuật hướng dẫn chi tiết phương pháp tái tạo các sản phẩm của khóa luận.
+## Nếu khóa luận theo hướng nghiên cứu thì sinh viên cần trình bày các sản phẩm KHÁC với những gì đã có sẵn, dự kiến thu được ở đây, ví dụ như
+* Mã nguồn huấn luyện mô hình được chỉnh sửa/tạo thêm/tạo mới,
+* Dữ liệu chỉnh sửa/tạo thêm/tạo mới,
+* Mô hình đã được huấn luyện,
+* Mã nguồn công cụ xử lý dữ liệu,
+* Dịch vụ triển khai mô hình,
+* Ứng dụng biểu diễn việc sử dụng mô hình đã được triển khai,
+* Các tài liệu kỹ thuật hướng dẫn chi tiết phương pháp tái tạo các sản phẩm của khóa luận.
+# Phần Kế hoạch thực hiện
+Sinh viên dựa vào phần Mục tiêu, phần Kết quả dự kiến của đề tài, các cột mốc thời gian, và nguồn nhân lực để đưa ra kế hoạch phù hợp.
+# Phần Tài liệu tham khảo
+Sinh viên chỉ liệt kê các sách và bài báo, và cần có ít nhất 5 tài liệu tham khảo. Sinh viên KHÔNG sử dụng các liên kết trong phần này. Các liên kết trong đề cương nếu có sinh viên để trong Footnote tại trang đề cập. Sinh viên cần thể hiện các tài liệu tham khảo theo đúng chuẩn thông dụng. Sinh viên nên sử dụng tính năng Cite (thể hiện bằng dấu nháy) của [Google Scholar](https://scholar.google.com.vn/scholar?hl=en&as_sdt=0%2C5&q=Efficient+backprop)  để biết cách trình bày tài liệu tham khảo.
 
