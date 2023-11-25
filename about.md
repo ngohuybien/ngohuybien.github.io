@@ -13,7 +13,7 @@ You can find the source code for Jekyll at GitHub:
 [jekyll](https://github.com/jekyll/jekyll)
 
 You can learn how to work with Minima on:
-[working-with-minima](https://www.chrishasz.com/yaght/general/working-with-minima)
+[working-with-minima](https://github.com/jekyll/minima)
 
 You can learn about Markdown on:
 [www.markdowntutorial.com](https://www.markdowntutorial.com/)
