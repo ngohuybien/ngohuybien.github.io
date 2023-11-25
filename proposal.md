@@ -7,13 +7,13 @@ _Tài liệu hướng dẫn viết đề cương khóa luận hoặc thực tậ
 * Khi làm bản nháp nếu có chỗ nào không rõ sinh viên tự đặt giả định để hoàn thiện.
 
 ## 2. Nội dung đề cương
-### Phần Mục tiêu
+### 2.1. Phần Mục tiêu
 Sinh viên dựa theo File “Tên và Mục tiêu” mà giảng viên đã cung cấp, các ứng dụng hoặc hệ thống tương tự, và ý tưởng đề xuất của mình để hoàn thành.
 
-### Phần Phạm vi đề tài
+### 2.2. Phần Phạm vi đề tài
 Sinh viên liệt kê các tính năng có liên quan đến đề tài nhưng dự định sẽ KHÔNG làm.
 
-### Phần Cách tiếp cận dự kiến
+### 2.3. Phần Cách tiếp cận dự kiến
 #### Nếu khóa luận theo hướng ứng dụng hoặc thực tập dự án tốt nghiệp thì sinh viên cần trình bày
 * Bản mẫu, 
 * Kiến trúc,
@@ -30,7 +30,7 @@ Sinh viên liệt kê các tính năng có liên quan đến đề tài nhưng d
 * Tài nguyên GPU dự định sẽ sử dụng, 
 * Ảnh chụp kết quả chạy thử nghiệm huấn luyện và suy luận bằng mã nguồn và bộ dữ liệu có sẵn, và
 * Bản mẫu
-### Phần Kết quả dự kiến của đề tài
+### 2.4. Phần Kết quả dự kiến của đề tài
 #### Nếu khóa luận theo hướng ứng dụng hoặc đồ án thì sinh viên cần trình bày các sản phẩm của phần mềm dự kiến thu được ở đây, ví dụ như
 * Mã nguồn ứng dụng di động, 
 * Mã nguồn ứng dụng web, 
@@ -47,9 +47,9 @@ Sinh viên liệt kê các tính năng có liên quan đến đề tài nhưng d
 * Dịch vụ triển khai mô hình,
 * Ứng dụng biểu diễn việc sử dụng mô hình đã được triển khai,
 * Các tài liệu kỹ thuật hướng dẫn chi tiết phương pháp tái tạo các sản phẩm của khóa luận.
-### Phần Kế hoạch thực hiện
+### 2.5. Phần Kế hoạch thực hiện
 Sinh viên dựa vào phần Mục tiêu, phần Kết quả dự kiến của đề tài, các cột mốc thời gian, và nguồn nhân lực để đưa ra kế hoạch phù hợp.
-### Phần Tài liệu tham khảo
+### 2.6. Phần Tài liệu tham khảo
 Sinh viên chỉ liệt kê các sách và bài báo, và cần có ít nhất 5 tài liệu tham khảo. Sinh viên KHÔNG sử dụng các liên kết trong phần này. Các liên kết trong đề cương nếu có sinh viên để trong Footnote tại trang đề cập. Sinh viên cần thể hiện các tài liệu tham khảo theo đúng chuẩn thông dụng. Sinh viên nên sử dụng tính năng Cite (thể hiện bằng dấu nháy) của [Google Scholar](https://scholar.google.com.vn/scholar?hl=en&as_sdt=0%2C5&q=Efficient+backprop)  để biết cách trình bày tài liệu tham khảo.
 
-### _&copy; 2023 Ngô Huy Biên_
+### &copy; 2023 Ngô Huy Biên
