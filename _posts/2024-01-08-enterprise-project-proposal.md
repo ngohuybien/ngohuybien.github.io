@@ -26,14 +26,13 @@ Một số tham khảo để lên ý tưởng:
 ## 3. Nội dung Slides
 
 ### 3.1. Hiện trạng
-Slides cần thể hiện **3 hệ thống tương tự** có sẵn, tổng hợp, phân tích, đánh giá các tính năng của các hệ thống đó dựa trên các định hướng sau: 
-* 3 hệ thống trên giải quyết vấn đề gì trong đời sống thực. Các vấn đề cần được thể hiện bằng những điều không thể thực hiện được hoặc đang thực hiện một cách khó khăn, tốn kém làm ảnh hưởng đến thời gian và chi phí của con người hoặc tổ chức. Các vấn đề cũng có thể được thể hiện bằng những gì gây nên sự đau đớn, sợ hãi, mệt mỏi của con người.
-* Điều gì các ứng dụng đang có làm mình không thích.
-* Điều gì mình cần mà các ứng dụng đang có không hỗ trợ.
-* Điều gì làm mình cảm thấy thoải mái, vui thích trong tâm hồn.
-
-Slides cần có **bảng so sánh các tính năng** của 3 ứng dụng tương tự có sẵn.
-Slides cần có danh sách **các vấn đề** phát hiện, dưới dạng các hạn chế của 3 ứng dụng tương tự có sẵn.
+* Slides cần thể hiện **3 hệ thống tương tự** có sẵn, tổng hợp, phân tích, đánh giá các tính năng của các hệ thống đó dựa trên các định hướng sau: 
+  * 3 hệ thống trên giải quyết vấn đề gì trong đời sống thực. Các vấn đề cần được thể hiện bằng những điều không thể thực hiện được hoặc đang thực hiện một cách khó khăn, tốn kém làm ảnh hưởng đến thời gian và chi phí của con người hoặc tổ chức. Các vấn đề cũng có thể được thể hiện bằng những gì gây nên sự đau đớn, sợ hãi, mệt mỏi của con người.
+  * Điều gì các ứng dụng đang có làm mình không thích.
+  * Điều gì mình cần mà các ứng dụng đang có không hỗ trợ.
+  * Điều gì làm mình cảm thấy thoải mái, vui thích trong tâm hồn.
+* Slides cần có **bảng so sánh các tính năng** của 3 ứng dụng tương tự có sẵn.
+* Slides cần có danh sách **các vấn đề** phát hiện, dưới dạng các hạn chế của 3 ứng dụng tương tự có sẵn.
 
 ### 3.2. Động cơ
 Slides cần thể hiện được động cơ xây dựng hệ thống. Các lý do thường ở các dạng sau.
