@@ -36,19 +36,19 @@ Thư mục gốc chứa
 * Thư mục **ReleaseGuide_LaTeX**: chứa tài liệu hướng dẫn tạo và triển khai trang Release.
 * File **ReleaseGuide.pdf**: là bản PDF của thư mục ReleaseGuide_LaTeX.
 * Nếu khóa luận liên quan đến học máy hoặc học sâu, thì cần có thêm thư mục **Model_Training** chứa
-*   Thư mục **Data** chứa toàn bộ dữ liệu training/validation/test để huấn luyện mô hình,
-*   Thư mục **Model** chứa mã nguồn để huấn luyện các mô hình,
-*   Thư mục **ModelTraningGuide_LaTeX** chứa tài liệu "Hướng dẫn huấn luyện các mô hình" cho OS sạch, kèm ảnh minh họa, dạng DOCX và PDF. Sinh viên được khuyến khích sử dụng các kịch bản viết cho các công cụ triển khai tự động, ví dụ như Docker, Kubernetes hay Circle CI, để thu gọn tài liệu “Hướng dẫn huấn luyện các mô hình”,  và
-*   File **ModelTraningGuide.pdf**: là bản PDF của thư mục **ModelTraningGuide_LaTeX**.
+  * Thư mục **Data** chứa toàn bộ dữ liệu training/validation/test để huấn luyện mô hình,
+  * Thư mục **Model** chứa mã nguồn để huấn luyện các mô hình,
+  * Thư mục **ModelTraningGuide_LaTeX** chứa tài liệu "Hướng dẫn huấn luyện các mô hình" cho OS sạch, kèm ảnh minh họa, dạng DOCX và PDF. Sinh viên được khuyến khích sử dụng các kịch bản viết cho các công cụ triển khai tự động, ví dụ như Docker, Kubernetes hay Circle CI, để thu gọn tài liệu “Hướng dẫn huấn luyện các mô hình”,  và
+  * File **ModelTraningGuide.pdf**: là bản PDF của thư mục **ModelTraningGuide_LaTeX**.
 
 ### 2.4. Thư mục GUIDES chứa các thư mục theo mô tả bên dưới.
-* Thư mục **CloudServiceGuide_LaTeX** chứa tài liệu “Hướng dẫn đăng ký các dịch vụ đám mây và cấu hình hệ thống” nếu khóa luận có sử dụng các Cloud API của một nhà cung cấp dịch vụ đám mây.
+* Thư mục **CloudServiceGuide_LaTeX** chứa tài liệu “Hướng dẫn đăng ký các dịch vụ đám mây và cấu hình hệ thống” nếu đề tài có sử dụng các Cloud API của một nhà cung cấp dịch vụ đám mây.
 * File **CloudServiceGuide.pdf**: là bản PDF của thư mục CloudServiceGuide _LaTeX.
 * File **CloudServiceGuide.mp4**: là file video minh họa việc thực hiện các bước của tài liệu “Hướng dẫn đăng ký các dịch vụ đám mây và cấu hình hệ thống”.
-* Thư mục **DeploymentGuide_LaTeX** chứa tài liệu “Hướng dẫn triển khai và cấu hình hệ thống” trên máy chủ EC2, hoặc Google Could, hoặc MS Azure, hoặc Heroku, hoặc một nhà cung cấp dịch vụ Hosting nếu khóa luận có phát triển phần web/api server. Sinh viên được khuyến khích sử dụng các kịch bản viết cho các công cụ triển khai tự động, ví dụ như Docker, Kubernetes hay Circle CI, để thu gọn tài liệu “Hướng dẫn triển khai và cấu hình”.
+* Thư mục **DeploymentGuide_LaTeX** chứa tài liệu “Hướng dẫn triển khai và cấu hình hệ thống” trên máy chủ EC2, hoặc Google Could, hoặc MS Azure, hoặc Heroku, hoặc một nhà cung cấp dịch vụ Hosting nếu đề tài có phát triển phần web/api server. Sinh viên được khuyến khích sử dụng các kịch bản viết cho các công cụ triển khai tự động, ví dụ như Docker, Kubernetes hay Circle CI, để thu gọn tài liệu “Hướng dẫn triển khai và cấu hình”.
 * File **DeploymentGuide.pdf**: là bản PDF của thư mục DeploymentGuide_LaTeX.
 * File **DeploymentGuide.mp4**: là file video minh họa việc thực hiện các bước của tài liệu “Hướng dẫn triển khai và cấu hình hệ thống”.
-* Thư mục **StoreDeploymentGuide_LaTeX** chứa tài liệu “Hướng dẫn triển khai mobile client” trên Google Play hoặc App Store, hoặc trên điện thoại cá nhân nếu khóa luận có phát triển phần mobile client.
+* Thư mục **StoreDeploymentGuide_LaTeX** chứa tài liệu “Hướng dẫn triển khai mobile client” trên Google Play hoặc App Store, hoặc trên điện thoại cá nhân nếu đề tài có phát triển phần mobile client.
 * File **StoreDeploymentGuide.pdf**: là bản PDF của thư mục StoreDeploymentGuide_LaTeX.
 * File **StoreDeploymentGuide.mp4**: là file video minh họa việc thực hiện các bước của tài liệu “Hướng dẫn triển khai mobile client”.
 * Thư mục **UserGuide_LaTeX** chứa tài liệu “Hướng dẫn cài đặt và sử dụng phần mềm” cho người dùng cuối.
@@ -69,9 +69,9 @@ Thư mục KANBAN chứa các sản phẩm của mô hình Kanban, có thể bao
 * **Architecture.vsd** của Visio (hoặc **Architecture.xml** của Draw.io).
 * **ProofOfConcept.zip**: Mã nguồn tính năng khó của hệ thống nhóm chưa thực hiện bao giờ.
 * File **ConfigurationManagement.txt** chứa
-*   Liên kết và tài khoản truy cập hệ thống quản lý dự án (ví dụ Trello).
-*   Liên kết và tài khoản truy cập hệ thống build tự động (ví dụ CircleCI).
-*   Liên kết đến trang Release liệt kê các sản phẩm hoàn thành mỗi tuần.
-*   Liên kết đến hệ thống triển khai cho người dùng và người quản trị sử dụng cập nhật hằng tuần (ví dụ liên kết của Render).
+  * Liên kết và tài khoản truy cập hệ thống quản lý dự án (ví dụ Trello).
+  * Liên kết và tài khoản truy cập hệ thống build tự động (ví dụ CircleCI).
+  * Liên kết đến trang Release liệt kê các sản phẩm hoàn thành mỗi tuần.
+  * Liên kết đến hệ thống triển khai cho người dùng và người quản trị sử dụng cập nhật hằng tuần (ví dụ liên kết của Render).
 
 ### &copy; 2024 Ngô Huy Biên
