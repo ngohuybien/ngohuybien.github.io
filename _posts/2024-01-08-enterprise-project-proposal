@@ -9,16 +9,18 @@ meta: "Enterprise Project Proposal"
 _Tài liệu hướng dẫn viết đề xuất dự án lĩnh vực hệ thống doanh nghiệp cho môn học Software Engineering Capstone._
 
 ## 1. Thông tin chung
-* Mỗi nhóm tự chọn một ý tưởng cho đồ án môn học. Ý tưởng tập trung vào lĩnh vực hệ thống doanh nghiệp. Đồ án sẽ được thực hiện trong 10 tuần đối với hệ CLC, trong 14 tuần đối với hệ CQ, thời gian làm đồ án của mỗi thành viên là 8 giờ / tuần.
+* Mỗi nhóm tự chọn một ý tưởng cho đồ án môn học. Ý tưởng tập trung vào lĩnh vực hệ thống doanh nghiệp.
+Đồ án sẽ được thực hiện trong 10 tuần đối với hệ CLC, trong 14 tuần đối với hệ CQ, thời gian làm đồ án của mỗi thành viên là 8 giờ / tuần.
 * Các nhóm **chuẩn bị Slides** để thuyết trình đề xuất dự án của nhóm, **tối đa trong 20 phút**.
-* Khi làm bản nháp nếu có chỗ nào không rõ **sinh viên tự đặt các giả định** để hoàn thiện.
+* Khi làm đề xuất nếu có chỗ nào không rõ **sinh viên tự đặt các giả định** để hoàn thiện.
 
-## 2. Nội dung đề cương
+## 2. Nội dung Slides
 
-### 2.1. Phần Mục tiêu
-Sinh viên liệt kê các mục tiêu dựa theo 
-* Trang “Tên và mục tiêu đề tài” trên Confluence,
-* Các ứng dụng hoặc hệ thống tương tự mà sinh viên khảo sát, và
+### 2.1. Hiện trạng
+Slides cần thể hiện **3 hệ thống tương tự** có sẵn, tổng hợp, phân tích, đánh giá các tính năng của các hệ thống đó dựa trên các định hướng sau: 
+* 3 hệ thống trên giải quyết vấn đề gì trong đời sống thực. Các vấn đề cần được thể hiện bằng những điều không thể thực hiện được hoặc đang thực hiện một cách khó khăn, tốn kém làm ảnh hưởng đến thời gian và chi phí của con người hoặc tổ chức. Các vấn đề cũng có thể được thể hiện bằng những gì gây nên sự đau đớn, sợ hãi, mệt mỏi của con người.
+* Điều gì các ứng dụng đang có làm mình không thích.
+* Điều gì mình cần mà các ứng dụng đang có không hỗ trợ.
 * Các ý tưởng sinh viên tự đề xuất thêm (nếu có).
 
 Mỗi mục tiêu cần
