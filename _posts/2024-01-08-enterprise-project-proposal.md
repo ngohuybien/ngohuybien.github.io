@@ -77,7 +77,7 @@ Slides cần thể hiện các sản phẩm dự kiến sẽ thu được. Các 
 * Các tài liệu kỹ thuật hướng dẫn chi tiết phương pháp tái tạo các sản phẩm.
 
 ### 3.6. Kế hoạch thực hiện
-* Nhóm đăng ký và tạo một Timeline miễn phí tại (Precenden.com)[https://www.preceden.com/].
+* Nhóm đăng ký và tạo một Timeline miễn phí tại [Precenden.com](https://www.preceden.com/).
 * Kế hoạch cần thể hiện trong tối đa 10 cột mốc.
 * Kế hoạch cần phù hợp với các các sản phẩm dự kiến, các cột mốc thời gian của môn học, và nguồn nhân lực hiện có.
 
