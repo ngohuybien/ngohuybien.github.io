@@ -21,16 +21,29 @@ Slides cần thể hiện **3 hệ thống tương tự** có sẵn, tổng hợ
 * 3 hệ thống trên giải quyết vấn đề gì trong đời sống thực. Các vấn đề cần được thể hiện bằng những điều không thể thực hiện được hoặc đang thực hiện một cách khó khăn, tốn kém làm ảnh hưởng đến thời gian và chi phí của con người hoặc tổ chức. Các vấn đề cũng có thể được thể hiện bằng những gì gây nên sự đau đớn, sợ hãi, mệt mỏi của con người.
 * Điều gì các ứng dụng đang có làm mình không thích.
 * Điều gì mình cần mà các ứng dụng đang có không hỗ trợ.
+* Điều gì làm mình cảm thấy thoải mái, vui thích trong tâm hồn.
+
+Sinh viên **tạo bảng** so sánh các tính năng của 3 ứng dụng tương tự có sẵn.
+Sinh viên liệt kê các vấn đề phát hiện, dưới dạng các hạn chế của các ứng dụng.
+
+### 2.2. Động cơ
+Slides cần thể hiện được động cơ xây dựng hệ thống. Các lý do thường ở các dạng sau.
+* Chi phí sử dụng các hệ thống có sẵn quá cao.
+* Việc bảo mật dữ liệu và đảm bảo tính riêng tư của các hệ thống có sẵn chưa phù hợp với yêu cầu đặc thù.
+* Các hạn chế của hệ thống có sẵn ảnh hưởng đến chi phí, thời gian thực hiện công việc và trải nghiệm người dùng.
+* Hệ thống chưa được địa phương hóa hoặc nhằm chất lượng chưa dựa trên sự địa phương hóa.
+* Lý do xây dựng lại hệ thống là nhằm mục đích học tập
 * Các ý tưởng sinh viên tự đề xuất thêm (nếu có).
 
-Mỗi mục tiêu cần
-* Ánh xạ đến một vấn đề thực tế, và
-* Có sản phẩm tương ứng kèm theo hoặc có thể kiểm tra được.
-
-### 2.2. Phần Phạm vi đề tài
-Sinh viên liệt kê các tính năng của phần mềm có liên quan đến đề tài nhưng dự định sẽ KHÔNG làm.
-
-### 2.3. Phần Cách tiếp cận dự kiến
+### 2.3. Các mục tiêu
+* Slides cần thể hiện các mục tiêu dưới dạng các giải pháp cho vấn đề.
+* Các mục tiêu có thể được thể hiện bằng nhiều mức.
+* Ở mức độ đầu tiên các mục tiêu thường được thể hiện bằng cách diễn đạt ngược lại vấn đề gặp phải.
+* Slides cần thể hiện các luồng quy trình nghiệp vụ nhằm đạt được mục tiêu đề ra.
+* Dựa vào luồng quy trình, các tính năng dự kiến sẽ được phát hiện. Mỗi tính năng đề xuất luôn cần trả lời được các câu hỏi:   * Tính năng này dành cho bước nào trong luồng quy trình?
+  * Quy trình này nhằm đạt được mục tiêu nào?
+  * Mục tiêu này nhằm giải quyết vấn đề gì?
+  * Làm sao để biết vấn đề có được giải quyết hay không?
 
 #### Nếu sinh viên làm khóa luận theo hướng ứng dụng hoặc thực tập dự án tốt nghiệp thì cần trình bày
 * Bản mẫu, 
