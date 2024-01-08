@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Các sản phẩm cần nộp khóa luận hoặc thực tập dự án tốt nghiệp"
+title: "Các sản phẩm cần nộp của khóa luận hoặc thực tập dự án tốt nghiệp"
 categories: thesis
 author:
 - Ngô Huy Biên
