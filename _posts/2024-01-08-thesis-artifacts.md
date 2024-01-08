@@ -56,7 +56,8 @@ Thư mục gốc chứa
 * File **UserGuide.mp4**: là file video minh họa việc thực hiện các bước của tài liệu “Hướng dẫn cài đặt và sử dụng phần mềm”.
 
 ### 2.5. Thư mục TOOLS
-Thư mục TOOLS chứa các phần mềm liên quan trong quá trình thực hiện đề tài (ví dụ, phần mềm chỉnh sửa ảnh, audio), các phần mềm dùng để hỗ trợ biên dịch mã nguồn. Trong trường hợp vì lý do chính đáng, không thể lưu tất cả các thành phần cần thiết để có thể cài đặt, sinh viên cần tạo file Links.txt chứa liên kết để tải về.
+* Thư mục TOOLS chứa các phần mềm liên quan trong quá trình thực hiện đề tài (ví dụ, phần mềm chỉnh sửa ảnh, audio), các phần mềm dùng để hỗ trợ biên dịch mã nguồn.
+* Trong trường hợp vì lý do chính đáng, không thể lưu tất cả các thành phần cần thiết để có thể cài đặt, sinh viên cần tạo file Links.txt ghi rõ tên phần mềm, phiên bản được sử dụng, và liên kết để tải về.
 
 ### 2.6. Thư mục REFERENCES
 Thư mục REFERENCES chứa các tài liệu tham khảo. Tên các tập tin tài liệu tham khảo cần đặt theo chuẩn ghi tài liệu tham khảo trong báo cáo. Sinh viên cần thể hiện các tài liệu tham khảo theo đúng chuẩn thông dụng. Sinh viên nên sử dụng tính năng Cite (thể hiện bằng dấu nháy) của [Google Scholar](https://scholar.google.com.vn/scholar?hl=en&as_sdt=0%2C5&q=Efficient+backprop) để xem mẫu trình bày tài liệu tham khảo. Sinh viên nên chọn chuẩn APA.
