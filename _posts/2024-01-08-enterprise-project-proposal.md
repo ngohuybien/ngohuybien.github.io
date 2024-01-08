@@ -32,8 +32,8 @@ Slides cần thể hiện **3 hệ thống tương tự** có sẵn, tổng hợ
 * Điều gì mình cần mà các ứng dụng đang có không hỗ trợ.
 * Điều gì làm mình cảm thấy thoải mái, vui thích trong tâm hồn.
 
-Sinh viên **tạo bảng** so sánh các tính năng của 3 ứng dụng tương tự có sẵn.
-Sinh viên liệt kê các vấn đề phát hiện, dưới dạng các hạn chế của các ứng dụng.
+Slides cần có **bảng so sánh các tính năng** của 3 ứng dụng tương tự có sẵn.
+Slides cần có danh sách **các vấn đề** phát hiện, dưới dạng các hạn chế của 3 ứng dụng tương tự có sẵn.
 
 ### 3.2. Động cơ
 Slides cần thể hiện được động cơ xây dựng hệ thống. Các lý do thường ở các dạng sau.
@@ -47,9 +47,10 @@ Slides cần thể hiện được động cơ xây dựng hệ thống. Các l�
 ### 3.3. Các mục tiêu
 * Slides cần thể hiện các mục tiêu dưới dạng các giải pháp cho vấn đề.
 * Các mục tiêu có thể được thể hiện bằng nhiều mức.
-* Ở mức độ đầu tiên các mục tiêu thường được thể hiện bằng cách diễn đạt ngược lại vấn đề gặp phải.
-* Slides cần thể hiện các luồng quy trình nghiệp vụ nhằm đạt được mục tiêu đề ra.
-* Dựa vào luồng quy trình, các tính năng dự kiến sẽ được phát hiện. Mỗi tính năng đề xuất luôn cần trả lời được các câu hỏi:   * Tính năng này dành cho bước nào trong luồng quy trình?
+* Ở **mức độ đầu tiên** các mục tiêu thường được thể hiện bằng cách **diễn đạt ngược lại** vấn đề gặp phải.
+* Slides cần thể hiện ít nhất **một luồng quy trình nghiệp vụ** nhằm đạt được **một mục tiêu** đề ra.
+* Dựa vào luồng quy trình, Slides cần **liệt kê các tính năng dự kiến** sẽ được thực hiện. Mỗi tính năng đề xuất luôn cần trả lời được các câu hỏi:
+  * Tính năng này dành cho bước nào trong luồng quy trình?
   * Quy trình này nhằm đạt được mục tiêu nào?
   * Mục tiêu này nhằm giải quyết vấn đề gì?
   * Làm sao để biết vấn đề có được giải quyết hay không?
