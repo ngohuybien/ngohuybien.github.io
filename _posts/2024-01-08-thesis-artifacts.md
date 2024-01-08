@@ -35,11 +35,11 @@ Thư mục gốc chứa
 * File **CompilationGuide.pdf**: là bản PDF của thư mục CompilationGuide_LaTeX.
 * Thư mục **ReleaseGuide_LaTeX**: chứa tài liệu hướng dẫn tạo và triển khai trang Release.
 * File **ReleaseGuide.pdf**: là bản PDF của thư mục ReleaseGuide_LaTeX.
-* Nếu khóa luận liên quan đến học máy hoặc học sâu, thì cần có thêm thư mục **Model_Training** chứa 
-** Thư mục **Data** chứa toàn bộ dữ liệu training/validation/test để huấn luyện mô hình, 
-** Thư mục **Model** chứa mã nguồn để huấn luyện các mô hình, và
-** Thư mục **ModelTraningGuide_LaTeX** chứa tài liệu "Hướng dẫn huấn luyện các mô hình" cho OS sạch, kèm ảnh minh họa, dạng DOCX và PDF. Sinh viên được khuyến khích sử dụng các kịch bản viết cho các công cụ triển khai tự động, ví dụ như Docker, Kubernetes hay Circle CI, để thu gọn tài liệu “Hướng dẫn huấn luyện các mô hình”.
-** File **ModelTraningGuide.pdf**: là bản PDF của thư mục **ModelTraningGuide_LaTeX**.
+* Nếu khóa luận liên quan đến học máy hoặc học sâu, thì cần có thêm thư mục **Model_Training** chứa
+  ** Thư mục **Data** chứa toàn bộ dữ liệu training/validation/test để huấn luyện mô hình,
+  ** Thư mục **Model** chứa mã nguồn để huấn luyện các mô hình, và
+  ** Thư mục **ModelTraningGuide_LaTeX** chứa tài liệu "Hướng dẫn huấn luyện các mô hình" cho OS sạch, kèm ảnh minh họa, dạng DOCX và PDF. Sinh viên được khuyến khích sử dụng các kịch bản viết cho các công cụ triển khai tự động, ví dụ như Docker, Kubernetes hay Circle CI, để thu gọn tài liệu “Hướng dẫn huấn luyện các mô hình”.
+  ** File **ModelTraningGuide.pdf**: là bản PDF của thư mục **ModelTraningGuide_LaTeX**.
 
 ### 2.4. Thư mục GUIDES chứa các thư mục theo mô tả bên dưới.
 * Thư mục **CloudServiceGuide_LaTeX** chứa tài liệu “Hướng dẫn đăng ký các dịch vụ đám mây và cấu hình hệ thống” nếu khóa luận có sử dụng các Cloud API của một nhà cung cấp dịch vụ đám mây.
