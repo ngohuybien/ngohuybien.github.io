@@ -31,8 +31,8 @@ Slides cần thể hiện **3 hệ thống tương tự** có sẵn, tổng hợ
 * Điều gì mình cần mà các ứng dụng đang có không hỗ trợ.
 * Điều gì làm mình cảm thấy thoải mái, vui thích trong tâm hồn.
 
-Slides cần có **tạo bảng** so sánh các tính năng của 3 ứng dụng tương tự có sẵn.
-Slides cần có danh sách **các vấn đề** phát hiện, dưới dạng các hạn chế của các ứng dụng.
+Slides cần có **bảng so sánh các tính năng** của 3 ứng dụng tương tự có sẵn.
+Slides cần có danh sách **các vấn đề** phát hiện, dưới dạng các hạn chế của 3 ứng dụng tương tự có sẵn.
 
 ### 3.2. Động cơ
 Slides cần thể hiện được động cơ xây dựng hệ thống. Các lý do thường ở các dạng sau.
