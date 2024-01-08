@@ -13,10 +13,19 @@ _Tài liệu hướng dẫn viết đề xuất dự án lĩnh vực hệ thốn
 Đồ án sẽ được thực hiện trong 10 tuần đối với hệ CLC, trong 14 tuần đối với hệ CQ, thời gian làm đồ án của mỗi thành viên là 8 giờ / tuần.
 * Các nhóm **chuẩn bị Slides** để thuyết trình đề xuất dự án của nhóm, **tối đa trong 20 phút**.
 * Khi làm đề xuất nếu có chỗ nào không rõ **sinh viên tự đặt các giả định** để hoàn thiện.
+* Chỉ những đề xuất nào được giáo viên chấp nhận mới được chọn làm đồ án môn học chính thức của nhóm. Những nhóm có đề xuất không được chấp nhận sẽ lựa chọn 1 đề tài có sẵn trong danh sách các đề tài giáo viên đưa ra.
+* Mỗi nhóm cần tập trung nguồn lực chuẩn bị thật tốt cho đề xuất và chỉ thuyết trình 1 đề xuất duy nhất.
 
-## 2. Nội dung Slides
+## 2. Ý tưởng cho đề tài
+Một số tham khảo để lên ý tưởng:
+* Ứng dụng di động: Sinh viên tham khảo các ứng dụng, trò chơi trên App Store, Google Play.
+* Ứng dụng web (có thể kết hợp với di động): xử lý vấn đề nghiệp vụ thực tế và xử lý dữ liệu lớn bằng công nghệ trong y học, giao thông, giáo dục, truyền thông, ngân hàng.
+* Bảo mật (có thể áp dụng ứng dụng để bàn hoặc máy trạm): ứng dụng dựa trên blockchain; ứng dụng cung cấp giải pháp bảo mật cho các lĩnh vực đặc thù, ví dụ như email, chat, họp trực tuyến, đồng bộ hóa lưu trữ với đám mây.
+* Ý tưởng sáng tạo của cá nhân.
 
-### 2.1. Hiện trạng
+## 3. Nội dung Slides
+
+### 3.1. Hiện trạng
 Slides cần thể hiện **3 hệ thống tương tự** có sẵn, tổng hợp, phân tích, đánh giá các tính năng của các hệ thống đó dựa trên các định hướng sau: 
 * 3 hệ thống trên giải quyết vấn đề gì trong đời sống thực. Các vấn đề cần được thể hiện bằng những điều không thể thực hiện được hoặc đang thực hiện một cách khó khăn, tốn kém làm ảnh hưởng đến thời gian và chi phí của con người hoặc tổ chức. Các vấn đề cũng có thể được thể hiện bằng những gì gây nên sự đau đớn, sợ hãi, mệt mỏi của con người.
 * Điều gì các ứng dụng đang có làm mình không thích.
@@ -26,7 +35,7 @@ Slides cần thể hiện **3 hệ thống tương tự** có sẵn, tổng hợ
 Sinh viên **tạo bảng** so sánh các tính năng của 3 ứng dụng tương tự có sẵn.
 Sinh viên liệt kê các vấn đề phát hiện, dưới dạng các hạn chế của các ứng dụng.
 
-### 2.2. Động cơ
+### 3.2. Động cơ
 Slides cần thể hiện được động cơ xây dựng hệ thống. Các lý do thường ở các dạng sau.
 * Chi phí sử dụng các hệ thống có sẵn quá cao.
 * Việc bảo mật dữ liệu và đảm bảo tính riêng tư của các hệ thống có sẵn chưa phù hợp với yêu cầu đặc thù.
@@ -35,7 +44,7 @@ Slides cần thể hiện được động cơ xây dựng hệ thống. Các l�
 * Lý do xây dựng lại hệ thống là nhằm mục đích học tập
 * Các ý tưởng sinh viên tự đề xuất thêm (nếu có).
 
-### 2.3. Các mục tiêu
+### 3.3. Các mục tiêu
 * Slides cần thể hiện các mục tiêu dưới dạng các giải pháp cho vấn đề.
 * Các mục tiêu có thể được thể hiện bằng nhiều mức.
 * Ở mức độ đầu tiên các mục tiêu thường được thể hiện bằng cách diễn đạt ngược lại vấn đề gặp phải.
@@ -45,51 +54,31 @@ Slides cần thể hiện được động cơ xây dựng hệ thống. Các l�
   * Mục tiêu này nhằm giải quyết vấn đề gì?
   * Làm sao để biết vấn đề có được giải quyết hay không?
 
-#### Nếu sinh viên làm khóa luận theo hướng ứng dụng hoặc thực tập dự án tốt nghiệp thì cần trình bày
+### 3.4. Cách tiếp cận dự kiến
+Slides cần thể hiện cách tiếp cận dự kiến thông qua các sản phẩm sau:
 * Bản mẫu, 
-* Kiến trúc,
+* Kiến trúc, 
 * Mô hình dữ liệu, 
 * Thuật toán, 
-* Các mục tiêu kiểm thử dự định (load testing, stress testing, penetration testing) sẽ được thực hiện trên hệ thống,
-* Phương pháp so sánh, đánh giá hệ thống với các hệ thống tương tự, và
-* Danh sách các công nghệ, công cụ dự định sẽ sử dụng. Sinh viên cần mô tả, giải thích cụ thể các sơ đồ.
-
-#### Nếu sinh viên làm khóa luận theo hướng nghiên cứu thì cần trình bày
-* Các nghiên cứu liên quan trực tiếp đến đề tài,
-* Các mô hình dự kiến áp dụng hoặc cải tiến,
-* Các độ đo để so sánh, đánh giá các kết quả thu được,
-* Các nguồn dữ liệu và mã nguồn có sẵn dự kiến sẽ được dùng để huấn luyện,
-* Tài nguyên GPU dự định sẽ sử dụng, 
-* Ảnh chụp kết quả chạy thử nghiệm huấn luyện và suy luận bằng mã nguồn và bộ dữ liệu có sẵn, và
-* Bản mẫu
-
-### 2.4. Phần Kết quả dự kiến của đề tài
-
-#### Nếu sinh viên làm khóa luận theo hướng ứng dụng hoặc thực tập dự án tốt nghiệp thì cần trình bày các sản phẩm liên quan đến phần mềm dự kiến sẽ thu được ở đây, ví dụ như
+* Các mục tiêu kiểm thử dự định sẽ được thực hiện trên hệ thống (hoạt động của hệ thống, giao diện, khả năng tải, bảo mật, áp lực lên hệ thống), 
+* Phương pháp so sánh, đánh giá hệ thống với một hệ thống tương tự (lập bảng so sánh tính năng, khảo sát người dùng dựa trên vấn đề cần giải quyết), và 
+* Danh sách các công nghệ, công cụ dự định sẽ sử dụng.
+* Sinh viên cần mô tả, giải thích cụ thể được các sơ đồ khi thuyết trình.
+  
+### 3.5. Kết quả dự kiến của đề tài
+Slides cần thể hiện các sản phẩm dự kiến sẽ thu được. Các sản phẩm này có thể bao gồm, nhưng không giới hạn các sản phẩm sau.
 * Mã nguồn ứng dụng di động, 
 * Mã nguồn ứng dụng web, 
 * Mã nguồn dịch vụ web, 
-* Dữ liệu mới tạo được,
-* Báo cáo các kết quả kiểm thử,
-* Báo cáo so sánh với các hệ thống tương tự,
-* Các tài liệu kỹ thuật hướng dẫn chi tiết phương pháp tái tạo các sản phẩm của khóa luận.
+* Dữ liệu mới tạo được, 
+* Báo cáo kết quả kiểm thử, 
+* Dữ liệu khảo sát, 
+* Báo cáo so sánh với một hệ thống tương tự, 
+* Các tài liệu kỹ thuật hướng dẫn chi tiết phương pháp tái tạo các sản phẩm.
 
-#### Nếu sinh viên làm khóa luận theo hướng nghiên cứu thì cần trình bày các sản phẩm KHÁC với những gì đã có sẵn, dự kiến sẽ thu được ở đây, ví dụ như
-* Mã nguồn huấn luyện mô hình được chỉnh sửa/tạo thêm/tạo mới,
-* Dữ liệu chỉnh sửa/tạo thêm/tạo mới,
-* Mô hình đã được huấn luyện,
-* Mã nguồn công cụ xử lý dữ liệu,
-* Dịch vụ triển khai mô hình,
-* Ứng dụng biểu diễn việc sử dụng mô hình đã được triển khai,
-* Các tài liệu kỹ thuật hướng dẫn chi tiết phương pháp tái tạo các sản phẩm của khóa luận.
+### 3.6. Kế hoạch thực hiện
+* Nhóm đăng ký và tạo một Timeline miễn phí tại (Precenden.com)[https://www.preceden.com/].
+* Kế hoạch cần thể hiện trong tối đa 10 cột mốc.
+* Kế hoạch cần phù hợp với các các sản phẩm dự kiến, các cột mốc thời gian của môn học, và nguồn nhân lực hiện có.
 
-### 2.5. Phần Kế hoạch thực hiện
-* Sinh viên dựa vào phần Mục tiêu, phần Kết quả dự kiến của đề tài, các cột mốc thời gian của Khoa, và nguồn nhân lực của nhóm để đưa ra kế hoạch phù hợp.
-* Sinh viên trình bày theo các cột mốc và sản phẩm tương ứng.
-
-### 2.6. Phần Tài liệu tham khảo
-* Sinh viên chỉ liệt kê các sách và bài báo, và cần có ít nhất 5 tài liệu tham khảo.
-* Sinh viên KHÔNG sử dụng các liên kết trong phần này. Các liên kết trong đề cương nếu có sinh viên để trong Footnote tại trang đề cập.
-* Sinh viên cần thể hiện các tài liệu tham khảo theo đúng chuẩn thông dụng. Sinh viên nên sử dụng tính năng Cite (thể hiện bằng dấu nháy) của [Google Scholar](https://scholar.google.com.vn/scholar?hl=en&as_sdt=0%2C5&q=Efficient+backprop) để xem mẫu trình bày tài liệu tham khảo. Sinh viên nên chọn chuẩn APA.
-
-### &copy; 2023 Ngô Huy Biên
+### &copy; 2024 Ngô Huy Biên
