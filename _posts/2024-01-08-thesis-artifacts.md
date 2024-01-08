@@ -36,7 +36,7 @@ File ReleaseGuide.pdf: là bản PDF của thư mục ReleaseGuide_LaTeX.
 ** Thư mục ModelTraningGuide_LaTeX chứa tài liệu "Hướng dẫn huấn luyện các mô hình" cho OS sạch, kèm ảnh minh họa, dạng DOCX và PDF. Sinh viên được khuyến khích sử dụng các kịch bản viết cho các công cụ triển khai tự động, ví dụ như Docker, Kubernetes hay Circle CI, để thu gọn tài liệu “Hướng dẫn huấn luyện các mô hình”.
 ** File ModelTraningGuide.pdf: là bản PDF của thư mục ModelTraningGuide_LaTeX.
 
-### 2.3. Thư mục Guides chứa các thư mục theo mô tả bên dưới.
+### 2.3. Thư mục GUIDES chứa các thư mục theo mô tả bên dưới.
 * Thư mục CloudServiceGuide_LaTeX chứa tài liệu “Hướng dẫn đăng ký các dịch vụ đám mây và cấu hình hệ thống” nếu khóa luận có sử dụng các Cloud API của một nhà cung cấp dịch vụ đám mây.
 * File CloudServiceGuide.pdf: là bản PDF của thư mục CloudServiceGuide _LaTeX.
 * File CloudServiceGuide.mp4: là file video minh họa việc thực hiện các bước của tài liệu “Hướng dẫn đăng ký các dịch vụ đám mây và cấu hình hệ thống”.
@@ -51,34 +51,23 @@ File ReleaseGuide.pdf: là bản PDF của thư mục ReleaseGuide_LaTeX.
 * File UserGuide.mp4: là file video minh họa việc thực hiện các bước của tài liệu “Hướng dẫn cài đặt và sử dụng phần mềm”.
 * Các tài liệu kỹ thuật giảng viên yêu cầu thường nhiều hơn các tài liệu kỹ thuật Khoa yêu cầu. Sinh viên gửi cho giảng viên các sản phẩm theo hướng dẫn ở tài liệu này. Sinh viên gửi cho Khoa các sản phẩm theo yêu cầu cụ thể hằng năm của Khoa.
 
-### 2.4. Thư mục Tools
-Thư mục Tools chứa các phần mềm liên quan trong quá trình thực hiện đề tài (ví dụ, phần mềm chỉnh sửa ảnh, audio), các phần mềm dùng để hỗ trợ biên dịch mã nguồn. Trong trường hợp vì lý do chính đáng, không thể lưu tất cả các thành phần cần thiết để có thể cài đặt, sinh viên cần tạo file Links.txt chứa liên kết để tải về.
+### 2.4. Thư mục TOOLS
+Thư mục TOOLS chứa các phần mềm liên quan trong quá trình thực hiện đề tài (ví dụ, phần mềm chỉnh sửa ảnh, audio), các phần mềm dùng để hỗ trợ biên dịch mã nguồn. Trong trường hợp vì lý do chính đáng, không thể lưu tất cả các thành phần cần thiết để có thể cài đặt, sinh viên cần tạo file Links.txt chứa liên kết để tải về.
 
-#### Nếu sinh viên làm khóa luận theo hướng ứng dụng hoặc thực tập dự án tốt nghiệp thì cần trình bày các sản phẩm liên quan đến phần mềm dự kiến sẽ thu được ở đây, ví dụ như
-* Mã nguồn ứng dụng di động, 
-* Mã nguồn ứng dụng web, 
-* Mã nguồn dịch vụ web, 
-* Dữ liệu mới tạo được,
-* Báo cáo các kết quả kiểm thử,
-* Báo cáo so sánh với các hệ thống tương tự,
-* Các tài liệu kỹ thuật hướng dẫn chi tiết phương pháp tái tạo các sản phẩm của khóa luận.
+### 2.5. Thư mục REFERENCES
+Thư mục REFERENCES chưa các tài liệu tham khảo. Tên các tập tin tài liệu tham khảo cần đặt theo chuẩn ghi tài liệu tham khảo trong báo cáo. Sinh viên cần thể hiện các tài liệu tham khảo theo đúng chuẩn thông dụng. Sinh viên nên sử dụng tính năng Cite (thể hiện bằng dấu nháy) của [Google Scholar](https://scholar.google.com.vn/scholar?hl=en&as_sdt=0%2C5&q=Efficient+backprop) để xem mẫu trình bày tài liệu tham khảo. Sinh viên nên chọn chuẩn APA.
 
-#### Nếu sinh viên làm khóa luận theo hướng nghiên cứu thì cần trình bày các sản phẩm KHÁC với những gì đã có sẵn, dự kiến sẽ thu được ở đây, ví dụ như
-* Mã nguồn huấn luyện mô hình được chỉnh sửa/tạo thêm/tạo mới,
-* Dữ liệu chỉnh sửa/tạo thêm/tạo mới,
-* Mô hình đã được huấn luyện,
-* Mã nguồn công cụ xử lý dữ liệu,
-* Dịch vụ triển khai mô hình,
-* Ứng dụng biểu diễn việc sử dụng mô hình đã được triển khai,
-* Các tài liệu kỹ thuật hướng dẫn chi tiết phương pháp tái tạo các sản phẩm của khóa luận.
+### 2.6. Thư mục KANBAN
+Thư mục KANBAN chứa các sản phẩm của mô hình Kanban, có thể bao gồm (nhưng không giới hạn)
+* DomainModel.vsd của Visio (hoặc DomainModel.xml của Draw.io): Mô hình nghiệp vụ.
+* Prototype.zip: Bản mẫu.
+* ProductBacklog.xls: Các tính năng và sản phẩm cần hoàn thành.
+* Architecture.vsd của Visio (hoặc Architecture.xml của Draw.io).
+* ProofOfConcept.zip: Mã nguồn tính năng khó của hệ thống nhóm chưa thực hiện bao giờ.
+* File ConfigurationManagement.txt chứa
+** Liên kết và tài khoản truy cập hệ thống quản lý dự án (ví dụ Trello).
+** Liên kết và tài khoản truy cập hệ thống build tự động (ví dụ CircleCI).
+** Liên kết đến trang Release liệt kê các sản phẩm hoàn thành hằng tuần.
+** Liên kết đến hệ thống triển khai cho người dùng và người quản trị sử dụng cập nhật hằng tuần (ví dụ liên kết của Render).
 
-### 2.5. Phần Kế hoạch thực hiện
-* Sinh viên dựa vào phần Mục tiêu, phần Kết quả dự kiến của đề tài, các cột mốc thời gian của Khoa, và nguồn nhân lực của nhóm để đưa ra kế hoạch phù hợp.
-* Sinh viên trình bày theo các cột mốc và sản phẩm tương ứng.
-
-### 2.6. Phần Tài liệu tham khảo
-* Sinh viên chỉ liệt kê các sách và bài báo, và cần có ít nhất 5 tài liệu tham khảo.
-* Sinh viên KHÔNG sử dụng các liên kết trong phần này. Các liên kết trong đề cương nếu có sinh viên để trong Footnote tại trang đề cập.
-* Sinh viên cần thể hiện các tài liệu tham khảo theo đúng chuẩn thông dụng. Sinh viên nên sử dụng tính năng Cite (thể hiện bằng dấu nháy) của [Google Scholar](https://scholar.google.com.vn/scholar?hl=en&as_sdt=0%2C5&q=Efficient+backprop) để xem mẫu trình bày tài liệu tham khảo. Sinh viên nên chọn chuẩn APA.
-
-### &copy; 2023 Ngô Huy Biên
+### &copy; 2024 Ngô Huy Biên
