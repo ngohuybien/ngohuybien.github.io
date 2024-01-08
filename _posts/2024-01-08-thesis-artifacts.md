@@ -60,7 +60,7 @@ File ReleaseGuide.pdf: là bản PDF của thư mục ReleaseGuide_LaTeX.
 Thư mục TOOLS chứa các phần mềm liên quan trong quá trình thực hiện đề tài (ví dụ, phần mềm chỉnh sửa ảnh, audio), các phần mềm dùng để hỗ trợ biên dịch mã nguồn. Trong trường hợp vì lý do chính đáng, không thể lưu tất cả các thành phần cần thiết để có thể cài đặt, sinh viên cần tạo file Links.txt chứa liên kết để tải về.
 
 ### 2.6. Thư mục REFERENCES
-Thư mục REFERENCES chưa các tài liệu tham khảo. Tên các tập tin tài liệu tham khảo cần đặt theo chuẩn ghi tài liệu tham khảo trong báo cáo. Sinh viên cần thể hiện các tài liệu tham khảo theo đúng chuẩn thông dụng. Sinh viên nên sử dụng tính năng Cite (thể hiện bằng dấu nháy) của [Google Scholar](https://scholar.google.com.vn/scholar?hl=en&as_sdt=0%2C5&q=Efficient+backprop) để xem mẫu trình bày tài liệu tham khảo. Sinh viên nên chọn chuẩn APA.
+Thư mục REFERENCES chứa các tài liệu tham khảo. Tên các tập tin tài liệu tham khảo cần đặt theo chuẩn ghi tài liệu tham khảo trong báo cáo. Sinh viên cần thể hiện các tài liệu tham khảo theo đúng chuẩn thông dụng. Sinh viên nên sử dụng tính năng Cite (thể hiện bằng dấu nháy) của [Google Scholar](https://scholar.google.com.vn/scholar?hl=en&as_sdt=0%2C5&q=Efficient+backprop) để xem mẫu trình bày tài liệu tham khảo. Sinh viên nên chọn chuẩn APA.
 
 ### 2.7. Thư mục KANBAN
 Thư mục KANBAN chứa các sản phẩm của mô hình Kanban, có thể bao gồm (nhưng không giới hạn)
