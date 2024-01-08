@@ -63,7 +63,7 @@ Slides cần thể hiện cách tiếp cận dự kiến thông qua các sản p
 * Các mục tiêu kiểm thử dự định sẽ được thực hiện trên hệ thống (hoạt động của hệ thống, giao diện, khả năng tải, bảo mật, áp lực lên hệ thống), 
 * Phương pháp so sánh, đánh giá hệ thống với một hệ thống tương tự (lập bảng so sánh tính năng, khảo sát người dùng dựa trên vấn đề cần giải quyết), và 
 * Danh sách các công nghệ, công cụ dự định sẽ sử dụng.
-* Sinh viên cần mô tả, giải thích cụ thể được các sơ đồ khi thuyết trình.
+* Sinh viên cần mô tả, giải thích cụ thể được các sơ đồ khi trình bày Slides.
   
 ### 3.5. Kết quả dự kiến của đề tài
 Slides cần thể hiện các sản phẩm dự kiến sẽ thu được. Các sản phẩm này có thể bao gồm, nhưng không giới hạn các sản phẩm sau.
