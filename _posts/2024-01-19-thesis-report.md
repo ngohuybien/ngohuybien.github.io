@@ -107,8 +107,8 @@ _Tài liệu hướng dẫn viết báo cáo khóa luận hoặc thực tập d�
 * Tập trung vào ưu điểm của ứng dụng. Không tập trung vào các hạn chế, không nêu các lý do biện minh (nhân lực, thời gian), chỉ nói là chúng tôi dự định trong tương lai sẽ khắc phục các hạn chế.
 
 ### 3.7. Phụ lục
-•	Lịch sử các hệ thống, công cụ.
-•	Giao diện hệ thống. Các giao diện nên được trình bày ngắn gọn. Sinh viên hạn chế liệt kê toàn bộ các giao diện.
-•	Bản mô tả chi tiết thiết kế hệ thống
+* Lịch sử các hệ thống, công cụ.
+* Giao diện hệ thống. Các giao diện nên được trình bày ngắn gọn. Sinh viên hạn chế liệt kê toàn bộ các giao diện.
+* Bản mô tả chi tiết thiết kế hệ thống
 
 ### &copy; 2024 Ngô Huy Biên
