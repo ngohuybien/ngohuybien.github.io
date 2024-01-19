@@ -19,6 +19,7 @@ _Tài liệu hướng dẫn viết báo cáo khóa luận hoặc thực tập d�
 * Sinh viên chỉ sử dụng LaTeX để viết báo cáo. Sinh viên viết báo cáo trực tiếp trong trang web của Overleaf mà giảng viên đã tạo.
 
 ## 2. Quy trình viết báo cáo
+
 *	Khởi tạo: Tạo  bộ khung (mục lục). Những chương nào chưa có nội dung các em để là "Sẽ bổ sung". Bộ khung báo cáo sẽ gồm 6 chương:
   *	Chương 1 – Giới thiệu đề tài (trình bày các hệ thống có sẵn, roles, problems, business cases, user stories).
   *	Chương 2 – Lý thuyết nền tảng (trình bày các mẫu kiến trúc, các mô hình, các thuật toán đã được chứng minh là hiệu quả, sẽ được dùng trong đề tài).
@@ -53,16 +54,33 @@ _Tài liệu hướng dẫn viết báo cáo khóa luận hoặc thực tập d�
     * Phần mục tiêu cần bao gồm tối thiểu các mục tiêu trong File “Tên và mục tiêu đề tài” mà giảng viên đã gửi cho sinh viên.
   * Phạm vi đề tài: Các nội dung sẽ không quan tâm, các tính năng sẽ không thực hiện?
 * Mạch logich của Chương 1 thường như sau:
-  * Vì vấn đề P (dẫn chứng bằng số liệu) nên người ta đề xuất các giải pháp thủ công S1, S2.
-  * Các giải pháp S1, S2 có các hạn chế L1, L2 (dẫn chứng). Chúng tôi đề xuất giải pháp NEW_S1 để giải quyết hạn chế L1. Chúng tôi đề xuất giải pháp NEW_S2 để giải quyết hạn chế L2. Giải pháp NEW_S1 khác với giải pháp S1 ở chỗ... Giải pháp NEW_S2 khác với giải pháp S2 ở chỗ ...
-  * Vì vấn đề P (dẫn chứng bằng số liệu) nên người ta đã xây dựng hệ thống S3.
-  * Hệ thống S3 thiếu các tính năng F1, F2 hoặc có các hạn chế L3, L4 (dẫn chứng bằng khảo sát). Chúng tôi đề xuất xây dựng hệ thống S4 tương tự hệ thống S3 và bổ sung tính năng F1, tính năng F2, hoặc nhằm khắc phục hạn chế L3, L4.
+  * Vì vấn đề P (dẫn chứng bằng số liệu) nên người ta đề xuất các giải pháp thủ công S1, S2. Các giải pháp S1, S2 có các hạn chế L1, L2 (dẫn chứng). Chúng tôi đề xuất giải pháp NEW_S1 để giải quyết hạn chế L1. Chúng tôi đề xuất giải pháp NEW_S2 để giải quyết hạn chế L2. Giải pháp NEW_S1 khác với giải pháp S1 ở chỗ... Giải pháp NEW_S2 khác với giải pháp S2 ở chỗ ...
+  * hoặc
+  * Vì vấn đề P (dẫn chứng bằng số liệu) nên người ta đã xây dựng hệ thống S3. Hệ thống S3 thiếu các tính năng F1, F2 hoặc có các hạn chế L3, L4 (dẫn chứng bằng khảo sát). Chúng tôi đề xuất xây dựng hệ thống S4 tương tự hệ thống S3 và bổ sung tính năng F1, tính năng F2, hoặc nhằm khắc phục hạn chế L3, L4.
 
+### 3.2. Chương 2 – Lý thuyết nền tảng (10 trang)
+* Trình bày các kiến thức nền tảng liên quan đến từng vấn đề cần giải quyết của đề tài, dựa vào các tài liệu tham khảo, phần mềm tham khảo. Các kiến thức trong chương 2 là các kiến thức đã được chứng minh là đúng. Sinh viên chỉ cần liệt kê các thuật ngữ thật ngắn gọn, không cần đi chi tiết vào diễn giải hay trình bày chi tiết các thuật ngữ này.
+* Nội dung chương có thể trình bày các mẫu kiến trúc, các mô hình, các thuật toán đã được chứng minh là hiệu quả, sẽ được dùng trong đề tài.
+* Mạch logich của Chương 2 thường như sau:
+* Ở chương 1 đề tài đã đề xuất giải pháp NEW_S1. Giải pháp NEW_S1 liên quan đến khái niệm lý thuyết T1. T1 là… Chúng ta quan tâm đến T1 vì… T1 hoạt động tổng quan như sau....
+* Ở chương 1 đề tài đã đề xuất hệ thống S4. Hệ thống S4 liên quan đến khái niệm lý thuyết T4. T4 là… Chúng ta quan tâm đến T4 vì… T4 hoạt động tổng quan như sau....
 
-### 2.2. Phần Phạm vi đề tài
-Sinh viên liệt kê các tính năng của phần mềm có liên quan đến đề tài nhưng dự định sẽ KHÔNG làm.
-
-### 2.3. Phần Cách tiếp cận dự kiến
+### 3.3. Chương 3 – Thiết kế giải pháp (30 trang)
+* Nội dung Chương 3 cần trình bày bằng ví dụ, với các giá trị cụ thể, minh họa cho các khái niệm. Các ví dụ được lấy ra từ hệ thống phần mềm đã được viết.
+•	Sinh viên trình bày giải pháp cho từng bài toán cụ thể. Giải pháp được trình bày không phụ thuộc vào ngôn ngữ lập trình, công cụ sử dụng. Sinh viên dựa vào các tài liệu tham khảo, các suy luận, các chuẩn có sẵn, các kết quả đạt được khi thực nghiệm để chứng minh, lý giải vì sao lại chọn giải pháp như vậy cho từng vấn đề, mục tiêu.
+* Nội dung chương 3 có thể bao gồm, nhưng không giới hạn:
+  * Thiết kế các luồng nghiệp vụ hoàn chỉnh (end-to-end business workflows) cho hệ thống: chỉ 1 hoặc 2 luồng nghiệp vụ chính.
+  * Thiết kế giao diện hệ thống: chỉ 1 hoặc 2 giao diện chính. Sinh viên nên lựa chọn một vài phong cách thiết kế giao diện, phân tích lợi ích của cách tiếp cận, và minh họa phong cách bằng giao diện của hệ thống.
+  * Có thể trình bày kết hợp thiết kế nghiệp vụ và giao diện.
+  * Giải pháp lưu trữ dữ liệu.
+  * Thiết kế kiến trúc tổng quan của hệ thống.
+  * Giải pháp để hiện thực các tính năng cốt lõi của hệ thống: Mô tả các giải pháp bằng các sơ đồ và diễn giải từng thành phần trong sơ đồ.
+* Mạch logich của Chương 3 thường như sau:
+  * Ở chương 1 chúng tôi đề xuất xây dựng hệ thống S4.
+  * Chúng tôi thiết kế hệ thống S4 như sau: S4 bao gồm các thành phần sau… S4 hoạt động như sau…. Chúng tôi thiết kế S4 như vậy vì…
+  * Ở chương 1 chúng tôi đề xuất giải pháp NEW_S1, giải pháp NEW_S2.
+  * Chúng tôi thiết kế giải pháp NEW_S1 như sau: hình vẽ hoặc sơ đồ. Diễn giải: NEW_S1 bao gồm các thành phần sau… NEW_S1 hoạt động như sau…. Chúng tôi đề xuất thiết kế NEW_S1 như vậy vì…
+  * Chúng tôi thiết kế giải pháp NEW_S2 như sau: hình vẽ hoặc sơ đồ. Diễn giải: NEW_S2 bao gồm các thành phần sau… NEW_S2 hoạt động như sau…. Chúng tôi thiết kế NEW_S2 như vậy vì…
 
 #### Nếu sinh viên làm khóa luận theo hướng ứng dụng hoặc thực tập dự án tốt nghiệp thì cần trình bày
 * Bản mẫu, 
