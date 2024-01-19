@@ -49,8 +49,8 @@ _Tài liệu hướng dẫn viết báo cáo khóa luận hoặc thực tập d�
     * Giải thích tại sao phải giải quyết những vấn đề đó. Có nhu cầu thực tế không? Mang lại lợi ích thực tế gì? (nên có số liệu tin cậy, cụ thể)
     * Khảo sát hiện trạng quy trình thủ công trong thực tế nếu có.
     * Khảo sát, tổng hợp, phân tích, đánh giá tối thiểu **3 hệ thống tương tự**. Các hệ thống này đã làm ra những sản phẩm nào, quy trình nào, tính năng nào để giải quyết vấn đề trên. Lập bảng so sánh các sản phẩm một cách chi tiết dựa trên từng quy trình thực tế. Phân tích điểm mạnh, điểm yếu, điểm chưa hoàn chỉnh.
-    * Mô tả **luồng quy trình nghiệp vụ** dự kiến đề tài sẽ thực hiện để giải quyết vấn đề cho từng vai trò, các chức năng cần có để thực thi luồng quy trình nghiệp vụ đề ra.
-* Xác định mục tiêu và yêu cầu chi tiết của đề tài:
+    * Mô tả **luồng quy trình nghiệp vụ** dự kiến đề tài sẽ thực hiện để giải quyết vấn đề cho từng vai trò (end-to-end business workflows), các chức năng cần có để thực thi luồng quy trình nghiệp vụ đề ra. Sinh viên có thể chỉ trình bày 1 hoặc 2 luồng nghiệp vụ chính ở chương này, những luồng phụ cần để trong Phụ lục.
+* Mục tiêu và yêu cầu chi tiết của đề tài:
     * Đề tài giải quyết vấn đề hay khắc phục điểm yếu của các ứng dụng tương tự? Mục tiêu khi làm đề tài này là gì? Các tính năng cần đạt được là gì? Các sản phẩm cần đạt được là gì?
     * Phần mục tiêu cần ghi rõ, ngắn gọn, gạch đầu dòng: Các sản phẩm cần đạt được, các tính năng cần đạt được, các cải tiến cần đạt được. Cần loại bỏ các mục tiêu mơ hồ, không thể hiện được bằng sản phẩm.
     * Phần mục tiêu cần bao gồm tối thiểu các mục tiêu trong File “Tên và mục tiêu đề tài” mà giảng viên đã gửi cho sinh viên.
@@ -64,22 +64,21 @@ _Tài liệu hướng dẫn viết báo cáo khóa luận hoặc thực tập d�
 * Trình bày các kiến thức nền tảng liên quan đến từng vấn đề cần giải quyết của đề tài, dựa vào các tài liệu tham khảo, phần mềm tham khảo. Các kiến thức trong chương 2 là các kiến thức đã được chứng minh là đúng. Sinh viên chỉ cần liệt kê các thuật ngữ thật ngắn gọn, không cần đi chi tiết vào diễn giải hay trình bày chi tiết các thuật ngữ này.
 * Nội dung chương có thể trình bày các mẫu kiến trúc, các mô hình, các thuật toán đã được chứng minh là hiệu quả, sẽ được dùng trong đề tài.
 * Mạch logich của Chương 2 thường như sau:
-* Ở chương 1 đề tài đã đề xuất giải pháp NEW_S1. Giải pháp NEW_S1 liên quan đến khái niệm lý thuyết T1. T1 là… Chúng ta quan tâm đến T1 vì… T1 hoạt động tổng quan như sau....
-* Ở chương 1 đề tài đã đề xuất hệ thống S4. Hệ thống S4 liên quan đến khái niệm lý thuyết T4. T4 là… Chúng ta quan tâm đến T4 vì… T4 hoạt động tổng quan như sau....
+    * Ở chương 1 đề tài đã đề xuất giải pháp NEW_S1. Giải pháp NEW_S1 liên quan đến khái niệm lý thuyết T1. T1 là… Chúng ta quan tâm đến T1 vì… T1 hoạt động tổng quan như sau....
+    * Ở chương 1 đề tài đã đề xuất hệ thống S4. Hệ thống S4 liên quan đến khái niệm lý thuyết T4. T4 là… Chúng ta quan tâm đến T4 vì… T4 hoạt động tổng quan như sau....
 
 ### 3.3. Chương 3 – Thiết kế giải pháp (30 trang)
-* Nội dung Chương 3 cần trình bày bằng ví dụ, với các giá trị cụ thể, minh họa cho các khái niệm. Các ví dụ được lấy ra từ hệ thống phần mềm đã được viết.
-•	Sinh viên trình bày giải pháp cho từng bài toán cụ thể. Giải pháp được trình bày không phụ thuộc vào ngôn ngữ lập trình, công cụ sử dụng. Sinh viên dựa vào các tài liệu tham khảo, các suy luận, các chuẩn có sẵn, các kết quả đạt được khi thực nghiệm để chứng minh, lý giải vì sao lại chọn giải pháp như vậy cho từng vấn đề, mục tiêu.
+* Nội dung chương 3 trình bày giải pháp cho từng bài toán cụ thể. Các nội dung cần trình bày bằng ví dụ, với các giá trị cụ thể, minh họa cho các khái niệm. Các ví dụ được lấy ra từ hệ thống phần mềm đã được viết.
+* Giải pháp được trình bày không phụ thuộc vào ngôn ngữ lập trình, công cụ sử dụng.
+* Sinh viên dựa vào các tài liệu tham khảo, các suy luận, các chuẩn có sẵn, các kết quả đạt được khi thực nghiệm để chứng minh, lý giải vì sao lại chọn giải pháp như vậy cho từng vấn đề, mục tiêu.
 * Nội dung chương 3 có thể bao gồm, nhưng không giới hạn:
-  * Thiết kế các luồng nghiệp vụ hoàn chỉnh (end-to-end business workflows) cho hệ thống: chỉ 1 hoặc 2 luồng nghiệp vụ chính.
-  * Thiết kế giao diện hệ thống: chỉ 1 hoặc 2 giao diện chính. Sinh viên nên lựa chọn một vài phong cách thiết kế giao diện, phân tích lợi ích của cách tiếp cận, và minh họa phong cách bằng giao diện của hệ thống.
-  * Có thể trình bày kết hợp thiết kế nghiệp vụ và giao diện.
-  * Giải pháp lưu trữ dữ liệu.
-  * Thiết kế kiến trúc tổng quan của hệ thống.
-  * Giải pháp để hiện thực các tính năng cốt lõi của hệ thống: Mô tả các giải pháp bằng các sơ đồ và diễn giải từng thành phần trong sơ đồ.
+    * Thiết kế giao diện hệ thống: chỉ 1 hoặc 2 giao diện chính. Sinh viên nên lựa chọn một vài phong cách thiết kế giao diện, phân tích lợi ích của cách tiếp cận, và minh họa phong cách bằng giao diện của hệ thống. Các giao diện còn lại cần để trong Phụ lục. Sinh viên cần trình bày kết hợp thiết kế giao diện theo luồng nghiệp vụ.
+    * Giải pháp lưu trữ dữ liệu.
+    * Thiết kế kiến trúc tổng quan của hệ thống.
+    * Giải pháp để hiện thực các tính năng cốt lõi của hệ thống: Mô tả các giải pháp bằng các sơ đồ và diễn giải từng thành phần trong sơ đồ.
 * Mạch logich của Chương 3 thường như sau:
-  * Ở chương 1 chúng tôi đề xuất xây dựng hệ thống S4.
-  * Chúng tôi thiết kế hệ thống S4 như sau: S4 bao gồm các thành phần sau… S4 hoạt động như sau…. Chúng tôi thiết kế S4 như vậy vì…
+    * Ở chương 1 chúng tôi đề xuất xây dựng hệ thống S4.
+    * Chúng tôi thiết kế hệ thống S4 như sau: S4 bao gồm các thành phần sau… S4 hoạt động như sau…. Chúng tôi thiết kế S4 như vậy vì…
   * Ở chương 1 chúng tôi đề xuất giải pháp NEW_S1, giải pháp NEW_S2.
   * Chúng tôi thiết kế giải pháp NEW_S1 như sau: hình vẽ hoặc sơ đồ. Diễn giải: NEW_S1 bao gồm các thành phần sau… NEW_S1 hoạt động như sau…. Chúng tôi đề xuất thiết kế NEW_S1 như vậy vì…
   * Chúng tôi thiết kế giải pháp NEW_S2 như sau: hình vẽ hoặc sơ đồ. Diễn giải: NEW_S2 bao gồm các thành phần sau… NEW_S2 hoạt động như sau…. Chúng tôi thiết kế NEW_S2 như vậy vì…
