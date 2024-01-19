@@ -64,10 +64,10 @@ Thư mục REFERENCES chứa các tài liệu tham khảo. Tên các tập tin t
 
 ### 2.7. Thư mục KANBAN
 Thư mục KANBAN chứa các sản phẩm của mô hình Kanban, có thể bao gồm (nhưng không giới hạn)
-* **DomainModel.vsd** của Visio (hoặc **DomainModel.xml** của Draw.io): Mô hình nghiệp vụ.
+* **DomainModel.vsdx** của Visio (hoặc **DomainModel.xml** của Draw.io): Mô hình nghiệp vụ.
 * **Prototype.zip**: Bản mẫu.
-* **ProductBacklog.xls**: Các tính năng và sản phẩm cần hoàn thành.
-* **Architecture.vsd** của Visio (hoặc **Architecture.xml** của Draw.io).
+* **ProductBacklog.xlsx**: Các tính năng và sản phẩm cần hoàn thành.
+* **Architecture.vsdx** của Visio (hoặc **Architecture.xml** của Draw.io).
 * **ProofOfConcept.zip**: Mã nguồn tính năng khó của hệ thống nhóm chưa thực hiện bao giờ.
 * File **ConfigurationManagement.txt** chứa
   * Liên kết và tài khoản truy cập hệ thống quản lý dự án (ví dụ Trello).
