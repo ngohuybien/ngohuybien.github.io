@@ -9,21 +9,21 @@ meta: "Thesis Report"
 _Tài liệu hướng dẫn viết báo cáo khóa luận hoặc thực tập dự án tốt nghiệp do giảng viên Ngô Huy Biên hướng dẫn._
 
 ## 1. Thông tin chung
-* Sinh viên tuyệt đối không chép lại từ các nguồn tiếng Việt (hoặc chép và sửa vài từ).
+* Sinh viên tuyệt đối **KHÔNG chép lại từ các nguồn tiếng Việt (hoặc chép và sửa vài từ)**.
+*	Sinh viên **không** dùng liên kết đến Wikipedia hay bất cứ trang tin tức nào.
 *	Sinh viên cần ghi đầy đủ các tài liệu tham khảo, và chỉ dùng sách, bài báo và các liên kết đến các trường học, viện nghiên cứu.
-*	Sinh viên không dùng liên kết đến Wikipedia hay bất cứ trang tin nào.
 *	Với mỗi tài liệu tham khảo, sinh viên phải có trích dẫn trong báo cáo.
-*	Các liên kết nếu có sinh viên để trong Footnote tại trang đề cập.
 *	Sinh viên cần thể hiện các tài liệu tham khảo theo đúng chuẩn thông dụng. Sinh viên nên sử dụng tính năng Cite (thể hiện bằng dấu nháy) của Google Scholar  để biết cách trình bày tài liệu tham khảo đúng chuẩn.
+*	Các liên kết nếu có sinh viên để trong Footnote tại trang đề cập, **không** để trong tài liệu tham khảo.
 *	Trong báo cáo sinh viên hạn chế tối đa mã nguồn và việc sử dụng các liên kết.
 * Sinh viên chỉ sử dụng LaTeX để viết báo cáo. Sinh viên viết báo cáo trực tiếp trong trang web của Overleaf mà giảng viên đã tạo.
 
 ## 2. Quy trình viết báo cáo
 
 *	Khởi tạo: Tạo  bộ khung (mục lục). Những chương nào chưa có nội dung các em để là "Sẽ bổ sung". Bộ khung báo cáo sẽ gồm 6 chương:
-  *	Chương 1 – Giới thiệu đề tài (trình bày các hệ thống có sẵn, roles, problems, business cases, user stories).
-  *	Chương 2 – Lý thuyết nền tảng (trình bày các mẫu kiến trúc, các mô hình, các thuật toán đã được chứng minh là hiệu quả, sẽ được dùng trong đề tài).
-  *	Chương 3 – Thiết kế giải pháp (so sánh phân tích các giải pháp cho các bài toán cụ thể của đề tài, giải thích kiến trúc, thuật toán đề xuất).
+  * Chương 1 – Giới thiệu đề tài (trình bày các hệ thống có sẵn, roles, problems, business cases, user stories).
+  * Chương 2 – Lý thuyết nền tảng (trình bày các mẫu kiến trúc, các mô hình, các thuật toán đã được chứng minh là hiệu quả, sẽ được dùng trong đề tài).
+  * Chương 3 – Thiết kế giải pháp (so sánh phân tích các giải pháp cho các bài toán cụ thể của đề tài, giải thích kiến trúc, thuật toán đề xuất).
   *	Chương 4 – Cài đặt giải pháp (trình bày các nền tảng, công cụ, ngôn ngữ lập trình được sử dụng, kinh nghiệm xử lý các vấn đề gặp phải khi cài đặt).
   *	Chương 5 – Đánh giá giải pháp (mô tả cách tính toán các độ đo và thảo luận về các kết quả tính toán, trình bày việc kiểm thử, so sánh với các hệ thống tương tự).
   *	Chương 6 – Kết luận.
