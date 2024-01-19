@@ -13,7 +13,7 @@ _Tài liệu hướng dẫn viết báo cáo khóa luận hoặc thực tập d�
 *	Sinh viên **không** dùng liên kết đến Wikipedia hay bất cứ trang tin tức nào.
 *	Sinh viên cần ghi đầy đủ các tài liệu tham khảo, và chỉ dùng sách, bài báo và các liên kết đến các trường học, viện nghiên cứu.
 *	Với mỗi tài liệu tham khảo, sinh viên phải có trích dẫn trong báo cáo.
-*	Sinh viên cần thể hiện các tài liệu tham khảo theo đúng chuẩn thông dụng. Sinh viên nên sử dụng tính năng Cite (thể hiện bằng dấu nháy) của Google Scholar  để biết cách trình bày tài liệu tham khảo đúng chuẩn.
+* Sinh viên cần thể hiện các tài liệu tham khảo theo đúng chuẩn thông dụng. Sinh viên nên sử dụng tính năng Cite (thể hiện bằng dấu nháy) của [Google Scholar](https://scholar.google.com.vn/scholar?hl=en&as_sdt=0%2C5&q=Efficient+backprop) để xem mẫu trình bày tài liệu tham khảo. Sinh viên nên chọn chuẩn APA.
 *	Các liên kết nếu có sinh viên để trong Footnote tại trang đề cập, **không** để trong tài liệu tham khảo.
 *	Trong báo cáo sinh viên hạn chế tối đa mã nguồn và việc sử dụng các liên kết.
 * Sinh viên chỉ sử dụng LaTeX để viết báo cáo. Sinh viên viết báo cáo trực tiếp trong trang web của Overleaf mà giảng viên đã tạo.
@@ -83,51 +83,39 @@ _Tài liệu hướng dẫn viết báo cáo khóa luận hoặc thực tập d�
   * Chúng tôi thiết kế giải pháp NEW_S1 như sau: hình vẽ hoặc sơ đồ. Diễn giải: NEW_S1 bao gồm các thành phần sau… NEW_S1 hoạt động như sau…. Chúng tôi đề xuất thiết kế NEW_S1 như vậy vì…
   * Chúng tôi thiết kế giải pháp NEW_S2 như sau: hình vẽ hoặc sơ đồ. Diễn giải: NEW_S2 bao gồm các thành phần sau… NEW_S2 hoạt động như sau…. Chúng tôi thiết kế NEW_S2 như vậy vì…
 
-#### Nếu sinh viên làm khóa luận theo hướng ứng dụng hoặc thực tập dự án tốt nghiệp thì cần trình bày
-* Bản mẫu, 
-* Kiến trúc,
-* Mô hình dữ liệu, 
-* Thuật toán, 
-* Các mục tiêu kiểm thử dự định (load testing, stress testing, penetration testing) sẽ được thực hiện trên hệ thống,
-* Phương pháp so sánh, đánh giá hệ thống với các hệ thống tương tự, và
-* Danh sách các công nghệ, công cụ dự định sẽ sử dụng. Sinh viên cần mô tả, giải thích cụ thể các sơ đồ.
+### 3.4. Chương 4 – Cài đặt giải pháp (20 trang)
 
-#### Nếu sinh viên làm khóa luận theo hướng nghiên cứu thì cần trình bày
-* Các nghiên cứu liên quan trực tiếp đến đề tài,
-* Các mô hình dự kiến áp dụng hoặc cải tiến,
-* Các độ đo để so sánh, đánh giá các kết quả thu được,
-* Các nguồn dữ liệu và mã nguồn có sẵn dự kiến sẽ được dùng để huấn luyện,
-* Tài nguyên GPU dự định sẽ sử dụng, 
-* Ảnh chụp kết quả chạy thử nghiệm huấn luyện và suy luận bằng mã nguồn và bộ dữ liệu có sẵn, và
-* Bản mẫu
+-	Phần lớn nội dung chi tiết của chương này nằm ở Phụ Lục, chỉ các ý chính được trình bày trong báo cáo. Sinh viên tập trung chủ yếu vào việc báo cáo kinh nghiệm thực tế.
+•	Những kết quả nào đã có sẵn (nền tảng, khung ứng dụng, thư viện, mã nguồn có sẵn, dữ liệu có sẵn)? Những kết quả này tồn tại vấn đề gì chưa giải quyết hoặc cung cấp sẵn các tính năng nào trong việc giải quyết vấn đề đặt ra?
+•	Khóa luận hoặc thực tập dự án tốt nghiệp có tạo thêm các công cụ để xử lý tác vụ đặc thù không, có chỉnh/thêm dữ liệu không, có chỉnh/thêm các thành phần hệ thống có sẵn không, có chỉnh/thêm mã nguồn có sẵn không, nếu có thì những thay đổi này dùng để giải quyết vấn đề gì?
+•	Các công cụ nào dùng để cài đặt, kiểm thử từng giải pháp hoặc từng thành phần ở Chương 3.
+•	Các kinh nghiệm thực tế về các vấn đề phát sinh khi cài đặt giải pháp. Nội dung này là quan trọng nhất và nên được lựa chọn theo từng vấn đề thực tế mà nhóm sinh viên gặp phải, nhằm trình bày các kinh nghiệm, phân tích và đánh giá giải pháp của công nghệ mới so với kỹ thuật truyền thống.
+•	Mạch logich của Chương 3 thường như sau:
+o	Ở chương 3 chúng tôi đã trình bày thiết kế của giải pháp NEW_S1, giải pháp NEW_S2 hoặc hệ thống S3.
+o	Giải pháp NEW_S1 được chúng tôi cài đặt bằng công cụ, thành phần, thư viện sau… Khi cài đặt giải pháp NEW_S1 bằng công cụ, thành phần, thư viện… chúng tôi gặp các vấn đề sau… Chúng tôi đã giải quyết như sau… Chúng tôi rút ra kinh nghiệm sau…
+o	Chúng tôi đã thực hiện kiểm thử NEW_S1 bằng công cụ, thành phần, thư viện sau… Kết quả kiểm thử có số liệu như sau… Kết quả này thể hiện rằng…
+o	Giải pháp NEW_S2 được chúng tôi cài đặt bằng công cụ, thành phần, thư viện… Khi cài đặt giải pháp NEW_S2 bằng công cụ, thành phần, thư viện… chúng tôi gặp các vấn đề sau… Chúng tôi đã giải quyết như sau… Chúng tôi rút ra kinh nghiệm sau…
+o	Chúng tôi đã thực hiện kiểm thử NEW_S2 bằng công cụ, thành phần, thư viện sau… Kết quả kiểm thử có số liệu như sau… Kết quả này thể hiện rằng…
+o	Hệ thống S3 được chúng tôi cài đặt bằng công cụ, thành phần, thư viện… Khi cài đặt hệ thống S3 bằng công cụ, thành phần, thư viện… chúng tôi gặp các vấn đề sau… Chúng tôi đã giải quyết như sau… Chúng tôi rút ra kinh nghiệm sau…
+o	Chúng tôi đã thực hiện kiểm thử hệ thống S3 bằng công cụ, thành phần, thư viện sau… Kết quả kiểm thử có số liệu như sau… Kết quả này thể hiện rằng…
+o	Sinh viên có thể lập bảng để trình bày ngắn gọn hơn.
 
-### 2.4. Phần Kết quả dự kiến của đề tài
+### 3.5. Chương 5 – Đánh giá giải pháp (15 trang)
+•	Khóa luận hoặc thực tập dự án tốt nghiệp đã xây dựng được hệ thống phần mềm với bao nhiêu dòng mã nguồn, bao nhiêu hàm/lớp, bao nhiêu mối liên hệ giữa các hàm/lớp, bao nhiêu bảng dữ liệu, bao nhiêu mối liên hệ giữa các bảng, bao nhiêu màn hình giao diện?
+•	Giải pháp đã được kiểm thử như thế nào? Các kết quả kiểm thử thể hiện điều gì?
+•	Khóa luận hoặc thực tập dự án tốt nghiệp đã xây dựng được hệ thống phần mềm với những tính năng nổi bật nào, đã giải quyết được những vấn đề gì trong thực tế.
+•	Bảng so sánh các nghiệp vụ chính của phần mềm so với các hệ thống tương tự.
+•	Đánh giá định lượng lợi ích của sản phẩm khi áp dụng vào môi trường thực: tiết kiệm bao nhiêu thời gian, chi phí so với giải pháp thủ công.
 
-#### Nếu sinh viên làm khóa luận theo hướng ứng dụng hoặc thực tập dự án tốt nghiệp thì cần trình bày các sản phẩm liên quan đến phần mềm dự kiến sẽ thu được ở đây, ví dụ như
-* Mã nguồn ứng dụng di động, 
-* Mã nguồn ứng dụng web, 
-* Mã nguồn dịch vụ web, 
-* Dữ liệu mới tạo được,
-* Báo cáo các kết quả kiểm thử,
-* Báo cáo so sánh với các hệ thống tương tự,
-* Các tài liệu kỹ thuật hướng dẫn chi tiết phương pháp tái tạo các sản phẩm của khóa luận.
+### 3.6. Chương 6 – Kết luận (5 trang)
+•	Các sản phẩm nổi bật thu được là gì (thiết kế, hệ thống phần mềm, công cụ hỗ trợ, tài liệu nghiên cứu về sản phẩm, dữ liệu tạo ra được, mô hình huấn luyện được, công cụ tạo ra được để xử lý một tác vụ đặc thù nào đó). Có cải tiến, mở rộng mã nguồn mở không?
+•	Bảng so sánh các kết quả thu được với các mục tiêu đề ra ban đầu.
+•	Phương hướng phát triển và nghiên cứu trong tương lai: Liệt kê một số vấn đề còn tồn tại và đề ra phương hướng giải quyết (một cách rất tổng quát) trong tương lai.
+•	Tập trung vào ưu điểm của ứng dụng. Không tập trung vào các hạn chế, không nêu các lý do biện minh (nhân lực, thời gian), chỉ nói là chúng tôi dự đinh trong tương lai sẽ khắc phục các hạn chế.
 
-#### Nếu sinh viên làm khóa luận theo hướng nghiên cứu thì cần trình bày các sản phẩm KHÁC với những gì đã có sẵn, dự kiến sẽ thu được ở đây, ví dụ như
-* Mã nguồn huấn luyện mô hình được chỉnh sửa/tạo thêm/tạo mới,
-* Dữ liệu chỉnh sửa/tạo thêm/tạo mới,
-* Mô hình đã được huấn luyện,
-* Mã nguồn công cụ xử lý dữ liệu,
-* Dịch vụ triển khai mô hình,
-* Ứng dụng biểu diễn việc sử dụng mô hình đã được triển khai,
-* Các tài liệu kỹ thuật hướng dẫn chi tiết phương pháp tái tạo các sản phẩm của khóa luận.
-
-### 2.5. Phần Kế hoạch thực hiện
-* Sinh viên dựa vào phần Mục tiêu, phần Kết quả dự kiến của đề tài, các cột mốc thời gian của Khoa, và nguồn nhân lực của nhóm để đưa ra kế hoạch phù hợp.
-* Sinh viên trình bày theo các cột mốc và sản phẩm tương ứng.
-
-### 2.6. Phần Tài liệu tham khảo
-* Sinh viên chỉ liệt kê các sách và bài báo, và cần có ít nhất 5 tài liệu tham khảo.
-* Sinh viên KHÔNG sử dụng các liên kết trong phần này. Các liên kết trong đề cương nếu có sinh viên để trong Footnote tại trang đề cập.
-* Sinh viên cần thể hiện các tài liệu tham khảo theo đúng chuẩn thông dụng. Sinh viên nên sử dụng tính năng Cite (thể hiện bằng dấu nháy) của [Google Scholar](https://scholar.google.com.vn/scholar?hl=en&as_sdt=0%2C5&q=Efficient+backprop) để xem mẫu trình bày tài liệu tham khảo. Sinh viên nên chọn chuẩn APA.
+### 3.7. Phụ lục
+•	Lịch sử các hệ thống, công cụ.
+•	Giao diện hệ thống. Các giao diện nên được trình bày ngắn gọn. Sinh viên hạn chế liệt kê toàn bộ các giao diện.
+•	Bản mô tả chi tiết thiết kế hệ thống
 
 ### &copy; 2024 Ngô Huy Biên
