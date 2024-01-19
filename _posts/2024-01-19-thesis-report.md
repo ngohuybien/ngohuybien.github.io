@@ -20,22 +20,25 @@ _Tài liệu hướng dẫn viết báo cáo khóa luận hoặc thực tập d�
 
 ## 2. Quy trình viết báo cáo
 
-*	Khởi tạo: Tạo  bộ khung (mục lục). Những chương nào chưa có nội dung các em để là "Sẽ bổ sung". Bộ khung báo cáo sẽ gồm 6 chương:
+### 2.1. Khởi tạo: 
+Tạo  bộ khung (mục lục). Những chương nào chưa có nội dung các em để là "Sẽ bổ sung". Bộ khung báo cáo sẽ gồm 6 chương:
     *	Chương 1 – Giới thiệu đề tài (trình bày các hệ thống có sẵn, roles, problems, business cases, user stories).
     * Chương 2 – Lý thuyết nền tảng (trình bày các mẫu kiến trúc, các mô hình, các thuật toán đã được chứng minh là hiệu quả, sẽ được dùng trong đề tài).
     * Chương 3 – Thiết kế giải pháp (so sánh phân tích các giải pháp cho các bài toán cụ thể của đề tài, giải thích kiến trúc, thuật toán đề xuất).
     *	Chương 4 – Cài đặt giải pháp (trình bày các nền tảng, công cụ, ngôn ngữ lập trình được sử dụng, kinh nghiệm xử lý các vấn đề gặp phải khi cài đặt).
     *	Chương 5 – Đánh giá giải pháp (mô tả cách tính toán các độ đo và thảo luận về các kết quả tính toán, trình bày việc kiểm thử, so sánh với các hệ thống tương tự).
     *	Chương 6 – Kết luận.
-* Viết Chương 1.
-* Liệt kê một số khái niệm của Chương 2.
-* Tạo một số sơ đồ của Chương 3.
-* Phát triển phần mềm hoặc thực hiện thí nghiệm, dựa vào các sản phẩm tạo ra để viết chương 4.
-* Kiểm thử phần mềm, so sánh một hệ thống tương tự, dựa vào các sản phẩm tạo ra để viết Chương 5.
-* Viết Chương 6.
-* Cập nhật Chương 3.
-* Cập nhật chi tiết Chương 2.
-* Chỉnh sửa tất cả các chương theo mạch logic của từng chương như hướng dẫn ở mục 3 trong tài liệu này.
+### 2.2. Viết Chương 1.
+### 2.3. Liệt kê một số khái niệm của Chương 2.
+### 2.4. Tạo một số sơ đồ của Chương 3.
+### 2.5. Phát triển phần mềm hoặc thực hiện thí nghiệm.
+Dựa vào các sản phẩm tạo ra trong quá trình phát triển phần mềm để viết chương 4.
+### 2.6. Kiểm thử phần mềm, so sánh một hệ thống tương tự.
+Dựa vào các sản phẩm tạo ra trong quá trình kiểm thử, so sánh để viết Chương 5.
+### 2.7. Viết Chương 6.
+### 2.8. Cập nhật Chương 3.
+### 2.9. Viết chi tiết Chương 2.
+### 2.10. Chỉnh sửa tất cả các chương theo mạch logic của từng chương như hướng dẫn ở mục 3 trong tài liệu này.
 * Báo cáo được phép có một số nội dung trùng lắp với nội dung của Đề cương.
 * Sinh viên có thể viết dài không giới hạn, giảng viên hướng dẫn sẽ cắt bỏ nhiều, thông thường bản cuối của báo cáo sẽ thiếu nội dung hơn là thừa.
 * Sinh viên luôn viết bản nháp cho từng chương càng sớm càng tốt. Sau khi có bản nháp, sinh viên vẽ một bản đồ tư duy (mindmap) về những nội dung báo cáo dự định trình bày. Bắt đầu với điểm giữa là tên chủ đề của chương và lan dần ra những vấn đề, kiến thức liên quan. Sinh viên luôn luôn tự hỏi tại sao báo cáo lại trình bày nội dung này, liên quan gì đến điểm giữa của bản đồ tư duy, xa hay gần điểm giữa của bản đồ tư duy. Các điểm càng xa điểm giữa của bản đồ tư duy thì trình bày càng ít và sơ lược.
