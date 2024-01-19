@@ -20,6 +20,12 @@ _Tài liệu hướng dẫn viết báo cáo khóa luận hoặc thực tập d�
 
 ## 2. Quy trình viết báo cáo
 
+Báo cáo được phép có một số nội dung trùng lắp với nội dung của Đề cương.
+
+Sinh viên có thể viết dài không giới hạn, giảng viên hướng dẫn sẽ cắt bỏ nhiều, thông thường bản cuối của báo cáo sẽ thiếu nội dung hơn là thừa.
+
+Sinh viên luôn viết bản nháp cho từng chương càng sớm càng tốt. Sau khi có bản nháp, sinh viên vẽ một bản đồ tư duy (mindmap) về những nội dung báo cáo dự định trình bày. Bắt đầu với điểm giữa là tên chủ đề của chương và lan dần ra những vấn đề, kiến thức liên quan. Sinh viên luôn luôn tự hỏi tại sao báo cáo lại trình bày nội dung này, liên quan gì đến điểm giữa của bản đồ tư duy, xa hay gần điểm giữa của bản đồ tư duy. Các điểm càng xa điểm giữa của bản đồ tư duy thì trình bày càng ít và sơ lược.
+
 ### 2.1. Khởi tạo: 
 Tạo  bộ khung (mục lục). Những chương nào chưa có nội dung các em để là "Sẽ bổ sung". Bộ khung báo cáo thường gồm 6 chương:
 *	Chương 1 – Giới thiệu đề tài (trình bày các hệ thống có sẵn, roles, problems, business cases, user stories).
@@ -39,9 +45,6 @@ Dựa vào các sản phẩm tạo ra trong quá trình kiểm thử, so sánh �
 ### 2.8. Cập nhật Chương 3.
 ### 2.9. Viết chi tiết Chương 2.
 ### 2.10. Chỉnh sửa tất cả các chương theo mạch logic của từng chương như hướng dẫn ở mục 3 trong tài liệu này.
-* Báo cáo được phép có một số nội dung trùng lắp với nội dung của Đề cương.
-* Sinh viên có thể viết dài không giới hạn, giảng viên hướng dẫn sẽ cắt bỏ nhiều, thông thường bản cuối của báo cáo sẽ thiếu nội dung hơn là thừa.
-* Sinh viên luôn viết bản nháp cho từng chương càng sớm càng tốt. Sau khi có bản nháp, sinh viên vẽ một bản đồ tư duy (mindmap) về những nội dung báo cáo dự định trình bày. Bắt đầu với điểm giữa là tên chủ đề của chương và lan dần ra những vấn đề, kiến thức liên quan. Sinh viên luôn luôn tự hỏi tại sao báo cáo lại trình bày nội dung này, liên quan gì đến điểm giữa của bản đồ tư duy, xa hay gần điểm giữa của bản đồ tư duy. Các điểm càng xa điểm giữa của bản đồ tư duy thì trình bày càng ít và sơ lược.
 
 ## 3. Nội dung báo cáo
 
