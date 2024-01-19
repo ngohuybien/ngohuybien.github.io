@@ -43,20 +43,22 @@ _Tài liệu hướng dẫn viết báo cáo khóa luận hoặc thực tập d�
 ## 3. Nội dung báo cáo
 
 ### 3.1. Chương 1 – Giới thiệu đề tài (khoảng 10 trang)
-* Đề tài làm gì (WHAT)? Sinh viên cần làm rõ ít nhất các ý sau:
-  * Xác định rõ các vai trò quan tâm, các vấn đề họ gặp phải.
-  * Giải thích tại sao phải giải quyết những vấn đề đó. Có nhu cầu thực tế không? Mang lại lợi ích thực tế gì? (nên có số liệu tin cậy, cụ thể)
-  * Khảo sát, tổng hợp, phân tích, đánh giá các hệ thống tương tự đã làm ra những sản phẩm nào, quy trình nào, tính năng nào để giải quyết vấn đề trên. So sánh các sản phẩm một cách chi tiết dựa trên từng quy trình thực tế. Phân tích điểm mạnh, điểm yếu, điểm chưa hoàn chỉnh.
-  * Xác định luồng quy trình nghiệp vụ để giải quyết vấn đề cho từng vai trò, các chức năng cần có để giải quyết vấn đề dự kiến đề tài sẽ thực hiện.
-  * Xác định mục tiêu và yêu cầu chi tiết của đề tài:
-    * Khảo sát hiện trạng trong thực tế để xác định rõ các mục tiêu cần đạt được để giải quyết vấn đề hay khắc phục điểm yếu của các ứng dụng tương tự, các yêu cầu chức năng cần làm để đạt được các mục tiêu đề ra: Mục tiêu khi làm đề tài này là gì? Các tính năng cần đạt được là gì? Các sản phẩm cần đạt được là gì?
+* Đề tài làm gì (WHAT)? Tại sao thực hiện đề tài (WHY)? Sinh viên cần làm rõ ít nhất các ý sau:
+    * Bối cảnh của đề tài.
+    * Các vai trò quan tâm, các vấn đề họ gặp phải.
+    * Giải thích tại sao phải giải quyết những vấn đề đó. Có nhu cầu thực tế không? Mang lại lợi ích thực tế gì? (nên có số liệu tin cậy, cụ thể)
+    * Khảo sát hiện trạng quy trình thủ công trong thực tế nếu có.
+    * Khảo sát, tổng hợp, phân tích, đánh giá tối thiểu **3 hệ thống tương tự**. Các hệ thống này đã làm ra những sản phẩm nào, quy trình nào, tính năng nào để giải quyết vấn đề trên. Lập bảng so sánh các sản phẩm một cách chi tiết dựa trên từng quy trình thực tế. Phân tích điểm mạnh, điểm yếu, điểm chưa hoàn chỉnh.
+    * Mô tả **luồng quy trình nghiệp vụ** dự kiến đề tài sẽ thực hiện để giải quyết vấn đề cho từng vai trò, các chức năng cần có để thực thi luồng quy trình nghiệp vụ đề ra.
+* Xác định mục tiêu và yêu cầu chi tiết của đề tài:
+    * Đề tài giải quyết vấn đề hay khắc phục điểm yếu của các ứng dụng tương tự? Mục tiêu khi làm đề tài này là gì? Các tính năng cần đạt được là gì? Các sản phẩm cần đạt được là gì?
     * Phần mục tiêu cần ghi rõ, ngắn gọn, gạch đầu dòng: Các sản phẩm cần đạt được, các tính năng cần đạt được, các cải tiến cần đạt được. Cần loại bỏ các mục tiêu mơ hồ, không thể hiện được bằng sản phẩm.
     * Phần mục tiêu cần bao gồm tối thiểu các mục tiêu trong File “Tên và mục tiêu đề tài” mà giảng viên đã gửi cho sinh viên.
-  * Phạm vi đề tài: Các nội dung sẽ không quan tâm, các tính năng sẽ không thực hiện?
+* Phạm vi đề tài: Các nội dung sẽ không quan tâm, các tính năng sẽ không thực hiện?
 * Mạch logich của Chương 1 thường như sau:
-  * Vì vấn đề P (dẫn chứng bằng số liệu) nên người ta đề xuất các giải pháp thủ công S1, S2. Các giải pháp S1, S2 có các hạn chế L1, L2 (dẫn chứng). Chúng tôi đề xuất giải pháp NEW_S1 để giải quyết hạn chế L1. Chúng tôi đề xuất giải pháp NEW_S2 để giải quyết hạn chế L2. Giải pháp NEW_S1 khác với giải pháp S1 ở chỗ... Giải pháp NEW_S2 khác với giải pháp S2 ở chỗ ...
-  * hoặc
-  * Vì vấn đề P (dẫn chứng bằng số liệu) nên người ta đã xây dựng hệ thống S3. Hệ thống S3 thiếu các tính năng F1, F2 hoặc có các hạn chế L3, L4 (dẫn chứng bằng khảo sát). Chúng tôi đề xuất xây dựng hệ thống S4 tương tự hệ thống S3 và bổ sung tính năng F1, tính năng F2, hoặc nhằm khắc phục hạn chế L3, L4.
+    * Vì vấn đề P (dẫn chứng bằng số liệu) nên người ta đề xuất các giải pháp thủ công S1, S2. Các giải pháp S1, S2 có các hạn chế L1, L2 (dẫn chứng). Chúng tôi đề xuất giải pháp NEW_S1 để giải quyết hạn chế L1. Chúng tôi đề xuất giải pháp NEW_S2 để giải quyết hạn chế L2. Giải pháp NEW_S1 khác với giải pháp S1 ở chỗ... Giải pháp NEW_S2 khác với giải pháp S2 ở chỗ ...
+    * và/hoặc
+    * Vì vấn đề P (dẫn chứng bằng số liệu) nên người ta đã xây dựng hệ thống S3. Hệ thống S3 thiếu các tính năng F1, F2 hoặc có các hạn chế L3, L4 (dẫn chứng bằng khảo sát). Chúng tôi đề xuất xây dựng hệ thống S4 tương tự hệ thống S3 và bổ sung tính năng F1, tính năng F2, hoặc nhằm khắc phục hạn chế L3, L4.
 
 ### 3.2. Chương 2 – Lý thuyết nền tảng (10 trang)
 * Trình bày các kiến thức nền tảng liên quan đến từng vấn đề cần giải quyết của đề tài, dựa vào các tài liệu tham khảo, phần mềm tham khảo. Các kiến thức trong chương 2 là các kiến thức đã được chứng minh là đúng. Sinh viên chỉ cần liệt kê các thuật ngữ thật ngắn gọn, không cần đi chi tiết vào diễn giải hay trình bày chi tiết các thuật ngữ này.
