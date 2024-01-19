@@ -19,7 +19,6 @@ _Tài liệu hướng dẫn viết báo cáo khóa luận hoặc thực tập d�
 * Sinh viên chỉ sử dụng LaTeX để viết báo cáo. Sinh viên viết báo cáo trực tiếp trong trang web của Overleaf mà giảng viên đã tạo.
 
 ## 2. Quy trình viết báo cáo
-
 * Báo cáo được phép có một số nội dung trùng lắp với nội dung của Đề cương.
 * Sinh viên có thể viết dài không giới hạn, giảng viên hướng dẫn sẽ cắt bỏ nhiều, thông thường bản cuối của báo cáo sẽ thiếu nội dung hơn là thừa.
 * Sinh viên luôn viết bản nháp cho từng chương càng sớm càng tốt. Sau khi có bản nháp, sinh viên vẽ một bản đồ tư duy (mindmap) về những nội dung báo cáo dự định trình bày. Bắt đầu với điểm giữa là tên chủ đề của chương và lan dần ra những vấn đề, kiến thức liên quan. Sinh viên luôn luôn tự hỏi tại sao báo cáo lại trình bày nội dung này, liên quan gì đến điểm giữa của bản đồ tư duy, xa hay gần điểm giữa của bản đồ tư duy. Các điểm càng xa điểm giữa của bản đồ tư duy thì trình bày càng ít và sơ lược.
