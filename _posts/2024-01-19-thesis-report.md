@@ -25,7 +25,7 @@ _Tài liệu hướng dẫn viết báo cáo khóa luận hoặc thực tập d�
 * Các bước khuyến nghị:
     * Khởi tạo: Tạo  bộ khung (mục lục). Những chương nào chưa có nội dung các em để là "Sẽ bổ sung". Bộ khung báo cáo thường gồm 6 chương:
         *	Chương 1 – Giới thiệu đề tài (trình bày các hệ thống có sẵn, roles, problems, business cases, user stories).
-        * Chương 2 – Lý thuyết nền tảng (trình bày các mẫu kiến trúc, các mô hình, các thuật toán đã được chứng minh là hiệu quả, sẽ được dùng trong đề tài).
+        * Chương 2 – Lý thuyết nền tảng (trình bày các mẫu kiến trúc, các mô hình, các thuật toán, các độ đo đã được chứng minh là hiệu quả, sẽ được dùng trong đề tài).
         * Chương 3 – Thiết kế giải pháp (so sánh phân tích các giải pháp cho các bài toán cụ thể của đề tài, giải thích kiến trúc, thuật toán đề xuất).
         *	Chương 4 – Cài đặt giải pháp (trình bày các nền tảng, công cụ, ngôn ngữ lập trình được sử dụng, kinh nghiệm xử lý các vấn đề gặp phải khi cài đặt).
         *	Chương 5 – Đánh giá giải pháp (mô tả cách tính toán các độ đo và thảo luận về các kết quả tính toán, trình bày việc kiểm thử, so sánh với các hệ thống tương tự).
@@ -62,10 +62,11 @@ _Tài liệu hướng dẫn viết báo cáo khóa luận hoặc thực tập d�
 
 ### 3.2. Chương 2 – Lý thuyết nền tảng (10 trang)
 * Trình bày các kiến thức nền tảng liên quan đến từng vấn đề cần giải quyết của đề tài, dựa vào các tài liệu tham khảo, phần mềm tham khảo. Các kiến thức trong chương 2 là các kiến thức đã được chứng minh là đúng. Sinh viên chỉ cần liệt kê các thuật ngữ thật ngắn gọn, không cần đi chi tiết vào diễn giải hay trình bày chi tiết các thuật ngữ này.
-* Nội dung chương có thể trình bày các mẫu kiến trúc, các mô hình, các thuật toán **đã được chứng minh là hiệu quả**, sẽ được **dùng trong đề tài**.
+* Nội dung chương có thể trình bày các mẫu kiến trúc, các mô hình, các thuật toán, các độ đo **đã được chứng minh là hiệu quả**, sẽ được **dùng trong đề tài**.
 * Mạch logich của Chương 2 thường như sau:
-    * Ở chương 1 đề tài đã đề xuất giải pháp NEW_S1. Giải pháp NEW_S1 liên quan đến khái niệm lý thuyết T1. T1 là… Chúng ta quan tâm đến T1 vì… T1 hoạt động tổng quan như sau....
-    * Ở chương 1 đề tài đã đề xuất hệ thống S4. Hệ thống S4 liên quan đến khái niệm lý thuyết T4. T4 là… Chúng ta quan tâm đến T4 vì… T4 hoạt động tổng quan như sau....
+    * Ở chương 1 đề tài đã đề xuất giải pháp NEW_S1. Giải pháp NEW_S1 được xây dựng trên nền tảng lý thuyết T1. T1 là ... Chúng ta quan tâm đến T1 vì ... T1 hoạt động như sau ...
+    * Ở chương 1 đề tài đã đề xuất xây dựng hệ thống S4. Hệ thống S4 được xây dựng trên nền tảng lý thuyết T4. T4 là ... Chúng ta quan tâm đến T4 vì ... T4 hoạt động như sau ...
+    * Ở chương 1 đề tài đã đề xuất giải pháp NEW_S1. Giải pháp NEW_S1 có thể được đánh giá, so sánh với giải pháp S1 bằng độ đo M1. M1 được đề xuất bởi ... Chúng ta quan tâm đến M1 vì ... M1 hoạt động như sau ...
 
 ### 3.3. Chương 3 – Thiết kế giải pháp (30 trang)
 * Nội dung chương 3 trình bày giải pháp cho **từng bài toán cụ thể**. Các nội dung cần trình bày **bằng ví dụ**, với các giá trị cụ thể, minh họa cho các khái niệm. Các ví dụ được lấy ra từ hệ thống phần mềm đã được viết.
