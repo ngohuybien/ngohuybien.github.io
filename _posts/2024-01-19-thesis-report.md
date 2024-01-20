@@ -100,6 +100,8 @@ _Tài liệu hướng dẫn viết báo cáo khóa luận hoặc thực tập d�
 * Khóa luận hoặc thực tập dự án tốt nghiệp đã xây dựng được hệ thống phần mềm với những tính năng nổi bật nào, đã giải quyết được những vấn đề gì trong thực tế.
 * Bảng so sánh các nghiệp vụ chính của phần mềm so với các hệ thống tương tự.
 * Đánh giá định lượng lợi ích của sản phẩm khi áp dụng vào môi trường thực: tiết kiệm bao nhiêu thời gian, chi phí so với giải pháp thủ công.
+* Giải pháp đã được đánh giá định lượng, so sánh với ... dựa trên độ đo ... Các kết quả đánh giá thể hiện có số liệu như sau ... Kết quả này thể hiện rằng ... Chi tiết dữ liệu tính toán có thể truy cập ở ...
+* Giải pháp đã được đánh giá định tính bằng ... (khảo sát) ... Số lượng khảo sát là ... Nội dung khảo sát là ... Kết quả thể hiện ...  Chi tiết dữ liệu khảo sát có thể truy cập ở ...
 
 ### 3.6. Chương 6 – Kết luận (5 trang)
 * Các sản phẩm nổi bật thu được là gì (thiết kế, hệ thống phần mềm, công cụ hỗ trợ, tài liệu nghiên cứu về sản phẩm, dữ liệu tạo ra được, mô hình huấn luyện được, công cụ tạo ra được để xử lý một tác vụ đặc thù nào đó). Có cải tiến, mở rộng mã nguồn mở không?
