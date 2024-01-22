@@ -75,4 +75,9 @@ Học viên cần tạo bảng kế hoạch với những cột mốc phù hợp
 * Học viên **KHÔNG** sử dụng các liên kết trong phần này. Các liên kết trong đề cương nếu có, , ví dụ liên kết đến mã nguồn hoặc dữ liệu trên GitHub, học viên viên để trong Footnote tại trang đề cập.
 * Học viên cần thể hiện các tài liệu tham khảo theo đúng chuẩn thông dụng. Học viên nên sử dụng tính năng Cite (thể hiện bằng dấu nháy) của [Google Scholar](https://scholar.google.com.vn/scholar?hl=en&as_sdt=0%2C5&q=Efficient+backprop) để xem mẫu trình bày tài liệu tham khảo. Học viên nên chọn chuẩn APA.
 
+## 3. Công cụ viết đề cương
+* Học viên **phải** sử dụng LaTeX để viết đề cương.
+* Học viên có thể đăng ký tài khoản trang web của [Overleaf](https://www.overleaf.com/) để viết đề cương.
+* Học viên có thể hiệu chỉnh lại biểu mẫu (đại học) của [Khoa](https://www.overleaf.com/project/5da44acda501dc000146f3bb) để viết đề cương.
+
 ### &copy; 2024 Ngô Huy Biên
