@@ -4,7 +4,7 @@ title: "Hướng dẫn viết đề cương cao học, lĩnh vực công nghệ 
 categories: master-thesis
 author:
 - Ngô Huy Biên
-meta: "Master Thesis Proposal"
+meta: "Software Engineering Master Thesis Proposal"
 ---
 _Tài liệu hướng dẫn viết đề cương đề cương cao học, lĩnh vực công nghệ phần mềm, do giảng viên Ngô Huy Biên hướng dẫn._
 
