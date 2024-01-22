@@ -25,60 +25,53 @@ _Tài liệu hướng dẫn viết đề cương đề cương cao học, lĩnh 
 ## 2. Nội dung đề cương
 
 ### 2.1. Phần Giới thiệu tổng quan
-* Học viên cần thể hiện ít nhất một hệ thống thực tế đã giải quyết vấn đề/bài toán tương tự.
+* Học viên cần trình bày ít nhất một hệ thống thực tế đã giải quyết vấn đề/bài toán tương tự.
 * Tóm tắt vấn đề/bài toán ABC luận văn sẽ giải quyết.
 * Tóm tắt thật ngắn gọn lịch sử một số hướng tiếp cận nổi bật, bao gồm cả giải pháp thủ công (trivial solution), cho bài toán ABC.
 
-### 2.2. Phần Phạm vi đề tài
-Sinh viên liệt kê các tính năng của phần mềm có liên quan đến đề tài nhưng dự định sẽ KHÔNG làm.
+### 2.2. Phần Mục đích nghiên cứu
+Học viên cần thể hiện lý do thực hiện đề tài. Lý do thông thường là vì muốn thử nghiệm giải pháp XYZ trong hoàn cảnh của bài toán ABC.
 
-### 2.3. Phần Cách tiếp cận dự kiến
+### 2.3. Phần Đối tượng nghiên cứu
+Học viên cần liệt kê các sản phẩm đã có sẵn, mô tả nội dung các sản phẩm, có thể bao gồm nhưng không giới hạn các sản phẩm sau:
+* Giải pháp dự kiến áp dụng, học viên cần mô tả chi tiết quy trình, kiến trúc, thuật toán, ngôn ngữ lập trình, và các công cụ của giải pháp XYZ.
+* Các nguồn **dữ liệu và mã nguồn có sẵn** dự kiến sẽ được dùng để nghiên cứu, học viên cần mô tả chi tiết cấu trúc của nguồn dữ liệu và mã nguồn này,
+* Các **độ đo** sẽ dùng để so sánh, đánh giá các kết quả thu được, và 
+* Danh sách các công nghệ, công cụ, tài nguyên dự định sẽ sử dụng.
 
-#### Nếu sinh viên làm khóa luận theo hướng ứng dụng hoặc thực tập dự án tốt nghiệp thì cần trình bày
-* Bản mẫu, 
-* Kiến trúc,
-* Mô hình dữ liệu, 
-* Thuật toán, 
-* Các mục tiêu kiểm thử dự định (load testing, stress testing, penetration testing) sẽ được thực hiện trên hệ thống,
-* Phương pháp so sánh, đánh giá hệ thống với các hệ thống tương tự, và
-* Danh sách các công nghệ, công cụ dự định sẽ sử dụng. Sinh viên cần mô tả, giải thích cụ thể các sơ đồ.
+### 2.4. Phần Các phương pháp nghiên cứu
+Học viên cần liệt kê các công việc dự kiến sẽ tiến hành, có thể bao gồm nhưng không giới hạn các công việc sau:
+* Áp dụng giải pháp XYZ vào bài toán ABC,
+* Chỉnh sửa giải pháp XYZ cho phù hợp với hoàn cảnh MNK, 
+* Viết mã nguồn để giải quyết trực tiếp bài toán ABC, 
+* Viết mã nguồn các công cụ hỗ trợ giải quyết bài toán ABC, 
+* Thu thập, phân tích dữ liệu để so sánh kết quả sau khi áp dụng XYZ với trước khi áp dụng dựa trên các độ đo, 
+* Khảo sát ý kiến, xây dựng bảng đánh giá kết quả của việc áp dụng XYZ vào bài toán ABC,
+* Xác định, giải quyết và tài liệu hóa các vấn đề tiềm ẩn, 
+* Viết các các tài liệu kỹ thuật hướng dẫn chi tiết phương pháp tái tạo các sản phẩm.
+* Viết luận văn tổng kết lại toàn bộ quá trình và các kết quả.
 
-#### Nếu sinh viên làm khóa luận theo hướng nghiên cứu thì cần trình bày
-* Các nghiên cứu liên quan trực tiếp đến đề tài,
-* Các mô hình dự kiến áp dụng hoặc cải tiến,
-* Các độ đo để so sánh, đánh giá các kết quả thu được,
-* Các nguồn dữ liệu và mã nguồn có sẵn dự kiến sẽ được dùng để huấn luyện,
-* Tài nguyên GPU dự định sẽ sử dụng, 
-* Ảnh chụp kết quả chạy thử nghiệm huấn luyện và suy luận bằng mã nguồn và bộ dữ liệu có sẵn, và
-* Bản mẫu
-
-### 2.4. Phần Kết quả dự kiến của đề tài
-
-#### Nếu sinh viên làm khóa luận theo hướng ứng dụng hoặc thực tập dự án tốt nghiệp thì cần trình bày các sản phẩm liên quan đến phần mềm dự kiến sẽ thu được ở đây, ví dụ như
-* Mã nguồn ứng dụng di động, 
-* Mã nguồn ứng dụng web, 
-* Mã nguồn dịch vụ web, 
-* Dữ liệu mới tạo được,
-* Báo cáo các kết quả kiểm thử,
-* Báo cáo so sánh với các hệ thống tương tự,
-* Các tài liệu kỹ thuật hướng dẫn chi tiết phương pháp tái tạo các sản phẩm của khóa luận.
-
-#### Nếu sinh viên làm khóa luận theo hướng nghiên cứu thì cần trình bày các sản phẩm KHÁC với những gì đã có sẵn, dự kiến sẽ thu được ở đây, ví dụ như
-* Mã nguồn huấn luyện mô hình được chỉnh sửa/tạo thêm/tạo mới,
+### 2.5. Phần Nội dung và phạm vi của vấn đề sẽ đi sâu nghiên cứu
+Học viên cần liệt kê các sản phẩm **KHÁC** với những gì đã có sẵn, dự kiến thu được, có thể bao gồm nhưng không giới hạn các sản phẩm sau:
+* Mã nguồn hệ thống (ứng dụng di động, ứng dụng web, dịch vụ web, công cụ hỗ trợ) được chỉnh sửa/tạo thêm/tạo mới,
+* Hệ thống đã được triển khai,
 * Dữ liệu chỉnh sửa/tạo thêm/tạo mới,
-* Mô hình đã được huấn luyện,
-* Mã nguồn công cụ xử lý dữ liệu,
-* Dịch vụ triển khai mô hình,
-* Ứng dụng biểu diễn việc sử dụng mô hình đã được triển khai,
-* Các tài liệu kỹ thuật hướng dẫn chi tiết phương pháp tái tạo các sản phẩm của khóa luận.
+* Dữ liệu kiểm thử,
+* Báo cáo so sánh với các hệ thống tương tự,
+* Các bảng dữ liệu khảo sát, 
+* Các tài liệu kỹ thuật hướng dẫn chi tiết phương pháp tái tạo các sản phẩm.
+* Bản luận văn hoàn chỉnh mô tả chi tiết cơ sở lý thuyết và các kết quả thu được, 
+* Bài báo 4 trang tóm tắt lại luận văn (không bắt buộc).
 
-### 2.5. Phần Kế hoạch thực hiện
-* Sinh viên dựa vào phần Mục tiêu, phần Kết quả dự kiến của đề tài, các cột mốc thời gian của Khoa, và nguồn nhân lực của nhóm để đưa ra kế hoạch phù hợp.
-* Sinh viên trình bày theo các cột mốc và sản phẩm tương ứng.
+### 2.6. Phần Nơi thực hiện đề tài nghiên cứu của luận văn
+Học viên cần thể hiện các nơi làm việc thực sự trong quá trình thực hiện luận văn.
 
-### 2.6. Phần Tài liệu tham khảo
-* Sinh viên chỉ liệt kê các sách và bài báo, và cần có ít nhất 5 tài liệu tham khảo.
-* Sinh viên KHÔNG sử dụng các liên kết trong phần này. Các liên kết trong đề cương nếu có sinh viên để trong Footnote tại trang đề cập.
-* Sinh viên cần thể hiện các tài liệu tham khảo theo đúng chuẩn thông dụng. Sinh viên nên sử dụng tính năng Cite (thể hiện bằng dấu nháy) của [Google Scholar](https://scholar.google.com.vn/scholar?hl=en&as_sdt=0%2C5&q=Efficient+backprop) để xem mẫu trình bày tài liệu tham khảo. Sinh viên nên chọn chuẩn APA.
+### 2.7. Phần Thời gian thực hiện
+Học viên cần tạo bảng kế hoạch với những cột mốc phù hợp để hoàn thành luận văn, dựa vào những gì có sẵn trong phần 2.3, những việc chính sẽ thực hiện trong phần 2.4, các sản phẩm dự kiến sẽ tạo ra trong phần 2.5, các cột mốc thời gian của nhà Trường, và nguồn nhân lực và tài nguyên hiện có.
+
+### 2.8. Phần Tài liệu tham khảo
+* Học viên liệt kê các sách và bài báo, bao gồm bài báo ở phần 1. và ít nhất thêm 4 tài liệu là các sách, bài báo liên quan.
+* Học viên **KHÔNG** sử dụng các liên kết trong phần này. Các liên kết trong đề cương nếu có, , ví dụ liên kết đến mã nguồn hoặc dữ liệu trên GitHub, học viên viên để trong Footnote tại trang đề cập.
+* Học viên cần thể hiện các tài liệu tham khảo theo đúng chuẩn thông dụng. Học viên nên sử dụng tính năng Cite (thể hiện bằng dấu nháy) của [Google Scholar](https://scholar.google.com.vn/scholar?hl=en&as_sdt=0%2C5&q=Efficient+backprop) để xem mẫu trình bày tài liệu tham khảo. Học viên nên chọn chuẩn APA.
 
 ### &copy; 2024 Ngô Huy Biên
