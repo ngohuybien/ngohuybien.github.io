@@ -24,12 +24,12 @@ _Tài liệu hướng dẫn viết đề cương đề cương cao học, lĩnh 
   
 ## 2. Nội dung đề cương
 
-### 2.1. Phần Giới thiệu tổng quan
+### 2.1. Giới thiệu tổng quan
 * Học viên cần trình bày ít nhất một hệ thống thực tế đã giải quyết vấn đề/bài toán tương tự.
 * Tóm tắt vấn đề/bài toán ABC luận văn sẽ giải quyết.
 * Tóm tắt thật ngắn gọn lịch sử một số hướng tiếp cận nổi bật, bao gồm cả giải pháp thủ công (trivial solution), cho bài toán ABC.
 
-### 2.2. Phần Mục đích nghiên cứu
+### 2.2. Mục đích nghiên cứu
 Học viên cần thể hiện lý do thực hiện đề tài. Lý do thông thường là vì muốn thử nghiệm giải pháp XYZ trong hoàn cảnh của bài toán ABC.
 
 ### 2.3. Phần Đối tượng nghiên cứu
@@ -39,7 +39,7 @@ Học viên cần liệt kê các sản phẩm đã có sẵn, mô tả nội du
 * Các **độ đo** sẽ dùng để so sánh, đánh giá các kết quả thu được, và 
 * Danh sách các công nghệ, công cụ, tài nguyên dự định sẽ sử dụng.
 
-### 2.4. Phần Các phương pháp nghiên cứu
+### 2.4. Các phương pháp nghiên cứu
 Học viên cần liệt kê các công việc dự kiến sẽ tiến hành, có thể bao gồm nhưng không giới hạn các công việc sau:
 * Áp dụng giải pháp XYZ vào bài toán ABC,
 * Chỉnh sửa giải pháp XYZ cho phù hợp với hoàn cảnh MNK, 
@@ -51,7 +51,7 @@ Học viên cần liệt kê các công việc dự kiến sẽ tiến hành, c�
 * Viết các các tài liệu kỹ thuật hướng dẫn chi tiết phương pháp tái tạo các sản phẩm.
 * Viết luận văn tổng kết lại toàn bộ quá trình và các kết quả.
 
-### 2.5. Phần Nội dung và phạm vi của vấn đề sẽ đi sâu nghiên cứu
+### 2.5. Nội dung và phạm vi của vấn đề sẽ đi sâu nghiên cứu
 Học viên cần liệt kê các sản phẩm **KHÁC** với những gì đã có sẵn, dự kiến thu được, có thể bao gồm nhưng không giới hạn các sản phẩm sau:
 * Mã nguồn hệ thống (ứng dụng di động, ứng dụng web, dịch vụ web, công cụ hỗ trợ) được chỉnh sửa/tạo thêm/tạo mới,
 * Hệ thống đã được triển khai,
@@ -63,13 +63,13 @@ Học viên cần liệt kê các sản phẩm **KHÁC** với những gì đã 
 * Bản luận văn hoàn chỉnh mô tả chi tiết cơ sở lý thuyết và các kết quả thu được, 
 * Bài báo 4 trang tóm tắt lại luận văn (không bắt buộc).
 
-### 2.6. Phần Nơi thực hiện đề tài nghiên cứu của luận văn
+### 2.6. Nơi thực hiện đề tài nghiên cứu của luận văn
 Học viên cần thể hiện các nơi làm việc thực sự trong quá trình thực hiện luận văn.
 
-### 2.7. Phần Thời gian thực hiện
+### 2.7. Thời gian thực hiện
 Học viên cần tạo bảng kế hoạch với những cột mốc phù hợp để hoàn thành luận văn, dựa vào những gì có sẵn trong phần 2.3, những việc chính sẽ thực hiện trong phần 2.4, các sản phẩm dự kiến sẽ tạo ra trong phần 2.5, các cột mốc thời gian của nhà Trường, và nguồn nhân lực và tài nguyên hiện có.
 
-### 2.8. Phần Tài liệu tham khảo
+### 2.8. Tài liệu tham khảo
 * Học viên liệt kê các sách và bài báo, bao gồm bài báo ở phần 1. và ít nhất thêm 4 tài liệu là các sách, bài báo liên quan.
 * Học viên **KHÔNG** sử dụng các liên kết trong phần này. Các liên kết trong đề cương nếu có, , ví dụ liên kết đến mã nguồn hoặc dữ liệu trên GitHub, học viên viên để trong Footnote tại trang đề cập.
 * Học viên cần thể hiện các tài liệu tham khảo theo đúng chuẩn thông dụng. Học viên nên sử dụng tính năng Cite (thể hiện bằng dấu nháy) của [Google Scholar](https://scholar.google.com.vn/scholar?hl=en&as_sdt=0%2C5&q=Efficient+backprop) để xem mẫu trình bày tài liệu tham khảo. Học viên nên chọn chuẩn APA.
