@@ -10,7 +10,7 @@ _Tài liệu hướng dẫn viết đề cương đề cương cao học, lĩnh 
 
 ## 1. Xác định vấn đề
 * Học viên chọn một bài báo yêu thích và tìm hiểu vấn đề bài báo đề cập và giải pháp đề xuất.
-* Nếu học viên chưa có bài báo yêu thích thì có thể tìm theo chủ đề mình quan tâm trên Google Scholar Paper with Code.
+* Nếu học viên chưa có bài báo yêu thích thì có thể tìm theo chủ đề mình quan tâm trên [Google Scholar](https://scholar.google.com/) hoặc [Paper with Code](https://paperswithcode.com/).
 * Nếu bài báo **không công bố mã nguồn/thư viện/hệ thống** thì học viên có thể xem xét việc xây dựng lại mã nguồn/thư viện/hệ thống theo đề xuất để đánh giá xem có thực là giải pháp khả thi hay không. Nếu học viên tạo được bản mẫu từ bài báo thì bài toán khả thi và bài báo có thể dùng cho phần phân tích tiếp theo.
 * Nếu giải pháp này **đã có sẵn mã nguồn/thư viện/hệ thống** (do đó không cần tạo bản mẫu nữa) thì học viên **cần có hệ thống riêng của mình (hoặc một hệ thống mã nguồn mở)** để áp dụng giải pháp vào, và đánh giá xem vấn đề có thực sự được giải quyết hay không (mã nguồn của hệ thống riêng của mình sẽ phải công bố). Khi đó bài báo có thể dùng cho phần phân tích tiếp theo.
 * Học viên phân tích bài báo theo các định hướng dưới đây:
