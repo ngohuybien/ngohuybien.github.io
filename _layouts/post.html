@@ -30,10 +30,10 @@ layout: base
       {% else %}
         {% assign categories = page.categories %}
       {% endif %}
-      {% for category in categories %}
-      <span class="p-author h-card" itemprop="name">{{category}}</span>
-      {% unless forloop.last %}&nbsp;{% endunless %}
-      {% endfor %}
+      • {% for category in categories %}
+        <span class="p-author h-card" itemprop="name">{{category}}</span>
+        {% unless forloop.last %}&nbsp;{% endunless %}
+        {% endfor %}
     
     </p>
   </header>
