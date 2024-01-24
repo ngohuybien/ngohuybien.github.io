@@ -10,7 +10,7 @@ _Tài liệu hướng dẫn viết đề cương cao học, lĩnh vực khoa h�
 
 ## 1. Xác định vấn đề
 * Học viên chọn **một bài báo** yêu thích và tìm hiểu **vấn đề** bài báo đề cập và **giải pháp** đề xuất.
-* Nếu học viên chưa có bài báo yêu thích thì có thể tìm theo chủ đề mình quan tâm trên [Google Scholar](https://scholar.google.com/) hoặc [Paper with Code](https://paperswithcode.com/).
+* Nếu học viên chưa có bài báo yêu thích thì có thể tìm theo chủ đề mình quan tâm trên <a target = "blank" href = "https://scholar.google.com/">Google Scholar</a> hoặc <a target = "blank" href = "https://paperswithcode.com/">Paper with Code</a>.
 * **Hướng 1.1**: Nếu bài báo **không công bố mã nguồn/thư viện/hệ thống** thì học viên có thể xem xét việc xây dựng lại mã nguồn/thư viện/hệ thống theo đề xuất để đánh giá xem có thực là giải pháp khả thi hay không. Nếu theo hướng này học viên cần tạo trước được học viên cần **tạo trước** được mã nguồn Proof of Concept từ bài báo để đảm bảo giải pháp là khả thi. Khi đó bài báo có thể dùng cho phần phân tích tiếp theo.
 * **Hướng 1.2**: Nếu bài báo **đã có sẵn mã nguồn/thư viện/hệ thống** (do đó không cần tạo mã nguồn Proof of Concept nữa) thì học viên **cần có hệ thống riêng của mình** hoặc **một hệ thống mã nguồn mở** để áp dụng giải pháp vào, và để đánh giá xem vấn đề có thực sự được giải quyết hay không. Mã nguồn của hệ thống riêng sẽ phải công bố sau này. Nếu học viên có hệ thống riêng hoặc tìm được hệ thống mã nguồn mở phù hợp thì bài báo có thể dùng cho phần phân tích tiếp theo.
 * **Hướng 1.3**: Nếu bài báo **đã có sẵn mã nguồn/thư viện/hệ thống** (do đó không cần tạo mã nguồn Proof of Concept nữa) và học viên có các ý tưởng để **mở rộng mã nguồn** thì bài báo có thể dùng cho phần phân tích tiếp theo.
@@ -83,11 +83,11 @@ Học viên cần tạo bảng kế hoạch với những cột mốc phù hợp
 ### 2.8. Tài liệu tham khảo
 * Học viên liệt kê các sách và bài báo, bao gồm bài báo ở phần 1. và ít nhất thêm 4 tài liệu là các sách, bài báo liên quan.
 * Học viên **KHÔNG** sử dụng các liên kết trong phần này. Các liên kết trong đề cương nếu có, , ví dụ liên kết đến mã nguồn hoặc dữ liệu trên GitHub, học viên viên để trong Footnote tại trang đề cập.
-* Học viên cần thể hiện các tài liệu tham khảo theo đúng chuẩn thông dụng. Học viên nên sử dụng tính năng Cite (thể hiện bằng dấu nháy) của [Google Scholar](https://scholar.google.com.vn/scholar?hl=en&as_sdt=0%2C5&q=Efficient+backprop) để xem mẫu trình bày tài liệu tham khảo. Học viên nên chọn chuẩn APA.
+* Học viên cần thể hiện các tài liệu tham khảo theo đúng chuẩn thông dụng. Học viên nên sử dụng tính năng Cite (thể hiện bằng dấu nháy) của <a href target = "blank" href = "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Efficient+backprop">Google Scholar</a> để xem mẫu trình bày tài liệu tham khảo. Học viên nên chọn chuẩn APA.
 
 ## 3. Công cụ viết đề cương
 * Học viên **phải** sử dụng LaTeX để viết đề cương.
-* Học viên có thể đăng ký tài khoản trang web của <a href target = "blank" href = "https://www.overleaf.com/">Overleaf</a> để viết đề cương.
-* Học viên có thể hiệu chỉnh lại [biểu mẫu khóa luận (đại học) của Khoa](https://www.overleaf.com/read/qxbpwhmkcfbh#94c634) để viết đề cương.
+* Học viên có thể đăng ký tài khoản trang web của <a target = "blank" href = "https://www.overleaf.com/">Overleaf</a> để viết đề cương.
+* Học viên có thể hiệu chỉnh lại <a target = "blank" href = "https://www.overleaf.com/read/qxbpwhmkcfbh#94c634">biểu mẫu khóa luận (đại học) của Khoa</a> để viết đề cương.
 
 ### &copy; 2024 Ngô Huy Biên
