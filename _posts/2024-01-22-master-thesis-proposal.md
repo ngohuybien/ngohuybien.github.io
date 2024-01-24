@@ -37,7 +37,7 @@ _Tài liệu hướng dẫn viết đề cương cao học, lĩnh vực khoa h�
 ## 2. Nội dung đề cương
 
 ### 2.1. Giới thiệu tổng quan
-* Học viên cần trình bày ít nhất một hệ thống thực tế đã giải quyết vấn đề/bài toán tương tự.
+* Học viên cần trình bày ít nhất **một hệ thống thực tế** đã giải quyết vấn đề/bài toán tương tự.
 * Phát biểu vấn đề/bài toán sẽ giải quyết.
 * Tóm tắt thật ngắn gọn lịch sử một số hướng tiếp cận nổi bật, bao gồm cả giải pháp thủ công (trivial solution), cho bài toán.
 
