@@ -23,13 +23,14 @@ _Tài liệu hướng dẫn viết đề cương cao học, lĩnh vực khoa h�
         * Học viên dự định áp dụng giải pháp để **giải quyết bài toán cụ thể** nào? Bài toán đó được mô hình cụ thể như thế nào? Học viên có thể mô hình bằng, nhưng không giới hạn: các business use case, các giao diện, các lược đồ, các mô hình toán học. Phần **Introduction** của bài báo có thể hỗ trợ thông tin trả lời cho câu hỏi này.
         * Giải pháp thủ công (trivial solution) để giải quyết vấn đề/bài toán là gì?
         * Đã có những giải pháp nào khác đã được đề xuất để giải quyết vấn đề này? Thông thường, phần **Related Work** của bài báo sẽ hỗ trợ trả lời cho câu hỏi này.
-        * Dựa trên các **tiêu chí hay độ đo** nào, ví dụ: feasibility, performance, scalability, security, cost, time, để so sánh các giải pháp trên với nhau (**quan trọng**)? Phần **Evaluation**, hoặc **Performance**, hoặc **Experience** của bài báo có thể hỗ trợ thông tin trả lời cho câu hỏi này. Học viên có thẻ chỉ cần chọn một hoặc hai tiêu chí là đủ. Học viên cần lưu ý nếu chọn tiêu chí feasibility thì phải chưa có nghiên cứu có hoàn cảnh tương tự nào được thực hiện.
+        * Dựa trên các **tiêu chí hay độ đo** nào, ví dụ: feasibility, performance, scalability, security, cost, time, mean opinion score, BLEU score, ROUGE score, để so sánh các giải pháp trên với nhau (**quan trọng**)? Phần **Evaluation**, hoặc **Performance**, hoặc **Experience** của bài báo có thể hỗ trợ thông tin trả lời cho câu hỏi này. Học viên có thẻ chỉ cần chọn một hoặc hai tiêu chí là đủ. Học viên cần lưu ý nếu chọn tiêu chí feasibility thì phải chưa có nghiên cứu có hoàn cảnh tương tự nào được thực hiện.
         * Học viên dự định thu thập các **dữ liệu** nào để đánh giá các tiêu chí hay độ đo ở trên (**quan trọng**)?
+        * Giải pháp đề xuất đã được ứng dụng ở hệ thống phần mềm thực tế nào hay chưa?
         * Học viên dự định sẽ chọn hệ thống nào để so sánh với hệ thống của mình.
     * #### Hướng 1.3
         * Giải pháp có vấn đề gì, thiếu sót gì mà cần mở rộng? Ý tưởng mở rộng là gì? Ai là người có nhu cầu, sẽ quan tâm?
         * Dự kiến mã nguồn/thư viện/hệ thống có thể mở rộng ở đâu. Phần **Conclusion** hoặc **Future Work** của bài báo có thể hỗ trợ hỗ trợ thông tin cho phần phân tích này.
-        * Học viên có thể xem xét mở rộng bằng cách thử nghiệm giải pháp trên một **bộ dữ liệu khác**, trong một **môi trường khác**, trong một **lĩnh vực khác**. Phần **Experiments** hoặc **Case Study** của bài báo có thể hỗ trợ thông tin cho việc phân tích này.
+        * Học viên có thể xem xét mở rộng bằng cách hiệu chỉnh mã nguồn có sẵn cho một **bộ dữ liệu khác**, trong một **môi trường khác**, trong một **lĩnh vực khác**. Phần **Experiments** hoặc **Case Study** của bài báo có thể hỗ trợ thông tin cho việc phân tích này.
 * Tên đề tài học viên đề xuất là gì? Thường có thể là "Giải pháp XYZ cho bài toán ABC", hoặc "Hệ thống ABC dựa trên giải pháp XYZ".
 * Học viên gửi kết quả tìm hiểu ở mục 1. dưới dạng một file PDF cho giảng viên để thảo luận và thống nhất **tên đề tài**, **bài toán** và **phạm vi**, sau đó nhận xác nhận của giảng viên để bắt đầu viết đề cương.
 * Học viên cần **hoàn thành mục 1. trước** thời hạn nộp đơn đăng ký thực hiện luận văn của Trường **ít nhất là 1 tháng**.
@@ -39,10 +40,14 @@ _Tài liệu hướng dẫn viết đề cương cao học, lĩnh vực khoa h�
 ### 2.1. Giới thiệu tổng quan
 * Học viên cần trình bày ít nhất **một hệ thống thực tế** đã giải quyết vấn đề/bài toán tương tự.
 * Phát biểu vấn đề/bài toán sẽ giải quyết.
-* Tóm tắt thật ngắn gọn lịch sử một số hướng tiếp cận nổi bật, bao gồm cả giải pháp thủ công (trivial solution), cho bài toán.
+* Tóm tắt ngắn gọn lịch sử một số hướng tiếp cận nổi bật, bao gồm cả giải pháp thủ công (trivial solution), cho bài toán.
 
 ### 2.2. Mục đích nghiên cứu
-Học viên cần thể hiện lý do thực hiện đề tài. Lý do thông thường là vì muốn thử nghiệm giải pháp XYZ cho bài toán ABC trong hoàn cảnh nào đó.
+Học viên cần trình bày lý do thực hiện đề tài. Một số lý do thường gặp là 
+* Muốn áp dụng mã nguồn giải pháp XYZ cho bài toán ABC trong một môi trường cụ thể (thường là trong một dự án của một công ty cụ thể).
+* Muốn hiệu chỉnh mã nguồn giải pháp XYZ cho bài toán ABC trong một lĩnh vực mới (thường kết quả sẽ là một dự án open source).
+* Muốn thử nghiệm mã nguồn giải pháp XYZ cho bài toán ABC trên một bộ dữ liệu mới (thường bộ dữ liệu mới là tiếng Việt).
+* Muốn thử nghiệm mã nguồn giải pháp XYZ cho bài toán ABC nhằm hỗ trợ giải quyết một bài toán khác (thường kết quả sẽ hỗ trợ cải tiến tính nằng của một hệ thống đang vận hành).
 
 ### 2.3. Phần Đối tượng nghiên cứu
 Học viên cần liệt kê các sản phẩm đã có sẵn, mô tả nội dung các sản phẩm, có thể bao gồm nhưng không giới hạn các sản phẩm sau:
