@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Hướng dẫn viết đề cương cao học, lĩnh vực khoa học máy tính, hệ thống thông tin, hay công nghệ phần mềm"
-categories: [Cao học]
+categories: [Luận văn cao học]
 author:
 - Ngô Huy Biên
 meta: "Master Thesis Proposal"
 ---
-_Tài liệu hướng dẫn viết đề cương cao học, lĩnh vực khoa học máy tính, hệ thống thông tin, hay công nghệ phần mềm, do giảng viên Ngô Huy Biên hướng dẫn._
+_Tài liệu hướng dẫn viết đề cương cao học, lĩnh vực khoa học máy tính, hệ thống thông tin, công nghệ phần mềm, do giảng viên Ngô Huy Biên hướng dẫn._
 
 ## 1. Xác định vấn đề
 * Học viên chọn **một bài báo** yêu thích và tìm hiểu **vấn đề** bài báo đề cập và **giải pháp** đề xuất.
