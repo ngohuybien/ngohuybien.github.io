@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hướng dẫn viết đề cương cao học, lĩnh vực khoa học máy tính, hệ thống thông tin, hay công nghệ phần mềm"
-categories: master-thesis
+categories: [Cao học]
 author:
 - Ngô Huy Biên
 meta: "Master Thesis Proposal"
@@ -87,7 +87,7 @@ Học viên cần tạo bảng kế hoạch với những cột mốc phù hợp
 
 ## 3. Công cụ viết đề cương
 * Học viên **phải** sử dụng LaTeX để viết đề cương.
-* Học viên có thể đăng ký tài khoản trang web của [Overleaf](https://www.overleaf.com/) để viết đề cương.
+* Học viên có thể đăng ký tài khoản trang web của <a href target = "blank" href = "https://www.overleaf.com/">Overleaf</a> để viết đề cương.
 * Học viên có thể hiệu chỉnh lại [biểu mẫu khóa luận (đại học) của Khoa](https://www.overleaf.com/read/qxbpwhmkcfbh#94c634) để viết đề cương.
 
 ### &copy; 2024 Ngô Huy Biên
