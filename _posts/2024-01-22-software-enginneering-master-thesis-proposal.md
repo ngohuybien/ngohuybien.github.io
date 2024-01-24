@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hướng dẫn viết đề cương cao học, lĩnh vực công nghệ phần mềm"
+title: "Hướng dẫn viết đề cương cao học, lĩnh vực khoa học máy tính, hệ thống thông tin, hay công nghệ phần mềm"
 categories: master-thesis
 author:
 - Ngô Huy Biên
