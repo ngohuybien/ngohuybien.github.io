@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Các sản phẩm cần nộp của đồ án theo hướng hệ thống doanh nghiệp"
-categories: capstone-project
+categories: [Software Engineering Capstone]
 author:
 - Ngô Huy Biên
 meta: "Enterprise Project Artifacts"
