@@ -71,6 +71,8 @@ Học viên cần liệt kê các công việc dự kiến sẽ tiến hành, _c
 * Viết các các tài liệu kỹ thuật hướng dẫn chi tiết phương pháp tái tạo các sản phẩm.
 * Viết luận văn tổng kết lại toàn bộ quá trình thực hiện luận văn và mô tả, giải thích, thảo luận các kết quả.
 Các đề tài liên quan đến học máy, _có thể_ bao gồm thêm nhưng không giới hạn các công việc sau:
+* Khảo sát ý kiến, xây dựng bảng đánh giá kết quả của hệ thống với các hệ thống tương tự trong việc giải quyết vấn đề đặt ra.
+Các đề tài liên quan đến học máy, _có thể_ bao gồm thêm nhưng không giới hạn các công việc sau:
 * Chuẩn bị dữ liệu.
 * Tạo dữ liệu mới.
 * Chỉnh sửa mã nguồn mô hình.
@@ -79,7 +81,6 @@ Các đề tài liên quan đến học máy, _có thể_ bao gồm thêm nhưng
 * Đánh giá mô hình dựa trên dữ liệu thực nghiệm và độ đo.
 * Khảo sát ý kiến, xây dựng bảng đánh giá mô hình.
 * Viết mã nguồn hệ thống triển khai và biểu diễn mô hình.
-* Khảo sát ý kiến, xây dựng bảng đánh giá kết quả của hệ thống với các hệ thống tương tự trong việc giải quyết vấn đề đặt ra.
 
 ### 2.5. Nội dung và phạm vi của vấn đề sẽ đi sâu nghiên cứu
 Học viên cần liệt kê các sản phẩm **KHÁC** với những gì đã có sẵn, dự kiến thu được, _có thể_ bao gồm nhưng không giới hạn các sản phẩm sau:
