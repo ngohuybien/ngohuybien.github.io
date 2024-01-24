@@ -9,29 +9,39 @@ meta: "Software Engineering Master Thesis Proposal"
 _Tài liệu hướng dẫn viết đề cương đề cương cao học, lĩnh vực công nghệ phần mềm, do giảng viên Ngô Huy Biên hướng dẫn._
 
 ## 1. Xác định vấn đề
-* Học viên chọn **một** bài báo yêu thích và tìm hiểu vấn đề bài báo đề cập và giải pháp đề xuất.
+* Học viên chọn **một bài báo** yêu thích và tìm hiểu **vấn đề** bài báo đề cập và **giải pháp** đề xuất.
 * Nếu học viên chưa có bài báo yêu thích thì có thể tìm theo chủ đề mình quan tâm trên [Google Scholar](https://scholar.google.com/) hoặc [Paper with Code](https://paperswithcode.com/).
-* Nếu bài báo **không công bố mã nguồn/thư viện/hệ thống** thì học viên có thể xem xét việc xây dựng lại mã nguồn/thư viện/hệ thống theo đề xuất để đánh giá xem có thực là giải pháp khả thi hay không. Nếu học viên tạo được mã nguồn Proof of Concept từ bài báo thì bài toán khả thi và bài báo có thể dùng cho phần phân tích tiếp theo.
-* Nếu bài báo **đã có sẵn mã nguồn/thư viện/hệ thống** (do đó không cần tạo mã nguồn Proof of Concept nữa) thì học viên **cần có hệ thống riêng của mình** hoặc **một hệ thống mã nguồn mở** để áp dụng giải pháp vào, và để đánh giá xem vấn đề có thực sự được giải quyết hay không. Mã nguồn của hệ thống riêng sẽ phải công bố sau này. Khi đó bài báo có thể dùng cho phần phân tích tiếp theo.
-* Nếu bài báo **đã có sẵn mã nguồn/thư viện/hệ thống** (do đó không cần tạo mã nguồn Proof of Concept nữa) và học viên có các ý tưởng để **mở rộng mã nguồn** thì bài báo có thể dùng cho phần phân tích tiếp theo.
+* **Hướng 1.1**: Nếu bài báo **không công bố mã nguồn/thư viện/hệ thống** thì học viên có thể xem xét việc xây dựng lại mã nguồn/thư viện/hệ thống theo đề xuất để đánh giá xem có thực là giải pháp khả thi hay không. Nếu theo hướng này học viên cần tạo trước được học viên cần **tạo trước** được mã nguồn Proof of Concept từ bài báo để đảm bảo giải pháp là khả thi. Khi đó bài báo có thể dùng cho phần phân tích tiếp theo.
+* **Hướng 1.2**: Nếu bài báo **đã có sẵn mã nguồn/thư viện/hệ thống** (do đó không cần tạo mã nguồn Proof of Concept nữa) thì học viên **cần có hệ thống riêng của mình** hoặc **một hệ thống mã nguồn mở** để áp dụng giải pháp vào, và để đánh giá xem vấn đề có thực sự được giải quyết hay không. Mã nguồn của hệ thống riêng sẽ phải công bố sau này. Nếu học viên có hệ thống riêng hoặc tìm được hệ thống mã nguồn mở phù hợp thì bài báo có thể dùng cho phần phân tích tiếp theo.
+* **Hướng 1.3**: Nếu bài báo **đã có sẵn mã nguồn/thư viện/hệ thống** (do đó không cần tạo mã nguồn Proof of Concept nữa) và học viên có các ý tưởng để **mở rộng mã nguồn** thì bài báo có thể dùng cho phần phân tích tiếp theo.
+* Học viên chọn cụ thể một hướng để phân tích tiếp theo: 1.1,  1.2 hoặc 1.3.
 * Học viên phân tích bài báo theo các định hướng dưới đây:
-    * Học viên dự định áp dụng giải pháp để giải quyết vấn đề/bài toán cụ thể nào? Bài toán đó được mô hình cụ thể như thế nào? Học viên có thể mô hình bằng, nhưng không giới hạn: các business use case, các giao diện, các lược đồ, các mô hình toán học. Thông thường, phần **Introduction** của bài báo sẽ hỗ trợ trả lời cho câu hỏi này.
-    * Giải pháp thủ công (trivial solution) để giải quyết vấn đề này là gì?
-    * Đã có những giải pháp nào khác đã được đề xuất để giải quyết vấn đề này? Thông thường, phần **Related Work** của bài báo sẽ hỗ trợ trả lời cho câu hỏi này.
-    * Dựa trên các **tiêu chí hay độ đo** nào, ví dụ: feasibility, performance, scalability, security, cost, time, để so sánh các giải pháp trên với nhau (quan trọng)? Thông thường, phần **Evaluation**, hoặc **Performance**, hoặc **Experience** của bài báo sẽ hỗ trợ trả lời cho câu hỏi này. Học viên cần lưu ý nếu chọn tiêu chí feasibility thì phải chưa có nghiên cứu có hoàn cảnh tương tự nào được thực hiện.
-    * Học viên dự định thu thập các **dữ liệu** nào để đánh giá các tiêu chí hay độ đo ở trên (quan trọng)?
-    * Tên đề tài học viên đề xuất là gì? Thường có thể là "Giải pháp XYZ cho bài toán ABC", hoặc "Hệ thống ABC dựa trên giải pháp XYZ".
-* Học viên gửi kết quả tìm hiểu ở mục 1. dưới dạng một file PDF cho giảng viên để thảo luận và thống nhất tên đề tài, bài toán và phạm vi, sau đó nhận xác nhận của giảng viên để bắt đầu viết đề cương.
+    * ## 1.1. Hướng 1.1
+        * Tại sao lại cần xây dựng mã nguồn cho giải pháp đề xuất? Nhu cầu thực sự là gì?
+        * Mã nguồn sẽ được đánh giá như thế nào?
+    * ## 1.2. Hướng 1.2
+        * Học viên dự định áp dụng giải pháp để **giải quyết bài toán cụ thể** nào? Bài toán đó được mô hình cụ thể như thế nào? Học viên có thể mô hình bằng, nhưng không giới hạn: các business use case, các giao diện, các lược đồ, các mô hình toán học. Thông thường, phần **Introduction** của bài báo sẽ hỗ trợ trả lời cho câu hỏi này.
+        * Giải pháp thủ công (trivial solution) để giải quyết vấn đề/bài toán là gì?
+        * Đã có những giải pháp nào khác đã được đề xuất để giải quyết vấn đề này? Thông thường, phần **Related Work** của bài báo sẽ hỗ trợ trả lời cho câu hỏi này.
+        * Dựa trên các **tiêu chí hay độ đo** nào, ví dụ: feasibility, performance, scalability, security, cost, time, để so sánh các giải pháp trên với nhau (**quan trọng**)? Phần **Evaluation**, hoặc **Performance**, hoặc **Experience** của bài báo có thể hỗ trợ trả lời cho câu hỏi này. Học viên có thẻ chỉ cần chọn một hoặc hai tiêu chí là đủ. Học viên cần lưu ý nếu chọn tiêu chí feasibility thì phải chưa có nghiên cứu có hoàn cảnh tương tự nào được thực hiện.
+        * Học viên dự định thu thập các **dữ liệu** nào để đánh giá các tiêu chí hay độ đo ở trên (**quan trọng**)?
+        * Học viên dự định sẽ chọn hệ thống nào để so sánh với hệ thống của mình.
+    * ## 1.3. Hướng 1.3
+        * Giải pháp có vấn đề gì mà cần mở rộng? Ý tưởng mở rộng là gì?
+        * Dự kiến mã nguồn/thư viện/hệ thống có thể cải tiến ở đâu. Phần **Conclusion** hoặc **Future Work** của bài báo có thể hỗ trợ thêm cho phần phân tích này.
+        * Học viên có thể xem xét thử nghiệm lại giải pháp trên các bộ dữ liệu khác, trong một môi trường khác, trong một lĩnh vực khác. Phần **Experiments** hoặc **Case Study** của bài báo sẽ hỗ trợ việc phân tích này.
+* Tên đề tài học viên đề xuất là gì? Thường có thể là "Giải pháp XYZ cho bài toán ABC", hoặc "Hệ thống ABC dựa trên giải pháp XYZ".
+* Học viên gửi kết quả tìm hiểu ở mục 1. dưới dạng một file PDF cho giảng viên để thảo luận và thống nhất **tên đề tài**, **bài toán** và **phạm vi**, sau đó nhận xác nhận của giảng viên để bắt đầu viết đề cương.
   
 ## 2. Nội dung đề cương
 
 ### 2.1. Giới thiệu tổng quan
 * Học viên cần trình bày ít nhất một hệ thống thực tế đã giải quyết vấn đề/bài toán tương tự.
-* Tóm tắt vấn đề/bài toán ABC luận văn sẽ giải quyết.
-* Tóm tắt thật ngắn gọn lịch sử một số hướng tiếp cận nổi bật, bao gồm cả giải pháp thủ công (trivial solution), cho bài toán ABC.
+* Phát biểu vấn đề/bài toán sẽ giải quyết.
+* Tóm tắt thật ngắn gọn lịch sử một số hướng tiếp cận nổi bật, bao gồm cả giải pháp thủ công (trivial solution), cho bài toán.
 
 ### 2.2. Mục đích nghiên cứu
-Học viên cần thể hiện lý do thực hiện đề tài. Lý do thông thường là vì muốn thử nghiệm giải pháp XYZ trong hoàn cảnh của bài toán ABC.
+Học viên cần thể hiện lý do thực hiện đề tài. Lý do thông thường là vì muốn thử nghiệm giải pháp XYZ cho bài toán ABC trong hoàn cảnh nào đó.
 
 ### 2.3. Phần Đối tượng nghiên cứu
 Học viên cần liệt kê các sản phẩm đã có sẵn, mô tả nội dung các sản phẩm, có thể bao gồm nhưng không giới hạn các sản phẩm sau:
@@ -78,6 +88,6 @@ Học viên cần tạo bảng kế hoạch với những cột mốc phù hợp
 ## 3. Công cụ viết đề cương
 * Học viên **phải** sử dụng LaTeX để viết đề cương.
 * Học viên có thể đăng ký tài khoản trang web của [Overleaf](https://www.overleaf.com/) để viết đề cương.
-* Học viên có thể hiệu chỉnh lại biểu mẫu (đại học) của [Khoa](https://www.overleaf.com/project/5da44acda501dc000146f3bb) để viết đề cương.
+* Học viên có thể hiệu chỉnh lại [biểu mẫu khóa luận (đại học) của Khoa](https://www.overleaf.com/read/qxbpwhmkcfbh#94c634) để viết đề cương.
 
 ### &copy; 2024 Ngô Huy Biên
