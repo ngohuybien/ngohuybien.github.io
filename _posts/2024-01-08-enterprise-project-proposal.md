@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hướng dẫn viết đề xuất dự án lĩnh vực hệ thống doanh nghiệp"
-categories: capstone-project
+categories: [Software Engineering Capstone]
 author:
 - Ngô Huy Biên
 meta: "Enterprise Project Proposal"
