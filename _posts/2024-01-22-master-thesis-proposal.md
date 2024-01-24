@@ -49,7 +49,7 @@ Học viên cần trình bày lý do thực hiện đề tài. Một số lý do
 * Muốn thử nghiệm mã nguồn giải pháp XYZ cho bài toán ABC trên một bộ dữ liệu mới (thường bộ dữ liệu mới là tiếng Việt).
 * Muốn thử nghiệm mã nguồn giải pháp XYZ cho bài toán ABC nhằm hỗ trợ giải quyết một bài toán khác (thường kết quả sẽ hỗ trợ cải tiến tính nằng của một hệ thống đang vận hành).
 
-### 2.3. Phần Đối tượng nghiên cứu
+### 2.3. Đối tượng nghiên cứu
 Học viên cần liệt kê các sản phẩm đã có sẵn, mô tả nội dung các sản phẩm, có thể bao gồm nhưng không giới hạn các sản phẩm sau:
 * Giải pháp dự kiến áp dụng, học viên cần mô tả chi tiết **quy trình**, **kiến trúc**, **thuật toán**, **ngôn ngữ lập trình**, và **các công cụ** của giải pháp XYZ đề xuất bởi bài báo đã tìm hiểu. Học viên cần cung cấp liên kết đến các mã nguồn đã công bố có thể tải về được, dạng footnote, nếu bài báo đã có mã nguồn.
 * Các nguồn **dữ liệu và mã nguồn có sẵn** dự kiến sẽ được dùng để nghiên cứu, học viên cần mô tả chi tiết cấu trúc của nguồn dữ liệu và mã nguồn này. Học viên cần cung cấp liên kết đến các bộ dữ liệu có thể tải về được, dạng footnote.
