@@ -20,7 +20,7 @@ _Tài liệu hướng dẫn viết đề cương cao học, lĩnh vực khoa h�
         * Tại sao lại cần xây dựng mã nguồn cho giải pháp đề xuất? Nhu cầu thực sự là gì?
         * Mã nguồn sẽ được đánh giá như thế nào?
     * ### Hướng 1.2
-        * Học viên dự định áp dụng giải pháp để **giải quyết bài toán cụ thể** nào? Bài toán đó được mô hình cụ thể như thế nào? Học viên có thể mô hình bằng, nhưng không giới hạn: các business use case, các giao diện, các lược đồ, các mô hình toán học. Thông thường, phần **Introduction** của bài báo sẽ hỗ trợ trả lời cho câu hỏi này.
+        * Học viên dự định áp dụng giải pháp để **giải quyết bài toán cụ thể** nào? Bài toán đó được mô hình cụ thể như thế nào? Học viên có thể mô hình bằng, nhưng không giới hạn: các business use case, các giao diện, các lược đồ, các mô hình toán học. Phần **Introduction** của bài báo có thể hỗ trợ thông tin trả lời cho câu hỏi này.
         * Giải pháp thủ công (trivial solution) để giải quyết vấn đề/bài toán là gì?
         * Đã có những giải pháp nào khác đã được đề xuất để giải quyết vấn đề này? Thông thường, phần **Related Work** của bài báo sẽ hỗ trợ trả lời cho câu hỏi này.
         * Dựa trên các **tiêu chí hay độ đo** nào, ví dụ: feasibility, performance, scalability, security, cost, time, để so sánh các giải pháp trên với nhau (**quan trọng**)? Phần **Evaluation**, hoặc **Performance**, hoặc **Experience** của bài báo có thể hỗ trợ trả lời cho câu hỏi này. Học viên có thẻ chỉ cần chọn một hoặc hai tiêu chí là đủ. Học viên cần lưu ý nếu chọn tiêu chí feasibility thì phải chưa có nghiên cứu có hoàn cảnh tương tự nào được thực hiện.
@@ -28,7 +28,7 @@ _Tài liệu hướng dẫn viết đề cương cao học, lĩnh vực khoa h�
         * Học viên dự định sẽ chọn hệ thống nào để so sánh với hệ thống của mình.
     * ### Hướng 1.3
         * Giải pháp có vấn đề gì mà cần mở rộng? Ý tưởng mở rộng là gì?
-        * Dự kiến mã nguồn/thư viện/hệ thống có thể cải tiến ở đâu. Phần **Conclusion** hoặc **Future Work** của bài báo có thể hỗ trợ thêm cho phần phân tích này.
+        * Dự kiến mã nguồn/thư viện/hệ thống có thể mở rộng ở đâu. Phần **Conclusion** hoặc **Future Work** của bài báo có thể hỗ trợ thêm cho phần phân tích này.
         * Học viên có thể xem xét thử nghiệm lại giải pháp trên các bộ dữ liệu khác, trong một môi trường khác, trong một lĩnh vực khác. Phần **Experiments** hoặc **Case Study** của bài báo sẽ hỗ trợ việc phân tích này.
 * Tên đề tài học viên đề xuất là gì? Thường có thể là "Giải pháp XYZ cho bài toán ABC", hoặc "Hệ thống ABC dựa trên giải pháp XYZ".
 * Học viên gửi kết quả tìm hiểu ở mục 1. dưới dạng một file PDF cho giảng viên để thảo luận và thống nhất **tên đề tài**, **bài toán** và **phạm vi**, sau đó nhận xác nhận của giảng viên để bắt đầu viết đề cương.
