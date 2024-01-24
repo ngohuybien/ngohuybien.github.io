@@ -81,6 +81,4 @@ Slides cần thể hiện các sản phẩm dự kiến sẽ thu được. Các 
 * Kế hoạch cần thể hiện trong tối đa 10 cột mốc.
 * Kế hoạch cần phù hợp với các các sản phẩm dự kiến, các cột mốc thời gian của môn học, và nguồn nhân lực hiện có.
 
-**Chúc các em hoàn thành đồ án thành công.**
-
 ### &copy; 2024 Ngô Huy Biên
