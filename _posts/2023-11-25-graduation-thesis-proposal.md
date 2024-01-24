@@ -74,7 +74,7 @@ Sinh viên liệt kê các tính năng của phần mềm có liên quan đến 
 
 ### 2.6. Phần Tài liệu tham khảo
 * Sinh viên chỉ liệt kê các sách và bài báo, và cần có ít nhất 5 tài liệu tham khảo.
-* Sinh viên KHÔNG sử dụng các liên kết trong phần này. Các liên kết trong đề cương nếu có sinh viên để trong Footnote tại trang đề cập.
-* Sinh viên cần thể hiện các tài liệu tham khảo theo đúng chuẩn thông dụng. Sinh viên nên sử dụng tính năng Cite (thể hiện bằng dấu nháy) của [Google Scholar](https://scholar.google.com.vn/scholar?hl=en&as_sdt=0%2C5&q=Efficient+backprop) để xem mẫu trình bày tài liệu tham khảo. Sinh viên nên chọn chuẩn APA.
+* Sinh viên **KHÔNG** sử dụng các liên kết trong phần này. Các liên kết trong đề cương nếu có sinh viên để trong Footnote tại trang đề cập.
+* Sinh viên cần thể hiện các tài liệu tham khảo theo đúng chuẩn thông dụng. Học viên nên sử dụng tính năng Cite (thể hiện bằng dấu nháy) của <a href target = "blank" href = "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Efficient+backprop">Google Scholar</a> để xem mẫu trình bày tài liệu tham khảo. Sinh viên nên chọn chuẩn APA.
 
 ### &copy; 2023 Ngô Huy Biên
