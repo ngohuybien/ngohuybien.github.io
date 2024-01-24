@@ -68,11 +68,10 @@ Học viên cần liệt kê các công việc dự kiến sẽ tiến hành, _c
 * Thu thập, phân tích dữ liệu để so sánh kết quả **sau khi** áp dụng XYZ với **trước khi** áp dụng dựa trên các độ đo.
 * Khảo sát ý kiến, xây dựng bảng đánh giá kết quả của việc áp dụng XYZ vào bài toán ABC.
 * Xác định, giải quyết và tài liệu hóa các vấn đề tiềm ẩn.
+* Khảo sát ý kiến, xây dựng bảng đánh giá kết quả của hệ thống với ít nhất một hệ thống tương tự trong việc giải quyết vấn đề đặt ra.
 * Viết các các tài liệu kỹ thuật hướng dẫn chi tiết phương pháp tái tạo các sản phẩm.
 * Viết luận văn tổng kết lại toàn bộ quá trình thực hiện luận văn và mô tả, giải thích, thảo luận các kết quả.
 
-Các đề tài liên quan đến học máy, _có thể_ bao gồm thêm nhưng không giới hạn các công việc sau:
-* Khảo sát ý kiến, xây dựng bảng đánh giá kết quả của hệ thống với các hệ thống tương tự trong việc giải quyết vấn đề đặt ra.
 Các đề tài liên quan đến học máy, _có thể_ bao gồm thêm nhưng không giới hạn các công việc sau:
 * Chuẩn bị dữ liệu.
 * Tạo dữ liệu mới.
