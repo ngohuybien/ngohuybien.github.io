@@ -60,23 +60,33 @@ Học viên cần liệt kê các sản phẩm đã có sẵn, mô tả nội du
 * Danh sách các công nghệ, công cụ, tài nguyên dự định sẽ sử dụng.
 
 ### 2.4. Các phương pháp nghiên cứu
-Học viên cần liệt kê các công việc dự kiến sẽ tiến hành, có thể bao gồm nhưng không giới hạn các công việc sau:
-* Viết mã nguồn giải pháp XYZ để chứng minh giải pháp đề xuất là khả thi, 
-* Viết mã nguồn giải pháp XYZ cho hoàn cảnh MNK,
-* Chỉnh sửa mã nguồn giải pháp XYZ cho phù hợp với hoàn cảnh MNK, 
-* Viết mã nguồn các công cụ hỗ trợ giải quyết bài toán ABC, 
-* Thu thập, phân tích dữ liệu để so sánh kết quả **sau khi** áp dụng XYZ với **trước khi** áp dụng dựa trên các độ đo, 
-* Khảo sát ý kiến, xây dựng bảng đánh giá kết quả của việc áp dụng XYZ vào bài toán ABC,
-* Xác định, giải quyết và tài liệu hóa các vấn đề tiềm ẩn, 
+Học viên cần liệt kê các công việc dự kiến sẽ tiến hành, _có thể_ bao gồm nhưng không giới hạn các công việc sau:
+* Viết mã nguồn giải pháp XYZ để chứng minh giải pháp đề xuất là khả thi.
+* Viết mã nguồn giải pháp XYZ cho hoàn cảnh MNK.
+* Chỉnh sửa mã nguồn giải pháp XYZ cho phù hợp với hoàn cảnh MNK.
+* Viết mã nguồn các công cụ hỗ trợ giải quyết bài toán ABC.
+* Thu thập, phân tích dữ liệu để so sánh kết quả **sau khi** áp dụng XYZ với **trước khi** áp dụng dựa trên các độ đo.
+* Khảo sát ý kiến, xây dựng bảng đánh giá kết quả của việc áp dụng XYZ vào bài toán ABC.
+* Xác định, giải quyết và tài liệu hóa các vấn đề tiềm ẩn.
 * Viết các các tài liệu kỹ thuật hướng dẫn chi tiết phương pháp tái tạo các sản phẩm.
 * Viết luận văn tổng kết lại toàn bộ quá trình thực hiện luận văn và mô tả, giải thích, thảo luận các kết quả.
+Các đề tài liên quan đến học máy, _có thể_ bao gồm thêm nhưng không giới hạn các công việc sau:
+* Chuẩn bị dữ liệu.
+* Tạo dữ liệu mới.
+* Chỉnh sửa mã nguồn mô hình.
+* Viết mã nguồn mới cho mô hình hay công cụ hỗ trợ.
+* Huấn luyện mô hình.
+* Đánh giá mô hình dựa trên dữ liệu thực nghiệm và độ đo.
+* Khảo sát ý kiến, xây dựng bảng đánh giá mô hình.
+* Viết mã nguồn hệ thống triển khai và biểu diễn mô hình.
+* Khảo sát ý kiến, xây dựng bảng đánh giá kết quả của hệ thống với các hệ thống tương tự trong việc giải quyết vấn đề đặt ra.
 
 ### 2.5. Nội dung và phạm vi của vấn đề sẽ đi sâu nghiên cứu
-Học viên cần liệt kê các sản phẩm **KHÁC** với những gì đã có sẵn, dự kiến thu được, có thể bao gồm nhưng không giới hạn các sản phẩm sau:
-* Mã nguồn hệ thống (ứng dụng di động, ứng dụng web, dịch vụ web, công cụ hỗ trợ) được chỉnh sửa/tạo thêm/tạo mới,
-* Hệ thống sẽ được triển khai,
-* Dữ liệu hệ thống được chỉnh sửa/tạo thêm/tạo mới,
-* Dữ liệu kiểm thử,
+Học viên cần liệt kê các sản phẩm **KHÁC** với những gì đã có sẵn, dự kiến thu được, _có thể_ bao gồm nhưng không giới hạn các sản phẩm sau:
+* Mã nguồn hệ thống phần mềm (ứng dụng di động, ứng dụng web, dịch vụ web, công cụ hỗ trợ) được chỉnh sửa/tạo thêm/tạo mới.
+* Dữ liệu hệ thống phần mềm được chỉnh sửa/tạo thêm/tạo mới.
+* Hệ thống phần mềm sẽ được triển khai.
+* Dữ liệu kiểm thử hệ thống phần mềm.
 * Báo cáo so sánh với các hệ thống tương tự,
 * Các bảng dữ liệu khảo sát, 
 * Dữ liệu lịch sử thể hiện việc áp dụng quy trình, thực hiện thí nghiệm,
@@ -84,11 +94,16 @@ Học viên cần liệt kê các sản phẩm **KHÁC** với những gì đã 
 * Bản luận văn hoàn chỉnh mô tả chi tiết cơ sở lý thuyết và các kết quả thu được, 
 * Bài báo 4 trang tóm tắt lại luận văn (không bắt buộc).
 
+Các đề tài liên quan đến học máy, _có thể_ bao gồm thêm nhưng không giới hạn các sản phẩm sau:
+* Mã nguồn huấn luyện mô hình học máy, mã nguồn dịch vụ triển khai mô hình, mã nguồn công cụ hỗ trợ được chỉnh sửa/tạo thêm/tạo mới.
+* Dữ liệu huấn luyện mô hình học máy được chỉnh sửa/tạo thêm/tạo mới.
+* Mã nguồn ứng dụng biểu diễn việc sử dụng mô hình học máy đã được triển khai.
+
 ### 2.6. Nơi thực hiện đề tài nghiên cứu của luận văn
 Học viên cần thể hiện các nơi làm việc thực sự trong quá trình thực hiện luận văn.
 
 ### 2.7. Thời gian thực hiện
-Học viên cần tạo bảng kế hoạch với những cột mốc phù hợp để hoàn thành luận văn, dựa vào những gì có sẵn trong phần 2.3, những việc chính sẽ thực hiện trong phần 2.4, các sản phẩm dự kiến sẽ tạo ra trong phần 2.5, các cột mốc thời gian của nhà Trường, và nguồn nhân lực và tài nguyên hiện có.
+Học viên cần tạo bảng kế hoạch với những cột mốc phù hợp để hoàn thành luận văn, dựa vào _những sản phẩm có sẵn_ trong phần 2.3, _những công việc dự kiến_ sẽ thực hiện trong phần 2.4, _các sản phẩm dự kiến_ sẽ tạo ra trong phần 2.5, các cột mốc thời gian của nhà Trường, và nguồn nhân lực và tài nguyên hiện có.
 
 ### 2.8. Tài liệu tham khảo
 * Học viên liệt kê các sách và bài báo, bao gồm bài báo ở phần 1. và ít nhất thêm 4 tài liệu là các sách, bài báo liên quan.
