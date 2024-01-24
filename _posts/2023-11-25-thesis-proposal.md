@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hướng dẫn viết đề cương khóa luận hoặc thực tập dự án tốt nghiệp"
-categories: thesis
+categories: [Khóa luận đại học]
 author:
 - Ngô Huy Biên
 meta: "Thesis Proposal"
