@@ -4,9 +4,9 @@ title: "Hướng dẫn viết đề cương cao học, lĩnh vực công nghệ 
 categories: master-thesis
 author:
 - Ngô Huy Biên
-meta: "Software Engineering Master Thesis Proposal"
+meta: "Master Thesis Proposal"
 ---
-_Tài liệu hướng dẫn viết đề cương đề cương cao học, lĩnh vực công nghệ phần mềm, do giảng viên Ngô Huy Biên hướng dẫn._
+_Tài liệu hướng dẫn viết đề cương cao học, lĩnh vực khoa học máy tính, hệ thống thông tin, hay công nghệ phần mềm, do giảng viên Ngô Huy Biên hướng dẫn._
 
 ## 1. Xác định vấn đề
 * Học viên chọn **một bài báo** yêu thích và tìm hiểu **vấn đề** bài báo đề cập và **giải pháp** đề xuất.
@@ -14,7 +14,7 @@ _Tài liệu hướng dẫn viết đề cương đề cương cao học, lĩnh 
 * **Hướng 1.1**: Nếu bài báo **không công bố mã nguồn/thư viện/hệ thống** thì học viên có thể xem xét việc xây dựng lại mã nguồn/thư viện/hệ thống theo đề xuất để đánh giá xem có thực là giải pháp khả thi hay không. Nếu theo hướng này học viên cần tạo trước được học viên cần **tạo trước** được mã nguồn Proof of Concept từ bài báo để đảm bảo giải pháp là khả thi. Khi đó bài báo có thể dùng cho phần phân tích tiếp theo.
 * **Hướng 1.2**: Nếu bài báo **đã có sẵn mã nguồn/thư viện/hệ thống** (do đó không cần tạo mã nguồn Proof of Concept nữa) thì học viên **cần có hệ thống riêng của mình** hoặc **một hệ thống mã nguồn mở** để áp dụng giải pháp vào, và để đánh giá xem vấn đề có thực sự được giải quyết hay không. Mã nguồn của hệ thống riêng sẽ phải công bố sau này. Nếu học viên có hệ thống riêng hoặc tìm được hệ thống mã nguồn mở phù hợp thì bài báo có thể dùng cho phần phân tích tiếp theo.
 * **Hướng 1.3**: Nếu bài báo **đã có sẵn mã nguồn/thư viện/hệ thống** (do đó không cần tạo mã nguồn Proof of Concept nữa) và học viên có các ý tưởng để **mở rộng mã nguồn** thì bài báo có thể dùng cho phần phân tích tiếp theo.
-* Học viên chọn cụ thể một hướng để phân tích tiếp theo: 1.1,  1.2 hoặc 1.3.
+* Học viên chọn cụ thể một hướng đi trong 3 hướng ở trên để phân tích tiếp theo.
 * Học viên phân tích bài báo theo các định hướng dưới đây:
     * ## 1.1. Hướng 1.1
         * Tại sao lại cần xây dựng mã nguồn cho giải pháp đề xuất? Nhu cầu thực sự là gì?
