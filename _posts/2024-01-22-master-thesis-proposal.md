@@ -46,31 +46,32 @@ Học viên cần thể hiện lý do thực hiện đề tài. Lý do thông th
 
 ### 2.3. Phần Đối tượng nghiên cứu
 Học viên cần liệt kê các sản phẩm đã có sẵn, mô tả nội dung các sản phẩm, có thể bao gồm nhưng không giới hạn các sản phẩm sau:
-* Giải pháp dự kiến áp dụng, học viên cần mô tả chi tiết quy trình, kiến trúc, thuật toán, ngôn ngữ lập trình, và các công cụ của giải pháp XYZ.
+* Giải pháp dự kiến áp dụng, học viên cần mô tả chi tiết **quy trình**, **kiến trúc**, **thuật toán**, **ngôn ngữ lập trình**, và **các công cụ** của giải pháp XYZ.
 * Các nguồn **dữ liệu và mã nguồn có sẵn** dự kiến sẽ được dùng để nghiên cứu, học viên cần mô tả chi tiết cấu trúc của nguồn dữ liệu và mã nguồn này,
 * Các **độ đo** sẽ dùng để so sánh, đánh giá các kết quả thu được, và 
 * Danh sách các công nghệ, công cụ, tài nguyên dự định sẽ sử dụng.
 
 ### 2.4. Các phương pháp nghiên cứu
 Học viên cần liệt kê các công việc dự kiến sẽ tiến hành, có thể bao gồm nhưng không giới hạn các công việc sau:
-* Áp dụng giải pháp XYZ vào bài toán ABC,
-* Chỉnh sửa giải pháp XYZ cho phù hợp với hoàn cảnh MNK, 
-* Viết mã nguồn để giải quyết trực tiếp bài toán ABC, 
+* Viết mã nguồn giải pháp XYZ để chứng minh giải pháp đề xuất là khả thi, 
+* Viết mã nguồn giải pháp XYZ cho hoàn cảnh MNK,
+* Chỉnh sửa mã nguồn giải pháp XYZ cho phù hợp với hoàn cảnh MNK, 
 * Viết mã nguồn các công cụ hỗ trợ giải quyết bài toán ABC, 
-* Thu thập, phân tích dữ liệu để so sánh kết quả sau khi áp dụng XYZ với trước khi áp dụng dựa trên các độ đo, 
+* Thu thập, phân tích dữ liệu để so sánh kết quả **sau khi** áp dụng XYZ với **trước khi** áp dụng dựa trên các độ đo, 
 * Khảo sát ý kiến, xây dựng bảng đánh giá kết quả của việc áp dụng XYZ vào bài toán ABC,
 * Xác định, giải quyết và tài liệu hóa các vấn đề tiềm ẩn, 
 * Viết các các tài liệu kỹ thuật hướng dẫn chi tiết phương pháp tái tạo các sản phẩm.
-* Viết luận văn tổng kết lại toàn bộ quá trình và các kết quả.
+* Viết luận văn tổng kết lại toàn bộ quá trình thực hiện luận văn và mô tả, giải thích, thảo luận các kết quả.
 
 ### 2.5. Nội dung và phạm vi của vấn đề sẽ đi sâu nghiên cứu
 Học viên cần liệt kê các sản phẩm **KHÁC** với những gì đã có sẵn, dự kiến thu được, có thể bao gồm nhưng không giới hạn các sản phẩm sau:
 * Mã nguồn hệ thống (ứng dụng di động, ứng dụng web, dịch vụ web, công cụ hỗ trợ) được chỉnh sửa/tạo thêm/tạo mới,
-* Hệ thống đã được triển khai,
-* Dữ liệu chỉnh sửa/tạo thêm/tạo mới,
+* Hệ thống sẽ được triển khai,
+* Dữ liệu hệ thống được chỉnh sửa/tạo thêm/tạo mới,
 * Dữ liệu kiểm thử,
 * Báo cáo so sánh với các hệ thống tương tự,
 * Các bảng dữ liệu khảo sát, 
+* Dữ liệu lịch sử thể hiện việc áp dụng quy trình, thực hiện thí nghiệm,
 * Các tài liệu kỹ thuật hướng dẫn chi tiết phương pháp tái tạo các sản phẩm.
 * Bản luận văn hoàn chỉnh mô tả chi tiết cơ sở lý thuyết và các kết quả thu được, 
 * Bài báo 4 trang tóm tắt lại luận văn (không bắt buộc).
