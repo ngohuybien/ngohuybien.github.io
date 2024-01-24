@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hướng dẫn viết đề cương cao học, lĩnh vực khoa học máy tính, hệ thống thông tin, hay công nghệ phần mềm"
+title: "Hướng dẫn viết đề cương cao học, lĩnh vực khoa học máy tính, hệ thống thông tin, công nghệ phần mềm"
 categories: [Luận văn cao học]
 author:
 - Ngô Huy Biên
@@ -32,6 +32,7 @@ _Tài liệu hướng dẫn viết đề cương cao học, lĩnh vực khoa h�
         * Học viên có thể xem xét thử nghiệm lại giải pháp trên các bộ dữ liệu khác, trong một môi trường khác, trong một lĩnh vực khác. Phần **Experiments** hoặc **Case Study** của bài báo sẽ hỗ trợ việc phân tích này.
 * Tên đề tài học viên đề xuất là gì? Thường có thể là "Giải pháp XYZ cho bài toán ABC", hoặc "Hệ thống ABC dựa trên giải pháp XYZ".
 * Học viên gửi kết quả tìm hiểu ở mục 1. dưới dạng một file PDF cho giảng viên để thảo luận và thống nhất **tên đề tài**, **bài toán** và **phạm vi**, sau đó nhận xác nhận của giảng viên để bắt đầu viết đề cương.
+* Học viên cần hoàn thành mục 1. **trước** thời hạn nộp đơn đăng ký thực hiện luận văn của Trường **ít nhất là 1 tháng**.
   
 ## 2. Nội dung đề cương
 
