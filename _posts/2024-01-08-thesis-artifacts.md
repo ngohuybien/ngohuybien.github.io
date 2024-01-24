@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Các sản phẩm cần nộp của khóa luận hoặc thực tập dự án tốt nghiệp"
-categories: thesis
+categories: [Khóa luận đại học]
 author:
 - Ngô Huy Biên
 meta: "Thesis Artifacts"
