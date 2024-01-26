@@ -74,16 +74,18 @@ Học viên cần liệt kê các công việc dự kiến sẽ tiến hành, _c
 * Khảo sát ý kiến, xây dựng bảng đánh giá kết quả của hệ thống với ít nhất một hệ thống tương tự trong việc giải quyết vấn đề đặt ra.
 * Viết các các tài liệu kỹ thuật hướng dẫn chi tiết phương pháp tái tạo các sản phẩm.
 * Viết luận văn tổng kết lại toàn bộ quá trình thực hiện luận văn và mô tả, giải thích, thảo luận các kết quả.
+* Viết bài báo tóm tắt lại luận văn, nếu phương thức tốt nghiệp yêu cầu.
 
 Các đề tài liên quan đến học máy, _có thể_ bao gồm thêm nhưng không giới hạn các công việc sau:
 * Chuẩn bị dữ liệu.
 * Tạo dữ liệu mới.
 * Chỉnh sửa mã nguồn mô hình.
 * Viết mã nguồn mới cho mô hình hay công cụ hỗ trợ.
-* Huấn luyện mô hình.
-* Đánh giá mô hình dựa trên dữ liệu thực nghiệm và độ đo.
-* Khảo sát ý kiến, xây dựng bảng đánh giá mô hình.
-* Viết mã nguồn hệ thống triển khai và biểu diễn mô hình.
+* Huấn luyện mô hình cũ và mô hình mới.
+* Đánh giá mô hình cũ và mô hình mới dựa trên dữ liệu thực nghiệm và độ đo.
+* Khảo sát ý kiến, xây dựng bảng đánh giá mô hình cũ và mới.
+* Viết mã nguồn hệ thống triển khai và biểu diễn mô hình cũ và mới.
+* Viết mã nguồn tích hợp mô hình cũ và mới vào một hệ thống phần mềm thực tế, có thể chỉ là bản mẫu.
 
 ### 2.5. Nội dung và phạm vi của vấn đề sẽ đi sâu nghiên cứu
 Học viên cần liệt kê các sản phẩm **KHÁC** với những gì đã có sẵn, dự kiến thu được, _có thể_ bao gồm nhưng không giới hạn các sản phẩm sau:
@@ -96,7 +98,7 @@ Học viên cần liệt kê các sản phẩm **KHÁC** với những gì đã 
 * Dữ liệu lịch sử thể hiện việc áp dụng quy trình, thực hiện thí nghiệm,
 * Các tài liệu kỹ thuật hướng dẫn chi tiết phương pháp tái tạo các sản phẩm.
 * Bản luận văn hoàn chỉnh mô tả chi tiết cơ sở lý thuyết và các kết quả thu được, 
-* Bài báo 4 trang tóm tắt lại luận văn (không bắt buộc).
+* Bài báo tóm tắt lại luận văn, nếu phương thức tốt nghiệp yêu cầu.
 
 Các đề tài liên quan đến học máy, _có thể_ bao gồm thêm nhưng không giới hạn các sản phẩm sau:
 * Mã nguồn huấn luyện mô hình học máy, mã nguồn dịch vụ triển khai mô hình, mã nguồn công cụ hỗ trợ được chỉnh sửa/tạo thêm/tạo mới.
