@@ -22,7 +22,7 @@ _Tài liệu mô tả các sản phẩm cần nộp cho đồ án theo hướng 
     * **03_Packages**: chứa file cài đặt và các tài liệu liên quan việc triển khai và cài đặt.
 
 ## 3. Định dạng các sản phẩm
-* Các sản phẩm thường ở dạng **DOCX**, **PPTX**, **XLSX** hoặc **ZIP** (nếu sản phẩm gồm nhiều tập tin).
+* Các sản phẩm thường ở dạng **DOCX**, **PPTX**, **XLSX**, hoặc **ZIP** (nếu sản phẩm gồm nhiều tập tin).
 * Các sản phẩm không phải dạng ZIP cần được export ra bản **PDF** tương ứng nhằm đảm bảo việc kiểm tra sản phẩm không gặp vấn đề về font chữ hay layout.
 * Nếu nhóm có các sản phẩm là ảnh chụp rõ nét bản viết hoặc vẽ bằng tay hoặc ghi chú (sticky notes) dạng PNG hoặc JPG, thì nhóm chỉ cần dán vào các Slide.
 * Các hệ thống trực tuyến của nhóm cần để **chế độ công khai** (Public) trừ trường hợp hệ thống không cho phép.
