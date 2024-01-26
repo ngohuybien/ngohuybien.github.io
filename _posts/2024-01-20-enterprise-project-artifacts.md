@@ -17,9 +17,9 @@ _Tài liệu mô tả các sản phẩm cần nộp cho đồ án theo hướng 
 ## 2. Quy định tổ chức và đặt tên thư mục
 * Mỗi nhóm cần đặt tên thư mục gốc là Nhom_X, không dấu, X là số thứ tự nhóm, ghi dưới dạng 2 chữ số, ví dụ: 01, 02, 03, 04.
 * Trong thư mục gốc bao gồm 3 thư mục chính.
-    * 01_Documents: chứa các tài liệu và báo cáo của dự án,
-    * 02_Source: chứa mã nguồn lấy từ source control về, dữ liệu hệ thống, và các tài liệu liên quan đến biên dịch.
-    * 03_Packages: chứa file cài đặt và các tài liệu liên quan việc triển khai và cài đặt.
+    * **01_Documents**: chứa các tài liệu của dự án,
+    * **02_Source**: chứa mã nguồn lấy từ source control về, dữ liệu hệ thống, và các tài liệu liên quan đến biên dịch.
+    * **03_Packages**: chứa file cài đặt và các tài liệu liên quan việc triển khai và cài đặt.
 
 ## 3. Định dạng các sản phẩm
 * Các sản phẩm thường ở dạng **DOCX**, **PPTX**, **XLSX** hoặc **ZIP** (nếu sản phẩm gồm nhiều tập tin).
@@ -45,6 +45,12 @@ _Tài liệu mô tả các sản phẩm cần nộp cho đồ án theo hướng 
     * **06_Architecture.pdf**, 
     * **07_Proof of Concept.docx**: trình bày quá trình nhóm đã thử nghiệm việc hiện thực hóa một tính năng khó về mặt kỹ thuật, và các kết quả thu được, 
     * **07_Proof of Concept.pdf**, 
+    * **08_Project Plan.docx**: trình bày các kết quả ước lượng kích cỡ, thời gian và chi phí cần có để hoàn thành đồ án, các cột mốc quan trọng được nhóm đề xuất. Ngoài ra trong tài liệu này còn có các thông tin sau:
+        * Trang 2 chứa thông tin về các thành viên của nhóm, vai trò của thành viên trong nhóm.
+        * Trang 3 chứa liên kết đến video trên YouTube quay một buổi team building của nhóm.
+        * Trang 4 chứa liên kết và tài khoản truy cập hệ thống tương tác, liên lạc của nhóm (ví dụ Slack, Discord).
+        * Trang 5 chứa liên kết và tài khoản truy cập hệ thống quản lý dự án của nhóm (ví dụ Trello, Jira, Asana).
+    * **08_Project Plan.pdf**,
 
 
 ### &copy; 2024 Ngô Huy Biên
