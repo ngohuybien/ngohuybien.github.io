@@ -51,6 +51,25 @@ _Tài liệu mô tả các sản phẩm cần nộp cho đồ án theo hướng 
         * Trang 4 chứa liên kết và tài khoản truy cập hệ thống tương tác, liên lạc của nhóm (ví dụ Slack, Discord).
         * Trang 5 chứa liên kết và tài khoản truy cập hệ thống quản lý dự án của nhóm (ví dụ Trello, Jira, Asana).
     * **08_Project Plan.pdf**,
+    * **09_System Evaluation and Validation.docx**: trình bày cách đăng ký và/hoặc cài đặt các công cụ để kiểm thử hệ thống, phương pháp thực thi việc kiểm thử, các kết quả kiểm thử thu được, các kết quả khảo sát, bảng so sánh hệ thống với các hệ thống tương tự. Ngoài ra, trong tài liệu này còn có các thông tin sau:
+        * Trang 2 chứa liên kết đến video trên YouTube biểu diễn quá trình đăng ký và/hoặc cài đặt các công cụ để kiểm thử hệ thống, phương pháp thực thi việc kiểm thử, và các kết quả kiểm thử thu được.
+    * **09_System Evaluation and Validation.pdf**,
+    * **10_CI CD DevOps.docx**: trình bày cách đăng ký và/hoặc cài đặt, cấu hình hệ thống build và tích hợp tự động, triển khai/triển giao liên tục, mô hình cung cấp và quản lý tài nguyên để vận hành hệ thống (IaaC), và các kết quả thu được khi hệ thống thực thi các kịch bản,
+    * **10_ CI CD DevOps.pdf**.
 
+* Thư mục **02_Source** chứa các sản phẩm với các tên in đậm sau:
+    * **01_Source Code**: Thư mục chứa mã nguồn hệ thống (bao gồm cả các thông tin của source control, các unit tests),
+    * **02_Raw Data**: Thư mục chứa các dữ liệu gốc (raw) của hệ thống (nếu có). Ví dụ: các file dữ liệu ảnh (Photoshop), video, audio gốc, 
+    * **03_Scripts**: Thư mục chứa các tập tin cấu hình, kịch bản (scripts) của các hệ thống bên ngoài của nhóm (ví dụ tập tin cấu hình của hệ thống build tự động), 
+    * **04_Source Code Compilation Guide.docx**: trình bày cách hướng dẫn cài đặt môi trường và biên dịch mã nguồn cho máy tính vừa cài đặt xong hệ điều hành và/hoặc cách thực thi các tập tin cấu hình, kịch bản). Ngoài ra trong tài liệu này còn có các thông tin sau:
+        * Trang 2 chứa liên kết và tài khoản để truy cập hệ thống source control của nhóm (ví dụ GitHub).
+        * Trang 3 chứa liên kết và tài khoản để truy cập hệ thống build tự động của nhóm (ví dụ GitLab).
+        * Trang 4 chứa liên kết và tài khoản truy cập hệ thống quản lý lỗi của nhóm (ví dụ GitHub issues, GitLab issues, Bitbucket issue trackers).
+        * Trang 5 chứa liên kết đến video trên YouTube biểu diễn quá trình cài đặt môi trường và biên dịch mã nguồn của nhóm.
+    * **04_Source Code Compilation Guide.pdf**, 
+    * **05_Coding Standards.docx**: thể hiện chuẩn mã nguồn (Coding Standards) hoặc quy ước mã nguồn (Coding Convention) nhóm phát triển cần tuân thủ,
+    * **05_Coding Standards.pdf**.
+* Các giảng viên sẽ **KHÔNG** giải quyết các thắc mắc về điểm số nếu mã nguồn không biên dịch được theo tài liệu “04_Source Code Compilation Guide.docx” (minh chứng bằng các ảnh chụp màn hình).
+* Các giảng viên sẽ **KHÔNG** giải quyết các thắc mắc về điểm số nếu các đường dẫn hoặc tài khoản không hoạt động được (minh chứng bằng các ảnh chụp màn hình).
 
 ### &copy; 2024 Ngô Huy Biên
