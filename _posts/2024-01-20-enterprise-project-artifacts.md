@@ -21,7 +21,7 @@ _Tài liệu mô tả các sản phẩm cần nộp cho đồ án theo hướng 
     * **02_Source**: chứa mã nguồn lấy từ source control về, dữ liệu hệ thống, và các tài liệu liên quan đến biên dịch.
     * **03_Packages**: chứa file cài đặt và các tài liệu liên quan việc triển khai và cài đặt.
  
-![Cây thư mục và tên sản phẩm](./images/folder-structure.png =1024x)
+![Cây thư mục và tên sản phẩm](./images/folder-structure.png)
 Hình minh họa tổ chức cây thư mục và tên sản phẩm.
 
 ## 3. Định dạng các sản phẩm
