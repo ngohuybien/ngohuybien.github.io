@@ -93,5 +93,31 @@ Các sản phẩm của đồ án được nộp làm **2 lần**:
     * Lớp trưởng nén các thư mục lại thành 1 tập tin .zip hoặc .rar, chỉ một tập tin .zip hoặc .rar duy nhất cho toàn lớp.
     * Lớp trưởng liên hệ và nộp cho giảng viên **qua email** vào thứ 6, **tuần thứ 11** của môn học đối với lớp CLC, hoặc **tuần thứ 15** của môn học đối với lớp CQ.
 
+## 4. Các tiêu chí đánh giá
+* Kết quả lần 1 được đánh giá dựa trên các câu hỏi thường gặp dưới đây:
+    * Demo một **vấn đề** được giải quyết bằng hệ thống đã xây dựng (workflow/scenario).
+    * Demo quy trình nhóm đã áp dụng để xây dựng hệ thống tính đến thời điểm hiện tại thông qua các dữ liệu của bảng Kanban.
+    * Demo việc build và tích hợp mã nguồn giữa các thành viên.
+    * Tại sao Product Backlog của nhóm lại gồm những stories như đề xuất?
+    * Bao giờ thì toàn bộ Product Backlog của nhóm có thể hoàn thành?
+    * Giải thích Development View của kiến trúc thông qua hệ thống thư mục và việc build toàn bộ các thành phần hệ thống.
+    * Giải thích Logical View, Process View của kiến trúc thông qua mã nguồn của một story đã được hoàn thành.
+    * Giải thích Deployment View của kiến trúc thông qua hệ thống đã triển khai.
+
+* Kết quả lần 2 của đồ án được đánh giá dựa trên 4 yếu tố:
+    * Việc hoàn thành toàn bộ và nội dung của các sản phẩm ở mục 2. trong file này.
+    * Việc hoàn thành toàn bộ Product Backlog và thể hiện được business workflow.
+    * Việc so sánh kết quả của đồ án với 1 hệ thống tương tự.
+    * Việc hoàn thành các yêu cầu dưới đây của môn học. Các yêu cầu này có thể được giảng viên hiệu chỉnh lại trong quá trình học, tùy theo tình hình lớp học.
+        * Đồ án phải áp dụng microservices.
+        * Đồ án phải áp dụng các thư viện hỗ trợ giao diện có sẵn (ví dụ React, Bootstrap).
+        * Đồ án phải có áp dụng RESTful API, gRPC API, và GraphQL API.
+        * Đồ án **không** tự thực hiện phần identity and access (authentication/authorization) management, mà **phải** sử dụng công cụ có sẵn (ví dụ Keycloak, Okta).
+        * Đồ án phải có áp dụng domain-driven design.
+        * Đồ án phải có áp dụng test automation.
+        * Đồ án phải có áp dụng continuous deployment.
+        * Đồ án phải có áp dụng load balancing.
+        * Đồ án phải có áp dụng database replication and sharding.
+        * Đồ án phải có áp dụng event sourcing.
 
 ### &copy; 2024 Ngô Huy Biên
