@@ -25,7 +25,8 @@ _Tài liệu mô tả các sản phẩm cần nộp cho đồ án theo hướng 
 <img src ="https://ngohuybien.github.io/assets/images/folder-structure.png" alt = "Cây thư mục và tên sản phẩm" width="1024">
 </div>
 <div align="center">
-_Hình minh họa tổ chức cây thư mục và tên sản phẩm._
+<br>
+<i>Hình minh họa tổ chức cây thư mục và tên sản phẩm.</i>
 </div>
 
 ## 3. Định dạng các sản phẩm
