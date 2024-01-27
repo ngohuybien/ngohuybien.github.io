@@ -90,13 +90,13 @@ _Tài liệu mô tả các sản phẩm cần nộp cho đồ án theo hướng 
 ## 3. Hình thức và thời hạn nộp
 Các sản phẩm của đồ án được nộp làm **2 lần**:
 * Lần 1:
-    * Các nhóm in ra tất cả các sản phẩm trong thư mục **01_Documents**, 
-    * Demo trực tiếp sản phẩm đã xây dựngtrên hệ thống đã triển khai, tối đa số story nhóm có thể hoàn thành **trong 15 phút**, và 
-    * Trả lời câu hỏi trực tiếp các câu hỏi thường gặp, vào **tuần thứ 6** của môn học đối với lớp CLC, hoặc **tuần thứ 8** của môn học đối với lớp CQ, **tại lớp học lý thuyết**.
+    * Các nhóm in ra tất cả các sản phẩm trong thư mục **01_Documents**,
+    * Demo trực tiếp sản phẩm đã triển khai, **trong 15 phút**, và 
+    * Trả lời các câu hỏi liên quan, vào **tuần thứ 6** của môn học đối với lớp CLC, hoặc **tuần thứ 8** của môn học đối với lớp CQ, **tại lớp học lý thuyết**.
 * Lần 2:
     * Nhóm trưởng các nhóm nộp bản mềm điện tử tất cả các sản phẩm ở mục 2. trong tài liệu này, không nén, cho lớp trưởng.
-    * Đối với các tài liệu, các nhóm có thể cập nhật lại nếu cần.
-    * Lớp trưởng nén các thư mục lại thành 1 tập tin .zip hoặc .rar, chỉ một tập tin .zip hoặc .rar duy nhất cho toàn lớp.
+    * Đối với các tài liệu, các nhóm **có thể cập nhật** lại nếu cần.
+    * Lớp trưởng nén thư mục của toàn lớp lại thành 1 tập tin .zip hoặc .rar, chỉ **một tập tin .zip hoặc .rar duy nhất** cho toàn lớp.
     * Lớp trưởng liên hệ và nộp cho giảng viên **qua email** vào thứ 6, **tuần thứ 11** của môn học đối với lớp CLC, hoặc **tuần thứ 15** của môn học đối với lớp CQ.
 
 ## 4. Các tiêu chí đánh giá
