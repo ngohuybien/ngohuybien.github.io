@@ -23,7 +23,8 @@ _Tài liệu mô tả các sản phẩm cần nộp cho đồ án theo hướng 
       
 <div align="center">
 <img src ="/assets/images/folder-structure.png" alt = "Cây thư mục và tên sản phẩm" width="1024">
-Hình minh họa tổ chức cây thư mục và tên sản phẩm.
+ 
+_Hình minh họa tổ chức cây thư mục và tên sản phẩm._
 </div>
 
 ## 3. Định dạng các sản phẩm
