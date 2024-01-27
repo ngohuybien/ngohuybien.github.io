@@ -22,8 +22,9 @@ _Tài liệu mô tả các sản phẩm cần nộp cho đồ án theo hướng 
     * **03_Packages**: chứa file cài đặt và các tài liệu liên quan việc triển khai và cài đặt.
       
 <div align="center">
-<img src ="/assets/images/folder-structure.png" alt = "Cây thư mục và tên sản phẩm" width="1024">
- 
+<img src ="https://ngohuybien.github.io/assets/images/folder-structure.png" alt = "Cây thư mục và tên sản phẩm" width="1024">
+</div>
+<div align="center">
 _Hình minh họa tổ chức cây thư mục và tên sản phẩm._
 </div>
 
