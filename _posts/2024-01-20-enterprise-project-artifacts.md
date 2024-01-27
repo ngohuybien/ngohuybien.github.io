@@ -59,17 +59,26 @@ _Tài liệu mô tả các sản phẩm cần nộp cho đồ án theo hướng 
 
 * Thư mục **02_Source** chứa các sản phẩm với các tên in đậm sau:
     * **01_Source Code**: Thư mục chứa mã nguồn hệ thống (bao gồm cả các thông tin của source control, các unit tests),
-    * **02_Raw Data**: Thư mục chứa các dữ liệu gốc (raw) của hệ thống (nếu có). Ví dụ: các file dữ liệu ảnh (Photoshop), video, audio gốc, 
-    * **03_Scripts**: Thư mục chứa các tập tin cấu hình, kịch bản (scripts) của các hệ thống bên ngoài của nhóm (ví dụ tập tin cấu hình của hệ thống build tự động), 
-    * **04_Source Code Compilation Guide.docx**: trình bày cách hướng dẫn cài đặt môi trường và biên dịch mã nguồn cho máy tính vừa cài đặt xong hệ điều hành và/hoặc cách thực thi các tập tin cấu hình, kịch bản). Ngoài ra trong tài liệu này còn có các thông tin sau:
+    * **02_Raw Data**: Thư mục chứa các dữ liệu gốc (raw) của hệ thống (nếu có). Ví dụ: các file dữ liệu ảnh (Photoshop), video, audio gốc,
+    * **03_Build Scripts**: Thư mục chứa các tập tin cấu hình, kịch bản (scripts) build tự động,
+    * **04_Compilation Guide.docx**: Tài liệu hướng dẫn cài đặt môi trường và biên dịch mã nguồn cho máy tính vừa cài đặt xong hệ điều hành và/hoặc cách thực thi các tập tin cấu hình, kịch bản). Ngoài ra trong tài liệu này còn có các thông tin sau:
         * Trang 2 chứa liên kết và tài khoản để truy cập hệ thống source control của nhóm (ví dụ GitHub).
         * Trang 3 chứa liên kết và tài khoản để truy cập hệ thống build tự động của nhóm (ví dụ GitLab).
         * Trang 4 chứa liên kết và tài khoản truy cập hệ thống quản lý lỗi của nhóm (ví dụ GitHub issues, GitLab issues, Bitbucket issue trackers).
         * Trang 5 chứa liên kết đến video trên YouTube biểu diễn quá trình cài đặt môi trường và biên dịch mã nguồn của nhóm.
-    * **04_Source Code Compilation Guide.pdf**, 
+    * **04_Compilation Guide.pdf**,
     * **05_Coding Standards.docx**: thể hiện chuẩn mã nguồn (Coding Standards) hoặc quy ước mã nguồn (Coding Convention) nhóm phát triển cần tuân thủ,
     * **05_Coding Standards.pdf**.
 * Các giảng viên sẽ **KHÔNG** giải quyết các thắc mắc về điểm số nếu mã nguồn không biên dịch được theo tài liệu “04_Source Code Compilation Guide.docx” (minh chứng bằng các ảnh chụp màn hình).
 * Các giảng viên sẽ **KHÔNG** giải quyết các thắc mắc về điểm số nếu các đường dẫn hoặc tài khoản không hoạt động được (minh chứng bằng các ảnh chụp màn hình).
+
+* Thư mục **03_Packages** chứa các sản phẩm với các tên in đậm sau:
+    * **01_Deployment_Package**: Thư mục chứa các sản phẩm để cài đặt và triển khai, bao gồm cả các tập tin cấu hình, kịch bản (scripts) nếu nhóm sử dụng các kịch bản để triển khai.
+    * **02_Deployment Guide.docx**: Tài liệu hướng dẫn triển khai hệ thống lên môi trường Internet và/hoặc thiết bị thực sự. Ngoài ra trong tài liệu này còn có các thông tin sau:
+        * Trang 2 chứa liên kết đến video trên YouTube biểu diễn cách triển khai hệ thống của nhóm.
+    * **02_Deployment Guide.pdf**, 
+    * **03_User Guide.docx**: Tài liệu hướng dẫn cài đặt và sử dụng sản phẩm. Ngoài ra trong tài liệu này còn có các thông tin sau:
+        * Trang 2 chứa liên kết đến video trên YouTube giới thiệu cách sử dụng hệ thống của nhóm.
+    * **03_User Guide.pdf**.
 
 ### &copy; 2024 Ngô Huy Biên
