@@ -111,7 +111,7 @@ Các sản phẩm của đồ án được nộp làm **2 lần**:
     * Giải thích Deployment View của kiến trúc thông qua hệ thống đã triển khai.
 
 * Kết quả **lần 2** của đồ án được đánh giá dựa trên 4 yếu tố:
-    * Việc hoàn thành toàn bộ và nội dung của các sản phẩm ở mục 2. trong tài liệu này.
+    * Việc hoàn thành toàn bộ và chất lượng nội dung của các sản phẩm ở mục 2. trong tài liệu này.
     * Việc hoàn thành toàn bộ Product Backlog và việc thể hiện được các business cases thông qua hệ thống đã xây dựng.
     * Việc so sánh kết quả của đồ án với 1 hệ thống tương tự.
     * Việc hoàn thành **các yêu cầu kỹ thuật** dưới đây của môn học. Các yêu cầu này có thể được giảng viên hiệu chỉnh lại trong quá trình học, tùy theo tình hình lớp học.
