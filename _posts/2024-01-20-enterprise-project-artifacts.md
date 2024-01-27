@@ -94,7 +94,7 @@ Các sản phẩm của đồ án được nộp làm **2 lần**:
     * Lớp trưởng liên hệ và nộp cho giảng viên **qua email** vào thứ 6, **tuần thứ 11** của môn học đối với lớp CLC, hoặc **tuần thứ 15** của môn học đối với lớp CQ.
 
 ## 4. Các tiêu chí đánh giá
-* Kết quả lần 1 được đánh giá dựa trên các câu hỏi thường gặp dưới đây:
+* Kết quả **lần 1** được đánh giá dựa trên các câu hỏi thường gặp dưới đây:
     * Demo một **vấn đề** được giải quyết bằng hệ thống đã xây dựng (workflow/scenario).
     * Demo quy trình nhóm đã áp dụng để xây dựng hệ thống tính đến thời điểm hiện tại thông qua các dữ liệu của bảng Kanban.
     * Demo việc build và tích hợp mã nguồn giữa các thành viên.
@@ -104,7 +104,7 @@ Các sản phẩm của đồ án được nộp làm **2 lần**:
     * Giải thích Logical View, Process View của kiến trúc thông qua mã nguồn của một story đã được hoàn thành.
     * Giải thích Deployment View của kiến trúc thông qua hệ thống đã triển khai.
 
-* Kết quả lần 2 của đồ án được đánh giá dựa trên 4 yếu tố:
+* Kết quả **lần 2** của đồ án được đánh giá dựa trên 4 yếu tố:
     * Việc hoàn thành toàn bộ và nội dung của các sản phẩm ở mục 2. trong file này.
     * Việc hoàn thành toàn bộ Product Backlog và thể hiện được business workflow.
     * Việc so sánh kết quả của đồ án với 1 hệ thống tương tự.
@@ -119,5 +119,6 @@ Các sản phẩm của đồ án được nộp làm **2 lần**:
         * Đồ án phải có áp dụng load balancing.
         * Đồ án phải có áp dụng database replication and sharding.
         * Đồ án phải có áp dụng event sourcing.
+        * Đồ án được _khuyến khích_ áp dụng event-driven architecture.
 
 ### &copy; 2024 Ngô Huy Biên
