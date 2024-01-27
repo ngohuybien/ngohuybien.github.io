@@ -11,7 +11,7 @@ _Tài liệu mô tả các sản phẩm cần nộp cho đồ án theo hướng 
 ## 1. Quy định chung
 * Điểm đồ án giữa kỳ được tự động **chia đều** cho các thành viên trong nhóm.
 * Điểm đồ án cuối kỳ được tự động **chia đều** cho các thành viên trong nhóm.
-* Nếu nhóm có mong muốn tự chia điểm đồ án cuối kỳ theo **tỷ lệ riêng**, thì cần ghi rõ mong muốn tự chia điểm, thông tin từng thành viên và tỷ lệ điểm từng thành viên sẽ được nhận, ví dụ 50%, 120%, 150%, trong trang bìa **từng sản phẩm**. Tổng số % của nhóm = Số thành viên x 100%. Nếu thành viên nào có % x Tổng điểm lớn hơn 10, thì điểm của thành viên cũng chỉ được tính là 10.
+* Nếu nhóm có mong muốn **tự chia điểm đồ án cuối kỳ** theo **tỷ lệ riêng**, thì cần ghi rõ mong muốn tự chia điểm, thông tin từng thành viên và tỷ lệ điểm từng thành viên sẽ được nhận, ví dụ 50%, 120%, 150%, trong trang bìa **từng sản phẩm**. Tổng số % của nhóm = Số thành viên x 100%. Nếu thành viên nào có % x Tổng điểm lớn hơn 10, thì điểm của thành viên cũng chỉ được tính là 10.
 * Kết quả đồ án được đánh giá theo số thành viên thực sự hoạt động của nhóm. Do vậy, nếu nhóm có thành viên bỏ nhóm, hoặc không thực hiện đồ án, trưởng nhóm cần **thông báo trực tiếp cho giảng viên vào buổi vấn đáp đồ án giữa kỳ**, để các nhóm được đánh giá công bằng với nhau.
 
 ## 2. Quy định tổ chức và đặt tên thư mục
@@ -32,19 +32,19 @@ _Tài liệu mô tả các sản phẩm cần nộp cho đồ án theo hướng 
 * Các sản phẩm dưới đây là **bắt buộc**, nhưng không giới hạn. Các nhóm có thể nộp thêm các sản phẩm tự đề xuất trong quá trình thực hiện đồ án.
 * Danh sách các sản phẩm này có thể được giảng viên hiệu chỉnh lại trong quá trình học, tùy theo tình hình lớp học.
 * Thư mục **01_Documents** chứa các sản phẩm với các **tên in đậm** sau:
-    * **01_Project Proposal.pptx**: trình bày đề xuất dự án (những phần nào trong file trình chiếu liên quan đến một sản phẩm khác thì sinh viên chỉ trình bày một, hai hoặc tối đa là ba ví dụ, và ghi chú là xem chi tiết ở tài liệu “XYZ”, ví dụ, phần Bản mẫu sinh viên chỉ trình bày 3 giao diện, và ghi chú là xem chi tiết bản mẫu ở tài liệu “05_Prototype.pptx”), 
-    *	**01_Project Proposal.pdf**, 
-    * **02_Business Cases.docx**: trình bày các luồng quy trình nghiệp vụ trong đời sống thực (có thể có liên quan đến phần mềm), 
-    * **02_Business Cases.pdf**, 
-    * **03_Domain Model.docx**: trình bày các thực thể nghiệp vụ trong đời sống thực (có thể có liên quan đến phần mềm) và mối liên hệ giữa các thực thể này với nhau, 
-    * **03_Domain Model.pdf**, 
+    * **01_Project Proposal.pptx**: trình bày đề xuất dự án (những phần nào trong file trình chiếu liên quan đến một sản phẩm khác thì sinh viên chỉ trình bày một, hai hoặc tối đa là ba ví dụ, và ghi chú là xem chi tiết ở tài liệu "XYZ", ví dụ, phần Bản mẫu sinh viên chỉ trình bày 3 giao diện, và ghi chú là xem chi tiết bản mẫu ở tài liệu "05_Prototype.docx"),
+    *	**01_Project Proposal.pdf**,
+    * **02_Business Cases.docx**: trình bày các vai trò, các vấn đề, các mục tiêu một vai trò mong muốn đạt được, các luồng quy trình nghiệp vụ nhóm sẽ xây dựng để đạt được mục tiêu trong đời sống thực,
+    * **02_Business Cases.pdf**,
+    * **03_Domain Model.docx**: trình bày các thực thể nghiệp vụ trong đời sống thực (có thể có liên quan đến phần mềm) và mối liên hệ giữa các thực thể này với nhau,
+    * **03_Domain Model.pdf**,
     * **04_Product Backlog.xlsx**: trình bày toàn bộ các sản phẩm và tính năng cần có để đạt được các mục tiêu đề ra.
-    * **05_Prototype.docx**: trình bày các luồng quy trình nghiệp vụ nhằm để đạt được các mục tiêu đề ra thông qua hệ thống phần mềm, 
-    * **05_Prototype.pdf**, 
-    * **06_Architecture.docx**: trình bày kiến trúc hệ thống theo các góc nhìn khác nhau, các công nghệ, công cụ được lựa chọn để xây dựng hệ thống, 
-    * **06_Architecture.pdf**, 
-    * **07_Proof of Concept.docx**: trình bày quá trình nhóm đã thử nghiệm việc hiện thực hóa một tính năng khó về mặt kỹ thuật, và các kết quả thu được, 
-    * **07_Proof of Concept.pdf**, 
+    * **05_Prototype.docx**: trình bày giao diện từng bước của ít nhất một luồng quy trình nghiệp vụ,
+    * **05_Prototype.pdf**,
+    * **06_Architecture.docx**: trình bày kiến trúc hệ thống theo các góc nhìn khác nhau, các công nghệ, công cụ được lựa chọn để xây dựng hệ thống,
+    * **06_Architecture.pdf**,
+    * **07_Proof of Concept.docx**: trình bày quá trình nhóm đã thử nghiệm việc hiện thực hóa một tính năng khó về mặt kỹ thuật, và kết quả cụ thể thu được,
+    * **07_Proof of Concept.pdf**,
     * **08_Project Plan.docx**: trình bày các kết quả ước lượng kích cỡ, thời gian và chi phí cần có để hoàn thành đồ án, các cột mốc quan trọng được nhóm đề xuất. Ngoài ra trong tài liệu này còn có các thông tin sau:
         * Trang 2 chứa thông tin về các thành viên của nhóm, vai trò của thành viên trong nhóm.
         * Trang 3 chứa liên kết đến video trên YouTube quay một buổi team building của nhóm.
@@ -54,14 +54,12 @@ _Tài liệu mô tả các sản phẩm cần nộp cho đồ án theo hướng 
     * **09_System Evaluation and Validation.docx**: trình bày cách đăng ký và/hoặc cài đặt các công cụ để kiểm thử hệ thống, phương pháp thực thi việc kiểm thử, các kết quả kiểm thử thu được, các kết quả khảo sát, bảng so sánh hệ thống với các hệ thống tương tự. Ngoài ra, trong tài liệu này còn có các thông tin sau:
         * Trang 2 chứa liên kết đến video trên YouTube biểu diễn quá trình đăng ký và/hoặc cài đặt các công cụ để kiểm thử hệ thống, phương pháp thực thi việc kiểm thử, và các kết quả kiểm thử thu được.
     * **09_System Evaluation and Validation.pdf**,
-    * **10_CI CD DevOps.docx**: trình bày cách đăng ký và/hoặc cài đặt, cấu hình hệ thống build và tích hợp tự động, triển khai/triển giao liên tục, mô hình cung cấp và quản lý tài nguyên để vận hành hệ thống (IaaC), và các kết quả thu được khi hệ thống thực thi các kịch bản,
-    * **10_ CI CD DevOps.pdf**.
 
 * Thư mục **02_Source** chứa các sản phẩm với các tên in đậm sau:
     * **01_Source Code**: Thư mục chứa mã nguồn hệ thống (bao gồm cả các thông tin của source control, các unit tests),
     * **02_Raw Data**: Thư mục chứa các dữ liệu gốc (raw) của hệ thống (nếu có). Ví dụ: các file dữ liệu ảnh (Photoshop), video, audio gốc,
-    * **03_Build Scripts**: Thư mục chứa các tập tin cấu hình, kịch bản (scripts) build tự động,
-    * **04_Compilation Guide.docx**: Tài liệu hướng dẫn cài đặt môi trường và biên dịch mã nguồn cho máy tính vừa cài đặt xong hệ điều hành và/hoặc cách thực thi các tập tin cấu hình, kịch bản). Ngoài ra trong tài liệu này còn có các thông tin sau:
+    * **03_Build Scripts**: Thư mục chứa các tập tin cấu hình, kịch bản (scripts) build và tích hợp tự động,
+    * **04_Compilation Guide.docx**: Tài liệu hướng dẫn cài đặt môi trường và biên dịch mã nguồn cho máy tính của **một nhà phát triển** vừa cài đặt xong hệ điều hành và/hoặc cách thực thi các tập tin cấu hình, kịch bản. Ngoài ra trong tài liệu này còn có các thông tin sau:
         * Trang 2 chứa liên kết và tài khoản để truy cập hệ thống source control của nhóm (ví dụ GitHub).
         * Trang 3 chứa liên kết và tài khoản để truy cập hệ thống build tự động của nhóm (ví dụ GitLab).
         * Trang 4 chứa liên kết và tài khoản truy cập hệ thống quản lý lỗi của nhóm (ví dụ GitHub issues, GitLab issues, Bitbucket issue trackers).
@@ -69,12 +67,12 @@ _Tài liệu mô tả các sản phẩm cần nộp cho đồ án theo hướng 
     * **04_Compilation Guide.pdf**,
     * **05_Coding Standards.docx**: thể hiện chuẩn mã nguồn (Coding Standards) hoặc quy ước mã nguồn (Coding Convention) nhóm phát triển cần tuân thủ,
     * **05_Coding Standards.pdf**.
-* Các giảng viên sẽ **KHÔNG** giải quyết các thắc mắc về điểm số nếu mã nguồn không biên dịch được theo tài liệu “04_Source Code Compilation Guide.docx” (minh chứng bằng các ảnh chụp màn hình).
-* Các giảng viên sẽ **KHÔNG** giải quyết các thắc mắc về điểm số nếu các đường dẫn hoặc tài khoản không hoạt động được (minh chứng bằng các ảnh chụp màn hình).
+    * Các giảng viên sẽ **KHÔNG** giải quyết các thắc mắc về điểm số nếu mã nguồn không biên dịch được theo tài liệu "04_Compilation Guide.docx" (minh chứng bằng các ảnh chụp màn hình).
+    * Các giảng viên sẽ **KHÔNG** giải quyết các thắc mắc về điểm số nếu các liên kết hoặc tài khoản không hoạt động được (minh chứng bằng các ảnh chụp màn hình).
 
 * Thư mục **03_Packages** chứa các sản phẩm với các tên in đậm sau:
     * **01_Deployment_Package**: Thư mục chứa các sản phẩm để cài đặt và triển khai, bao gồm cả các tập tin cấu hình, kịch bản (scripts) nếu nhóm sử dụng các kịch bản để triển khai.
-    * **02_Deployment Guide.docx**: Tài liệu hướng dẫn triển khai hệ thống lên môi trường Internet và/hoặc thiết bị thực sự. Ngoài ra trong tài liệu này còn có các thông tin sau:
+    * **02_Deployment Guide.docx**: Tài liệu hướng dẫn cách đăng ký và/hoặc cài đặt môi trường triển khai, cấu hình hệ thống triển khai/triển giao liên tục, mô tả các kịch bản cung cấp và quản lý tài nguyên để vận hành hệ thống (IaaC), và các kết quả thu được khi hệ thống thực thi các kịch bản triển khai hệ thống lên môi trường Internet và/hoặc thiết bị thực sự. Ngoài ra trong tài liệu này còn có các thông tin sau:
         * Trang 2 chứa liên kết đến video trên YouTube biểu diễn cách triển khai hệ thống của nhóm.
     * **02_Deployment Guide.pdf**, 
     * **03_User Guide.docx**: Tài liệu hướng dẫn cài đặt và sử dụng sản phẩm. Ngoài ra trong tài liệu này còn có các thông tin sau:
