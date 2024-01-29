@@ -116,14 +116,18 @@ _Tài liệu mô tả các chủ đề thuyết trình theo hướng hệ thốn
     * <a target ="blank" href="https://www.microsoft.com/en-us/security/business/microsoft-entra">Microsoft Entra ID</>
 
 ### 5.4. Chủ đề 4: Thiết kế và xây dựng hệ thống như thế nào để giảm sự phụ thuộc vào các công nghệ và tăng khả năng quản lý sự phức tạp của hệ thống?
-* Số nhóm thuyết trình dự kiến: 1 nhóm.
-Nội dung cần trình bày:
-•	Demo một chức năng của hệ thống được xây dựng bằng phương pháp thiết kế từ nghiệp vụ (Domain-Driven Design).
-Tài liệu tham khảo:
-•	Eric Evans (2003). Domain-Driven Design - Tackling Complexity in the Heart of Software. Addison Wesley.
-•	Vaughn Vernon (2013). Implementing Domain-Driven Design. Addison-Wesley Professional.
-•	Dino Esposito and Andrea Saltarello (2014). Microsoft .NET - Architecting Applications for the Enterprise. Second Edition. Microsoft Press.
-•	Vlad Khononov (2021). Learning Domain-Driven Design. O'Reilly Media.
+* Số nhóm thuyết trình **dự kiến**: 1 nhóm.
+* Nội dung cần trình bày:
+    * Demo một chức năng của hệ thống được xây dựng bằng phương pháp thiết kế từ nghiệp vụ (Domain-Driven Design).
+* Các **câu hỏi** thường gặp:
+    * Demo việc lấy mã nguồn của nhóm từ source control và build không lỗi.
+    * Demo việc quá trình chạy của tính năng được xây dựng.
+    * Giải thích mục đích của các thành phần tham gia vào quá trình chạy của tính năng.
+* Tài liệu tham khảo:
+    * Eric Evans (2003). Domain-Driven Design - Tackling Complexity in the Heart of Software. Addison Wesley.
+    * Vaughn Vernon (2013). Implementing Domain-Driven Design. Addison-Wesley Professional.
+    * Dino Esposito and Andrea Saltarello (2014). Microsoft .NET - Architecting Applications for the Enterprise. Second Edition. Microsoft Press.
+    * Vlad Khononov (2021). Learning Domain-Driven Design. O'Reilly Media.
 
 ### 5.5. Chủ đề 5: Vấn đề buổi học giải quyết: Thiết kế và xây dựng khả năng mở rộng hệ thống như thế nào?
 * Số nhóm thuyết trình dự kiến: tất cả các nhóm chưa đủ 2 bài thuyết trình.
