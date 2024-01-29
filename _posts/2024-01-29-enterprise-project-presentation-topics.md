@@ -66,7 +66,7 @@ _Tài liệu mô tả các chủ đề thuyết trình theo hướng hệ thốn
     * Demo việc kiểm thử Accessibility của một giao diện.
     * Demo việc kiểm thử Learnability của một giao diện.
     * Demo việc đánh giá một giao diện dựa trên các nguyên lý.
-*Tài liệu tham khảo:
+* Tài liệu tham khảo:
     * Slides môn học.
     * <a target ="blank" href ="https://martinfowler.com/articles/modularizing-react-apps.html">Modularizing React Applications with Established UI Patterns</a>
     * <a target ="blank" href ="https://www.storyblok.com/tp/react-dynamic-component-from-json">How to render dynamic component defined in JSON using React</a>
