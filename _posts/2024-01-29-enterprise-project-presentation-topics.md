@@ -23,10 +23,11 @@ _Tài liệu mô tả các chủ đề thuyết trình theo hướng hệ thốn
 * Tổng thời gian tối đa cho 1 nhóm thuyết trình: **80 phút**.
 
 ## 3. Quy định về việc chọn nhóm thuyết trình
+* Việc thuyết trình sẽ **bắt đầu sau buổi học về mô hình Kanban**.
 * Mỗi nhóm sẽ thuyết trình **2 lần**, cho **2 chủ đề** khác nhau.
-* Các nhóm được gọi thuyết trình trực tiếp tại lớp theo thứ tự sau:
+* Các nhóm sẽ được **gọi thuyết trình trực tiếp tại lớp** theo thứ tự sau:
     * Nhóm xung phong thuyết trình.
-    * Nhóm chưa thuyết trình đủ 2 chủ đề, theo số thứ tự nhóm.
+    * Nhóm chưa thuyết trình đủ 2 chủ đề, theo **số thứ tự** nhóm.
     * Nhóm muốn cải thiện điểm thuyết trình.
     * Nhóm đã thuyết trình đủ 2 chủ đề muốn lấy điểm cộng môn học.
 * Các nhóm được gọi mà **không có Slides** hoặc **không chuẩn bị** để thuyết trình sẽ **nhận điểm 0** cho bài thuyết trình được gọi.
