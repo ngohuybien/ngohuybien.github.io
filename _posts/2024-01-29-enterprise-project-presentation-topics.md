@@ -15,109 +15,105 @@ _Tài liệu mô tả các chủ đề thuyết trình theo hướng hệ thốn
 
 ## 2. Quy định về bài thuyết trình
 * Các nhóm **phải có Slides** khi thuyết trình, kể cả khi nội dung thuyết trình tập trung vào **demo công cụ sử dụng** và **sản phẩm tạo ra**.
-* Trong Slides, phải có trang 2, liệt kê các **thành viên trong nhóm tham gia vào bài thuyết trình**.
-* Trong Slides, phải có trang 3, liệt kê **các nội dung cần trình bày**.
-* Trong Slides, phải có trang 4, liệt kê đầy đủ **danh mục các tài liệu tham khảo** mà nhóm đã dùng để soạn Slides. Các Slides lấy nội dung lấy từ các nguồn khác mà không có trích dẫn ở trang 3 sẽ nhận điểm 0 thuyết trình.
-* Thời gian trình bày tối đa: 20 phút.
-* Thời gian trả lời các câu hỏi (có thể đan xen trong thời gian trình bày): 60 phút.
-* Tổng thời gian tối đa cho 1 nhóm thuyết trình: 80 phút.
+* Trong Slides, phải có trang 2, liệt kê **các thành viên trong nhóm tham gia chuẩn bị và trình bày bài thuyết trình**.
+* Trong Slides, phải có trang 3, liệt kê **các nội dung trình bày**.
+* Trong Slides, phải có trang 4, liệt kê **danh mục các tài liệu tham khảo** mà nhóm đã dùng để soạn Slides. Các Slides lấy nội dung lấy từ các nguồn khác mà không có trích dẫn ở trang này sẽ nhận điểm 0 thuyết trình.
+* Thời gian trình bày tối đa: **20 phút**.
+* Thời gian trả lời các câu hỏi (có thể đan xen trong thời gian trình bày): **60 phút**.
+* Tổng thời gian tối đa cho 1 nhóm thuyết trình: **80 phút**.
 
 ## 3. Quy định về việc chọn nhóm thuyết trình
 * Mỗi nhóm sẽ thuyết trình **2 lần**, cho **2 chủ đề** khác nhau.
-* Các nhóm được gọi thuyết trình theo thứ tự sau:
+* Các nhóm được gọi thuyết trình trực tiếp tại lớp theo thứ tự sau:
     * Nhóm xung phong thuyết trình.
     * Nhóm chưa thuyết trình đủ 2 chủ đề, theo số thứ tự nhóm.
     * Nhóm muốn cải thiện điểm thuyết trình.
     * Nhóm đã thuyết trình đủ 2 chủ đề muốn lấy điểm cộng môn học.
 * Các nhóm được gọi mà **không có Slides** hoặc **không chuẩn bị** để thuyết trình sẽ **nhận điểm 0** cho bài thuyết trình được gọi.
 
-
 ## 4. Quy định về việc nộp Slides sau khi thuyết trình
-
-* Sau khi thuyết trình, nhóm cần **chỉnh sửa lại Slides** theo những gì được giảng viên chỉnh sửa trên lớp, **nộp lên Moodle**, trong **Diễn đàn chung**, **trước 21h00, chủ nhật trong tuần nhóm thuyết trình**.
-* Tập tin đặt theo mẫu **Nhom_Y_Chu De.pptx** (không dấu).
-* Quá thời hạn quy định, các nhóm không nộp Slides, sẽ không có điểm thuyết trình.
+* Sau khi thuyết trình, nhóm cần **chỉnh sửa lại Slides** theo những gì được giảng viên yêu cầu bổ sung trên lớp, **nộp lên Moodle**, trong **Diễn đàn chung**, **trước 21h00, chủ nhật trong tuần nhóm thuyết trình**.
+* Tập tin đặt theo mẫu **Nhom_X_Chu De.pptx** (không dấu).
+* Quá thời hạn quy định, các nhóm **quên** không nộp Slides, điểm thuyết trình sẽ không được công nhận.
 
 ## 5. Danh sách các chủ đề (Giảng viên sẽ cập nhập dần)
 
 ### 5.1. Chủ đề 1: Làm sao để tăng tốc độ phát triển và đảm bảo chất lượng giao diện hệ thống?
-* Số nhóm thuyết trình dự kiến: 2 nhóm (ưu tiên 1 nhóm web, 1 nhóm mobile).
-*Nội dung cần trình bày:
-* Demo bằng đồ án của nhóm các công cụ nhóm sử dụng để đảm bảo coding standards.
-* Demo bằng đồ án của nhóm các UI frameworks, libraries và components nhóm sử dụng để tăng tốc độ phát triển và đảm bảo chất lượng giao diện hệ thống.
-* Demo bằng đồ án của nhóm các công cụ nhóm sử dụng để kiểm tra chất lượng giao diện hệ thống.
-* Demo các khái niệm: functional programming, modularity và concurrency, nếu có, của các thư viện, hoặc khung ứng dụng, hoặc ngôn ngữ lập trình nhóm dùng để phát triển giao diện hệ thống.
-* Các câu hỏi thường gặp:
-•	Demo việc lấy mã nguồn và build không lỗi.
-•	Demo việc hiển thị lỗi coding standards trên editor.
-•	Demo việc cấu hình công cụ để chỉ hiển thị một số lỗi coding standards nhất định.
-•	Demo việc hiện thực hóa app nagivation (menu).
-•	Demo việc tạo module, nhận dữ liệu từ các thành phần giao diện (UI elements), đưa dữ liệu vào các thành phần giao diện của module.
-•	Demo việc kiểm tra đầu vào không hợp lệ và xuất các loại thông điệp ở phía client.
-•	Demo việc phân trang cho 5000 bản ghi.
-•	Demo sự tương tác giữa các modules.
-•	Demo việc tương tác giữa một cửa sổ con (dialog) và cửa sổ cha.
-•	Demo việc chờ xử lý đối với một tác vụ tốn thời gian hơn 10 giây.
-•	Demo việc hiển thị một biểu đồ bar chart cho báo cáo.
-•	Demo khả năng drag and drop (ví dụ cho file upload, hoặc sắp xếp thứ tự các items).
-•	Demo việc hiển thị giao diện linh hoạt (dynamic loading of modules, ví dụ hiển thị dashboard theo cấu hình của người dùng, hiển thị layouts khác nhau giữa người dùng thông thường và người dùng ưu tiên).
-•	Demo việc khởi tạo module linh hoạt (dynamic import/lazy loading of modules).
-•	Demo việc chuyển đổi giữa light theme và dark theme.
-•	Demo việc chuyển đổi ngôn ngữ của giao diện (ví dụ từ tiếng Anh sang tiếng Việt).
-•	Demo việc kiểm thử Accessibility của một giao diện.
-•	Demo việc kiểm thử Learnability của một giao diện.
-•	Demo việc đánh giá một giao diện dựa trên các nguyên lý.
-
-**Tài liệu tham khảo:**
-•	Slides môn học.
-•	https://martinfowler.com/articles/modularizing-react-apps.html
-•	https://www.storyblok.com/tp/react-dynamic-component-from-json
+* Số nhóm thuyết trình **dự kiến**: 2 nhóm (ưu tiên 1 nhóm web, 1 nhóm mobile).
+* Nội dung cần trình bày:
+    * Demo bằng đồ án của nhóm các công cụ nhóm sử dụng để đảm bảo coding standards.
+    * Demo bằng đồ án của nhóm các UI frameworks, libraries và components nhóm sử dụng để tăng tốc độ phát triển và đảm bảo chất lượng giao diện hệ thống.
+    * Demo bằng đồ án của nhóm các công cụ nhóm sử dụng để kiểm tra chất lượng giao diện hệ thống.
+    * Demo các khái niệm: functional programming, modularity và concurrency, nếu có, của các thư viện, hoặc khung ứng dụng, hoặc ngôn ngữ lập trình nhóm dùng để phát triển giao diện hệ thống.
+* Các **câu hỏi** thường gặp:
+    * Demo việc lấy mã nguồn của nhóm từ source control và build không lỗi.
+    * Demo việc hiển thị lỗi coding standards trên editor.
+    * Demo việc cấu hình công cụ để chỉ hiển thị một số lỗi coding standards nhất định.
+    * Demo việc hiện thực hóa app nagivation (menu).
+    * Demo việc tạo module, nhận dữ liệu từ các thành phần giao diện (UI elements), đưa dữ liệu vào các thành phần giao diện của module.
+    * Demo việc kiểm tra đầu vào không hợp lệ và xuất các loại thông điệp ở phía client.
+    * Demo việc phân trang cho 5000 bản ghi.
+    * Demo sự tương tác giữa module cha và module con, giữa module con và module con.
+    * Demo việc tương tác giữa một cửa sổ con (dialog) và cửa sổ cha.
+    * Demo việc chờ xử lý đối với một tác vụ tốn thời gian hơn 10 giây.
+    * Demo việc hiển thị một biểu đồ bar chart cho báo cáo.
+    * Demo khả năng drag and drop (ví dụ cho file upload, hoặc sắp xếp lại thứ tự các items).
+    * Demo việc hiển thị giao diện linh hoạt (dynamic loading of modules, ví dụ hiển thị dashboard theo cấu hình của người dùng, hiển thị layouts khác nhau giữa người dùng thông thường và người dùng ưu tiên).
+    * Demo việc khởi tạo module linh hoạt (dynamic import/lazy loading of modules).
+    * Demo việc chuyển đổi giữa light theme và dark theme.
+    * Demo việc chuyển đổi ngôn ngữ của giao diện (ví dụ từ tiếng Anh sang tiếng Việt).
+    * Demo việc kiểm thử Accessibility của một giao diện.
+    * Demo việc kiểm thử Learnability của một giao diện.
+    * Demo việc đánh giá một giao diện dựa trên các nguyên lý.
+*Tài liệu tham khảo:
+    * Slides môn học.
+    * <a target ="blank" href ="https://martinfowler.com/articles/modularizing-react-apps.html">Modularizing React Applications with Established UI Patterns</a>
+    * <a target ="blank" href ="https://www.storyblok.com/tp/react-dynamic-component-from-json">How to render dynamic component defined in JSON using React</a>
 
 ### 5.2. Chủ đề 2: Làm sao để tăng tốc độ phát triển và đảm bảo chất lượng các API của hệ thống?
-* Số nhóm thuyết trình dự kiến: 3 nhóm (ưu tiên 1 nhóm RESTful, 1 nhóm GraphQL, và 1 nhóm gRPC).
-Nội dung cần trình bày:
-•	Demo 3 APIs của hệ thống: một sử dụng RESTful, một sử dụng gRPC, và một sử dụng GraphQL.
-•	Giải thích các công cụ đã dùng và các bước để hoàn thành 3 APIs ở trên.
-Các câu hỏi thường gặp:
-•	Demo việc lấy mã nguồn và build không lỗi.
-•	Demo việc cài đặt công cụ và viết API cho một tính năng của đồ án bằng RESTful (không bắt buộc cần có kết nối với cơ sở dữ liệu).
-•	Demo việc triển khai thực tế RESTful API trên 1 máy chủ (hoặc container).
-•	Demo việc kiểm thử RESTful API bằng cách gọi trực tiếp (ví dụ dùng Postman).
-•	Demo việc kết nối RESTful API với giao diện hệ thống.
-•	Demo việc cài đặt công cụ và viết API cho một tính năng của đồ án bằng gRPC (không bắt buộc cần có kết nối với cơ sở dữ liệu).
-•	Demo việc triển khai thực tế gRPC API trên 1 máy chủ (hoặc container).
-•	Demo việc kiểm thử gRPC API sau khi đã triển khai.
-•	Demo việc kết nối gRPC API với giao diện hệ thống.
-•	Demo việc cài đặt công cụ và viết API cho một tính năng của đồ án bằng GraphQL (không bắt buộc cần có kết nối với cơ sở dữ liệu).
-•	Demo việc triển khai thực tế GraphQL API trên 1 máy chủ (hoặc container).
-•	Demo việc kiểm thử GraphQL API sau khi đã triển khai.
-•	Demo việc kết nối GraphQL API với giao diện hệ thống.
-Tài liệu tham khảo:
-•	Thomas Hunter II (2021). Distributed Systems with Node.js. O'Reilly Media. (Chapter 2. Protocols.)
-•	Leonard Richardson and Mike Amundsen (2013). RESTful Web APIs. O'Reilly Media.
-•	Kasun Indrasiri and Danesh Kuruppu (2020). gRPC - Up & Running - Building Cloud Native Applications with Go and Java for Docker and Kubernetes. O'Reilly Media.
-•	Adam D. Scott (2020). JavaScript Everywhere - Building Cross-Platform Applications with GraphQL, React, React Native, and Electron. O'Reilly Media.
+* Số nhóm thuyết trình **dự kiến**: 2 nhóm (ưu tiên 1 nhóm RESTful và gRPC, 1 nhóm GraphQL).
+* Nội dung cần trình bày:
+    * Demo 3 APIs của hệ thống: một sử dụng RESTful, một sử dụng gRPC, và một sử dụng GraphQL.
+    * Giải thích các công cụ đã dùng và các bước để hoàn thành 3 APIs ở trên.
+* Các **câu hỏi** thường gặp:
+    * Demo việc lấy mã nguồn của nhóm từ source control và build không lỗi.
+    * Demo việc cài đặt công cụ và viết API cho một tính năng của đồ án bằng RESTful (không bắt buộc cần có kết nối với cơ sở dữ liệu).
+    * Demo việc triển khai thực tế RESTful API trên 1 máy chủ (hoặc container).
+    * Demo việc kiểm thử RESTful API bằng cách gọi trực tiếp (ví dụ dùng Postman).
+    * Demo việc kết nối RESTful API với giao diện hệ thống.
+    * Demo việc cài đặt công cụ và viết API cho một tính năng của đồ án bằng gRPC (không bắt buộc cần có kết nối với cơ sở dữ liệu).
+    * Demo việc triển khai thực tế gRPC API trên 1 máy chủ (hoặc container).
+    * Demo việc kiểm thử gRPC API sau khi đã triển khai.
+    * Demo việc kết nối gRPC API với giao diện hệ thống.
+    * Demo việc cài đặt công cụ và viết API cho một tính năng của đồ án bằng GraphQL (không bắt buộc cần có kết nối với cơ sở dữ liệu).
+    * Demo việc triển khai thực tế GraphQL API trên 1 máy chủ (hoặc container).
+    * Demo việc kiểm thử GraphQL API sau khi đã triển khai.
+    * Demo việc kết nối GraphQL API với giao diện hệ thống.
+* Tài liệu tham khảo:
+    * Thomas Hunter II (2021). Distributed Systems with Node.js. O'Reilly Media. (Chapter 2. Protocols.)
+    * Leonard Richardson and Mike Amundsen (2013). RESTful Web APIs. O'Reilly Media.
+    * Kasun Indrasiri and Danesh Kuruppu (2020). gRPC - Up & Running - Building Cloud Native Applications with Go and Java for Docker and Kubernetes. O'Reilly Media.
+    * Adam D. Scott (2020). JavaScript Everywhere - Building Cross-Platform Applications with GraphQL, React, React Native, and Electron. O'Reilly Media.
 
 ### 5.3. Chủ đề 3: Phần identity and access management của hệ thống nên được thiết kế và xây dựng như thế nào?
-* Số nhóm thuyết trình dự kiến: 2 nhóm (ưu tiên 1 nhóm web, 1 nhóm mobile).
-
-Nội dung cần trình bày:
-•	Demo một tính năng của hệ thống đã được tích hợp với phần identity and access management.
-•	Giải thích các công cụ đã dùng và các bước để thực hiện tính năng trên.
-Các câu hỏi thường gặp:
-•	Demo việc lấy mã nguồn và build không lỗi.
-•	Demo việc cài đặt hệ thống hỗ trợ identity and access management.
-•	Demo việc tích hợp hệ thống hỗ trợ identity and access management vào một chức năng của hệ thống cần bảo mật.
-•	Demo việc kiểm tra tính bảo mật của chức năng vừa cài đặt.
-
-Tài liệu tham khảo:
-•	Justin Richer and Antonio Sanso (2017). OAuth 2 in Action. Manning Publications.
-•	Neil Madden (2020). API Security in Action. Manning Publications.
-•	Prabath Siriwardena and Nuwan Dias (2020). Microservices Security in Action. Manning Publications.
-•	https://www.keycloak.org/guides
-•	https://www.okta.com/
-•	https://www.pingidentity.com/en.html
-•	https://www.microsoft.com/en-us/security/business/microsoft-entra
+* Số nhóm thuyết trình **dự kiến**: 2 nhóm (ưu tiên 1 nhóm web, 1 nhóm mobile).
+* Nội dung cần trình bày:
+    * Demo một tính năng của hệ thống đã được tích hợp với phần identity and access management.
+    * Giải thích các công cụ đã dùng và các bước để thực hiện tính năng trên.
+* Các **câu hỏi** thường gặp:
+    * Demo việc lấy mã nguồn của nhóm từ source control và build không lỗi.
+    * Demo việc cài đặt hệ thống hỗ trợ identity and access management.
+    * Demo việc cài đặt các thư viện để kết nối với hệ thống hỗ trợ identity and access management.
+    * Demo việc tích hợp hệ thống hỗ trợ identity and access management vào một chức năng của hệ thống.
+    * Demo việc kiểm tra tính bảo mật của chức năng vừa cài đặt.
+* Tài liệu tham khảo:
+    * Justin Richer and Antonio Sanso (2017). OAuth 2 in Action. Manning Publications.
+    * Neil Madden (2020). API Security in Action. Manning Publications.
+    * Prabath Siriwardena and Nuwan Dias (2020). Microservices Security in Action. Manning Publications.
+    * <a target ="blank" href="https://www.keycloak.org/guides">Keycloak</>
+    * <a target ="blank" href="https://www.okta.com">Okta</>
+    * <a target ="blank" href="https://www.pingidentity.com/en.html">PingIdentity</>
+    * <a target ="blank" href="https://www.microsoft.com/en-us/security/business/microsoft-entra">Microsoft Entra ID</>
 
 ### 5.4. Chủ đề 4: Thiết kế và xây dựng hệ thống như thế nào để giảm sự phụ thuộc vào các công nghệ và tăng khả năng quản lý sự phức tạp của hệ thống?
 * Số nhóm thuyết trình dự kiến: 1 nhóm.
