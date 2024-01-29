@@ -37,7 +37,7 @@ _Tài liệu mô tả các chủ đề thuyết trình theo hướng hệ thốn
 * Tập tin đặt theo mẫu **Nhom_X_Chu De.pptx** (không dấu).
 * Quá thời hạn quy định, các nhóm **quên** không nộp Slides, điểm thuyết trình sẽ không được công nhận.
 
-## 5. Danh sách các chủ đề (Giảng viên sẽ cập nhập dần)
+## 5. Danh sách các chủ đề
 
 ### 5.1. Chủ đề 1: Làm sao để tăng tốc độ phát triển và đảm bảo chất lượng giao diện hệ thống?
 * Số nhóm thuyết trình **dự kiến**: 2 nhóm (ưu tiên 1 nhóm web, 1 nhóm mobile).
