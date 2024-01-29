@@ -14,14 +14,6 @@ _Tài liệu mô tả các chủ đề thuyết trình theo hướng hệ thốn
 * Bài thuyết trình được đánh giá theo số thành viên thực sự hoạt động của nhóm. Do vậy, nếu nhóm có thành viên bỏ nhóm, hoặc không tham gia vào bài thuyết trình, trưởng nhóm cần **thông báo trực tiếp cho giảng viên vào buổi thuyết trình**, để các nhóm được đánh giá công bằng với nhau.
 
 ## 2. Quy định về bài thuyết trình
-https://www.espocrm.com/demo/
-
-
-
-
-
-
-
 * Các nhóm **phải có Slides** khi thuyết trình, kể cả khi nội dung thuyết trình tập trung vào **demo công cụ sử dụng** và **sản phẩm tạo ra**.
 * Trong Slides, phải có trang 2, liệt kê các **thành viên trong nhóm tham gia vào bài thuyết trình**.
 * Trong Slides, phải có trang 3, liệt kê **các nội dung cần trình bày**.
