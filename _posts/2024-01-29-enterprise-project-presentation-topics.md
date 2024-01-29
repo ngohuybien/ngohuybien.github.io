@@ -110,10 +110,10 @@ _Tài liệu mô tả các chủ đề thuyết trình theo hướng hệ thốn
     * Justin Richer and Antonio Sanso (2017). OAuth 2 in Action. Manning Publications.
     * Neil Madden (2020). API Security in Action. Manning Publications.
     * Prabath Siriwardena and Nuwan Dias (2020). Microservices Security in Action. Manning Publications.
-    * <a target ="blank" href="https://www.keycloak.org/guides">Keycloak</>
-    * <a target ="blank" href="https://www.okta.com">Okta</>
-    * <a target ="blank" href="https://www.pingidentity.com/en.html">PingIdentity</>
-    * <a target ="blank" href="https://www.microsoft.com/en-us/security/business/microsoft-entra">Microsoft Entra ID</>
+    * <a target ="blank" href="https://www.keycloak.org/guides">Keycloak</a>
+    * <a target ="blank" href="https://www.okta.com">Okta</a>
+    * <a target ="blank" href="https://www.pingidentity.com/en.html">PingIdentity</a>
+    * <a target ="blank" href="https://www.microsoft.com/en-us/security/business/microsoft-entra">Microsoft Entra ID</a>
 
 ### 5.4. Chủ đề 4: Thiết kế và xây dựng hệ thống như thế nào để giảm sự phụ thuộc vào các công nghệ và tăng khả năng quản lý sự phức tạp của hệ thống?
 * Số nhóm thuyết trình **dự kiến**: 1 nhóm.
@@ -129,53 +129,58 @@ _Tài liệu mô tả các chủ đề thuyết trình theo hướng hệ thốn
     * Dino Esposito and Andrea Saltarello (2014). Microsoft .NET - Architecting Applications for the Enterprise. Second Edition. Microsoft Press.
     * Vlad Khononov (2021). Learning Domain-Driven Design. O'Reilly Media.
 
-### 5.5. Chủ đề 5: Vấn đề buổi học giải quyết: Thiết kế và xây dựng khả năng mở rộng hệ thống như thế nào?
-* Số nhóm thuyết trình dự kiến: tất cả các nhóm chưa đủ 2 bài thuyết trình.
-Nội dung cần trình bày:
-•	Demo phần xử lý của một API của hệ thống, được chia tải (load balancing) trên 3 máy chủ web (hoặc 3 containers).
-•	Demo phần dữ liệu của một API của hệ thống, được chia tải và sharding trên 3 máy chủ cơ sở dữ liệu.
-•	Demo phương pháp và kết quả kiểm thử khả năng chịu tải (load testing) của toàn hệ thống với số lượng bản ghi dữ liệu tối thiểu là 50,000 cho mỗi đối tượng hoặc bảng.
-•	Demo phương pháp và kết quả kiểm thử ngưỡng chịu tải (stress testing) của toàn hệ thống với số lượng bản ghi dữ liệu tối thiểu là 50,000 cho mỗi đối tượng hoặc bảng.
-•	Demo phần bộ nhớ đệm của hệ thống, được chia tải và sharding trên 3 máy chủ.
-•	Demo phần lưu trữ tập tin của hệ thống, được chia tải và sharding trên 3 máy chủ (nếu có).
- 
-Tài liệu tham khảo:
-•	Derek DeJonghe (2022). NGINX Cookbook. O'Reilly Media. (CHAPTER 1. High-Performance Load Balancing.)
-•	Thomas Hunter II (2021). Distributed Systems with Node.js. O'Reilly Media. (Chapter 3. Scaling.)
-•	Baron Schwartz, Peter Zaitsev, Vadim Tkachenko (2012). High Performance MySQL - Optimization, Backups, and Replication. O'Reilly Media. (CHAPTER 2. Benchmarking MySQL, CHAPTER 10. Replication, CHAPTER 11. Scaling MySQL, CHAPTER 12. High Availability.)
-•	Vinicius M. Grippa and Sergey Kuzmichev (2021). Learning MySQL. O'Reilly Media. (Chapter 13. High Availability, Chapter 15. Load Balancing MySQL.)
-•	Bradshaw Shannon, Eoin Brazil and Kristina Chodorow (2019). MongoDB - The Definitive Guide. 3rd Edition. O'Reilly Media. (Part III. Replication, Part IV. Sharding.)
+### 5.5. Chủ đề 5: Thiết kế và xây dựng khả năng mở rộng hệ thống theo chiều ngang như thế nào?
+* Số nhóm thuyết trình **dự kiến**: Tất cả các nhóm chưa đủ 2 bài thuyết trình.
+* Nội dung cần trình bày:
+    * Demo việc cài đặt và cấu hình các công cụ hỗ trợ.
+    * Demo phần khả năng mở rộng của hệ thống theo chiều ngang (horizontal scaling).
+* Các **câu hỏi** thường gặp:
+    * Demo phần xử lý của một API của hệ thống, được chia tải (load balancing) trên 3 máy chủ web (hoặc 3 containers).
+    * Demo phần dữ liệu lưu trữ từ một API của hệ thống, được chia tải và sharding trên 3 máy chủ cơ sở dữ liệu.
+    * Demo phương pháp và kết quả kiểm thử khả năng chịu tải (load testing) của toàn hệ thống với số lượng bản ghi dữ liệu tối thiểu là 50,000 cho mỗi đối tượng hoặc bảng.
+    * Demo phương pháp và kết quả kiểm thử ngưỡng chịu tải (stress testing) của toàn hệ thống với số lượng bản ghi dữ liệu tối thiểu là 50,000 cho mỗi đối tượng hoặc bảng.
+    * Demo phần bộ nhớ đệm của hệ thống, được chia tải và sharding trên 3 máy chủ.
+    * Demo phần lưu trữ tập tin của hệ thống, được chia tải và sharding trên 3 máy chủ (nếu có).
+* Tài liệu tham khảo:
+    * Derek DeJonghe (2022). NGINX Cookbook. O'Reilly Media. (CHAPTER 1. High-Performance Load Balancing.)
+    * Thomas Hunter II (2021). Distributed Systems with Node.js. O'Reilly Media. (Chapter 3. Scaling.)
+    * Baron Schwartz, Peter Zaitsev, Vadim Tkachenko (2012). High Performance MySQL - Optimization, Backups, and Replication. O'Reilly Media. (CHAPTER 2. Benchmarking MySQL, CHAPTER 10. Replication, CHAPTER 11. Scaling MySQL, CHAPTER 12. High Availability.)
+    * Vinicius M. Grippa and Sergey Kuzmichev (2021). Learning MySQL. O'Reilly Media. (Chapter 13. High Availability, Chapter 15. Load Balancing MySQL.)
+    * Bradshaw Shannon, Eoin Brazil and Kristina Chodorow (2019). MongoDB - The Definitive Guide. 3rd Edition. O'Reilly Media. (Part III. Replication, Part IV. Sharding.)
 
 ### 5.6. Chủ đề 6: Làm sao để đảm bảo chất lượng cho các chức năng của hệ thống?
-* Số nhóm thuyết trình dự kiến: tất cả các nhóm chưa đủ 2 bài thuyết trình.
-
-Nội dung cần trình bày:
-•	Giải thích mã nguồn và thực thi các unit test đã viết cho một hàm back-end của hệ thống.
-•	Giải thích mã nguồn và thực thi các unit test đã viết để tự động hóa việc kiểm thử từ đầu đến cuối (end-to-end testing) cho một chức năng của hệ thống.
-•	Giải thích các công cụ đã dùng và các bước để tạo và thực thi các unit test ở trên (ví dụ Jest, Selenium).
-•	Demo việc triển khai liên tục hệ thống (continuous deployment).
-•	Giải thích các công cụ, dịch vụ đã dùng và các bước để thực hiện việc triển khai liên tục hệ thống (ví dụ Jenkins, CircleCI, AWS CodeDeploy, Azure DevOps Services, GCP).
- 
-Tài liệu tham khảo:
-•	Roy Osherove (2022). The Art of Unit Testing with Examples in JavaScript. Manning Publications.
-•	Vladimir Khorikov (2019). Unit Testing Principles, Practices, and Patterns. Manning Publications.
-•	Chaminda Chandrasekara and Pushpa Herath (2019). Hands-On Functional Test Automation: With Visual Studio 2017 and Selenium. Apress.
-•	Koushik Das (2022). Create an Enterprise-Level Test Automation Framework with Appium. Apress.
-•	Justin Domingus and John Arundel (2022). Cloud Native DevOps with Kubernetes. O'Reilly Media.
-•	Ashley Davis (2021). Bootstrapping Microservices with Docker, Kubernetes, and Terraform. Manning Publications.
+* Số nhóm thuyết trình **dự kiến**: Tất cả các nhóm chưa đủ 2 bài thuyết trình.
+* Nội dung cần trình bày:
+    * Demo việc cài đặt và cấu hình các công cụ hỗ trợ (ví dụ Jest, Selenium).
+    * Giải thích các bước để tạo và thực thi một unit test.
+    * Demo các unit tests của hệ thống.
+    * Giải thích các công cụ, dịch vụ đã dùng và các bước để thực hiện việc triển khai/chuyển giao liên tục hệ thống (ví dụ Jenkins, CircleCI, AWS CodeDeploy, Azure DevOps Services, GCP).
+* Các **câu hỏi** thường gặp:
+    * Giải thích mã nguồn và thực thi các unit test đã viết cho một hàm back-end của hệ thống.
+    * Giải thích mã nguồn và thực thi các unit test đã viết để tự động hóa việc kiểm thử từ đầu đến cuối (end-to-end testing) cho một chức năng của hệ thống.
+    * Demo việc chạy các unit tests trong quá trình triển khai/chuyển giao liên tục hệ thống (continuous deployment) của nhóm.
+* Tài liệu tham khảo:
+    * Roy Osherove (2022). The Art of Unit Testing with Examples in JavaScript. Manning Publications.
+    * Vladimir Khorikov (2019). Unit Testing Principles, Practices, and Patterns. Manning Publications.
+    * Chaminda Chandrasekara and Pushpa Herath (2019). Hands-On Functional Test Automation: With Visual Studio 2017 and Selenium. Apress.
+    * Koushik Das (2022). Create an Enterprise-Level Test Automation Framework with Appium. Apress.
+    * Justin Domingus and John Arundel (2022). Cloud Native DevOps with Kubernetes. O'Reilly Media.
+    * Ashley Davis (2021). Bootstrapping Microservices with Docker, Kubernetes, and Terraform. Manning Publications.
 
 ### 5.7. Chủ đề 7: Thiết kế và xây dựng hệ thống như thế nào để lưu trữ tất cả các trạng thái của ứng dụng nhằm mục đích tăng tốc độ xử lý, dễ dàng tích hợp các hệ thống con, truy vết (Audit Log), gỡ rối (Debugging), sửa chữa, hoặc khôi phục hệ thống?
-* Số nhóm thuyết trình dự kiến: tất cả các nhóm chưa đủ 2 bài thuyết trình.
-Nội dung cần trình bày:
-•	Demo 2 chức năng của hệ thống được hiện thực hóa bằng cách áp dụng CQRS và Event Sourcing.
-•	Giải thích các công cụ đã dùng và các bước để thực hiện 2 chức năng trên.
-Tài liệu tham khảo:
-•	Martin Kleppmann (2016). Making Sense of Stream Processing. O'Reilly Media.
-•	Chris Richardson (2019). Microservices Patterns - With Examples in Java. Manning Publications.
-•	Binildas Christudas (2019). Practical Microservices Architectural Patterns - Event-Based Java Microservices with Spring Boot and Spring Cloud. Apress.
-•	Alexander Dean and Valentin Crettaz (2019). Event Streams in Action - Real-Time Event Systems with Kafka and Kinesis.
-•	Dino Esposito and Andrea Saltarello (2014). Microsoft .NET - Architecting Applications for the Enterprise. Second Edition. Microsoft Press.
-•	Kevin Hoffman (2017). Building Microservices with ASP.NET Core - Develop, Test, and Deploy Cross-Platform Services in the Cloud. O'Reilly.
+* Số nhóm thuyết trình **dự kiến**: Tất cả các nhóm chưa đủ 2 bài thuyết trình.
+* Nội dung cần trình bày:
+    * Demo việc cài đặt và cấu hình các công cụ hỗ trợ (ví dụ EventStoreDB).
+    * Demo 2 chức năng của hệ thống được hiện thực hóa bằng cách áp dụng CQRS và Event Sourcing.
+    * Giải thích các bước để thực hiện 2 chức năng trên.
+* Các **câu hỏi** thường gặp:
+* Tài liệu tham khảo:
+    * Martin Kleppmann (2016). Making Sense of Stream Processing. O'Reilly Media.
+    * Chris Richardson (2019). Microservices Patterns - With Examples in Java. Manning Publications.
+    * Binildas Christudas (2019). Practical Microservices Architectural Patterns - Event-Based Java Microservices with Spring Boot and Spring Cloud. Apress.
+    * Alexander Dean and Valentin Crettaz (2019). Event Streams in Action - Real-Time Event Systems with Kafka and Kinesis.
+    * Dino Esposito and Andrea Saltarello (2014). Microsoft .NET - Architecting Applications for the Enterprise. Second Edition. Microsoft Press.
+    * Kevin Hoffman (2017). Building Microservices with ASP.NET Core - Develop, Test, and Deploy Cross-Platform Services in the Cloud. O'Reilly.
 
 
 
