@@ -98,6 +98,7 @@ _Tài liệu mô tả các chủ đề thuyết trình theo hướng hệ thốn
 ### 5.3. Chủ đề 3: Phần identity and access management của hệ thống nên được thiết kế và xây dựng như thế nào?
 * Số nhóm thuyết trình **dự kiến**: 2 nhóm (ưu tiên 1 nhóm web, 1 nhóm mobile).
 * Nội dung cần trình bày:
+    * Giải thích OAuth 2.
     * Demo một tính năng của hệ thống đã được tích hợp với phần identity and access management.
     * Giải thích các công cụ đã dùng và các bước để thực hiện tính năng trên.
 * Các **câu hỏi** thường gặp:
@@ -118,7 +119,8 @@ _Tài liệu mô tả các chủ đề thuyết trình theo hướng hệ thốn
 ### 5.4. Chủ đề 4: Thiết kế và xây dựng hệ thống như thế nào để giảm sự phụ thuộc vào các công nghệ và tăng khả năng quản lý sự phức tạp của hệ thống?
 * Số nhóm thuyết trình **dự kiến**: 1 nhóm.
 * Nội dung cần trình bày:
-    * Demo một chức năng của hệ thống được xây dựng bằng phương pháp thiết kế từ nghiệp vụ (Domain-Driven Design).
+    * Giải thích phương pháp thiết kế từ nghiệp vụ (Domain-Driven Design).
+    * Demo một chức năng của hệ thống được xây dựng bằng phương pháp thiết kế từ nghiệp vụ.
 * Các **câu hỏi** thường gặp:
     * Demo việc lấy mã nguồn của nhóm từ source control và build không lỗi.
     * Demo việc quá trình chạy của tính năng được xây dựng.
@@ -132,8 +134,9 @@ _Tài liệu mô tả các chủ đề thuyết trình theo hướng hệ thốn
 ### 5.5. Chủ đề 5: Thiết kế và xây dựng khả năng mở rộng hệ thống theo chiều ngang như thế nào?
 * Số nhóm thuyết trình **dự kiến**: Tất cả các nhóm chưa đủ 2 bài thuyết trình.
 * Nội dung cần trình bày:
+    * Giải thích về mở rộng hệ thống theo chiều ngang (horizontal scaling).
     * Demo việc cài đặt và cấu hình các công cụ hỗ trợ.
-    * Demo phần khả năng mở rộng của hệ thống theo chiều ngang (horizontal scaling).
+    * Demo khả năng mở rộng của hệ thống nhóm đã xây dựng theo chiều ngang.
 * Các **câu hỏi** thường gặp:
     * Demo phần xử lý của một API của hệ thống, được chia tải (load balancing) trên 3 máy chủ web (hoặc 3 containers).
     * Demo phần dữ liệu lưu trữ từ một API của hệ thống, được chia tải và sharding trên 3 máy chủ cơ sở dữ liệu.
@@ -151,14 +154,16 @@ _Tài liệu mô tả các chủ đề thuyết trình theo hướng hệ thốn
 ### 5.6. Chủ đề 6: Làm sao để đảm bảo chất lượng cho các chức năng của hệ thống?
 * Số nhóm thuyết trình **dự kiến**: Tất cả các nhóm chưa đủ 2 bài thuyết trình.
 * Nội dung cần trình bày:
-    * Demo việc cài đặt và cấu hình các công cụ hỗ trợ (ví dụ Jest, Selenium).
-    * Giải thích các bước để tạo và thực thi một unit test.
+    * Giải thích test automation.
     * Demo các unit tests của hệ thống.
-    * Giải thích các công cụ, dịch vụ đã dùng và các bước để thực hiện việc triển khai/chuyển giao liên tục hệ thống (ví dụ Jenkins, CircleCI, AWS CodeDeploy, Azure DevOps Services, GCP).
 * Các **câu hỏi** thường gặp:
+    * Demo việc cài đặt và cấu hình các công cụ hỗ trợ viết và chạy các unit tests (ví dụ Jest, Selenium).
+    * Giải thích các bước để tạo và thực thi một unit test.
     * Giải thích mã nguồn và thực thi các unit test đã viết cho một hàm back-end của hệ thống.
-    * Giải thích mã nguồn và thực thi các unit test đã viết để tự động hóa việc kiểm thử từ đầu đến cuối (end-to-end testing) cho một chức năng của hệ thống.
-    * Demo việc chạy các unit tests trong quá trình triển khai/chuyển giao liên tục hệ thống (continuous deployment) của nhóm.
+    * Giải thích mã nguồn và thực thi các unit test đã viết để tự động hóa việc kiểm thử từ đầu đến cuối (end-to-end workflow) cho một tính năng của hệ thống.
+    * Demo việc cài đặt các công cụ để thực hiện việc triển khai/chuyển giao liên tục hệ thống (ví dụ Jenkins).
+    * Demo việc đăng ký các dịch vụ đã dùng và các bước để thực hiện việc triển khai/chuyển giao liên tục hệ thống (ví dụ CircleCI, AWS CodeDeploy, Azure DevOps Services, GCP).
+    * Demo việc chạy các unit tests trong quá trình triển khai/chuyển giao liên tục hệ thống của nhóm.
 * Tài liệu tham khảo:
     * Roy Osherove (2022). The Art of Unit Testing with Examples in JavaScript. Manning Publications.
     * Vladimir Khorikov (2019). Unit Testing Principles, Practices, and Patterns. Manning Publications.
@@ -170,10 +175,13 @@ _Tài liệu mô tả các chủ đề thuyết trình theo hướng hệ thốn
 ### 5.7. Chủ đề 7: Thiết kế và xây dựng hệ thống như thế nào để lưu trữ tất cả các trạng thái của ứng dụng nhằm mục đích tăng tốc độ xử lý, dễ dàng tích hợp các hệ thống con, truy vết (Audit Log), gỡ rối (Debugging), sửa chữa, hoặc khôi phục hệ thống?
 * Số nhóm thuyết trình **dự kiến**: Tất cả các nhóm chưa đủ 2 bài thuyết trình.
 * Nội dung cần trình bày:
-    * Demo việc cài đặt và cấu hình các công cụ hỗ trợ (ví dụ EventStoreDB).
-    * Demo 2 chức năng của hệ thống được hiện thực hóa bằng cách áp dụng CQRS và Event Sourcing.
-    * Giải thích các bước để thực hiện 2 chức năng trên.
+    * Giải thích mô hình CQRS và Event Sourcing.
+    * Demo 2 tính năng của hệ thống được hiện thực hóa bằng cách áp dụng CQRS và Event Sourcing.
 * Các **câu hỏi** thường gặp:
+    * Demo việc cài đặt và cấu hình các công cụ hỗ trợ (ví dụ EventStoreDB).
+    * Demo quá trình viết và chạy **một** tính năng Command và **một** tính năng Query của hệ thống bằng cách áp dụng CQRS và Event Sourcing.
+    * Giải thích các bước để thực hiện 2 tính năng trên.
+    * Giải thích mã nguồn của 2 tính năng trên.
 * Tài liệu tham khảo:
     * Martin Kleppmann (2016). Making Sense of Stream Processing. O'Reilly Media.
     * Chris Richardson (2019). Microservices Patterns - With Examples in Java. Manning Publications.
@@ -182,6 +190,6 @@ _Tài liệu mô tả các chủ đề thuyết trình theo hướng hệ thốn
     * Dino Esposito and Andrea Saltarello (2014). Microsoft .NET - Architecting Applications for the Enterprise. Second Edition. Microsoft Press.
     * Kevin Hoffman (2017). Building Microservices with ASP.NET Core - Develop, Test, and Deploy Cross-Platform Services in the Cloud. O'Reilly.
 
-
+### 5.8. Chủ đề 8 (dự kiến): Thiết kế và xây dựng hệ thống như thế nào để các thành phần của hệ thống không phụ thuộc lẫn nhau?
 
 ### &copy; 2024 Ngô Huy Biên
