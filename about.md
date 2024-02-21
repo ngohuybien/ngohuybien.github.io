@@ -4,17 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at <a target ="blank" href="https://jekyllrb.com/">jekyllrb.com</a>.
 
-[Jekyll source code](https://github.com/jekyll/jekyll)
+    * <a target ="blank" href="https://github.com/jekyll/jekyll">Jekyll source code</a>
+    * <a target ="blank" href="https://jekyllrb.com/docs/permalinks/">Permalinks</a>
+    * <a target ="blank" href="https://pages.github.com/versions/">GitHub Pages Jekyll version</a>
 
-[Permalinks](https://jekyllrb.com/docs/permalinks/)
+You can find the source code for Minima and learn how to work with Minima on <a target ="blank" href="https://github.com/jekyll/minima">minima</a>.
 
-You can find the source code for Minima at GitHub:
-[minima](https://github.com/jekyll/minima)
-
-You can learn how to work with Minima on:
-[working-with-minima](https://github.com/jekyll/minima)
-
-You can learn about Markdown on:
-[www.markdowntutorial.com](https://www.markdowntutorial.com/)
+You can learn about Markdown on <a target ="blank" href="https://www.markdowntutorial.com/">www.markdowntutorial.com</a>.
