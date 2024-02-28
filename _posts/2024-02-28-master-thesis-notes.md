@@ -12,10 +12,10 @@ _Một số thông tin liên quan đến các luận văn cao học do giảng v
 Các bạn có dự định bảo vệ luận văn cần gửi cho giảng viên
 * Luận văn **hoàn chỉnh** trên Overleaf,
 * Mã nguồn và dữ liệu phần mềm (hoặc ứng dụng minh họa) **hoàn chỉnh** trên GitHub,
-* Tài liệu Hướng dẫn cài đặt môi trường, biên dịch và chạy mã nguồn,
-* Tài liệu Hướng dẫn cài đặt môi trường, tiến hành thực nghiệm để đánh giá kết quả
+* Tài liệu Hướng dẫn cài đặt môi trường, **biên dịch** và **chạy** mã nguồn,
+* Tài liệu Hướng dẫn cài đặt môi trường, tiến hành thực nghiệm để **đánh giá** kết quả.
 
-**trước** ngày đăng ký thông tin bảo vệ với Khoa **1 tháng**.
+**TRƯỚC** ngày đăng ký thông tin bảo vệ với Khoa tối thiểu **1 tháng**.
   
 ## 2. Khi nào cần cập nhật tiến độ?
 Mỗi tháng một lần học viên cần 
