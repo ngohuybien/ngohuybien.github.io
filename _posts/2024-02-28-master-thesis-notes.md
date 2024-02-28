@@ -18,10 +18,10 @@ Các bạn có dự định bảo vệ luận văn cần gửi cho giảng viên
 **trước** ngày đăng ký thông tin bảo vệ với Khoa **1 tháng**.
   
 ## 2. Khi nào cần cập nhật tiến độ?
-Mỗi tháng một lần các em 
+Mỗi tháng một lần học viên cần 
 * Duplicate Timeline ra bản mới (**đừng xóa bản cũ**), 
 * Cập nhật lại các công việc và tiến độ trong Preceden cho phù hợp với kế hoạch dự kiến của các bạn, và 
-* Gửi cho thầy link Timeline mới vào trong Confluence nhé.
+* Gửi cho giảng viên liên kết đến Timeline mới trong trang Confluence _Tiến độ_.
  
 ## 3. Dùng công cụ nào để viết đề cương, luận văn và tóm tắt luận văn?
 * Học viên **phải** sử dụng LaTeX để viết đề cương, luận văn, và tóm tắt luận văn.
