@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Một số thông tin cho các đề tài cao học"
+title: "Một số thông tin cho các luận văn cao học"
 categories: [Luận văn cao học]
 author:
 - Ngô Huy Biên
 meta: "Master Thesis Notes"
 ---
-_Một số thông tin liên quan đến các đề tài cao học do giảng viên Ngô Huy Biên hướng dẫn._
+_Một số thông tin liên quan đến các luận văn cao học do giảng viên Ngô Huy Biên hướng dẫn._
 
 ## 1. Khi nào có thể đăng ký bảo vệ?
 Các bạn có dự định bảo vệ luận văn cần gửi cho giảng viên
