@@ -13,7 +13,7 @@ Các bạn có dự định bảo vệ luận văn cần gửi cho giảng viên
 (1) Luận văn **hoàn chỉnh** trên Overleaf,
 (2) Mã nguồn và dữ liệu phần mềm (hoặc ứng dụng minh họa) **hoàn chỉnh** trên GitHub,
 (3) Tài liệu Hướng dẫn cài đặt môi trường, biên dịch và chạy mã nguồn,
-(4) Tài liệu Hướng dẫn cài đặt môi trường, tiến hành thực nghiệm để đánh giá kết quả.
+(4) Tài liệu Hướng dẫn cài đặt môi trường, tiến hành thực nghiệm để đánh giá kết quả
 **trước** ngày đăng ký thông tin bảo vệ với Khoa **1 tháng**.
   
 ## 2. Khi nào cần cập nhật tiến độ?
