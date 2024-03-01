@@ -26,28 +26,32 @@ Một số tham khảo để lên ý tưởng:
 ## 3. Nội dung Slides
 
 ### 3.1. Hiện trạng
-* Slides cần thể hiện **3 hệ thống tương tự** có sẵn, tổng hợp, phân tích, đánh giá các tính năng của các hệ thống đó dựa trên các định hướng sau: 
-  * 3 hệ thống trên giải quyết vấn đề gì trong đời sống thực. Các vấn đề cần được thể hiện bằng những điều không thể thực hiện được hoặc đang thực hiện một cách khó khăn, tốn kém làm ảnh hưởng đến thời gian và chi phí của con người hoặc tổ chức. Các vấn đề cũng có thể được thể hiện bằng những gì gây nên sự đau đớn, sợ hãi, mệt mỏi của con người.
-  * Điều gì các ứng dụng đang có làm mình không thích.
-  * Điều gì mình cần mà các ứng dụng đang có không hỗ trợ.
-  * Điều gì làm mình cảm thấy thoải mái, vui thích trong tâm hồn.
-* Slides cần có **bảng so sánh các tính năng** của 3 ứng dụng tương tự có sẵn.
-* Slides cần có danh sách **các vấn đề** phát hiện, dưới dạng các hạn chế của 3 ứng dụng tương tự có sẵn.
+* Slides cần thể hiện **1 hệ thống tương tự** có sẵn, tổng hợp, phân tích, đánh giá các tính năng của các hệ thống đó dựa trên các định hướng sau:
+  * Các vai trò trong đời sống thực là gì?
+  * Hệ thống trên giải quyết vấn đề gì, của ai (vai trò nào), trong đời sống thực.
+      * Các vấn đề cần được thể hiện bằng những điều không thể thực hiện được hoặc đang thực hiện một cách khó khăn, tốn kém làm ảnh hưởng đến thời gian và chi phí của con người hoặc tổ chức.
+      * Các vấn đề cũng có thể được thể hiện bằng những gì gây nên sự đau đớn, sợ hãi, mệt mỏi của con người.
+  * Hệ thống trên đã giải quyết vấn đề cho vai trò, từng bước một, như thế nào.
+  * Điều gì hệ thống đang có mà mình không thích.
+  * Điều gì mình đang cần mà hệ thống đang có không hỗ trợ.
+  * Điều gì hệ thống làm mình cảm thấy thoải mái, vui thích trong tâm hồn.
+* Slides cần có **danh sách các tính năng** của hệ thống tương tự có sẵn.
+* Slides nên có danh sách **các hạn chế** của hệ thống tương tự có sẵn.
 
 ### 3.2. Động cơ
 Slides cần thể hiện được động cơ xây dựng hệ thống. Các lý do thường ở các dạng sau.
-* Chi phí sử dụng các hệ thống có sẵn quá cao.
-* Việc bảo mật dữ liệu và đảm bảo tính riêng tư của các hệ thống có sẵn chưa phù hợp với yêu cầu đặc thù.
+* Chi phí sử dụng hệ thống có sẵn quá cao.
+* Việc bảo mật dữ liệu và đảm bảo tính riêng tư của hệ thống có sẵn chưa phù hợp với yêu cầu đặc thù.
 * Các hạn chế của hệ thống có sẵn ảnh hưởng đến chi phí, thời gian thực hiện công việc và trải nghiệm người dùng.
-* Hệ thống chưa được địa phương hóa hoặc nhằm chất lượng chưa dựa trên sự địa phương hóa.
-* Lý do xây dựng lại hệ thống là nhằm mục đích học tập
-* Các ý tưởng sinh viên tự đề xuất thêm (nếu có).
+* Hệ thống chưa được địa phương hóa cho người Việt, hoặc chất lượng dánh cho người Việt chưa đạt trải nghiệm mong muốn.
+* Lý do xây dựng lại hệ thống là nhằm **mục đích học tập**.
+* Các động cơ sinh viên tự phát hiện và đề xuất (nếu có).
 
 ### 3.3. Các mục tiêu
 * Slides cần thể hiện các mục tiêu dưới dạng các giải pháp cho vấn đề.
 * Các mục tiêu có thể được thể hiện bằng nhiều mức.
 * Ở **mức độ đầu tiên** các mục tiêu thường được thể hiện bằng cách **diễn đạt ngược lại** vấn đề gặp phải.
-* Slides cần thể hiện ít nhất **một luồng quy trình nghiệp vụ** nhằm đạt được **một mục tiêu** đề ra.
+* Slides cần thể hiện ít nhất **MỘT luồng quy trình nghiệp vụ** nhằm đạt được **MỘT mục tiêu** đề ra.
 * Dựa vào luồng quy trình, Slides cần **liệt kê các tính năng dự kiến** sẽ được thực hiện. Mỗi tính năng đề xuất luôn cần trả lời được các câu hỏi:
   * Tính năng này dành cho bước nào trong luồng quy trình?
   * Quy trình này nhằm đạt được mục tiêu nào?
@@ -63,7 +67,7 @@ Slides cần thể hiện cách tiếp cận dự kiến thông qua các sản p
 * Các mục tiêu kiểm thử dự định sẽ được thực hiện trên hệ thống (hoạt động của hệ thống, giao diện, khả năng tải, bảo mật, áp lực lên hệ thống), 
 * Phương pháp so sánh, đánh giá hệ thống với một hệ thống tương tự (lập bảng so sánh tính năng, khảo sát người dùng dựa trên vấn đề cần giải quyết), và 
 * Danh sách các công nghệ, công cụ dự định sẽ sử dụng.
-* Sinh viên cần mô tả, giải thích cụ thể được các sơ đồ khi trình bày Slides.
+* Sinh viên cần mô tả, giải thích cụ thể được các sơ đồ nếu được hỏi thêm.
   
 ### 3.5. Kết quả dự kiến của đề tài
 Slides cần thể hiện các sản phẩm dự kiến sẽ thu được. Các sản phẩm này có thể bao gồm, nhưng không giới hạn các sản phẩm sau.
