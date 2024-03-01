@@ -19,7 +19,7 @@ _Tài liệu hướng dẫn viết đề xuất dự án lĩnh vực hệ thốn
 ## 2. Ý tưởng cho đề tài
 Một số tham khảo để lên ý tưởng:
 * Ứng dụng di động: Sinh viên tham khảo các ứng dụng, trò chơi trên App Store, Google Play.
-* Ứng dụng web (có thể kết hợp với di động): xử lý vấn đề nghiệp vụ thực tế và xử lý dữ liệu lớn bằng công nghệ trong y học, giao thông, giáo dục, truyền thông, ngân hàng.
+* Ứng dụng web (có thể kết hợp với di động): xử lý vấn đề nghiệp vụ thực tế và xử lý dữ liệu lớn bằng công nghệ trong kinh doanh, y học, giao thông, giáo dục, truyền thông, ngân hàng.
 * Bảo mật (có thể áp dụng ứng dụng để bàn hoặc máy trạm): ứng dụng dựa trên blockchain; ứng dụng cung cấp giải pháp bảo mật cho các lĩnh vực đặc thù, ví dụ như email, chat, họp trực tuyến, đồng bộ hóa lưu trữ với đám mây.
 * Ý tưởng sáng tạo của cá nhân.
 
