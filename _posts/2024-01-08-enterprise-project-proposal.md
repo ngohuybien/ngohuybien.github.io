@@ -32,9 +32,9 @@ Một số tham khảo để lên ý tưởng:
       * Các vấn đề cần được thể hiện bằng những điều không thể thực hiện được hoặc đang thực hiện một cách khó khăn, tốn kém làm ảnh hưởng đến thời gian và chi phí của con người hoặc tổ chức.
       * Các vấn đề cũng có thể được thể hiện bằng những gì gây nên sự đau đớn, sợ hãi, mệt mỏi của con người.
   * Hệ thống trên đã giải quyết vấn đề cho vai trò, từng bước một, như thế nào.
+  * Điều gì hệ thống đang có làm mình cảm thấy thoải mái, vui thích trong tâm hồn (thường đối với Games).
   * Điều gì hệ thống đang có mà mình không thích.
   * Điều gì mình đang cần mà hệ thống đang có không hỗ trợ.
-  * Điều gì hệ thống làm mình cảm thấy thoải mái, vui thích trong tâm hồn.
 * Slides cần có **danh sách các tính năng** của hệ thống tương tự có sẵn.
 * Slides nên có danh sách **các hạn chế** của hệ thống tương tự có sẵn.
 
