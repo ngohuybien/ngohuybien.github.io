@@ -16,17 +16,17 @@ Các bạn có dự định bảo vệ luận văn cần gửi cho giảng viên
 * Tài liệu Hướng dẫn cài đặt môi trường, tiến hành thực nghiệm để **đánh giá** kết quả.
 
 **TRƯỚC** ngày đăng ký thông tin bảo vệ với Khoa tối thiểu **1 tháng**.
-  
+
 ## 2. Khi nào cần cập nhật tiến độ?
 Mỗi tháng một lần học viên cần 
 * Duplicate Timeline ra bản mới (**đừng xóa bản cũ**), 
-* Cập nhật lại các công việc và tiến độ trong Preceden cho phù hợp với kế hoạch dự kiến của các bạn, và 
+* Cập nhật lại các công việc và tiến độ trong Preceden cho phù hợp với kế hoạch dự kiến của các bạn, và
 * Gửi cho giảng viên liên kết đến Timeline mới trong trang Confluence _Tiến độ_.
- 
+* Các bạn **tự chọn** thời điểm mình dự kiến bảo vệ dựa vào mục tiêu, kế hoạch cá nhân và quy định của Trường/Khoa, nhưng luôn cần cập nhật vào Preceden để giảng viên biết.
+  
 ## 3. Dùng công cụ nào để viết đề cương, luận văn và tóm tắt luận văn?
 * Học viên **phải** sử dụng LaTeX để viết đề cương, luận văn, và tóm tắt luận văn.
-* Học viên có thể đăng ký tài khoản trang web của <a target = "blank" href = "https://www.overleaf.com/">Overleaf</a> để viết đề cương.
-* Học viên có thể hiệu chỉnh lại <a target = "blank" href = "https://www.overleaf.com/read/qxbpwhmkcfbh#94c634">biểu mẫu khóa luận (đại học) của Khoa</a> để viết đề cương.
+* Học viên viết trực tiếp trên trang Overleaf mà giảng viên đã tạo.
 * Các phần khác (như Trang thông tin) học viên có thể dùng template của Trường.
 
 ### &copy; 2024 Ngô Huy Biên
