@@ -19,7 +19,7 @@ _Tài liệu hướng dẫn viết đề xuất dự án lĩnh vực hệ thốn
 ## 2. Ý tưởng cho đề tài
 Một số tham khảo để lên ý tưởng:
 * Ứng dụng di động: Sinh viên tham khảo các ứng dụng, trò chơi trên App Store, Google Play.
-* Ứng dụng web (có thể kết hợp với di động): xử lý vấn đề nghiệp vụ thực tế và xử lý dữ liệu lớn bằng công nghệ trong kinh doanh, y học, giao thông, giáo dục, truyền thông, ngân hàng.
+* Ứng dụng web (có thể kết hợp với di động): xử lý vấn đề nghiệp vụ thực tế và xử lý dữ liệu lớn bằng công nghệ trong kinh doanh, giao thông, giáo dục, truyền thông, y học, ~~ngân hàng~~.
 * Bảo mật (có thể áp dụng ứng dụng để bàn hoặc máy trạm): ứng dụng dựa trên blockchain; ứng dụng cung cấp giải pháp bảo mật cho các lĩnh vực đặc thù, ví dụ như email, chat, họp trực tuyến, đồng bộ hóa lưu trữ với đám mây.
 * Ý tưởng sáng tạo của cá nhân.
 
@@ -43,7 +43,7 @@ Slides cần thể hiện được động cơ xây dựng hệ thống. Các l�
 * Chi phí sử dụng hệ thống có sẵn quá cao.
 * Việc bảo mật dữ liệu và đảm bảo tính riêng tư của hệ thống có sẵn chưa phù hợp với yêu cầu đặc thù.
 * Các hạn chế của hệ thống có sẵn ảnh hưởng đến chi phí, thời gian thực hiện công việc và trải nghiệm người dùng.
-* Hệ thống chưa được địa phương hóa cho người Việt, hoặc chất lượng dánh cho người Việt chưa đạt trải nghiệm mong muốn.
+* Hệ thống chưa được địa phương hóa cho người Việt, hoặc chất lượng dành cho người Việt chưa phù hợp với mong muốn.
 * Lý do xây dựng lại hệ thống là nhằm **mục đích học tập**.
 * Các động cơ sinh viên tự phát hiện và đề xuất (nếu có).
 
@@ -65,7 +65,7 @@ Slides cần thể hiện cách tiếp cận dự kiến thông qua các sản p
 * Mô hình dữ liệu, 
 * Thuật toán, 
 * Các mục tiêu kiểm thử dự định sẽ được thực hiện trên hệ thống (hoạt động của hệ thống, giao diện, khả năng tải, bảo mật, áp lực lên hệ thống), 
-* Phương pháp so sánh, đánh giá hệ thống với một hệ thống tương tự (lập bảng so sánh tính năng, khảo sát người dùng dựa trên vấn đề cần giải quyết), và 
+* Phương pháp so sánh, đánh giá hệ thống với hệ thống tương tự (lập bảng so sánh tính năng, khảo sát người dùng dựa trên vấn đề cần giải quyết), và 
 * Danh sách các công nghệ, công cụ dự định sẽ sử dụng.
 * Sinh viên cần mô tả, giải thích cụ thể được các sơ đồ nếu được hỏi thêm.
   
