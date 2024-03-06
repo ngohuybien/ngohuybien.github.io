@@ -89,19 +89,19 @@ _Tài liệu mô tả các sản phẩm cần nộp cho đồ án theo hướng 
 
 ## 3. Hình thức và thời hạn nộp
 Các sản phẩm của đồ án được nộp làm **2 lần**:
-* Lần 1:
+* Lần 1 (giữa kỳ):
     * Các nhóm in ra tất cả các sản phẩm đã được dạy trong thư mục **01_Documents**,
     * Demo trực tiếp sản phẩm đã triển khai, **trong 15 phút**, và 
     * Trả lời các câu hỏi của giảng viên, vào **tuần thứ 6** của môn học đối với lớp CLC, hoặc **tuần thứ 8** của môn học đối với lớp CQ, **tại lớp học lý thuyết**.
     * Chỉ những bạn sinh viên có mặt ở buổi kiểm tra mới có điểm đồ án giữa kỳ.
-* Lần 2:
+* Lần 2 (cuối kỳ):
     * Nhóm trưởng các nhóm nộp bản mềm điện tử tất cả các sản phẩm ở mục 2. trong tài liệu này, không nén, cho lớp trưởng.
     * Đối với các tài liệu, các nhóm **có thể cập nhật** lại nếu cần.
     * Lớp trưởng nén thư mục của toàn lớp lại thành 1 tập tin .zip hoặc .rar, chỉ **một tập tin .zip hoặc .rar duy nhất** cho toàn lớp.
     * Lớp trưởng liên hệ và nộp cho giảng viên **qua email** vào thứ 6, **tuần thứ 11** của môn học đối với lớp CLC, hoặc **tuần thứ 15** của môn học đối với lớp CQ.
 
 ## 4. Các tiêu chí đánh giá
-* Kết quả **lần 1** được đánh giá dựa trên **các câu hỏi thường gặp** dưới đây:
+* Kết quả **lần 1 (giữa kỳ)** được đánh giá dựa trên **các câu hỏi thường gặp** dưới đây:
     * Demo **một vấn đề** được giải quyết bằng hệ thống đã xây dựng (một business case).
     * Demo quy trình nhóm đã áp dụng để xây dựng hệ thống tính đến thời điểm hiện tại thông qua các dữ liệu của bảng Kanban.
     * Demo việc build và tích hợp mã nguồn giữa các thành viên.
@@ -111,7 +111,7 @@ Các sản phẩm của đồ án được nộp làm **2 lần**:
     * Giải thích Logical View, Process View của kiến trúc thông qua mã nguồn của một story đã được hoàn thành.
     * Giải thích Deployment View của kiến trúc thông qua hệ thống đã triển khai.
 
-* Kết quả **lần 2** của đồ án được đánh giá dựa trên 4 yếu tố:
+* Kết quả **lần 2 (cuối kỳ)** của đồ án được đánh giá dựa trên 4 yếu tố:
     * Việc hoàn thành toàn bộ và chất lượng nội dung của các sản phẩm ở mục 2. trong tài liệu này.
     * Việc hoàn thành toàn bộ Product Backlog và việc thể hiện được các business cases thông qua hệ thống đã xây dựng.
     * Việc so sánh kết quả của đồ án với 1 hệ thống tương tự.
