@@ -35,7 +35,7 @@ _Tài liệu hướng dẫn viết đề cương cao học, lĩnh vực khoa h�
         * Học viên có thể xem xét mở rộng bằng cách hiệu chỉnh mã nguồn có sẵn nhằm **cải thiện tốc độ**, **cải thiện độ chính xác** của giải pháp. Phần Experiments hoặc Performance của bài báo có thể hỗ trợ thông tin cho việc phân tích này.
         * Học viên có thể xem xét mở rộng bằng cách hiệu chỉnh mã nguồn có sẵn cho một **bộ dữ liệu khác**, trong một **môi trường khác**, trong một **lĩnh vực khác**. Phần **Experiments** hoặc **Case Study** của bài báo có thể hỗ trợ thông tin cho phần phân tích này.
 * Tên đề tài học viên đề xuất là gì? Thường có thể là "Giải pháp XYZ cho bài toán ABC", hoặc "Hệ thống ABC dựa trên giải pháp XYZ".
-* Học viên gửi kết quả tìm hiểu ở mục 1. dưới dạng một file PDF cho giảng viên để thảo luận và thống nhất **tên đề tài**, **bài toán** và **phạm vi**, sau đó nhận xác nhận của giảng viên để bắt đầu viết đề cương.
+* Học viên **in ra** các kết quả tìm hiểu, bao gồm **bài báo lựa chọn**, **hướng đi lựa chọn**, **bài toán cụ thể**, **phạm vi**, **tên đề tài**, và **thảo luận trực tiếp với giảng viên** để thống nhất và nhận xác nhận của giảng viên trước khi bắt đầu viết đề cương.
 * Học viên cần **hoàn thành mục 1. trước** thời hạn nộp đơn đăng ký thực hiện luận văn của Trường **ít nhất là 1 tháng**.
   
 ## 2. Nội dung đề cương
