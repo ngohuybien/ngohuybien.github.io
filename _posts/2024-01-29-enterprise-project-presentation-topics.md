@@ -124,7 +124,7 @@ _Tài liệu mô tả các chủ đề thuyết trình theo hướng hệ thốn
     * Demo một chức năng của hệ thống được xây dựng bằng phương pháp thiết kế từ nghiệp vụ.
 * Các **câu hỏi** thường gặp:
     * Demo việc lấy mã nguồn của nhóm từ source control và build không lỗi.
-    * Demo việc quá trình chạy của tính năng được xây dựng.
+    * Demo quá trình chạy chi tiết qua từng thành phần của Domain-Driven Design của một tính năng đã được xây dựng.
     * Giải thích mục đích của các thành phần tham gia vào quá trình chạy của tính năng.
 * Tài liệu tham khảo:
     * Eric Evans (2003). Domain-Driven Design - Tackling Complexity in the Heart of Software. Addison Wesley.
