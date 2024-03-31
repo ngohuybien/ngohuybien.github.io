@@ -119,7 +119,7 @@ Các sản phẩm của đồ án được nộp làm **2 lần**:
         * Đồ án phải áp dụng microservices.
         * Đồ án phải áp dụng các thư viện hỗ trợ giao diện có sẵn (ví dụ React, Bootstrap).
         * Đồ án phải có áp dụng RESTful API, gRPC API, và GraphQL API.
-        * Đồ án **KHÔNG** tự thực hiện phần identity and access (authentication/authorization) management, mà **phải** sử dụng công cụ có sẵn (ví dụ Keycloak, Okta).
+        * Đồ án **KHÔNG** tự thực hiện phần identity and access (authentication/authorization) management, mà **phải** sử dụng công cụ có sẵn (ví dụ Keycloak, Okta, Microsoft Entra ID, Duende Identity Server, ASP.NET Core Identity).
         * Đồ án phải có áp dụng domain-driven design.
         * Đồ án phải có áp dụng test automation.
         * Đồ án phải có áp dụng continuous deployment.
