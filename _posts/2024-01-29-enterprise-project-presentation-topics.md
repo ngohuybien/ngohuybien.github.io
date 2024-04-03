@@ -1,4 +1,4 @@
-![image](https://github.com/ngohuybien/ngohuybien.github.io/assets/146669970/694539c0-e187-4894-a927-7ae73b81d6cb)![image](https://github.com/ngohuybien/ngohuybien.github.io/assets/146669970/859dc6fb-f81d-4d93-b624-60c8d4e377cc)---
+---
 layout: post
 title: "Các chủ đề thuyết trình theo hướng hệ thống doanh nghiệp"
 categories: [Software Engineering Capstone]
