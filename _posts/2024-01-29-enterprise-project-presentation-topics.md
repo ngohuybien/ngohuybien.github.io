@@ -1,4 +1,4 @@
----
+![image](https://github.com/ngohuybien/ngohuybien.github.io/assets/146669970/694539c0-e187-4894-a927-7ae73b81d6cb)![image](https://github.com/ngohuybien/ngohuybien.github.io/assets/146669970/859dc6fb-f81d-4d93-b624-60c8d4e377cc)---
 layout: post
 title: "Các chủ đề thuyết trình theo hướng hệ thống doanh nghiệp"
 categories: [Software Engineering Capstone]
@@ -113,9 +113,10 @@ _Tài liệu mô tả các chủ đề thuyết trình theo hướng hệ thốn
     * Neil Madden (2020). API Security in Action. Manning Publications.
     * Prabath Siriwardena and Nuwan Dias (2020). Microservices Security in Action. Manning Publications.
     * <a target ="blank" href="https://www.keycloak.org/guides">Keycloak</a>
-    * <a target ="blank" href="https://www.okta.com">Okta</a>
-    * <a target ="blank" href="https://www.pingidentity.com/en.html">PingIdentity</a>
-    * <a target ="blank" href="https://www.microsoft.com/en-us/security/business/microsoft-entra">Microsoft Entra ID</a>
+    * <a target ="blank" href="https://www.okta.com/free-trial/">Okta</a>
+    * <a target ="blank" href="https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id">Microsoft Entra ID</a>
+    * <a target ="blank" href="https://cloud.google.com/identity">Cloud Identity</a>
+    * <a target ="blank" href="https://www.pingidentity.com/en/platform/deployment-options.html">PingIdentity</a>
 
 ### 5.4. Chủ đề 4: Thiết kế và xây dựng hệ thống như thế nào để giảm sự phụ thuộc vào các công nghệ và tăng khả năng quản lý sự phức tạp của hệ thống?
 * Số nhóm thuyết trình **dự kiến**: 1 nhóm.
