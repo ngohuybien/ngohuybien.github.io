@@ -116,7 +116,7 @@ _Tài liệu mô tả các chủ đề thuyết trình theo hướng hệ thốn
     * <a target ="blank" href="https://www.okta.com/free-trial/">Okta</a>
     * <a target ="blank" href="https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id">Microsoft Entra ID</a>
     * <a target ="blank" href="https://cloud.google.com/identity">Cloud Identity</a>
-    * <a target ="blank" href="https://www.pingidentity.com/en/platform/deployment-options.html">PingIdentity</a>
+    * <a target ="blank" href="https://www.pingidentity.com/en/platform/deployment-options.html">Ping Identity</a>
 
 ### 5.4. Chủ đề 4: Thiết kế và xây dựng hệ thống như thế nào để giảm sự phụ thuộc vào các công nghệ và tăng khả năng quản lý sự phức tạp của hệ thống?
 * Số nhóm thuyết trình **dự kiến**: 1 nhóm.
