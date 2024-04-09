@@ -76,6 +76,9 @@ _Tài liệu mô tả các chủ đề thuyết trình theo hướng hệ thốn
 * Nội dung cần trình bày:
     * Demo 3 APIs của hệ thống: một sử dụng RESTful, một sử dụng gRPC, và một sử dụng GraphQL.
     * Giải thích các công cụ đã dùng và các bước để hoàn thành 3 APIs ở trên.
+    * Giải thích giao thức HTTP 1.1.
+    * Giải thích các khái niệm: Binary Encoding, Text Encoding, Serialization,  Deserialization, Text Protocol, Binary Protocol.
+    * Giải thích định dạng Protocol Buffers, giao thức HTTP/2.
 * Các **câu hỏi** thường gặp:
     * Demo việc lấy mã nguồn của nhóm từ source control và build không lỗi.
     * Demo việc cài đặt công cụ và viết API cho một tính năng của đồ án bằng RESTful (không bắt buộc cần có kết nối với cơ sở dữ liệu).
