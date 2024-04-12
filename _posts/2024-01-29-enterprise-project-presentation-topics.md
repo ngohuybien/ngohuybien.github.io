@@ -97,6 +97,7 @@ _Tài liệu mô tả các chủ đề thuyết trình theo hướng hệ thốn
     * Thomas Hunter II (2021). Distributed Systems with Node.js. O'Reilly Media. (Chapter 2. Protocols.)
     * Leonard Richardson and Mike Amundsen (2013). RESTful Web APIs. O'Reilly Media.
     * Kasun Indrasiri and Danesh Kuruppu (2020). gRPC - Up & Running - Building Cloud Native Applications with Go and Java for Docker and Kubernetes. O'Reilly Media.
+    * Barry Pollard (2019). HTTP/2 in Action. Manning Publications.
     * Adam D. Scott (2020). JavaScript Everywhere - Building Cross-Platform Applications with GraphQL, React, React Native, and Electron. O'Reilly Media.
 
 ### 5.3. Chủ đề 3: Phần identity and access management của hệ thống nên được thiết kế và xây dựng như thế nào?
