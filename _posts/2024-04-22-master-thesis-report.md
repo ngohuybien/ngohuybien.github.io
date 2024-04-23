@@ -11,8 +11,8 @@ _Tài liệu hướng dẫn viết báo cáo luận văn cao học, lĩnh vực 
 ## 1. Thông tin chung
 * Học viên tuyệt đối **KHÔNG chép lại từ các nguồn tiếng Việt (hoặc chép và sửa vài từ), KHÔNG dịch lại từ các nguồn tiếng Anh**.
 *	Học viên cần ghi đầy đủ các tài liệu tham khảo, và chỉ dùng **sách, bài báo** và các liên kết đến các trường học, viện nghiên cứu.
-*	Sinh viên **KHÔNG** dùng liên kết đến Wikipedia hay bất cứ trang tin tức nào.
-*	Với mỗi tài liệu tham khảo, học viên phải có trích dẫn trong báo cáo.
+*	Học viên **KHÔNG** dùng liên kết đến Wikipedia hay bất cứ trang tin tức nào.
+*	Với mỗi tài liệu trong danh mục tham khảo, học viên phải có trích dẫn trong báo cáo.
 * Học viên cần thể hiện các tài liệu tham khảo theo chuẩn <a href = "https://www.mybib.com/tools/ieee-citation-generator">IEEE</a> hoặc ACM.
 *	Các liên kết nếu có học viên để trong Footnote tại trang đề cập, **KHÔNG** để trong danh mục tài liệu tham khảo.
 *	Trong báo cáo học viên hạn chế tối đa mã nguồn và việc sử dụng các liên kết.
@@ -43,12 +43,12 @@ Báo cáo thường có cấu trúc sau:
     * Các vai trò quan tâm (roles, business cases), các vấn đề (problems) họ gặp phải.
     * Giải thích tại sao phải giải quyết những vấn đề đó. Có nhu cầu thực tế không? Mang lại lợi ích thực tế gì? (nên có số liệu tin cậy, cụ thể)
     * Khảo sát hiện trạng quy trình thủ công trong thực tế nếu có.
-    * Khảo sát, tổng hợp, phân tích, đánh giá **1 hệ thống tương tự** của **bài báo** đã lựa chọn. Hệ thống này đã làm ra những sản phẩm nào, quy trình nào, tính năng nào để giải quyết vấn đề trên. Lập bảng so sánh các sản phẩm một cách chi tiết dựa trên từng quy trình thực tế. Phân tích điểm mạnh, điểm yếu, điểm chưa hoàn chỉnh.
+    * Khảo sát, tổng hợp, phân tích, đánh giá **bản mẫu** của **bài báo** đã lựa chọn hoặc **một hệ thống thương mại tương tự** có liên quan đến bài báo đã lựa chọn. Hệ thống này đã làm ra những sản phẩm nào, quy trình nào, tính năng nào để giải quyết vấn đề đang đề cập. Lập bảng so sánh các sản phẩm một cách chi tiết dựa trên từng quy trình thực tế. Phân tích điểm mạnh, điểm yếu, điểm chưa hoàn chỉnh.
 * Phát biểu bài toán
     * Đề tài giải quyết vấn đề cụ thể nào (WHAT)? của ai (WHO)?
-    * Mô tả **luồng quy trình nghiệp vụ** dự kiến (use cases) đề tài sẽ thực hiện để giải quyết vấn đề cho từng vai trò (end-to-end business workflows), các chức năng cần có để thực thi luồng quy trình nghiệp vụ đề ra. Học viên có thể chỉ trình bày 1 hoặc 2 luồng nghiệp vụ chính ở chương này, những luồng phụ cần để trong Phụ lục.
+    * Mô tả **luồng quy trình nghiệp vụ** dự kiến (use cases) đề tài sẽ thực hiện để giải quyết vấn đề cho từng vai trò (end-to-end business workflows), các chức năng cần có để thực thi luồng quy trình nghiệp vụ đề ra. Học viên chỉ trình bày 1 hoặc 2 luồng nghiệp vụ chính ở chương này, những luồng khác nếu có cần để trong Phụ lục.
 * Mục tiêu và yêu cầu chi tiết của đề tài:
-    * Đề tài giải quyết vấn đề hay khắc phục điểm yếu của hệ thống đã có? Mục tiêu khi làm đề tài này là gì? Các tính năng cần đạt được là gì? Các sản phẩm cần đạt được là gì?
+    * Đề tài giải quyết vấn đề mới hay khắc phục điểm yếu của hệ thống đã có? Mục tiêu khi làm đề tài này là gì? Các tính năng cần đạt được là gì? Các sản phẩm cần đạt được là gì?
     * Phần mục tiêu cần **bao gồm tối thiểu** các mục tiêu mà giảng viên đã trao đổi với học viên trong các buổi trao đổi trực tiếp.
     * Phần mục tiêu cần ghi rõ, ngắn gọn, gạch đầu dòng: Các sản phẩm cần đạt được, các tính năng cần đạt được, các cải tiến cần đạt được. Cần loại bỏ các mục tiêu mơ hồ, không thể hiện được bằng sản phẩm.
 * Phạm vi đề tài: Các nội dung sẽ không quan tâm, các tính năng sẽ không thực hiện?
@@ -58,12 +58,12 @@ Báo cáo thường có cấu trúc sau:
     * Vì vấn đề P (dẫn chứng bằng số liệu) nên người ta đã xây dựng hệ thống S3. Hệ thống S3 thiếu các tính năng F1, F2 hoặc có các hạn chế L3, L4 (dẫn chứng bằng khảo sát). Chúng tôi đề xuất xây dựng hệ thống S4 tương tự hệ thống S3 và bổ sung tính năng F1, tính năng F2, hoặc nhằm khắc phục hạn chế L3, L4.
 
 ### 3.2. Chương 2 – Cơ sở lý thuyết (10 trang)
-* Trình bày các kiến thức nền tảng liên quan đến từng vấn đề cần giải quyết của đề tài, dựa vào **bài báo** và **các công nghệ** đã lựa chọn, phần mềm tham khảo. Các kiến thức trong chương 2 là các kiến thức đã được chứng minh là đúng. Sinh viên chỉ cần liệt kê các thuật ngữ thật ngắn gọn, không cần đi chi tiết vào diễn giải hay trình bày chi tiết các thuật ngữ này.
-* So sánh phân tích các giải pháp hiện có, kiến trúc, thuật toán đề xuất.
+* Trình bày các kiến thức nền tảng liên quan đến từng vấn đề cần giải quyết của đề tài, dựa vào **bài báo** đã lựa chọn và **các sách hay bài báo** có liên quan. Các kiến thức trong chương 2 là các kiến thức đã được chứng minh là đúng. Học viên chỉ cần liệt kê các thuật ngữ thật ngắn gọn, không cần đi chi tiết vào diễn giải hay trình bày chi tiết các thuật ngữ này.
 * Nội dung chương có thể trình bày các mẫu kiến trúc, các mô hình, các thuật toán, các độ đo **đã được chứng minh là hiệu quả**, sẽ được **dùng trong đề tài**.
+* So sánh phân tích các giải pháp hiện có, kiến trúc, thuật toán đề xuất.
 * Mạch logich của Chương 2 thường như sau:
     * Ở chương 1 đề tài đã đề xuất giải pháp NEW_S1. Giải pháp NEW_S1 được xây dựng trên nền tảng lý thuyết T1. T1 là ... Chúng ta quan tâm đến T1 vì ... T1 hoạt động như sau ...
-    * Ở chương 1 đề tài đã đề xuất xây dựng hệ thống S4. Hệ thống S4 được xây dựng trên nền tảng lý thuyết T4. T4 là ... Chúng ta quan tâm đến T4 vì ... T4 hoạt động như sau ...
+    * Ở chương 1 đề tài đã đề xuất xây dựng hệ thống S2. Hệ thống S2 được xây dựng trên nền tảng lý thuyết T2. T2 là ... Chúng ta quan tâm đến T2 vì ... T2 hoạt động như sau ...
     * Ở chương 1 đề tài đã đề xuất giải pháp NEW_S1. Giải pháp NEW_S1 có thể được đánh giá, so sánh với giải pháp S1 bằng độ đo M1. M1 được đề xuất bởi ... Chúng ta quan tâm đến M1 vì ... M1 hoạt động như sau ...
 
 ### 3.3. Chương 3 – Giải pháp đề xuất (15 trang)
@@ -75,21 +75,20 @@ Báo cáo thường có cấu trúc sau:
     * Thiết kế kiến trúc tổng quan của hệ thống: Mô tả bằng các sơ đồ và diễn giải từng thành phần trong sơ đồ.
     * Các thuật toán để hiện thực các tính năng cốt lõi của hệ thống: Mô tả bằng các sơ đồ và diễn giải từng thành phần trong sơ đồ.
 * Mạch logich của Chương 3 thường như sau:
-    * Ở chương 1 chúng tôi đề xuất xây dựng hệ thống S4.
-    * Chúng tôi thiết kế hệ thống S4 như sau: S4 bao gồm các thành phần sau… S4 hoạt động như sau…. Chúng tôi thiết kế S4 như vậy vì…
+    * Ở chương 1 chúng tôi đề xuất xây dựng hệ thống S1.
+    * Chúng tôi thiết kế hệ thống S1 như sau: S1 bao gồm các thành phần sau… S1 hoạt động như sau…. Chúng tôi thiết kế S1 như vậy vì…
     * Ở chương 1 chúng tôi đề xuất giải pháp NEW_S1. Chúng tôi thiết kế giải pháp NEW_S1 như sau: hình vẽ hoặc sơ đồ. Diễn giải: NEW_S1 bao gồm các thành phần sau… NEW_S1 hoạt động như sau…. Chúng tôi đề xuất thiết kế NEW_S1 như vậy vì ...
-    * Ở chương 1 chúng tôi đề xuất giải pháp NEW_S2. Chúng tôi thiết kế giải pháp NEW_S2 như sau: hình vẽ hoặc sơ đồ. Diễn giải: NEW_S2 bao gồm các thành phần sau… NEW_S2 hoạt động như sau…. Chúng tôi thiết kế NEW_S2 như vậy vì…
 
 ### 3.4. Chương 4 – Cài đặt giải pháp (10 trang)
 * Phần lớn nội dung chi tiết của chương này nằm ở Phụ lục, chỉ các ý chính được trình bày trong báo cáo. Học viên tập trung chủ yếu vào việc **báo cáo kinh nghiệm thực tế**. Mô tả các kinh nghiệm xử lý các vấn đề gặp phải khi áp dụng nền tảng, công cụ, ngôn ngữ vào việc cài đặt hệ thống hoặc xây dựng bản mẫu.
 * Những kết quả nào đã có sẵn (nền tảng, khung ứng dụng, thư viện, mã nguồn có sẵn, dữ liệu có sẵn)? Những kết quả này tồn tại vấn đề gì chưa giải quyết hoặc cung cấp sẵn các tính năng nào trong việc giải quyết vấn đề đặt ra?
 * Đề tài đã tạo thêm các công cụ để xử lý tác vụ đặc thù nào, đã chỉnh/thêm dữ liệu nào, đã chỉnh/thêm các thành phần hệ thống có sẵn nào, đã chỉnh/thêm mã nguồn có sẵn nào. Những thay đổi này dùng để giải quyết vấn đề gì?
 * Các công cụ nào đã được dùng để cài đặt, kiểm thử từng giải pháp hoặc từng thành phần ở Chương 3.
-* Các kinh nghiệm thực tế về các vấn đề phát sinh khi cài đặt giải pháp. Nội dung này là quan trọng nhất và nên được lựa chọn theo từng vấn đề thực tế mà nhóm sinh viên gặp phải, nhằm trình bày các kinh nghiệm, phân tích và đánh giá giải pháp của công nghệ mới so với kỹ thuật truyền thống.
-* Mạch logich của Chương 3 thường như sau:
+* Các kinh nghiệm thực tế về các vấn đề phát sinh khi cài đặt giải pháp. Nội dung này là quan trọng nhất và nên được lựa chọn theo từng vấn đề thực tế mà học viên gặp phải, nhằm trình bày các kinh nghiệm, phân tích và đánh giá giải pháp của công nghệ mới so với kỹ thuật truyền thống.
+* Mạch logich của Chương 4 thường như sau:
    * Ở chương 3 chúng tôi đã trình bày thiết kế của giải pháp NEW_S1. Giải pháp NEW_S1 được chúng tôi cài đặt bằng công cụ, thành phần, thư viện sau ... Khi cài đặt giải pháp NEW_S1 bằng công cụ, thành phần, thư viện ... chúng tôi gặp các vấn đề sau… Chúng tôi đã giải quyết như sau ... Chúng tôi rút ra kinh nghiệm sau ...
-   * Hệ thống S4 được chúng tôi cài đặt bằng công cụ, thành phần, thư viện ... Khi cài đặt hệ thống S4 bằng công cụ, thành phần, thư viện ... chúng tôi gặp các vấn đề sau ... Chúng tôi đã giải quyết như sau ... Chúng tôi rút ra kinh nghiệm sau ...
-   * Sinh viên có thể lập bảng để trình bày ngắn gọn hơn.
+   * Hệ thống S1 được chúng tôi cài đặt bằng công cụ, thành phần, thư viện ... Khi cài đặt hệ thống S1 bằng công cụ, thành phần, thư viện ... chúng tôi gặp các vấn đề sau ... Chúng tôi đã giải quyết như sau ... Chúng tôi rút ra kinh nghiệm sau ...
+   * Học viên có thể lập bảng để trình bày ngắn gọn hơn.
 
 ### 3.5. Chương 5 – Đánh giá giải pháp (15 trang)
 * Đề tài đã xây dựng được hệ thống phần mềm hay bản mẫu với bao nhiêu dòng mã nguồn, bao nhiêu hàm/lớp, bao nhiêu mối liên hệ giữa các hàm/lớp, bao nhiêu bảng dữ liệu, bao nhiêu mối liên hệ giữa các bảng, bao nhiêu màn hình giao diện?
