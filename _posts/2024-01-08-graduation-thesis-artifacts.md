@@ -19,7 +19,7 @@ _Tài liệu mô tả các sản phẩm cần nộp của khóa luận hoặc th
 ### 2.1. Thư mục gốc tên là KL_TênĐềTàiKhôngDấu hoặc TTDATN_TênĐềTàiKhôngDấu
 Thư mục gốc chứa
 * Tập tin **ReadMe.txt** chứa thông tin liên lạc với nhóm tác giả (họ và tên, email cá nhân, số điện thoại cá nhân), và 
-* Tập tin **CheckList.xlsx** liệt kê **tất cả** các thư mục và sản phẩm được mô tả ở bên dưới, bao gồm cả những thư mục hay sản phẩm không nộp do không liên quan đến đề tài, dạng hình cây, và đánh dấu chọn ( ☑ ) vào những **sản phẩm được nộp**.
+* Tập tin **CheckList.xlsx** liệt kê **tất cả** các thư mục con và sản phẩm được mô tả ở bên dưới, bao gồm cả những thư mục con hay sản phẩm được mô tả bên dưới nhưng không nộp do không liên quan đến đề tài, dạng hình cây, và đánh dấu chọn ( ☑ ) vào những **sản phẩm được nộp**.
 
 ### 2.2. Thư mục THESIS chứa
 * Thư mục tên **DeCuong_LaTeX**: chứa đề cương đề tài.
