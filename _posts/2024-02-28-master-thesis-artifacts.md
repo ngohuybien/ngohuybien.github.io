@@ -23,7 +23,7 @@ Thư mục gốc chứa
 * Thư mục tên **Proposal_LaTeX**: chứa đề cương của đề tài.
 * Thư mục tên **Abstract_LaTeX**: chứa tóm tắt của đề tài.
 * Thư mục tên **Report_LaTeX**: chứa quyển báo cáo của đề tài.
-* Thư mục tên **PDF**: chứa file **Proposal.pdf** kèm mục lục dạng Bookmarks bên trái, file **Abstract.pdf** kèm mục lục dạng Bookmarks bên trái, và file **BaoCao.pdf** kèm mục lục dạng Bookmarks bên trái.
+* Thư mục tên **PDF**: chứa file **Proposal.pdf** kèm mục lục dạng Bookmarks bên trái, file **Abstract.pdf** kèm mục lục dạng Bookmarks bên trái, và file **Report.pdf** kèm mục lục dạng Bookmarks bên trái.
 * Thư mục tên **Slides**: chứa file **Slides.pptx** dùng để thuyết trình khi bảo vệ.
 * Thư mục tên **Videos**: chứa file **Demo.mp4** quay demo hệ thống, file **DryRun.mp4** quay bảo vệ thử.
 
