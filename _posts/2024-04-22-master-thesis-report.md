@@ -97,7 +97,7 @@ Báo cáo thường có cấu trúc sau:
 * Đề tài đã xây dựng đã xây dựng được hệ thống phần mềm với những tính năng nổi bật nào, đã giải quyết được những vấn đề gì trong thực tế.
 * Bảng so sánh các nghiệp vụ chính của phần mềm so với một hệ thống tương tự.
 * Đánh giá định lượng dựa trên **các độ đo tiêu chẩn**: độ đo nào được sử dụng, quá trình đo lường diễn ra như thế nào, dữ liệu đo lường là gì, các dữ liệu được tính toán ra sao, kết quả thể hiện điều gì.
-* Đánh giá định tính lợi ích của sản phẩm khi áp dụng vào môi trường thực: các nội dung khảo sát là gì, các dữ liệu khảo sát được tính toán như thế nào, kết quả thể hiện điều gì.
+* Đánh giá định tính dựa trên **các tiêu chí** mà ngành công nghiệp hoặc cộng đồng nghiên cứu thường dùng để đánh giá sản phẩm: các nội dung khảo sát là gì, các dữ liệu khảo sát được tính toán như thế nào, kết quả thể hiện điều gì.
 * Đánh giá định tính hoặc định lượng **lợi ích của sản phẩm** khi áp dụng vào môi trường thực: tiết kiệm bao nhiêu thời gian, chi phí so với giải pháp thủ công, dữ liệu khảo sát hay dữ liệu đo lường nào thể hiện điều này.
 * Đề tài luôn bắt buộc phải có đánh giá định lượng hoặc định tính, hoặc cả hai.
 * Mạch logich của Chương 4 thường như sau:
