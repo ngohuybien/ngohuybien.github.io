@@ -42,9 +42,9 @@ Thư mục gốc chứa
   * File **ModelTraningGuide.pdf**: là bản PDF của thư mục **ModelTraningGuide_LaTeX**.
 
 ### 2.4. Thư mục GUIDES chứa các thư mục theo mô tả bên dưới.
-* Thư mục **CloudServiceGuide_LaTeX** chứa tài liệu “Hướng dẫn đăng ký các dịch vụ đám mây và cấu hình hệ thống” nếu đề tài có sử dụng các Cloud API của một nhà cung cấp dịch vụ đám mây.
+* Thư mục **CloudServiceGuide_LaTeX** chứa tài liệu “Hướng dẫn đăng ký các dịch vụ đám mây và cấu hình hệ thống để kết nối với các dịch vụ đám mây” nếu đề tài có sử dụng các Cloud API của một nhà cung cấp dịch vụ đám mây.
 * File **CloudServiceGuide.pdf**: là bản PDF của thư mục CloudServiceGuide _LaTeX.
-* File **CloudServiceGuide.mp4**: là file video minh họa việc thực hiện các bước của tài liệu “Hướng dẫn đăng ký các dịch vụ đám mây và cấu hình hệ thống”.
+* File **CloudServiceGuide.mp4**: là file video minh họa việc thực hiện các bước của tài liệu “Hướng dẫn đăng ký các dịch vụ đám mây và cấu hình hệ thống để kết nối với các dịch vụ đám mây”.
 * Thư mục **DeploymentGuide_LaTeX** chứa tài liệu “Hướng dẫn triển khai và cấu hình hệ thống” trên máy chủ EC2, hoặc Google Could, hoặc MS Azure, hoặc Heroku, hoặc một nhà cung cấp dịch vụ Hosting nếu đề tài có phát triển phần web/api server. Sinh viên được khuyến khích sử dụng các kịch bản viết cho các công cụ triển khai tự động, ví dụ như Docker, Kubernetes hay Circle CI, để thu gọn tài liệu “Hướng dẫn triển khai và cấu hình”.
 * File **DeploymentGuide.pdf**: là bản PDF của thư mục DeploymentGuide_LaTeX.
 * File **DeploymentGuide.mp4**: là file video minh họa việc thực hiện các bước của tài liệu “Hướng dẫn triển khai và cấu hình hệ thống”.
