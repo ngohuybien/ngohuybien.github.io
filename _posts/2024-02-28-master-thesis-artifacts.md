@@ -49,7 +49,7 @@ Thư mục gốc chứa
 ### 2.5. Thư mục REFERENCES
 Thư mục REFERENCES chứa các tài liệu tham khảo. Tên các tập tin tài liệu tham khảo cần đặt theo chuẩn APA.    
   
-# 3. Khi nào cần cập nhật tiến độ?
+## 3. Khi nào cần cập nhật tiến độ?
 Mỗi tháng một lần học viên cần 
 * Duplicate Timeline ra bản mới (**đừng xóa bản cũ**), 
 * Cập nhật lại các công việc và tiến độ trong Preceden cho phù hợp với kế hoạch dự kiến của các bạn, và
