@@ -46,13 +46,13 @@ Báo cáo thường có cấu trúc sau:
     * Khảo sát, tổng hợp, phân tích, đánh giá **bản mẫu** của **bài báo** đã lựa chọn hoặc **một hệ thống thương mại tương tự** liên quan trực tiếp đến bài báo đang nghiên cứu. Bản mẫu hay hệ thống thương mại đã làm ra những sản phẩm nào, quy trình nào, tính năng nào để giải quyết vấn đề đang đề cập. Lập bảng so sánh các sản phẩm một cách chi tiết dựa trên từng quy trình thực tế. Phân tích điểm mạnh, điểm yếu, điểm chưa hoàn chỉnh.
 * Phát biểu bài toán
     * Đề tài giải quyết vấn đề cụ thể nào (WHAT)? Của ai (WHO)?
-    * Mô tả **luồng quy trình nghiệp vụ** dự kiến (use cases) đề tài sẽ thực hiện để giải quyết vấn đề cho từng vai trò (end-to-end business workflows), các chức năng cần có để thực thi luồng quy trình nghiệp vụ đề ra. Học viên chỉ trình bày 1 hoặc 2 luồng nghiệp vụ chính ở chương này, những luồng khác nếu có cần để trong Phụ lục.
+    * Mô tả **luồng quy trình nghiệp vụ** dự kiến đề tài sẽ thực hiện để giải quyết vấn đề cho từng vai trò (end-to-end business workflows), các chức năng cần có để thực thi luồng quy trình nghiệp vụ đề ra. Học viên chỉ trình bày 1 hoặc 2 luồng nghiệp vụ chính ở chương này, những luồng khác, nếu có, cần để trong Phụ lục.
     * Bài toán cụ thể là gì? Đầu vào là gì? Đầu ra mong muốn là gì?
 * Mục tiêu và yêu cầu chi tiết của đề tài:
     * Đề tài giải quyết vấn đề mới hay khắc phục điểm yếu của hệ thống đã có? Mục tiêu khi làm đề tài này là gì? Các tính năng cần đạt được là gì? Các sản phẩm cần đạt được là gì?
     * Phần mục tiêu cần **bao gồm tối thiểu** các mục tiêu mà giảng viên đã trao đổi với học viên trong các buổi trao đổi trực tiếp.
     * Phần mục tiêu cần ghi rõ, ngắn gọn, gạch đầu dòng: Các sản phẩm cần đạt được, các tính năng cần đạt được, các cải tiến cần đạt được. Cần loại bỏ các mục tiêu mơ hồ, không thể hiện được bằng sản phẩm.
-* Phạm vi đề tài: Các nội dung sẽ không quan tâm, các tính năng sẽ không thực hiện?
+* Phạm vi đề tài: Các nội dung có liên quan nhưng đề tài sẽ không quan tâm, các tính năng có liên quan nhưng đề tài sẽ không thực hiện?
 * Mạch logich của Chương 1 thường như sau:
     * Vì vấn đề P (dẫn chứng bằng số liệu) nên người ta đề xuất các giải pháp thủ công S1, S2. Các giải pháp S1, S2 có các hạn chế L1, L2 (dẫn chứng). Chúng tôi đề xuất giải pháp NEW_S1 để giải quyết hạn chế L1. Chúng tôi đề xuất giải pháp NEW_S2 để giải quyết hạn chế L2. Giải pháp NEW_S1 khác với giải pháp S1 ở chỗ... Giải pháp NEW_S2 khác với giải pháp S2 ở chỗ ...
     * và/hoặc
@@ -60,7 +60,7 @@ Báo cáo thường có cấu trúc sau:
 
 ### 3.2. Chương 2 – Cơ sở lý thuyết (khoảng 10 trang)
 * Trình bày các kiến thức nền tảng liên quan đến từng vấn đề cần giải quyết của đề tài, dựa vào **bài báo** đã lựa chọn và **các sách hay bài báo** có liên quan. Các kiến thức trong chương 2 là các kiến thức **đã được chứng minh là đúng hoặc hiệu quả**. Học viên chỉ cần liệt kê các thuật ngữ thật ngắn gọn, không cần đi chi tiết vào diễn giải hay trình bày chi tiết các thuật ngữ này.
-* Nội dung chương này có thể trình bày các mẫu kiến trúc, các mô hình, các thuật toán, **các độ đo** **đã được chứng minh là hiệu quả**, sẽ được **dùng trong đề tài**.
+* Nội dung chương này có thể trình bày các mẫu kiến trúc, các mô hình, các thuật toán, **các độ đo đã được chứng minh là hiệu quả**, sẽ được **dùng trong đề tài**.
 * So sánh phân tích các giải pháp hiện có, kiến trúc, thuật toán đề xuất.
 * Mạch logich của Chương 2 thường như sau:
     * Ở chương 1 đề tài đã đề xuất giải pháp NEW_S1. Giải pháp NEW_S1 được xây dựng trên nền tảng lý thuyết T1. T1 là ... Chúng ta quan tâm đến T1 vì ... T1 hoạt động như sau ...
@@ -68,9 +68,9 @@ Báo cáo thường có cấu trúc sau:
     * Ở chương 1 đề tài đã đề xuất giải pháp NEW_S1. Giải pháp NEW_S1 có thể được đánh giá, so sánh với giải pháp S1 bằng độ đo M1. M1 được đề xuất bởi ... Chúng ta quan tâm đến M1 vì ... M1 hoạt động như sau ...
 
 ### 3.3. Chương 3 – Giải pháp đề xuất (khoảng 15 trang)
-* Nội dung chương 3 trình bày giải pháp cho **từng bài toán cụ thể**. Các nội dung cần trình bày **bằng ví dụ**, với các giá trị cụ thể, minh họa cho các khái niệm. Các ví dụ được lấy ra từ hệ thống phần mềm hoặc bản mẫu đã được viết.
+* Nội dung chương 3 trình bày giải pháp cho **từng bài toán cụ thể** (end-to-end business workflows). Các nội dung cần trình bày **bằng ví dụ**, với các giá trị cụ thể, minh họa cho các khái niệm. Các ví dụ được lấy ra từ hệ thống phần mềm hoặc bản mẫu **đã** được viết.
 * Giải pháp được trình bày **không phụ thuộc vào ngôn ngữ lập trình, công cụ sử dụng**.
-* Học viên dựa vào các tài liệu tham khảo, các suy luận, các chuẩn có sẵn, các kết quả đạt được khi thực nghiệm để chứng minh, lý giải vì sao lại chọn giải pháp như vậy cho từng vấn đề hay mục tiêu.
+* Học viên dựa vào các tài liệu tham khảo, các suy luận, các chuẩn có sẵn, các kết quả đạt được khi thực nghiệm để chứng minh, lý giải vì sao lại chọn giải pháp như vậy cho từng bài toán.
 * Nội dung chương 3 có thể bao gồm, nhưng không giới hạn:
     * Giải pháp lưu trữ dữ liệu: Mô tả bằng các sơ đồ và diễn giải từng thành phần trong sơ đồ.
     * Thiết kế kiến trúc tổng quan của hệ thống: Mô tả bằng các sơ đồ và diễn giải từng thành phần trong sơ đồ.
