@@ -109,6 +109,7 @@ _Tài liệu mô tả các chủ đề thuyết trình theo hướng hệ thốn
 * Các **câu hỏi** thường gặp:
     * Demo việc lấy mã nguồn của nhóm từ source control và build không lỗi.
     * Demo việc cài đặt hệ thống hỗ trợ identity and access management.
+    * Demo và giải thích dữ liệu raw (database) của hệ thống hỗ trợ identity and access management, nếu được phép truy cập.
     * Demo việc cài đặt các thư viện để kết nối với hệ thống hỗ trợ identity and access management.
     * Demo việc tích hợp hệ thống hỗ trợ identity and access management vào một chức năng của hệ thống.
     * Demo việc kiểm tra tính bảo mật của chức năng vừa cài đặt.
