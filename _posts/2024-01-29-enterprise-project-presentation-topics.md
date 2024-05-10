@@ -186,8 +186,8 @@ _Tài liệu mô tả các chủ đề thuyết trình theo hướng hệ thốn
     * Demo 2 tính năng của hệ thống được hiện thực hóa bằng cách áp dụng CQRS và Event Sourcing.
 * Các **câu hỏi** thường gặp:
     * Demo việc cài đặt và cấu hình các công cụ hỗ trợ (ví dụ EventStoreDB).
-    * Demo quá trình viết và chạy **một** tính năng Command và **một** tính năng Query của hệ thống bằng cách áp dụng CQRS và Event Sourcing.
-    * Giải thích các bước để thực hiện 2 tính năng trên.
+    * Demo quá trình viết và chạy **một** tính năng ghi dữ liệu vào hệ thống (Command) và **một** tính năng một tính năng báo cáo từ dữ liệu của hệ thống (Query) của hệ thống bằng cách áp dụng CQRS và Event Sourcing.
+    * Giải thích cách để thực hiện 2 tính năng trên từng bước một.
     * Giải thích mã nguồn của 2 tính năng trên.
 * Tài liệu tham khảo:
     * Martin Kleppmann (2016). Making Sense of Stream Processing. O'Reilly Media.
