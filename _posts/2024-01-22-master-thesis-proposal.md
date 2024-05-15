@@ -9,7 +9,7 @@ meta: "Master Thesis Proposal"
 _Tài liệu hướng dẫn viết đề cương cao học, lĩnh vực khoa học máy tính, hệ thống thông tin, công nghệ phần mềm, do giảng viên Ngô Huy Biên hướng dẫn._
 
 ## 1. Xác định vấn đề và giải pháp
-* Học viên chọn **một bài báo** yêu thích và tìm hiểu **vấn đề** bài báo đề cập và **giải pháp** đề xuất.
+* Học viên chọn **một bài báo** yêu thích và tìm hiểu **vấn đề** bài báo đề cập và **giải pháp** đề xuất của bài báo.
 * Nếu học viên chưa có bài báo yêu thích thì có thể tìm theo từ khóa chủ đề mình quan tâm trên <a target = "blank" href = "https://scholar.google.com/">Google Scholar</a> hoặc <a target = "blank" href = "https://paperswithcode.com/">Paper with Code</a>.
 
 ## 2. Lựa chọn hướng đi
