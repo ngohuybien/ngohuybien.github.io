@@ -19,7 +19,7 @@ _Tài liệu hướng dẫn viết đề cương cao học, lĩnh vực khoa h�
 * Học viên chọn cụ thể một hướng đi trong 3 hướng ở trên để phân tích giải pháp.
 
 ## 3. Phân tích giải pháp
-Học viên phân tích giải pháp theo hướng đi cụ thể đã lựa chọn.
+Học viên phân tích giải pháp theo hướng đi cụ thể đã lựa chọn. Mục đích chính của bước này là xác định được **bài toán cụ thể** và thực sự cần giải quyết?
    * #### Hướng 2.1
        * Giải pháp đề xuất đã được ứng dụng ở hệ thống phần mềm thực tế nào hay chưa?
        * Tại sao lại cần xây dựng mã nguồn cho giải pháp đề xuất? Ai là người có nhu cầu? Nhu cầu thực sự là gì?
@@ -33,7 +33,7 @@ Học viên phân tích giải pháp theo hướng đi cụ thể đã lựa ch�
        * Dựa trên các **tiêu chí** hay **độ đo** nào, ví dụ: feasibility, performance, scalability, security, cost, time, mean opinion score, BLEU score, ROUGE score, để so sánh các giải pháp trên với nhau (**quan trọng**)? Phần **Evaluation**,  **Performance**, hoặc **Experience** của bài báo có thể hỗ trợ thông tin cho phần phân tích này. Học viên có thể chỉ cần chọn **một** hoặc **hai tiêu chí** là đủ. Học viên cần lưu ý nếu chọn tiêu chí feasibility thì phải chưa có nghiên cứu có hoàn cảnh tương tự được thực hiện.
        * Học viên dự định thu thập các **dữ liệu** nào để đánh giá tiêu chí hay độ đo được lựa chọn ở trên (**quan trọng**)?
        * Học viên dự định sẽ chọn hệ thống thực tế nào để so sánh với hệ thống của mình. Thông thường, hệ thống cũ khi chưa áp dụng giải pháp, có thể được chọn.
-  * #### Hướng 1.3
+  * #### Hướng 2.3
        * Giải pháp đề xuất đã được ứng dụng ở hệ thống phần mềm thực tế nào hay chưa?
        * Giải pháp có vấn đề gì, thiếu sót gì mà cần mở rộng? Ý tưởng mở rộng là gì? Ai là người có nhu cầu, hoặc sẽ quan tâm?
        * Dự kiến mã nguồn/thư viện/hệ thống có thể mở rộng ở đâu. Phần **Conclusion** hoặc **Future Work** của bài báo có thể hỗ trợ hỗ trợ thông tin cho phần phân tích này.
