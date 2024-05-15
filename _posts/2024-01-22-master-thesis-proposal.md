@@ -19,7 +19,7 @@ _Tài liệu hướng dẫn viết đề cương cao học, lĩnh vực khoa h�
 * Học viên chọn cụ thể một hướng đi trong 3 hướng ở trên để phân tích giải pháp.
 
 ## 3. Phân tích giải pháp
-Học viên phân tích giải pháp theo hướng đi cụ thể đã lựa chọn. Mục đích chính của bước này là xác định được **bài toán cụ thể** và thực sự cần giải quyết?
+Học viên phân tích giải pháp theo hướng đi cụ thể đã lựa chọn. Mục đích chính của bước này là xác định được **bài toán cụ thể**, thực sự cần giải quyết?
    * #### Hướng 2.1
        * Giải pháp đề xuất đã được ứng dụng ở hệ thống phần mềm thực tế nào hay chưa?
        * Tại sao lại cần xây dựng mã nguồn cho giải pháp đề xuất? Ai là người có nhu cầu? Nhu cầu thực sự là gì?
