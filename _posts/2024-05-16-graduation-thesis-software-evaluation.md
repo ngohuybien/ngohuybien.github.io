@@ -52,7 +52,7 @@ _Tài liệu mô tả một số tiêu chí có thể dùng để tự đánh gi
 ## 3.	Kết quả tự đánh giá
 * Sinh viên tạo một file Excel với tên gọi **Software_Evaluation.xlsx**, và liệt kê tất cả các tiêu chí ở trên.
 * Sinh viên có thể đề xuất thêm các tiêu chí khác vào cuối file, nếu có, để phần mềm của mình được đánh giá toàn diện hơn.
-* Sinh viên đánh dấu chọn vào những tiêu chí nào phần mềm đạt được.
+* Sinh viên đánh dấu chọn ( ☑ ) vào những tiêu chí nào phần mềm đạt được.
 
 ## 4.	Thông tin thêm
 * Sinh viên tham khảo một số tiêu chí đánh giá hằng năm của Khoa ở <a target = "_blank" href = "https://bit.ly/3JECzJ6">đây</a>.
