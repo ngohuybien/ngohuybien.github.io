@@ -22,7 +22,7 @@ _Tài liệu mô tả một số tiêu chí có thể dùng để tự đánh gi
 * Phần mềm đã loại bỏ việc phải kéo (scroll) thanh ngang khi sử dụng hay chưa?
 * Validation messages, error messages đã có chưa?
 * Phần mềm đã loại bỏ các incomplete/unavailable features, broken links hay chưa?
-* Giao diện có tương tự với phần mềm mẫu không?
+* Giao diện đã tương tự với phần mềm mẫu hay chưa?
 
 ### 2.2. Nghiệp vụ
 * Nghiệp vụ có tương đương hoặc tốt hơn giải pháp thủ công (trivial solution) không?
