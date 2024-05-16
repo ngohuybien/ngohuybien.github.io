@@ -18,7 +18,7 @@ _Tài liệu hướng dẫn viết đề cương cao học, lĩnh vực khoa h�
     * Nếu theo hướng này học viên cần **tạo trước** được mã nguồn Proof of Concept từ nội dung bài báo. Nếu học viên tạo được mã nguồn Proof of Concept thì bài báo có thể dùng cho phần phân tích tiếp theo.
 * #### Hướng 2 - Áp dụng giải pháp vào hệ thống khác
     * Nếu bài báo **đã có sẵn mã nguồn/thư viện/hệ thống** (do đó không cần tạo mã nguồn Proof of Concept nữa) thì học viên **cần có hệ thống riêng của mình** hoặc **tìm được một hệ thống mã nguồn mở phù hợp** để áp dụng giải pháp vào.
-    * Mục đích là để đánh giá xem vấn đề trong hệ thống riêng này có thực sự cần phải giải quyết như bài báo đề cập hay không, và giải pháp có thực sự giải quyết được vấn đề bài báo đề cập hay không.
+    * Mục đích là để đánh giá xem **vấn đề trong hệ thống riêng này** có thực sự cần phải giải quyết như bài báo đề cập hay không, và giải pháp đề xuất trong bài báo có thực sự giải quyết được vấn đề trong hệ thống riêng này hay không.
     * Mã nguồn của hệ thống riêng của học viên sẽ phải công bố sau này.
     * Nếu học viên có hệ thống riêng hoặc tìm được hệ thống mã nguồn mở phù hợp thì bài báo có thể dùng cho phần phân tích tiếp theo.
 * #### Hướng 3 - Cải tiến giải pháp
