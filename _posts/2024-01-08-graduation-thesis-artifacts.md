@@ -20,6 +20,8 @@ _Tài liệu mô tả các sản phẩm cần nộp của khóa luận hoặc th
 Thư mục gốc chứa
 * Tập tin **ReadMe.txt** chứa thông tin liên lạc với nhóm tác giả (họ và tên, email cá nhân, số điện thoại cá nhân), và 
 * Tập tin **CheckList.xlsx** liệt kê **tất cả** các thư mục con và sản phẩm được mô tả ở bên dưới, bao gồm cả những thư mục con hay sản phẩm được mô tả bên dưới nhưng không nộp do không liên quan đến đề tài, dạng hình cây, và đánh dấu chọn ( ☑ ) vào những **sản phẩm được nộp**.
+* Tập tin **Software_Evaluation.xlsx** liệt kê **tất cả** các tiêu chí đánh giá phần mềm đã xây dựng, được giảng viên gợi ý, dạng danh sách, và đánh dấu chọn ( ☑ ) vào những **kết quả tự đánh giá** là đạt được.
+* Tập tin **Report_Evaluation.xlsx** liệt kê **tất cả** các tiêu chí đánh giá báo cáo của đề tài, được giảng viên gợi ý, dạng danh sách, và đánh dấu chọn ( ☑ ) vào những **kết quả tự đánh giá** là đạt được.
 
 ### 2.2. Thư mục THESIS chứa
 * Thư mục tên **DeCuong_LaTeX**: chứa đề cương đề tài.
