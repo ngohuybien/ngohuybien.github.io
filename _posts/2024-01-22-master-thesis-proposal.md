@@ -24,7 +24,8 @@ _Tài liệu hướng dẫn viết đề cương cao học, lĩnh vực khoa h�
 * #### Hướng 3 - Cải tiến giải pháp
     * Nếu bài báo **đã có sẵn mã nguồn/thư viện/hệ thống** (do đó không cần tạo mã nguồn Proof of Concept nữa), và từ nền tảng và kinh nghiệm của mình, học viên có các ý tưởng để **mở rộng mã nguồn** thì bài báo có thể dùng cho phần phân tích tiếp theo.
     * Học viên cũng có thể chọn **mở rộng mã nguồn** nếu trong quá trình tìm hiểu bài báo học viên phát hiện các vấn đề có thể xảy ra đối với giải pháp đề xuất.
-* Học viên chọn cụ thể 1 trong 3 hướng đi ở trên để phân tích tiếp theo.
+
+Học viên chọn cụ thể 1 trong 3 hướng đi ở trên để phân tích tiếp theo.
 
 ## 3. Phân tích giải pháp
 Học viên phân tích giải pháp theo 1 hướng đi cụ thể đã lựa chọn. Mục đích chính của việc phân tích này là xác định được **bài toán cụ thể**, thực sự cần giải quyết?
