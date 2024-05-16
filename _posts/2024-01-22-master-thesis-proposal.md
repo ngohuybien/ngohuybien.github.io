@@ -41,7 +41,7 @@ Học viên phân tích giải pháp theo 1 hướng đi cụ thể đã lựa c
        * Kết quả **thực sự** của đề tài sẽ là gì? Ai là người sẽ quan tâm? Trong công nghệ phần mềm, người quan tâm thực sự đến kết quả đề tài thường là các lập trình viên. Tại sao các lập trình viên lại cần quan tâm đến kết quả đề tài? (thường là do họ gặp vấn đề gì đó và không thể làm tốt theo cách thông thường), và kết quả của mình sẽ mang lại lợi ích thực tế gì cho họ (thường là sẽ giải quyết vấn đề họ gặp phải).
        * Dựa trên các **tiêu chí** hay **độ đo** nào, ví dụ: feasibility, performance, scalability, security, cost, time, mean opinion score, BLEU score, ROUGE score, để so sánh các giải pháp trên với nhau (**quan trọng**)? Phần **Evaluation**,  **Performance**, hoặc **Experience** của bài báo có thể hỗ trợ thông tin cho phần phân tích này.
        * Học viên có thể chỉ cần chọn **một** hoặc **hai tiêu chí** là đủ.
-       * Học viên lưu ý nếu chọn tiêu chí **feasibility** thì cần đảm bảo rằng chưa có hệ thống cụ thể nào đã áp dụng giải pháp đề xuất bởi bài báo, và diễn giải được động cơ thực sự để đánh giá tính khả thi của giải pháp.
+       * Học viên lưu ý nếu chọn tiêu chí **feasibility** thì cần đảm bảo rằng chưa có hệ thống cụ thể nào đã áp dụng giải pháp đề xuất bởi bài báo, và lý giải được động cơ thực sự để đánh giá tính khả thi của giải pháp.
        * Học viên dự định thu thập các **dữ liệu** nào để đánh giá tiêu chí hay độ đo được lựa chọn ở trên (**quan trọng**)?
        * Học viên dự định sẽ chọn hệ thống thực tế nào để so sánh với hệ thống của mình. Thông thường, hệ thống cũ khi chưa áp dụng giải pháp, có thể được chọn.
   * #### Hướng 3 - Cải tiến giải pháp
