@@ -6,7 +6,7 @@ author:
 - Ngô Huy Biên
 meta: "Graduation Thesis Software Evaluation"
 ---
-_Tài liệu mô tả một số tiêu chí có thể dùng để đánh giá phần mềm của khóa luận hoặc dự án tốt nghiệp do giảng viên Ngô Huy Biên hướng dẫn._
+_Tài liệu mô tả một số tiêu chí có thể dùng để tự đánh giá phần mềm của khóa luận hoặc dự án tốt nghiệp do giảng viên Ngô Huy Biên hướng dẫn._
 
 ## 1.	Tại sao cần đánh giá phần mềm?
 * Để đảm bảo phần mềm đạt chất lượng đủ để có thể đăng ký bảo vệ.
