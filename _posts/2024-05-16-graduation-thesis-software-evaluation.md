@@ -18,7 +18,7 @@ _Tài liệu mô tả một số tiêu chí có thể dùng để tự đánh gi
 
 ### 2.1. Giao diện
 * Logo phần mềm đã có chưa?
-* Paddings, font chữ, color, headers/titles đã phù hợp với các nguyên lý chưa?
+* Paddings, font chữ, color, headers/titles đã phù hợp với các nguyên lý hay chưa?
 * Phần mềm đã loại bỏ việc phải kéo (scroll) thanh ngang khi sử dụng hay chưa?
 * Validation messages, error messages đã có chưa?
 * Phần mềm đã loại bỏ các incomplete/unavailable features, broken links hay chưa?
