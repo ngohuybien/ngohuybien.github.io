@@ -9,6 +9,9 @@ meta: "Thesis Proposal"
 _Tài liệu hướng dẫn chuẩn bị Slides và phần mềm để demo trong buổi bảo vệ khóa luận hoặc thực tập dự án tốt nghiệp do giảng viên Ngô Huy Biên hướng dẫn._
 
 ## 1. Nội dung Slides bảo vệ của khóa luận tốt nghiệp
+
+Nội dung Slides nên theo thứ tự bên dưới. Tuy nhiên sinh viên có thể hiệu chỉnh lại cho phù hợp với đề tài của mình, nếu cần.
+
 * 1 phút đầu: Giới thiệu bối cảnh của khóa luận, thông tin chung, nội dung dự định trình bày.
 * 1 phút kế tiếp: Trình bày **vấn đề**, **nhu cầu** đề tài giải quyết (sinh viên cần lưu ý trình bày **vấn đề**, **nhu cầu** chứ không phải _các tính năng_).
 * 2 phút kế tiếp: Trình bày các sản phẩm, giải pháp liên quan (tập trung vào lý giải tại sao đề tài lại quan tâm đến lĩnh vực này).
@@ -25,11 +28,15 @@ _Tài liệu hướng dẫn chuẩn bị Slides và phần mềm để demo tron
 * 1 phút kế tiếp
     * Trình bày các kinh nghiệm rút ra trong quá trình thực hiện đề tài.
     * Trình bày các hướng cải tiến sản phẩm trong tương lai.
-* 5 phút còn lại: Demo sản phẩm. Ưu tiên demo trực tiếp trên sản phẩm nhưng luôn phải quay sẵn video.
+      
+Sinh viên có 5 phút để demo sản phẩm. Sinh viên nên demo trực tiếp trên sản phẩm, nhưng luôn phải quay sẵn video.
 
 ## 2. Nội dung Poster bảo vệ của thực tập dự án tốt nghiệp
 
-Nội dung poster gồm 7 phần. Sinh viên tự sắp xếp các phần, sao cho vừa với các nội dung, và mạch theo dõi của độc giả như mô tả bên dưới.
+Nội dung poster nên gồm 8 phần như mô tả bên dưới. Tuy nhiên sinh viên có thể hiệu chỉnh lại cho phù hợp với đề tài của mình, nếu cần.
+
+Sinh viên tự sắp xếp các phần, sao cho vừa với các nội dung, và đảm bảo sự logic trong mạch theo dõi của độc giả.
+
 * Phần 1: Giới thiệu bối cảnh của dự án tốt nghiệp, thông tin chung.
 * Phần 2: Trình bày **vấn đề**, **nhu cầu** đề tài giải quyết (sinh viên cần lưu ý trình bày **vấn đề**, **nhu cầu** chứ không phải _các tính năng_).
 * Phần 3: Trình bày các sản phẩm, giải pháp liên quan (tập trung vào lý giải tại sao đề tài lại quan tâm đến lĩnh vực này).
@@ -46,6 +53,7 @@ Nội dung poster gồm 7 phần. Sinh viên tự sắp xếp các phần, sao c
     * Trình bày các kinh nghiệm rút ra trong quá trình thực hiện đề tài.
 * Phần 8:
     * Trình bày các hướng cải tiến sản phẩm trong tương lai.
+      
 Sinh viên demo sản phẩm khi được người xem yêu cầu. Ưu tiên demo trực tiếp trên sản phẩm nhưng luôn phải quay sẵn video.
 
 ## 3. Các lưu ý đối với phần mềm demo
