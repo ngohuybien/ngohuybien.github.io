@@ -11,7 +11,7 @@ _Tài liệu hướng dẫn chuẩn bị Slides và phần mềm để demo tron
 ## 1. Nội dung Slides bảo vệ của khóa luận tốt nghiệp
 * 1 phút đầu: Giới thiệu bối cảnh của khóa luận, thông tin chung, nội dung dự định trình bày.
 * 1 phút kế tiếp: Trình bày **vấn đề**, **nhu cầu** đề tài giải quyết (sinh viên cần lưu ý trình bày **vấn đề**, **nhu cầu** chứ không phải _các tính năng_).
-* 2 phút kế tiếp: Trình bày các sản phẩm, giải pháp liên quan (tập trung vào lý giải tại sao mình lại quan tâm đến lĩnh vực này).
+* 2 phút kế tiếp: Trình bày các sản phẩm, giải pháp liên quan (tập trung vào lý giải tại sao đề tài lại quan tâm đến lĩnh vực này).
 * 1 phút kế tiếp: Trình bày các mục tiêu của đề tài, một số **business workflows nổi bật** đề tài đã hoàn thiện được.
 * 5 phút kế tiếp: Trình bày các giải pháp cốt lõi của đề tài (kiến trúc, cơ sở dữ liệu, mô hình), tập trung vào từng bài toán cụ thể đề tài giải quyết.
 * 1 phút kế tiếp:
@@ -28,22 +28,23 @@ _Tài liệu hướng dẫn chuẩn bị Slides và phần mềm để demo tron
 * 5 phút còn lại: Demo sản phẩm. Ưu tiên demo trực tiếp trên sản phẩm nhưng luôn phải quay sẵn video.
 
 ## 2. Nội dung Poster bảo vệ của thực tập dự án tốt nghiệp
+
 Nội dung poster gồm 7 phần. Sinh viên tự sắp xếp các phần, sao cho vừa với các nội dung, và mạch theo dõi của độc giả như mô tả bên dưới.
-Phần 1: Giới thiệu bối cảnh của dự án tốt nghiệp, thông tin chung.
-Phần 2: Trình bày **vấn đề**, **nhu cầu** đề tài giải quyết (sinh viên cần lưu ý trình bày **vấn đề**, **nhu cầu** chứ không phải _các tính năng_).
-Phần 3: Trình bày các sản phẩm, giải pháp liên quan (tập trung vào lý giải tại sao mình lại quan tâm đến lĩnh vực này).
-Phần 4: Trình bày các mục tiêu của đề tài, một số **business workflows nổi bật**, danh sách các tính năng đề tài đã hoàn thiện được.
-Phần 5: Trình bày các giải pháp cốt lõi của đề tài (kiến trúc, cơ sở dữ liệu, mô hình), tập trung vào từng bài toán cụ thể đề tài giải quyết.
-Phần 6:
+* Phần 1: Giới thiệu bối cảnh của dự án tốt nghiệp, thông tin chung.
+* Phần 2: Trình bày **vấn đề**, **nhu cầu** đề tài giải quyết (sinh viên cần lưu ý trình bày **vấn đề**, **nhu cầu** chứ không phải _các tính năng_).
+* Phần 3: Trình bày các sản phẩm, giải pháp liên quan (tập trung vào lý giải tại sao đề tài lại quan tâm đến lĩnh vực này).
+* Phần 4: Trình bày các mục tiêu của đề tài, một số **business workflows nổi bật** đề tài đã hoàn thiện được.
+* Phần 5: Trình bày các giải pháp cốt lõi của đề tài (kiến trúc, cơ sở dữ liệu, mô hình), tập trung vào từng bài toán cụ thể đề tài giải quyết.
+* Phần 6:
     * Trình bày danh sách các ngôn ngữ, công nghệ dùng để hiện thực hóa giải pháp của đề tài (trình bày rất tổng quan).
     * Trình bày danh sách các thư viện và/hoặc API bên ngoài.
     * Sinh viên có thể gộp phần 5 và phần 6 làm một nếu phù hợp.
-Phần 7:
+* Phần 7:
     * Trình bày các **sản phẩm** đã đạt được sau khi thực hiện dự án.
     * Trình bày các kết quả kiểm thử các sản phẩm.
     * Trình bày **bảng so sánh** các business workflows (các vấn đề giải quyết được) với các hệ thống tương tự hay giải pháp liên quan.
     * Trình bày các kinh nghiệm rút ra trong quá trình thực hiện đề tài.
-Phần 8:
+* Phần 8:
     * Trình bày các hướng cải tiến sản phẩm trong tương lai.
 Sinh viên demo sản phẩm khi được người xem yêu cầu. Ưu tiên demo trực tiếp trên sản phẩm nhưng luôn phải quay sẵn video.
 
