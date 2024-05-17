@@ -50,7 +50,7 @@ Sinh viên demo sản phẩm khi được người xem yêu cầu. Ưu tiên dem
 
 ## 3. Các lưu ý đối với phần mềm demo
 * Sinh viên cần đặt tên thân thiện cho phần mềm.
-* Sinh viên cần tạo logo cho hệ thống hoặc ứng dụng <a target ="_blank" href = "https://www.freelogodesign.org/">https://www.freelogodesign.org/</a>
+* Sinh viên cần tạo logo cho hệ thống hoặc ứng dụng <a target ="_blank" href = "https://www.freelogodesign.org/">https://www.freelogodesign.org/</a>.
 * Đối với ứng dụng web:
     * Kiểm tra ứng dụng trên 3 trình duyệt khác nhau.
     * Chuẩn bị sẵn URL và tài khoản của ít nhất 1 hệ thống tương tự để có thể so sánh trực tiếp với ứng dụng của mình.
