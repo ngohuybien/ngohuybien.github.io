@@ -20,7 +20,7 @@ _Tài liệu hướng dẫn chuẩn bị Slides và phần mềm để demo tron
     * Nếu có đủ thời gian, hãy lý giải lý do lựa chọn các công nghệ, thư viện, API ở trên.
 *	3 phút kế tiếp:
     * Trình bày các sản phẩm đã đạt được sau khi thực hiện khóa luận.
-    * Trình bày các kết quả kiểm thử các sản phẩm.
+    * Trình bày các kết quả đánh giá, các kết quả kiểm thử các sản phẩm.
     * Trình bày **bảng so sánh** các business workflows (các vấn đề giải quyết được) với các hệ thống tương tự hay giải pháp liên quan.
 * 1 phút kế tiếp
     * Trình bày các kinh nghiệm rút ra trong quá trình thực hiện đề tài.
@@ -41,7 +41,7 @@ Nội dung poster gồm 7 phần. Sinh viên tự sắp xếp các phần, sao c
     * Sinh viên có thể gộp phần 5 và phần 6 làm một nếu phù hợp.
 * Phần 7:
     * Trình bày các **sản phẩm** đã đạt được sau khi thực hiện dự án.
-    * Trình bày các kết quả kiểm thử các sản phẩm.
+    * Trình bày các kết quả đánh giá, các kết quả kiểm thử các sản phẩm.
     * Trình bày **bảng so sánh** các business workflows (các vấn đề giải quyết được) với các hệ thống tương tự hay giải pháp liên quan.
     * Trình bày các kinh nghiệm rút ra trong quá trình thực hiện đề tài.
 * Phần 8:
