@@ -22,7 +22,7 @@ Sinh viên chọn **1 ứng dụng tương tự có sẵn** phù hợp với m�
 * Những tính năng nào của ứng dụng mình đang sử dụng thực sự hằng ngày, nhưng đòi hỏi phải **trả phí** để được dùng.
 * Điều gì mình đang cần mà ứng dụng **không** hỗ trợ.
 * Điều gì mình đang cần mà ứng dụng thực hiện được, nhưng **khó khăn**.
-* Điều gì mình **không** thoải mái, khó chịu trong quá trình sửa dụng ứng dụng.
+* Điều gì làm mình **không** thoải mái, khó chịu trong quá trình sử dụng ứng dụng.
 * Ví dụ, hạn chế của phần mềm Đo độ ồn có sẵn:
     * Tôi cần biết mức ồn tại một nơi cụ thể có ảnh hưởng đến sức khỏe hay không, nhưng các ứng dụng hiện có chưa liên hệ tiếng ồn với việc ảnh hưởng đến sức khỏe.
     * Tôi muốn biết động cơ của xe hơi này có êm không, nhưng ứng dụng hiện có không hỗ trợ đo độ ồn và kiểm tra so với chuẩn sẵn có.
