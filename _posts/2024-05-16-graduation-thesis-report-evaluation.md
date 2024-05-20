@@ -46,7 +46,7 @@ _Tài liệu mô tả một số tiêu chí có thể dùng để tự đánh gi
 * Các câu văn trong báo cáo có đủ chủ ngữ và vị ngữ hay chưa?
 * Đầu mỗi chương đã có tóm tắt nội dung chương, thường là nửa trang A4, in nghiêng, hay chưa?
 * Báo cáo đã loại bỏ các liên kết đến các blog cá nhân (không phải các liên kết đến các cơ quan, tổ chức) hay chưa?
-* Báo cáo đã loại bỏ các thông tin mà khóa luận cũ đã trình bày hay chưa? Lý do: báo cáo copy hoặc copy và sửa lại một lượng lớn nội dung của khóa luận cũ (lượng lớn theo đánh giá định tính của giảng viên phản biện) có thể không được ra bảo vệ.
+* Báo cáo đã loại bỏ các thông tin mà khóa luận cũ đã trình bày hay chưa? Lý do: Báo cáo chép lại hoặc chép lại và sửa lại một lượng lớn nội dung của khóa luận cũ (lượng lớn theo đánh giá định tính của giảng viên phản biện), có thể không được ra bảo vệ.
 * Các ảnh đã có diễn giải hay chưa?
 * Các bảng đã có diễn giải hay chưa?
 * Các sơ đồ đã có diễn giải hay chưa?
