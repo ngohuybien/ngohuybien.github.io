@@ -23,9 +23,9 @@ _Tài liệu mô tả một số tiêu chí có thể dùng để tự đánh gi
 * Báo cáo đã sử dụng chỉ 1 loại font chữ duy nhất cho phần mã nguồn, thường là Consolas hoặc Courier New, hay chưa?
 * Mã nguồn trong báo cáo đã đóng khung chữ nhật, viền đen, hay chưa?
 * Khoảng cách giữa các dòng chữ đã đồng nhất, thường là 1.15, hay chưa?
-* Các đề mục cha đã có độ lớn của font chữ lớn hơn, hoặc đậm hơn đề mục con hay chưa?
+* Các đề mục cha đã có độ lớn của font chữ lớn hơn, hoặc đậm hơn đề mục con, hay chưa?
 * Tiêu đề (headers) của các bảng đã in đậm hay chưa?
-* Chữ trong các bảng hoặc mã nguồn trong khung đã có khoảng cách (paddings) với các đường kẻ của bảng hay chưa?
+* Chữ trong các bảng, hoặc mã nguồn trong khung, đã có khoảng cách (paddings) với các đường kẻ của bảng hay chưa?
 * Các ký tự ba chấm (…), hoặc vân vân, đã được bỏ đi hay chưa?
 * Các câu văn gạch đầu dòng, không có mục đích liệt kê, đã được viết lại và kết nối thành đoạn văn hay chưa?
 * Các danh sách nhằm mục đích liệt kê đã sử dụng các ký hiệu gạch đầu dòng (-), hoặc chấm đen (•), hoặc chấm trắng (◦) hoặc ký tự thường (a, b, c) để liệt kê hay chưa?
