@@ -19,7 +19,7 @@ _Tài liệu mô tả một số tiêu chí có thể dùng để tự đánh gi
 ### 2.1. Hình thức
 * File PDF của báo cáo đã có mục lục dạng Bookmark bên trái hay chưa?
 * Báo cáo đã được đánh số trang hay chưa?
-* Báo cáo đã sử dụng chỉ 1 loại font chữ duy nhất cho các tiêu đề, đoạn văn, bảng biểu, sơ đồ, thường là Times New Roman, hay không?
+* Báo cáo đã sử dụng chỉ 1 loại font chữ duy nhất cho các tiêu đề, đoạn văn, bảng biểu, sơ đồ, thường là Times New Roman, hay chưa?
 * Báo cáo đã sử dụng chỉ 1 loại font chữ duy nhất cho phần mã nguồn, thường là Consolas hoặc Courier New, hay chưa?
 * Mã nguồn trong báo cáo đã đóng khung chữ nhật, viền đen, hay chưa?
 * Khoảng cách giữa các dòng chữ đã đồng nhất, thường là 1.15, hay chưa?
