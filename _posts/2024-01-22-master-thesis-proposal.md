@@ -33,10 +33,13 @@ Học viên chọn cụ thể 1 trong 3 hướng đi ở trên để phân tích
 
 ## 3. Phân tích giải pháp
 Học viên phân tích giải pháp theo 1 hướng đi cụ thể đã lựa chọn. Mục đích chính của việc phân tích này là xác định được **bài toán cụ thể**, thực sự cần giải quyết?
+
    * #### Hướng 1 - Xây dựng lại giải pháp
        * Giải pháp đề xuất đã được ứng dụng ở hệ thống phần mềm thực tế nào hay chưa?
        * Tại sao lại cần xây dựng mã nguồn cho giải pháp đề xuất? Ai là người có nhu cầu? Nhu cầu thực sự là gì?
        * Mã nguồn sẽ được đánh giá như thế nào?
+       * Các bảng dữ liệu khảo sát, nếu có, sẽ có cấu trúc như thế nào? Lý do thu thập dữ liệu khảo sát là gì?
+         
    * #### Hướng 2 - Áp dụng giải pháp vào hệ thống khác
        * Giải pháp đề xuất đã được ứng dụng ở hệ thống phần mềm thực tế nào hay chưa?
        * Học viên dự định áp dụng giải pháp để giải quyết **bài toán cụ thể** nào, trong **hệ thống cụ thể** nào? Bài toán đó được mô hình cụ thể như thế nào? Học viên có thể mô hình bằng, nhưng không giới hạn: các nghiệp vụ thực tế (business use cases), các giao diện, các lược đồ, các mô hình toán học. Phần **Introduction** của bài báo có thể hỗ trợ thêm thông tin cho phần phân tích này.
@@ -49,12 +52,15 @@ Học viên phân tích giải pháp theo 1 hướng đi cụ thể đã lựa c
        * Học viên lưu ý nếu chọn tiêu chí **feasibility** thì cần đảm bảo rằng chưa có **hệ thống cụ thể** nào đã áp dụng giải pháp đề xuất bởi bài báo, và lý giải được động cơ thực sự để đánh giá tính khả thi của giải pháp.
        * Học viên dự định thu thập các **dữ liệu** nào để đánh giá tiêu chí hay độ đo được lựa chọn ở trên (**quan trọng**)?
        * Học viên dự định sẽ chọn hệ thống thực tế nào để so sánh với hệ thống của mình. Thông thường, hệ thống cũ khi chưa áp dụng giải pháp, có thể được chọn.
+       * Các bảng dữ liệu khảo sát, nếu có, sẽ có cấu trúc như thế nào? Lý do thu thập dữ liệu khảo sát là gì?
+         
   * #### Hướng 3 - Cải tiến giải pháp
        * Giải pháp đề xuất đã được ứng dụng ở hệ thống phần mềm thực tế nào hay chưa?
        * Giải pháp có vấn đề gì, thiếu sót gì mà cần mở rộng? Ý tưởng mở rộng là gì? Ai là người có nhu cầu, hoặc sẽ quan tâm?
        * Dự kiến mã nguồn/thư viện/hệ thống có thể mở rộng ở đâu. Phần **Conclusion** hoặc **Future Work** của bài báo có thể hỗ trợ hỗ trợ thông tin cho phần phân tích này.
        * Học viên có thể xem xét mở rộng bằng cách hiệu chỉnh mã nguồn có sẵn nhằm **cải thiện tốc độ**, **cải thiện độ chính xác** của giải pháp. Phần Experiments hoặc Performance của bài báo có thể hỗ trợ thông tin cho việc phân tích này.
        * Học viên có thể xem xét mở rộng bằng cách hiệu chỉnh mã nguồn có sẵn cho một **bộ dữ liệu khác**, trong một **môi trường khác**, trong một **lĩnh vực khác**. Phần **Experiments** hoặc **Case Study** của bài báo có thể hỗ trợ thông tin cho phần phân tích này.
+       * Các bảng dữ liệu khảo sát, nếu có, sẽ có cấu trúc như thế nào? Lý do thu thập dữ liệu khảo sát là gì?
 
 ## 4. Chuẩn bị kết quả để thảo luận
 * Tên đề tài học viên đề xuất là gì? Thường có thể là "Giải pháp XYZ cho bài toán ABC", hoặc "Hệ thống ABC dựa trên giải pháp XYZ".
