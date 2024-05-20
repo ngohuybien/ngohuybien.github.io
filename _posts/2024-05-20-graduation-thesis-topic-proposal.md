@@ -9,7 +9,7 @@ meta: "Thesis Topic Proposal"
 _Tài liệu hướng dẫn sinh viên tập đề xuất đề tài khóa luận hoặc thực tập dự án tốt nghiệp do giảng viên Ngô Huy Biên hướng dẫn._
 
 ## 1. Tại sao nên tập đề xuất đề tài?
-* Để đảm bảo đề tài thực hiện đúng với lĩnh vực mình quan tâm.
+* Để đảm bảo đề tài sẽ thực hiện đúng với lĩnh vực mình quan tâm.
 * Để đảm bảo đề tài sẽ giải quyết các vấn đề phù hợp với thực tế.
 * Để đảm bảo phần mềm sẽ có các tính năng phù hợp với thực tế.
 * Để nâng cao kỹ năng phát hiện và giải quyết vấn đề trong công việc.
