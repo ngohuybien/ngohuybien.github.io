@@ -104,7 +104,7 @@ Các đề tài liên quan đến học máy, _có thể_ bao gồm thêm nhưng
 * Chuẩn bị dữ liệu.
 * Tạo dữ liệu mới.
 * Chỉnh sửa mã nguồn mô hình.
-* Viết mã nguồn mới cho mô hình hay công cụ hỗ trợ.
+* Viết mã nguồn mới cho mô hình, hay công cụ hỗ trợ.
 * Huấn luyện mô hình cũ và mô hình mới.
 * Đánh giá mô hình cũ và mô hình mới dựa trên dữ liệu thực nghiệm và độ đo.
 * Khảo sát ý kiến, xây dựng bảng đánh giá mô hình cũ và mới.
