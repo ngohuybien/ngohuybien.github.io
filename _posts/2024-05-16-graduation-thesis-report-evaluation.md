@@ -46,7 +46,7 @@ _Tài liệu mô tả một số tiêu chí có thể dùng để tự đánh gi
 * Các câu văn trong báo cáo có đủ chủ ngữ và vị ngữ hay chưa?
 * Đầu mỗi chương đã có tóm tắt nội dung chương, thường là nửa trang A4, in nghiêng, hay chưa?
 * Báo cáo đã loại bỏ các liên kết đến các blog cá nhân (không phải các liên kết đến các cơ quan, tổ chức) hay chưa?
-* Báo cáo đã loại bỏ các thông tin mà các đề tài của các năm trước đã trình bày hay chưa? Lý do: Báo cáo chép lại hoặc chép lại và sửa lại một lượng lớn nội dung của các đề tài cũ (lượng lớn theo đánh giá định tính của giảng viên phản biện), có thể không được ra bảo vệ.
+* Báo cáo đã loại bỏ các thông tin mà các đề tài của các năm trước đã trình bày hay chưa? **Lý do**: Báo cáo chép lại hoặc chép lại và sửa lại một lượng lớn nội dung của các đề tài cũ (lượng lớn theo đánh giá định tính của **giảng viên phản biện**), có thể **không được ra bảo vệ**.
 * Các ảnh đã có diễn giải hay chưa?
 * Các bảng đã có diễn giải hay chưa?
 * Các sơ đồ đã có diễn giải hay chưa?
@@ -55,7 +55,7 @@ _Tài liệu mô tả một số tiêu chí có thể dùng để tự đánh gi
 * Các nội dung phụ như lịch sử các phiên bản, giá thành, nếu có, đã được đưa vào Phụ lục hay chưa?
 * Báo cáo đã chỉ sử dụng một đại từ thống nhất từ đầu đến cuối: "chúng em", "chúng tôi", "khóa luận", hay "nhóm" hay chưa?
 * Các câu văn nói đã được sửa lại hay chưa? Ví dụ "Xài nhiêu trả nhiêu".
-* Các câu văn thiếu ý nghĩa chính xác đã được sửa lại hay chưa? Ví dụ "Còn với Tacotron 2, mô hình này đã có lâu và được sử dụng rất rộng rãi."  “Mô hình Tacotron 2 được đề xuất từ năm 2017, theo số trích dẫn trên Google Scholar thì hiện tại được sử dụng bởi 714 nhóm nghiên cứu.”
+* Các câu văn thiếu ý nghĩa chính xác đã được sửa lại hay chưa? Ví dụ "Còn với Tacotron 2, mô hình này đã có lâu và được sử dụng rất rộng rãi." "Mô hình Tacotron 2 được đề xuất từ năm 2017, theo số trích dẫn trên Google Scholar thì hiện tại được sử dụng bởi 714 nhóm nghiên cứu."
 * Các câu hỏi (kết thúc bằng ?) trong báo cáo không nhằm mục đích phát biểu vấn đề đã được bỏ đi hay chưa?
 * Các tài liệu ở phần Tài liệu tham khảo đã được tham chiếu trong báo cáo hay chưa?
 * Báo cáo đã trình bày các ứng dụng tương tự hay chưa?
