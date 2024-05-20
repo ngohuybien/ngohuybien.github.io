@@ -53,7 +53,7 @@ _Tài liệu mô tả một số tiêu chí có thể dùng để tự đánh gi
 * Các hình vẽ nhỏ và mờ đã được chia nhiều phần, mỗi phần là một hình vẽ riêng rõ ràng, đủ lớn hay chưa?
 * Chi tiết giao diện ứng dụng đã được đưa xuống Phụ lục hay chưa?
 * Các nội dung phụ như lịch sử các phiên bản, giá thành, nếu có, đã được đưa vào Phụ lục hay chưa?
-* Báo cáo đã chỉ sử dụng một đại từ thống nhất từ đầu đến cuối: "chúng em", "chúng tôi", "khóa luận", hay "nhóm" hay chưa?
+* Báo cáo đã chỉ sử dụng một đại từ thống nhất từ đầu đến cuối: "chúng em", "khóa luận", hay "nhóm" hay chưa?
 * Các câu văn nói đã được sửa lại hay chưa? Ví dụ "Xài nhiêu trả nhiêu".
 * Các câu văn thiếu ý nghĩa chính xác đã được sửa lại hay chưa? Ví dụ: câu văn "Còn với Tacotron 2, mô hình này đã có lâu và được sử dụng rất rộng rãi." cần sửa lại thành "Mô hình Tacotron 2 được đề xuất từ năm 2017, theo số trích dẫn trên Google Scholar thì hiện tại đã được sử dụng bởi 714 nhóm nghiên cứu."
 * Các câu hỏi (kết thúc bằng ?) trong báo cáo không nhằm mục đích phát biểu vấn đề đã được bỏ đi hay chưa?
