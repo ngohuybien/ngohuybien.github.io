@@ -64,7 +64,7 @@ Sinh viên demo sản phẩm khi được người xem yêu cầu. Ưu tiên dem
     * Chuẩn bị sẵn URL và tài khoản của ít nhất 1 hệ thống tương tự để có thể so sánh trực tiếp với ứng dụng của mình.
 * Đối với ứng dụng có liên quan đến học máy:
     * Đảm bảo các mô hình huấn luyện cho ra kết quả ở mức tạm dùng được.
-    * Chuẩn bị hệ thống với các kết nối hoàn thiện, có thể chạy ổn định và cho ra kết quả chấp nhận được khi kiểm tra với **đầu vào ngẫu nhiên** nào.
+    * Chuẩn bị hệ thống với các kết nối hoàn thiện, có thể chạy ổn định, và cho ra kết quả chấp nhận được khi kiểm tra với bất kỳ **đầu vào ngẫu nhiên** nào.
 * Đối với ứng dụng di động
     * Cài đặt sẵn ứng dụng trong điện thoại để demo.
     * Cài đặt sẵn 1 **ứng dụng tương tự** trên điện thoại để có thể so sánh trực tiếp với ứng dụng của mình.
