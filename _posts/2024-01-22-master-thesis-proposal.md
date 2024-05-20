@@ -60,6 +60,8 @@ Học viên phân tích giải pháp theo 1 hướng đi cụ thể đã lựa c
        * Dự kiến mã nguồn/thư viện/hệ thống có thể mở rộng ở đâu. Phần **Conclusion** hoặc **Future Work** của bài báo có thể hỗ trợ hỗ trợ thông tin cho phần phân tích này.
        * Học viên có thể xem xét mở rộng bằng cách hiệu chỉnh mã nguồn có sẵn nhằm **cải thiện tốc độ**, **cải thiện độ chính xác** của giải pháp. Phần Experiments hoặc Performance của bài báo có thể hỗ trợ thông tin cho việc phân tích này.
        * Học viên có thể xem xét mở rộng bằng cách hiệu chỉnh mã nguồn có sẵn cho một **bộ dữ liệu khác**, trong một **môi trường khác**, trong một **lĩnh vực khác**. Phần **Experiments** hoặc **Case Study** của bài báo có thể hỗ trợ thông tin cho phần phân tích này.
+       * Học viên có thể xem xét mở rộng bằng cách tạo một **công cụ mới** hỗ trợ tự động hóa một tác vụ liên quan đến giải pháp, hoặc giúp triển khai, sử dụng giải pháp dễ dàng hơn.
+       * Học viên có thể xem xét mở rộng bằng cách thêm **dữ liệu mới** vào giải pháp để giải pháp có độ chính xác cao hơn.
        * Các bảng dữ liệu khảo sát, nếu có, sẽ có cấu trúc như thế nào? Lý do thu thập dữ liệu khảo sát là gì?
 
 ## 4. Chuẩn bị kết quả để thảo luận
