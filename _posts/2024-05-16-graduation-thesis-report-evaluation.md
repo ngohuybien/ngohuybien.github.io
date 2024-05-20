@@ -65,7 +65,7 @@ _Tài liệu mô tả một số tiêu chí có thể dùng để tự đánh gi
 * Báo cáo đã trình bày các kinh nghiệm thực tế về các vấn đề phát sinh khi cài đặt hay chưa?
 * Báo cáo đã trình bày các công cụ dùng để kiểm thử và các kết quả kiểm thử hay chưa?
 * Báo cáo đã có bảng so sánh các sản phẩm thu được với các mục tiêu đề ra ban đầu hay chưa?
-* Báo cáo đã có bảng so sánh các workflows của hệ thống phần mềm xây dựng được với các hệ thống tương tự hay chưa?
+* Báo cáo đã có bảng so sánh các workflows của hệ thống phần mềm xây dựng được với ít nhất một hệ thống tương tự hay chưa?
 * Báo cáo đã có phần thảo luận về lợi ích của phần mềm xây dựng được khi áp dụng vào môi trường thực hay chưa?
 * Báo cáo đã trình bày các vấn đề còn tồn tại và phương hướng giải quyết đề xuất (một cách rất tổng quát) trong tương lai hay chưa?
 
