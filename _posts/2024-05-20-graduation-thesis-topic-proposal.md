@@ -23,18 +23,18 @@ Sinh viên chọn **1 ứng dụng tương tự có sẵn** phù hợp với m�
 * Điều gì mình đang cần mà ứng dụng **không** hỗ trợ.
 * Điều gì mình đang cần mà ứng dụng thực hiện được, nhưng **khó khăn**.
 * Điều gì làm mình **không** thoải mái, khó chịu trong quá trình sử dụng ứng dụng.
-* Ví dụ, hạn chế của phần mềm Đo độ ồn có sẵn:
+* Ví dụ, một số hạn chế của phần mềm Đo độ ồn có sẵn là:
     * Tôi cần biết mức ồn tại một nơi cụ thể có ảnh hưởng đến sức khỏe hay không, nhưng các ứng dụng hiện có chưa liên hệ tiếng ồn với việc ảnh hưởng đến sức khỏe.
     * Tôi muốn biết động cơ của xe hơi này có êm không, nhưng ứng dụng hiện có không hỗ trợ đo độ ồn và kiểm tra so với chuẩn sẵn có.
     * Tôi muốn biết thính lực của mình có bình thường không, nhưng ứng dụng hiện có không hỗ trợ đo thính lực.
 
 ### 2.2. Xác định quy trình nghiệp vụ
-* Sinh viên mô tả 1 quy trình nghiệp vụ hoàn chỉnh dự kiến sẽ thực hiện để đảm bảo ứng dụng có thể giải quyết một vấn đề trong thực tế. Quy trình nghiệp vụ có thể được thể hiện bằng business case kèm prototype.
+* Sinh viên mô tả 1 quy trình nghiệp vụ **hoàn chỉnh** dự kiến sẽ thực hiện để đảm bảo ứng dụng có thể **giải quyết một vấn đề trong thực tế**. Quy trình nghiệp vụ có thể được thể hiện bằng business case kèm prototype.
 * Sinh viên liệt kê các tính năng chính dự kiến sẽ thực hiện để hiện thực hóa quy trình nghiệp vụ vừa nêu.
 
 ### 2.3. Xác định giải pháp tổng quan
 * Sinh viên mô tả các công cụ, ngôn ngữ lập trình, thuật toán, kiến trúc dự kiến sẽ dùng để hiện thực hóa quy trình nghiệp vụ ở mục 2.2.
-* Giải pháp tổng quan có thể được thể hiện mô hình kèm theo giải thích bằng chữ.
+* Giải pháp tổng quan có thể được thể hiện mô hình, kèm theo giải thích bằng chữ nếu cần.
 
 ## 3. Đề xuất đề tài theo hướng nghiên cứu
 
@@ -51,6 +51,7 @@ Sinh viên chọn **1 bài báo khoa học** phù hợp với mối quan tâm c�
 * Mã nguồn sẽ là thư viện hay khung ứng dụng.
 * Mã nguồn sẽ ở dạng bản mẫu hay hoàn chỉnh.
 * Làm sao để xây dựng mã nguồn cho giải pháp của bài báo?
+* Kết quả có kèm theo dữ liệu tạo mới nào không.
 
 ### 3.3. Xác định giải pháp tổng quan
 * Sinh viên mô tả các công cụ, ngôn ngữ lập trình, thuật toán, kiến trúc dự kiến sẽ dùng để xây dựng mã nguồn cho giải pháp của bài báo.
