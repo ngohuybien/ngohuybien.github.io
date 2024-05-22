@@ -33,8 +33,8 @@ Sinh viên chọn **1 ứng dụng tương tự có sẵn** phù hợp với m�
 * Sinh viên liệt kê các tính năng chính dự kiến sẽ thực hiện để hiện thực hóa quy trình nghiệp vụ vừa nêu.
 
 ### 2.3. Xác định giải pháp tổng quan
-* Sinh viên mô tả các công cụ, ngôn ngữ lập trình, thuật toán, kiến trúc dự kiến sẽ dùng để hiện thực hóa quy trình nghiệp vụ ở mục 2.2.
-* Giải pháp tổng quan có thể được thể hiện mô hình, kèm theo giải thích bằng chữ nếu cần.
+* Sinh viên mô tả các công cụ, ngôn ngữ lập trình, thuật toán, kiến trúc dự kiến sẽ dùng để hiện thực hóa quy trình nghiệp vụ **hoàn chỉnh** dự kiến ở trên.
+* Giải pháp tổng quan có thể được thể hiện vắn tắt bằng mô hình, kèm theo giải thích bằng chữ trong trường hợp cần thiết.
 
 ## 3. Đề xuất đề tài theo hướng nghiên cứu
 
