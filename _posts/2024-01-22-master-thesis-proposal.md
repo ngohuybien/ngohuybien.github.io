@@ -14,16 +14,16 @@ _Tài liệu hướng dẫn viết đề cương cao học, lĩnh vực khoa h�
 
 ## 2. Lựa chọn hướng đi
 * #### Hướng 1 - Xây dựng lại giải pháp
-    * Nếu bài báo **không công bố mã nguồn/thư viện/hệ thống** thì học viên có thể xem xét việc xây dựng lại mã nguồn/thư viện/hệ thống theo đề xuất để đánh giá xem có thực là giải pháp khả thi hay không.
+    * Nếu bài báo **không công bố mã nguồn/thư viện/hệ thống/dữ liệu** thì học viên có thể xem xét việc xây dựng lại mã nguồn/thư viện/hệ thống/dữ liệu theo đề xuất để đánh giá xem có thực là giải pháp khả thi hay không.
     * Nếu theo hướng này học viên cần **tạo trước** được mã nguồn Proof of Concept từ nội dung bài báo. Nếu học viên tạo được mã nguồn Proof of Concept thì bài báo có thể dùng cho phần phân tích tiếp theo.
 * #### Hướng 2 - Áp dụng giải pháp vào hệ thống khác
-    * Nếu bài báo **đã có sẵn mã nguồn/thư viện/hệ thống** (do đó không cần tạo mã nguồn Proof of Concept nữa) thì học viên **cần có hệ thống riêng của mình** hoặc **tìm được một hệ thống mã nguồn mở phù hợp** để áp dụng giải pháp vào.
+    * Nếu bài báo **đã có sẵn mã nguồn/thư viện/hệ thống/dữ liệu** (do đó không cần tạo mã nguồn Proof of Concept nữa) thì học viên **cần có hệ thống riêng của mình** hoặc **tìm được một hệ thống mã nguồn mở phù hợp** để áp dụng giải pháp vào.
     * Mục đích là để đánh giá xem **vấn đề trong hệ thống riêng này** có thực sự cần phải giải quyết như bài báo đề cập hay không, và giải pháp đề xuất trong bài báo có thực sự giải quyết được vấn đề trong hệ thống riêng này hay không.
     * Mã nguồn của hệ thống riêng của học viên sẽ phải công bố sau này.
     * Nếu học viên có hệ thống riêng hoặc tìm được hệ thống mã nguồn mở phù hợp thì bài báo có thể dùng cho phần phân tích tiếp theo.
 * #### Hướng 3 - Cải tiến giải pháp
-    * Nếu bài báo **đã có sẵn mã nguồn/thư viện/hệ thống** (do đó không cần tạo mã nguồn Proof of Concept nữa), và từ nền tảng và kinh nghiệm của mình, học viên có các ý tưởng để **mở rộng mã nguồn** thì bài báo có thể dùng cho phần phân tích tiếp theo.
-    * Học viên cũng có thể chọn **mở rộng mã nguồn** nếu trong quá trình tìm hiểu bài báo học viên phát hiện các vấn đề có thể xảy ra đối với giải pháp đề xuất, hoặc học viên có hứng thú và khả năng giải quyét một số vấn đề tồn đọng, chưa được giải quyết triệt để, được bài báo đề cập.
+    * Nếu bài báo **đã có sẵn mã nguồn/thư viện/hệ thống/dữ liệu** (do đó không cần tạo mã nguồn Proof of Concept nữa), và từ nền tảng và kinh nghiệm của mình, học viên có các ý tưởng để **mở rộng mã nguồn hoặc dữ liệu** thì bài báo có thể dùng cho phần phân tích tiếp theo.
+    * Học viên cũng có thể chọn **mở rộng mã nguồn hoặc dữ liệu** nếu trong quá trình tìm hiểu bài báo học viên phát hiện các vấn đề có thể xảy ra đối với giải pháp đề xuất, hoặc học viên có hứng thú và khả năng giải quyét một số vấn đề tồn đọng, chưa được giải quyết triệt để, được bài báo đề cập.
     * Ví dụ: Các mô hình nhận dạng âm thanh tiếng Việt (trừ các mô hình của Google hay Microsoft) còn các hạn chế sau:
         * Mô hình chưa có độ chính xác cao đối với đầu vào là các từ ngẫu nhiên do dữ liệu huấn luyện chưa đủ lớn.
         * Mô hình chưa có nhận tốt được dấu câu, một vài từ tiếng Anh lẫn vào, và các tên riêng.
@@ -36,8 +36,8 @@ Học viên phân tích giải pháp theo 1 hướng đi cụ thể đã lựa c
 
    * #### Hướng 1 - Xây dựng lại giải pháp
        * Giải pháp đề xuất đã được ứng dụng ở hệ thống phần mềm thực tế nào hay chưa?
-       * Tại sao lại cần xây dựng mã nguồn cho giải pháp đề xuất? Ai là người có nhu cầu? Nhu cầu thực sự là gì?
-       * Mã nguồn sẽ được đánh giá như thế nào?
+       * Tại sao lại cần xây dựng mã nguồn hay dữ liệu cho giải pháp đề xuất? Ai là người có nhu cầu? Nhu cầu thực sự là gì?
+       * Mã nguồn hay dữ liệu sẽ được đánh giá như thế nào?
        * Các bảng dữ liệu khảo sát, nếu có, sẽ có cấu trúc như thế nào? Lý do thu thập dữ liệu khảo sát là gì?
          
    * #### Hướng 2 - Áp dụng giải pháp vào hệ thống khác
@@ -57,8 +57,8 @@ Học viên phân tích giải pháp theo 1 hướng đi cụ thể đã lựa c
   * #### Hướng 3 - Cải tiến giải pháp
        * Giải pháp đề xuất đã được ứng dụng ở hệ thống phần mềm thực tế nào hay chưa?
        * Giải pháp có vấn đề gì, thiếu sót gì mà cần mở rộng? Ý tưởng mở rộng là gì? Ai là người có nhu cầu, hoặc sẽ quan tâm?
-       * Dự kiến mã nguồn/thư viện/hệ thống có thể mở rộng ở đâu. Phần **Conclusion** hoặc **Future Work** của bài báo có thể hỗ trợ hỗ trợ thông tin cho phần phân tích này.
-       * Học viên có thể xem xét mở rộng bằng cách hiệu chỉnh mã nguồn có sẵn nhằm **cải thiện tốc độ**, **cải thiện độ chính xác** của giải pháp. Phần Experiments hoặc Performance của bài báo có thể hỗ trợ thông tin cho việc phân tích này.
+       * Dự kiến mã nguồn/thư viện/hệ thống/dữ liệu có thể mở rộng ở đâu. Phần **Conclusion** hoặc **Future Work** của bài báo có thể hỗ trợ hỗ trợ thông tin cho phần phân tích này.
+       * Học viên có thể xem xét mở rộng bằng cách hiệu chỉnh mã nguồn có sẵn nhằm **cải thiện tốc độ**, **cải thiện độ chính xác** của giải pháp. Phần **Experiments** hoặc **Performance** của bài báo có thể hỗ trợ thông tin cho việc phân tích này.
        * Học viên có thể xem xét mở rộng bằng cách hiệu chỉnh mã nguồn có sẵn cho một **bộ dữ liệu khác**, trong một **môi trường khác**, trong một **lĩnh vực khác**. Phần **Experiments** hoặc **Case Study** của bài báo có thể hỗ trợ thông tin cho phần phân tích này.
        * Học viên có thể xem xét mở rộng bằng cách tạo một **công cụ mới** hỗ trợ tự động hóa một tác vụ liên quan đến giải pháp, hoặc giúp triển khai, sử dụng giải pháp dễ dàng hơn.
        * Học viên có thể xem xét mở rộng bằng cách thêm **dữ liệu mới** vào giải pháp để giải pháp có độ chính xác cao hơn.
@@ -96,12 +96,12 @@ Học viên cần liệt kê các sản phẩm đã có sẵn, mô tả nội du
 
 ### 5.4. Các phương pháp nghiên cứu
 Học viên cần liệt kê các công việc dự kiến sẽ tiến hành, _có thể_ bao gồm nhưng không giới hạn các công việc sau:
-* Viết mã nguồn giải pháp XYZ để chứng minh giải pháp đề xuất là khả thi.
-* Viết mã nguồn giải pháp XYZ cho hoàn cảnh MNK.
-* Chỉnh sửa mã nguồn giải pháp XYZ cho phù hợp với hoàn cảnh MNK.
-* Viết mã nguồn các công cụ hỗ trợ giải quyết bài toán ABC.
-* Thu thập, phân tích dữ liệu để so sánh kết quả **sau khi** áp dụng XYZ với **trước khi** áp dụng dựa trên các độ đo.
-* Khảo sát ý kiến, xây dựng bảng đánh giá kết quả của việc áp dụng XYZ vào bài toán ABC.
+* Viết mã nguồn để chứng minh giải pháp đề xuất là khả thi.
+* Viết mã nguồn giải pháp cho hoàn cảnh lựa chọn.
+* Chỉnh sửa mã nguồn giải pháp cho phù hợp với hoàn cảnh lựa chọn.
+* Viết mã nguồn các công cụ hỗ trợ để sử dụng giải pháp.
+* Thu thập, phân tích dữ liệu để so sánh kết quả **sau khi** áp dụng giải pháp với **trước khi** áp dụng giải pháp dựa trên các độ đo.
+* Khảo sát ý kiến, xây dựng bảng đánh giá kết quả của việc áp dụng giải pháp vào bài toán cụ thể.
 * Xác định, giải quyết và tài liệu hóa các vấn đề tiềm ẩn.
 * Khảo sát ý kiến, xây dựng bảng đánh giá kết quả của hệ thống với ít nhất một hệ thống tương tự trong việc giải quyết vấn đề đặt ra.
 * Viết các các tài liệu kỹ thuật hướng dẫn chi tiết phương pháp tái tạo các sản phẩm.
