@@ -57,4 +57,8 @@ Sinh viên chọn **1 bài báo khoa học** phù hợp với mối quan tâm c�
 * Sinh viên mô tả các công cụ, ngôn ngữ lập trình, thuật toán, kiến trúc dự kiến sẽ dùng để xây dựng mã nguồn hoặc dữ liệu cho giải pháp của bài báo.
 * Sinh viên mô tả các công cụ, ngôn ngữ lập trình, dữ liệu dự kiến sẽ dùng để đánh giá lại giải pháp của bài báo dựa trên mã nguồn hoặc dữ liệu sẽ xây dựng.
 
+## 4. Gửi kết quả đề xuất đề tài
+* Sinh viên ghi lại thông tin các thông tin liên quan đến đề tài đề xuất, **dạng gạch đầu dòng**, trong một file FDF.
+* Sinh viên gửi cho giảng viên file PDF qua email đã trao đổi.
+
 ### &copy; 2024 Ngô Huy Biên
