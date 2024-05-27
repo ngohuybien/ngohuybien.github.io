@@ -39,22 +39,22 @@ Sinh viên chọn **1 ứng dụng tương tự có sẵn** phù hợp với m�
 ## 3. Đề xuất đề tài theo hướng nghiên cứu
 
 ### 3.1. Xác định vấn đề
-Sinh viên chọn **1 bài báo khoa học** phù hợp với mối quan tâm của mình mà **không có mã nguồn hoặc dữ liệu** kèm theo, tổng hợp, phân tích bài báo, dựa trên các định hướng sau.
+Sinh viên chọn **1 bài báo khoa học** phù hợp với mối quan tâm của mình mà **không có mã nguồn hoặc dữ liệu** kèm theo, tổng hợp, phân tích bài báo, dựa trên các định hướng sau, để xem xét việc **xây dựng lại mã nguồn hoặc dữ liệu** cho giải pháp của bài báo.
 * Bài báo giải quyết bài toán gì? Phần **Introduction** của bài báo thường sẽ đề cập đến thông tin này.
 * Đã có những giải pháp nào khác được đề xuất để giải quyết bài toán bài báo đặt ra? Phần **Related Work** của bài báo thường sẽ đề cập đến thông tin này.
-* Giải pháp của bài báo cho vấn đề này là gì?
+* Giải pháp của bài báo cho bài toán này là gì?
 * Làm sao để so sánh các giải pháp với nhau? Phần **Evaluation** hoặc **Performance**, hoặc **Case Study**, hoặc **Experience** của bài báo thường sẽ đề cập đến thông tin này.
 * Giải pháp của bài báo cho bài toán này đã được ứng dụng ở những hệ thống phần mềm thực tế nào hay chưa?
-* Giải pháp của bài báo cho bài toán này có thể được ứng dụng ở những hệ thống phần mềm thực tế nào?
+* Giải pháp của bài báo cho bài toán này có tiềm năng ứng dụng ở những hệ thống phần mềm thực tế nào?
 
 ### 3.2. Xác định kết quả dự kiến
-* Kết quả là mã nguồn hay dữ liệu hay cả hai?
+* Kết quả là mã nguồn, hay dữ liệu, hay cả hai?
 * Mã nguồn sẽ là thư viện hay khung ứng dụng?
 * Mã nguồn sẽ ở dạng bản mẫu hay hoàn chỉnh?
 * Làm sao để xây dựng mã nguồn hay dữ liệu cho giải pháp của bài báo?
 
 ### 3.3. Xác định giải pháp tổng quan
-* Sinh viên mô tả các công cụ, ngôn ngữ lập trình, thuật toán, kiến trúc dự kiến sẽ dùng để xây dựng mã nguồn hoặc dữ liệu cho giải pháp của bài báo.
+* Sinh viên mô tả các công cụ, ngôn ngữ lập trình, thuật toán, kiến trúc dự kiến sẽ dùng để xây dựng lại mã nguồn hoặc dữ liệu cho giải pháp của bài báo.
 * Sinh viên mô tả các công cụ, ngôn ngữ lập trình, dữ liệu dự kiến sẽ dùng để đánh giá lại giải pháp của bài báo dựa trên mã nguồn hoặc dữ liệu sẽ xây dựng.
 
 ## 4. Gửi kết quả đề xuất đề tài
