@@ -67,7 +67,7 @@ _Tài liệu mô tả các sản phẩm cần nộp cho đồ án của môn h�
     * **13_Software Configuration Management Plan.pdf**, 
     * **14_Project Status Report_Week 06.docx**: Tài liệu Báo cáo tình trạng của dự án tính đến tuần 6.
     * **14_Project Status Report_Week 06.pdf**,
-    * **16_Meeting Minutes_Week 06.docx**: Biên bản buổi họp trong tuần 6 của nhóm.
+    * **15_Meeting Minutes_Week 06.docx**: Biên bản buổi họp trong tuần 6 của nhóm.
     * **15_Meeting Minutes_Week 06.pdf**,
     * **16_Team Building.mp4**: Video team building của nhóm.
     * **17_Software Risk Management Plan.docx**: Tài liệu Kế hoạch quản lý rủi ro của dự án.
