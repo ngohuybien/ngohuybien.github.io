@@ -55,7 +55,7 @@ _Tài liệu mô tả các sản phẩm cần nộp cho đồ án của môn h�
     * **07_Architecture.pdf**,
     * **08_Feasibility Study Report.docx**: Tài liệu Phân tích tính khả thi của dự án.
     * **08_Feasibility Study Report.pdf**,
-    * **09_Software Process Definition.docx**: Tài liệu Định nghĩa quy trình nhóm dùng để phát triển phần mềm.
+    * **09_Software Process Definition.docx**: Tài liệu Định nghĩa quy trình nhóm đề xuất dùng để phát triển phần mềm.
     * **09_Software Process Definition.pdf**,
     * **10_Project Estimate**: Tài liệu Ước lượng ước lượng thời gian, chi phí, nhân lực cho dự án.
     * **10_Project Estimate.pdf**,
@@ -65,15 +65,17 @@ _Tài liệu mô tả các sản phẩm cần nộp cho đồ án của môn h�
     * **12_Statement of Work.pdf**,
     * **13_Software Configuration Management Plan.docx**: Tài liệu Kế hoạch quản lý cấu hình của dự án.
     * **13_Software Configuration Management Plan.pdf**, 
-    * **14_Project Status Report_Week 06.docx**: Tài liệu Kế hoạch quản lý cấu hình của dự án.
+    * **14_Project Status Report_Week 06.docx**: Tài liệu Báo cáo tình trạng của dự án tính đến tuần 6.
     * **14_Project Status Report_Week 06.pdf**,
-    * **16_Meeting Minutes_Week 06.docx**: Tài liệu Kế hoạch quản lý cấu hình của dự án.
+    * **16_Meeting Minutes_Week 06.docx**: Biên bản buổi họp trong tuần 6 của nhóm.
     * **15_Meeting Minutes_Week 06.pdf**,
-    * **16_Team Building.mp4**: Tài liệu Kế hoạch quản lý cấu hình của dự án.
-    * **17_Software Risk Management Plan.docx**: Tài liệu Kế hoạch quản lý cấu hình của dự án.
+    * **16_Team Building.mp4**: Video team building của nhóm.
+    * **17_Software Risk Management Plan.docx**: Tài liệu Kế hoạch quản lý rủi ro của dự án.
     * **17_Software Risk Management Plan.pdf**,
-    * **18_Software Quality Management Plan.docx**: Tài liệu Kế hoạch quản lý cấu hình của dự án.
+    * **18_Software Quality Management Plan.docx**: Tài liệu Kế hoạch quản lý chất lượng của dự án.
     * **18_Software Quality Management Plan Plan.pdf**,
+    * **19_Lessons Learned.docx**: Tài liệu báo cáo kinh nghiệm rút ra sau khi thực hiện dự án.
+    * **19_Lessons Learned.pdf**,
       
 * Thư mục **02_Source** chứa các sản phẩm với các tên in đậm sau:
     * **01_Source Code**: Thư mục chứa mã nguồn hệ thống (bao gồm cả các thông tin của source control, các unit tests),
