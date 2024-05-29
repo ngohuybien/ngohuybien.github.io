@@ -28,7 +28,7 @@ Thư mục gốc chứa
 * Thư mục tên **BaoCao_LaTeX**: chứa quyển báo cáo đề tài.
 * Thư mục tên **PDF**: chứa file **DeCuong.pdf** kèm mục lục dạng Bookmarks bên trái, và file **BaoCao.pdf** kèm mục lục dạng Bookmarks bên trái.
 * Thư mục tên **Slides**: chứa file **Slides.pptx** (đối với khóa luận), hoặc **Poster.psd** hoặc **Poster.xml** và **Poster.pdf**  (đối với thực tập dự án tốt nghiệp) dùng để bảo vệ.
-* Thư mục tên **Videos**: chứa file **Demo.mp4** quay demo hệ thống, file **DryRun.mp4** quay bảo vệ thử.
+* Thư mục tên **Videos**: chứa file file **DryRun.mp4** quay thuyết trình bảo vệ thử, file **Demo.mp4** quay demo sẽ dùng để demo trong buổi bảo vệ.
 
 ### 2.3. Thư mục SOURCE chứa
 * File **SourceCode.zip** chứa toàn bộ mã nguồn và dữ liệu của chương trình (desktop, mobile, web, API, unit tests, trang Release, các công cụ xử lý dữ liệu, tùy theo nội dung từng khóa luận).
