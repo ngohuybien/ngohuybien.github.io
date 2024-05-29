@@ -10,7 +10,7 @@ _Tài liệu mô tả các sản phẩm cần nộp của khóa luận hoặc th
 
 ## 1. Thông tin chung
 * Đây là các sản phẩm do giảng viên hướng dẫn yêu cầu. Các sản phẩm này khác đôi chút so với với yêu cầu nộp sản phẩm của Khoa/Bộ môn (là thư mục **KANBAN** chứa các sản phẩm trung gian trong quá trình thực hiện đề tài).
-* Các sản phẩm cần được nén lại thành **1 file .ZIP duy nhất**, sau đó tải lên một trang lưu trữ, tạo liên kết để tải về và gửi liên kết cho giảng viên hướng dẫn qua email **trước ngày nộp đơn đăng ký bảo vệ theo dự kiến của Khoa 1 tuần**.
+* Các sản phẩm cần được nén lại thành **1 file .ZIP duy nhất**, sau đó tải lên một trang lưu trữ, tạo liên kết để tải về và gửi liên kết cho giảng viên hướng dẫn qua email **trước ngày nộp đơn đăng ký bảo vệ theo dự kiến của Khoa 3 tuần**.
 * Đối với những bộ dữ liệu lớn sinh viên có thể đưa lên nhiều tài khoản Google Drive (mỗi tài khoản được 15Gb).
 * Sinh viên không dùng tiếng Việt có dấu khi đặt tên các thư mục hay tập tin.
 
