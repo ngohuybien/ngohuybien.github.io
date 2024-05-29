@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Các sản phẩm cần nộp của đồ án môn học"
+title: "Các sản phẩm cần nộp của đồ án môn học quản lý dự án phần mềm"
 categories: [Software Project Management]
 author:
 - Ngô Huy Biên
