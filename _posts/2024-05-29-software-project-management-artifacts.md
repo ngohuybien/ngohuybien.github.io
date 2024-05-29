@@ -4,7 +4,7 @@ title: "Các sản phẩm cần nộp của đồ án môn học"
 categories: [Software Project Management]
 author:
 - Ngô Huy Biên
-meta: "Software Project Artifacts"
+meta: "Software Project Management Artifacts"
 ---
 _Tài liệu mô tả các sản phẩm cần nộp cho đồ án của môn học Software Project Management._
 
