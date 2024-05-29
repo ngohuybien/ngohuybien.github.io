@@ -22,7 +22,7 @@ _Tài liệu mô tả các sản phẩm cần nộp cho đồ án của môn h�
     * **03_Packages**: chứa file cài đặt và các tài liệu liên quan việc triển khai và cài đặt.
       
 <div align="center">
-<img src ="https://ngohuybien.github.io/assets/images/folder-structure.png" alt = "Cây thư mục và tên sản phẩm" width="1024">
+<img src ="https://ngohuybien.github.io/assets/images/project-folder-structure.png" alt = "Cây thư mục và tên sản phẩm" width="1024">
 </div>
 <div align="center">
 <br>
