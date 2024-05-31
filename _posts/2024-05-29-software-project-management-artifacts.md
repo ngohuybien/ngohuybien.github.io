@@ -88,9 +88,7 @@ _Tài liệu mô tả các sản phẩm cần nộp cho đồ án của môn h�
     * **02_Raw Data**: Thư mục chứa các dữ liệu gốc (raw) của hệ thống (nếu có). Ví dụ: các file dữ liệu ảnh (Photoshop), video, audio gốc,
     * **03_Build Scripts**: Thư mục chứa các tập tin cấu hình, kịch bản (scripts) build và tích hợp tự động,
     * **04_Compilation Guide.docx**: Tài liệu hướng dẫn **một nhà phát triển** cách cài đặt môi trường và biên dịch mã nguồn cho máy tính vừa cài đặt xong hệ điều hành và cách thực thi các tập tin cấu hình, kịch bản. Ngoài ra trong tài liệu này còn có các thông tin sau:
-        * Trang 2 chứa liên kết và tài khoản để truy cập hệ thống source control của nhóm (ví dụ GitHub).
-        * Trang 3 chứa liên kết và tài khoản để truy cập hệ thống build và tích hợp tự động của nhóm (ví dụ GitLab).
-        * Trang 4 chứa liên kết đến video trên YouTube biểu diễn quá trình cài đặt môi trường, biên dịch, cấu hình và chạy mã nguồn trên máy một nhà phát triển.
+        * Trang 2 chứa liên kết đến video trên YouTube biểu diễn quá trình cài đặt môi trường, biên dịch, cấu hình và chạy mã nguồn thành công trên máy một nhà phát triển.
     * **04_Compilation Guide.pdf**,
     * **05_Coding Standards.docx**: thể hiện chuẩn mã nguồn (Coding Standards) hoặc quy ước mã nguồn (Coding Convention) nhóm phát triển cần tuân thủ,
     * **05_Coding Standards.pdf**.
@@ -100,7 +98,7 @@ _Tài liệu mô tả các sản phẩm cần nộp cho đồ án của môn h�
 * Thư mục **03_Packages** chứa các sản phẩm với các tên in đậm sau:
     * **01_Deployment_Package**: Thư mục chứa các sản phẩm để cài đặt và triển khai, bao gồm cả các tập tin cấu hình, kịch bản (scripts) để triển khai.
     * **02_Deployment Guide.docx**: Tài liệu hướng dẫn **người quản trị hệ thống** cách đăng ký hoặc cài đặt môi trường triển khai, cách cấu hình hệ thống triển khai/chuyển giao liên tục, mô tả các kịch bản cung cấp và quản lý tài nguyên để vận hành hệ thống (IaaC), mô tả các kết quả thu được khi thực thi các kịch bản triển khai hệ thống lên môi trường Internet và thiết bị thực sự. Ngoài ra trong tài liệu này còn có các thông tin sau:
-        * Trang 2 chứa liên kết đến video trên YouTube biểu diễn cách triển khai hệ thống của nhóm.
+        * Trang 2 chứa liên kết đến video trên YouTube biểu diễn cách triển khai và chạy thành công hệ thống của nhóm trên môi trường thực.
     * **02_Deployment Guide.pdf**, 
     * **03_User Guide.docx**: Tài liệu hướng dẫn **người dùng cuối** cách cài đặt và sử dụng sản phẩm. Ngoài ra trong tài liệu này còn có các thông tin sau:
         * Trang 2 chứa liên kết đến video trên YouTube giới thiệu cách sử dụng hệ thống của nhóm.
