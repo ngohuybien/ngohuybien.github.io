@@ -1,4 +1,4 @@
----
+![image](https://github.com/ngohuybien/ngohuybien.github.io/assets/146669970/b3652bbe-6bc5-4d6d-b66b-d9d4d5121a58)---
 layout: post
 title: "Các sản phẩm cần nộp của đồ án môn học quản lý dự án phần mềm"
 categories: [Software Project Management]
@@ -63,7 +63,13 @@ _Tài liệu mô tả các sản phẩm cần nộp cho đồ án của môn h�
     * **11_Project Plan.pdf**,
     * **12_Statement of Work.docx**: Tài liệu Phát biểu công việc của dự án.
     * **12_Statement of Work.pdf**,
-    * **13_Software Configuration Management Plan.docx**: Tài liệu Kế hoạch quản lý cấu hình của dự án.
+    * **13_Software Configuration Management Plan.docx**: Tài liệu Kế hoạch quản lý cấu hình của dự án. Ngoài ra trong tài liệu này còn có các thông tin sau:
+        * Trang 2 chứa liên kết và tài khoản truy cập hệ thống tương tác, liên lạc của nhóm (ví dụ Slack, Discord).
+        * Trang 3 chứa liên kết và tài khoản truy cập hệ thống quản lý yêu cầu của nhóm (ví dụ Confluence, Jama Software).
+        * Trang 4 chứa liên kết và tài khoản truy cập hệ thống quản lý công việc của nhóm (ví dụ Trello, Jira Software, Asana).
+        * Trang 5 chứa liên kết và tài khoản truy cập hệ thống quản lý mã nguồn của nhóm (ví dụ GitHub, GitLab).
+        * Trang 6 chứa liên kết và tài khoản truy cập hệ thống quản lý quy trình CI/CD của nhóm (ví dụ CircleCI, GitLab, Azure DevOps, Render, Vercel).
+        * Trang 7 chứa liên kết và tài khoản truy cập hệ thống quản lý lỗi của nhóm (ví dụ GitHub issues, GitLab issues, Bitbucket issue trackers, Jira).
     * **13_Software Configuration Management Plan.pdf**, 
     * **14_Project Status Report_Week 06.docx**: Tài liệu Báo cáo tình trạng của dự án tính đến tuần 6.
     * **14_Project Status Report_Week 06.pdf**,
