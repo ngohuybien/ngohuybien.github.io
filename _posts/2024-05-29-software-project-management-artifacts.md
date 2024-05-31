@@ -68,7 +68,7 @@ _Tài liệu mô tả các sản phẩm cần nộp cho đồ án của môn h�
         * Trang 3 chứa liên kết và tài khoản truy cập hệ thống quản lý yêu cầu của nhóm (ví dụ Confluence).
         * Trang 4 chứa liên kết và tài khoản truy cập hệ thống quản lý công việc của nhóm (ví dụ Trello, Jira Software, Asana).
         * Trang 5 chứa liên kết và tài khoản truy cập hệ thống quản lý mã nguồn của nhóm (ví dụ GitHub, GitLab).
-        * Trang 6 chứa liên kết và tài khoản truy cập hệ thống quản lý quy trình CI/CD của nhóm (ví dụ CircleCI, GitLab, Azure DevOps, Render, Vercel).
+        * Trang 6 chứa liên kết và tài khoản truy cập hệ thống quản lý tích hợp và chuyển giao liên tục (CI/CD/DevOps) của nhóm (ví dụ CircleCI, GitLab, Azure DevOps, Render, Vercel).
         * Trang 7 chứa liên kết và tài khoản truy cập hệ thống quản lý lỗi của nhóm (ví dụ GitHub issues, GitLab issues, Bitbucket issue trackers, Jira).
     * **13_Software Configuration Management Plan.pdf**, 
     * **14_Project Status Report_Week 06.docx**: Tài liệu Báo cáo tình trạng của dự án tính đến tuần 6.
