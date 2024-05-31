@@ -1,4 +1,4 @@
-![image](https://github.com/ngohuybien/ngohuybien.github.io/assets/146669970/b3652bbe-6bc5-4d6d-b66b-d9d4d5121a58)---
+---
 layout: post
 title: "Các sản phẩm cần nộp của đồ án môn học quản lý dự án phần mềm"
 categories: [Software Project Management]
