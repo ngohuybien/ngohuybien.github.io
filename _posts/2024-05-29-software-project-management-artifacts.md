@@ -57,11 +57,11 @@ _Tài liệu mô tả các sản phẩm cần nộp cho đồ án của môn h�
     * **08_Feasibility Study Report.pdf**,
     * **09_Software Process Definition.docx**: Tài liệu Định nghĩa quy trình nhóm đề xuất dùng để phát triển phần mềm.
     * **09_Software Process Definition.pdf**,
-    * **10_Project Estimate**: Tài liệu Ước lượng ước lượng thời gian, chi phí, nhân lực cho dự án.
+    * **10_Project Estimate.docx**: Tài liệu Ước lượng ước lượng thời gian, chi phí, nhân lực cho dự án.
     * **10_Project Estimate.pdf**,
-    * **11_Project Plan**: Tài liệu kế hoạch thực hiện dự án.
+    * **11_Project Plan.docx**: Tài liệu kế hoạch thực hiện dự án.
     * **11_Project Plan.pdf**,
-    * **12_Statement of Work**: Tài liệu Phát biểu công việc của dự án.
+    * **12_Statement of Work.docx**: Tài liệu Phát biểu công việc của dự án.
     * **12_Statement of Work.pdf**,
     * **13_Software Configuration Management Plan.docx**: Tài liệu Kế hoạch quản lý cấu hình của dự án.
     * **13_Software Configuration Management Plan.pdf**, 
