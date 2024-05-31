@@ -15,7 +15,7 @@ _Tài liệu hướng dẫn viết đề cương cao học, lĩnh vực khoa h�
 ## 2. Lựa chọn hướng đi
 * #### Hướng 1 - Xây dựng lại giải pháp
     * Nếu bài báo **không công bố mã nguồn/thư viện/hệ thống/dữ liệu** thì học viên có thể xem xét việc xây dựng lại mã nguồn/thư viện/hệ thống/dữ liệu theo đề xuất để đánh giá xem có thực là giải pháp khả thi hay không.
-    * Học viên có thể tái sử dụng các mã nguồn/thư viện/hệ thống/dữ liệu mở có liên quan trong khi xây dựng lại giải pháp.
+    * Học viên có thể tái sử dụng các mã nguồn/thư viện/hệ thống/dữ liệu mở có liên quan để xây dựng lại giải pháp.
     * Nếu theo hướng này học viên cần **tạo trước** được mã nguồn Proof of Concept từ nội dung bài báo. Nếu học viên tạo được mã nguồn Proof of Concept thì bài báo có thể dùng cho phần phân tích tiếp theo.
 * #### Hướng 2 - Áp dụng giải pháp vào hệ thống khác
     * Nếu bài báo **đã có sẵn mã nguồn/thư viện/hệ thống/dữ liệu** (do đó không cần tạo mã nguồn Proof of Concept nữa) thì học viên **cần có hệ thống riêng của mình** hoặc **tìm được một hệ thống mã nguồn mở phù hợp** để áp dụng giải pháp vào.
