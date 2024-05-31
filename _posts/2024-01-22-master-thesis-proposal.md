@@ -27,8 +27,9 @@ _Tài liệu hướng dẫn viết đề cương cao học, lĩnh vực khoa h�
     * Học viên cũng có thể chọn **mở rộng mã nguồn hoặc dữ liệu** nếu trong quá trình tìm hiểu bài báo học viên phát hiện các vấn đề có thể xảy ra đối với giải pháp đề xuất, hoặc học viên có hứng thú và khả năng giải quyét một số vấn đề tồn đọng, chưa được giải quyết triệt để, được bài báo đề cập.
     * Ví dụ: Các mô hình nhận dạng âm thanh tiếng Việt (trừ các mô hình của Google hay Microsoft) còn các hạn chế sau:
         * Mô hình chưa có độ chính xác cao đối với đầu vào là các từ ngẫu nhiên do dữ liệu huấn luyện chưa đủ lớn.
-        * Mô hình chưa có nhận tốt được dấu câu, một vài từ tiếng Anh lẫn vào, và các tên riêng.
-        * Hệ thống áp dụng mô hình chưa có khả năng nhận dạng liên tục theo thời gian thực do tốc độ thực thi chưa đủ nhanh, chi phí triển khai còn rất tốn kém.
+        * Mô hình chưa nhận tốt được các dấu câu, các từ tiếng Anh lẫn vào, và các tên riêng.
+        * Hệ thống áp dụng mô hình chưa có khả năng nhận dạng liên tục theo thời gian thực do tốc độ thực thi chưa đủ nhanh.
+        * Hệ thống áp dụng mô hình có chi phí triển khai còn rất tốn kém.
 
 Học viên chọn cụ thể 1 trong 3 hướng đi ở trên để phân tích tiếp theo.
 
