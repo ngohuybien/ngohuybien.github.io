@@ -59,7 +59,7 @@ _Tài liệu mô tả các sản phẩm cần nộp cho đồ án của môn h�
     * **09_Software Process Definition.pdf**,
     * **10_Project Estimate.docx**: Tài liệu Ước lượng ước lượng thời gian, chi phí, nhân lực cho dự án.
     * **10_Project Estimate.pdf**,
-    * **11_Project Plan.docx**: Tài liệu kế hoạch thực hiện dự án.
+    * **11_Project Plan.docx**: Tài liệu Kế hoạch thực hiện dự án.
     * **11_Project Plan.pdf**,
     * **12_Statement of Work.docx**: Tài liệu Phát biểu công việc của dự án.
     * **12_Statement of Work.pdf**,
@@ -80,7 +80,7 @@ _Tài liệu mô tả các sản phẩm cần nộp cho đồ án của môn h�
     * **17_Software Risk Management Plan.pdf**,
     * **18_Software Quality Management Plan.docx**: Tài liệu Kế hoạch quản lý chất lượng của dự án.
     * **18_Software Quality Management Plan Plan.pdf**,
-    * **19_Lessons Learned.docx**: Tài liệu báo cáo kinh nghiệm rút ra sau khi thực hiện dự án.
+    * **19_Lessons Learned.docx**: Tài liệu Báo cáo kinh nghiệm rút ra sau khi thực hiện dự án của nhóm.
     * **19_Lessons Learned.pdf**,
       
 * Thư mục **02_Source** chứa các sản phẩm với các tên in đậm sau:
@@ -101,7 +101,7 @@ _Tài liệu mô tả các sản phẩm cần nộp cho đồ án của môn h�
         * Trang 2 chứa liên kết đến video trên YouTube biểu diễn cách triển khai và chạy thành công hệ thống của nhóm trên môi trường thực.
     * **02_Deployment Guide.pdf**, 
     * **03_User Guide.docx**: Tài liệu hướng dẫn **người dùng cuối** cách cài đặt và sử dụng sản phẩm. Ngoài ra trong tài liệu này còn có các thông tin sau:
-        * Trang 2 chứa liên kết đến video trên YouTube giới thiệu cách sử dụng hệ thống của nhóm.
+        * Trang 2 chứa liên kết đến video trên YouTube giới thiệu cách sử dụng hệ thống của nhóm để giải quyết từng vấn đề của người dùng.
     * **03_User Guide.pdf**.
 
 ## 3. Hình thức và thời hạn nộp
