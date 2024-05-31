@@ -47,7 +47,7 @@ _Tài liệu mô tả các sản phẩm cần nộp cho đồ án của môn h�
     * **03_Software Requirements.pdf**,
     * **04_Project Charter.docx**: Tài liệu Ủy nhiệm dự án,
     * **04_Project Charter.pdf**,
-    * **O5_Prototype.psd hoặc O3_Prototype_HTMLs.zip**: Trình bày giao diện từng bước của ít nhất một luồng quy trình nghiệp vụ,
+    * **05_Prototype.psd hoặc 05_Prototype_HTMLs.zip**: Trình bày giao diện từng bước của ít nhất một luồng quy trình nghiệp vụ,
     * **05_Prototype.pdf**,
     * **06_Proof of Concept.docx**: Trình bày quá trình nhóm đã thử nghiệm việc hiện thực hóa một tính năng khó về mặt kỹ thuật, và kết quả cụ thể thu được,
     * **06_Proof of Concept.pdf**,
