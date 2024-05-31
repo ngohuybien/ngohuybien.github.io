@@ -65,7 +65,7 @@ _Tài liệu mô tả các sản phẩm cần nộp cho đồ án của môn h�
     * **12_Statement of Work.pdf**,
     * **13_Software Configuration Management Plan.docx**: Tài liệu Kế hoạch quản lý cấu hình của dự án. Ngoài ra trong tài liệu này còn có các thông tin sau:
         * Trang 2 chứa liên kết và tài khoản truy cập hệ thống tương tác, liên lạc của nhóm (ví dụ Slack, Discord).
-        * Trang 3 chứa liên kết và tài khoản truy cập hệ thống quản lý yêu cầu của nhóm (ví dụ Confluence, Jama Software).
+        * Trang 3 chứa liên kết và tài khoản truy cập hệ thống quản lý yêu cầu của nhóm (ví dụ Confluence).
         * Trang 4 chứa liên kết và tài khoản truy cập hệ thống quản lý công việc của nhóm (ví dụ Trello, Jira Software, Asana).
         * Trang 5 chứa liên kết và tài khoản truy cập hệ thống quản lý mã nguồn của nhóm (ví dụ GitHub, GitLab).
         * Trang 6 chứa liên kết và tài khoản truy cập hệ thống quản lý quy trình CI/CD của nhóm (ví dụ CircleCI, GitLab, Azure DevOps, Render, Vercel).
