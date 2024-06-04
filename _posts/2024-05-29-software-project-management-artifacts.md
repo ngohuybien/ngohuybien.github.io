@@ -120,15 +120,15 @@ Các sản phẩm của đồ án được nộp làm **2 lần**:
 ## 4. Các tiêu chí đánh giá
 * Kết quả **lần 1 (giữa kỳ)** được đánh giá dựa trên **các câu hỏi thường gặp** dưới đây:
     * Demo **một vấn đề** được giải quyết bằng hệ thống đã xây dựng (một business case).
-    * Demo quy trình nhóm đã áp dụng để xây dựng hệ thống tính đến thời điểm hiện tại thông qua các dữ liệu đã được thu thập.
-    * Lý do tại sao Yêu cầu phần mềm của nhóm lại có nội dung như đề xuất?
-    * Bao giờ thì dự án của nhóm có thể hoàn thành? Tại sao?
-    * Demo việc build và tích hợp mã nguồn giữa các thành viên.
+    * Demo **quy trình** nhóm đã áp dụng để quản lý dự án tính đến thời điểm hiện tại thông qua **các dữ liệu đã được thu thập** trên các hệ thống quản lý.
+    * Lý giải tại sao Yêu cầu phần mềm của nhóm lại có nội dung như đề xuất?
+    * Khi nào thì dự án của nhóm có thể hoàn thành? Tại sao?
+    * Demo việc build, tích hợp, và triển khai tự động mã nguồn của nhóm.
 
 * Kết quả **lần 2 (cuối kỳ)** của đồ án được đánh giá dựa trên 4 yếu tố:
-    * Việc hoàn thành toàn bộ và chất lượng nội dung của các sản phẩm ở mục 2. trong tài liệu này.
-    * Việc hoàn thành toàn bộ Yêu cầu phần mềm đã đề xuất và việc thể hiện được các business cases thông qua hệ thống đã xây dựng.
+    * Việc hoàn thành **toàn bộ** và **chất lượng** nội dung của các sản phẩm ở mục 4. trong tài liệu này.
+    * **Các dữ liệu** thu thập được trên các hệ thống quản lý thể hiện nhóm đã thực hiện dự án theo quy trình đề ra.
+    * Việc hoàn thành toàn bộ Yêu cầu phần mềm nhóm đã đề xuất thông qua hệ thống đã xây dựng.
     * Việc so sánh kết quả của đồ án với 1 hệ thống tương tự.
-    * **Các dữ liệu** thu thập được thể hiện nhóm đã thực hiện dự án theo quy trình đề ra.
 
 ### &copy; 2024 Ngô Huy Biên
