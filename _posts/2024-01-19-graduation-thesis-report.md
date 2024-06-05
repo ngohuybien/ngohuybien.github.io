@@ -18,18 +18,30 @@ _Tài liệu hướng dẫn viết báo cáo khóa luận hoặc thực tập d�
 *	Trong báo cáo sinh viên hạn chế tối đa mã nguồn và việc sử dụng các liên kết.
 * Sinh viên chỉ sử dụng LaTeX để viết báo cáo. Sinh viên viết báo cáo trực tiếp trong trang web của Overleaf mà giảng viên đã tạo.
 
-## 2. Quy trình viết báo cáo
+## 2. Cấu trúc báo cáo
+Bộ khung báo cáo thường như sau:
+* Trang bìa 1
+* Trang bìa 2
+* Lời cam đoan
+* Lời cảm ơn
+* Mục lục
+* Danh sách hình
+* Danh sách bảng
+*	Chương 1 – Giới thiệu đề tài (trình bày các hệ thống có sẵn, roles, problems, business cases, user stories).
+* Chương 2 – Lý thuyết nền tảng (trình bày các mẫu kiến trúc, các mô hình, các thuật toán, các độ đo đã được chứng minh là hiệu quả, sẽ được dùng trong đề tài).
+* Chương 3 – Thiết kế giải pháp (so sánh phân tích các giải pháp cho các bài toán cụ thể của đề tài, giải thích kiến trúc, thuật toán đề xuất).
+*	Chương 4 – Cài đặt giải pháp (trình bày các nền tảng, công cụ, ngôn ngữ lập trình được sử dụng, kinh nghiệm xử lý các vấn đề gặp phải khi cài đặt).
+*	Chương 5 – Đánh giá giải pháp (mô tả cách tính toán các độ đo và thảo luận về các kết quả tính toán, trình bày việc kiểm thử, so sánh với các hệ thống tương tự).
+*	Chương 6 – Kết luận.
+*	Tài liệu tham khảo
+*	Phụ lục
+        
+## 3. Quy trình viết báo cáo
 * Báo cáo được phép có một số nội dung **trùng lắp** với nội dung của Đề cương.
 * Sinh viên có thể viết **dài không giới hạn**, giảng viên hướng dẫn sẽ cắt bỏ nhiều, thông thường bản cuối của báo cáo sẽ thiếu nội dung hơn là thừa.
 * Sinh viên luôn **viết bản nháp** cho từng chương càng sớm càng tốt. Để viết bản nháp, sinh viên vẽ một bản đồ tư duy (mindmap) về những nội dung dự định trình bày trong chương. Bắt đầu với điểm giữa là tên chủ đề của chương và lan dần ra những vấn đề, kiến thức liên quan. Sinh viên luôn luôn tự hỏi **tại sao** báo cáo lại trình bày nội dung này, liên quan gì đến điểm giữa của bản đồ tư duy, xa hay gần điểm giữa của bản đồ tư duy. Các điểm càng xa điểm giữa của bản đồ tư duy thì trình bày càng ít và sơ lược.
 * Các bước khuyến nghị:
-    * Khởi tạo: Tạo  bộ khung (mục lục). Những chương nào chưa có nội dung các em để là "Sẽ bổ sung". Bộ khung báo cáo thường gồm 6 chương:
-        *	Chương 1 – Giới thiệu đề tài (trình bày các hệ thống có sẵn, roles, problems, business cases, user stories).
-        * Chương 2 – Lý thuyết nền tảng (trình bày các mẫu kiến trúc, các mô hình, các thuật toán, các độ đo đã được chứng minh là hiệu quả, sẽ được dùng trong đề tài).
-        * Chương 3 – Thiết kế giải pháp (so sánh phân tích các giải pháp cho các bài toán cụ thể của đề tài, giải thích kiến trúc, thuật toán đề xuất).
-        *	Chương 4 – Cài đặt giải pháp (trình bày các nền tảng, công cụ, ngôn ngữ lập trình được sử dụng, kinh nghiệm xử lý các vấn đề gặp phải khi cài đặt).
-        *	Chương 5 – Đánh giá giải pháp (mô tả cách tính toán các độ đo và thảo luận về các kết quả tính toán, trình bày việc kiểm thử, so sánh với các hệ thống tương tự).
-        *	Chương 6 – Kết luận.
+    * Khởi tạo: Tạo  bộ khung (mục lục). Những chương nào chưa có nội dung sinh viên để là "Sẽ bổ sung".
     * Viết Chương 1.
     * Liệt kê một số khái niệm của Chương 2.
     * Tạo một số sơ đồ của Chương 3.
@@ -40,9 +52,9 @@ _Tài liệu hướng dẫn viết báo cáo khóa luận hoặc thực tập d�
     * Viết chi tiết Chương 2.
     * Chỉnh sửa tất cả các chương theo mạch logic của từng chương như hướng dẫn ở mục 3 trong tài liệu này.
 
-## 3. Nội dung báo cáo
+## 4. Nội dung báo cáo
 
-### 3.1. Chương 1 – Giới thiệu đề tài (khoảng 10 trang)
+### 4.1. Chương 1 – Giới thiệu đề tài (khoảng 10 trang)
 * Đề tài làm gì (WHAT)? Tại sao thực hiện đề tài (WHY)? Sinh viên cần làm rõ ít nhất các ý sau:
     * Bối cảnh của đề tài.
     * Các vai trò quan tâm, các vấn đề họ gặp phải.
@@ -60,7 +72,7 @@ _Tài liệu hướng dẫn viết báo cáo khóa luận hoặc thực tập d�
     * và/hoặc
     * Vì vấn đề P (dẫn chứng bằng số liệu) nên người ta đã xây dựng hệ thống S3. Hệ thống S3 thiếu các tính năng F1, F2 hoặc có các hạn chế L3, L4 (dẫn chứng bằng khảo sát). Chúng tôi đề xuất xây dựng hệ thống S4 tương tự hệ thống S3 và bổ sung tính năng F1, tính năng F2, hoặc nhằm khắc phục hạn chế L3, L4.
 
-### 3.2. Chương 2 – Lý thuyết nền tảng (10 trang)
+### 4.2. Chương 2 – Lý thuyết nền tảng (10 trang)
 * Trình bày các kiến thức nền tảng liên quan đến từng vấn đề cần giải quyết của đề tài, dựa vào các tài liệu tham khảo, phần mềm tham khảo. Các kiến thức trong chương 2 là các kiến thức đã được chứng minh là đúng. Sinh viên chỉ cần liệt kê các thuật ngữ thật ngắn gọn, không cần đi chi tiết vào diễn giải hay trình bày chi tiết các thuật ngữ này.
 * Nội dung chương có thể trình bày các mẫu kiến trúc, các mô hình, các thuật toán, các độ đo **đã được chứng minh là hiệu quả**, sẽ được **dùng trong đề tài**.
 * Mạch logich của Chương 2 thường như sau:
@@ -68,7 +80,7 @@ _Tài liệu hướng dẫn viết báo cáo khóa luận hoặc thực tập d�
     * Ở chương 1 đề tài đã đề xuất xây dựng hệ thống S4. Hệ thống S4 được xây dựng trên nền tảng lý thuyết T4. T4 là ... Chúng ta quan tâm đến T4 vì ... T4 hoạt động như sau ...
     * Ở chương 1 đề tài đã đề xuất giải pháp NEW_S1. Giải pháp NEW_S1 có thể được đánh giá, so sánh với giải pháp S1 bằng độ đo M1. M1 được đề xuất bởi ... Chúng ta quan tâm đến M1 vì ... M1 hoạt động như sau ...
 
-### 3.3. Chương 3 – Thiết kế giải pháp (30 trang)
+### 4.3. Chương 3 – Thiết kế giải pháp (30 trang)
 * Nội dung chương 3 trình bày giải pháp cho **từng bài toán cụ thể**. Các nội dung cần trình bày **bằng ví dụ**, với các giá trị cụ thể, minh họa cho các khái niệm. Các ví dụ được lấy ra từ hệ thống phần mềm đã được viết.
 * Giải pháp được trình bày **không phụ thuộc vào ngôn ngữ lập trình, công cụ sử dụng**.
 * Sinh viên dựa vào các tài liệu tham khảo, các suy luận, các chuẩn có sẵn, các kết quả đạt được khi thực nghiệm để chứng minh, lý giải vì sao lại chọn giải pháp như vậy cho từng vấn đề, mục tiêu.
@@ -83,7 +95,7 @@ _Tài liệu hướng dẫn viết báo cáo khóa luận hoặc thực tập d�
     * Ở chương 1 chúng tôi đề xuất giải pháp NEW_S1. Chúng tôi thiết kế giải pháp NEW_S1 như sau: hình vẽ hoặc sơ đồ. Diễn giải: NEW_S1 bao gồm các thành phần sau… NEW_S1 hoạt động như sau…. Chúng tôi đề xuất thiết kế NEW_S1 như vậy vì ...
     * Ở chương 1 chúng tôi đề xuất giải pháp NEW_S2. Chúng tôi thiết kế giải pháp NEW_S2 như sau: hình vẽ hoặc sơ đồ. Diễn giải: NEW_S2 bao gồm các thành phần sau… NEW_S2 hoạt động như sau…. Chúng tôi thiết kế NEW_S2 như vậy vì…
 
-### 3.4. Chương 4 – Cài đặt giải pháp (20 trang)
+### 4.4. Chương 4 – Cài đặt giải pháp (20 trang)
 * Phần lớn nội dung chi tiết của chương này nằm ở Phụ lục, chỉ các ý chính được trình bày trong báo cáo. Sinh viên tập trung chủ yếu vào việc **báo cáo kinh nghiệm thực tế**.
 * Những kết quả nào đã có sẵn (nền tảng, khung ứng dụng, thư viện, mã nguồn có sẵn, dữ liệu có sẵn)? Những kết quả này tồn tại vấn đề gì chưa giải quyết hoặc cung cấp sẵn các tính năng nào trong việc giải quyết vấn đề đặt ra?
 * Đề tài đã tạo thêm các công cụ để xử lý tác vụ đặc thù nào, đã chỉnh/thêm dữ liệu nào, đã chỉnh/thêm các thành phần hệ thống có sẵn nào, đã chỉnh/thêm mã nguồn có sẵn nào. Những thay đổi này dùng để giải quyết vấn đề gì?
@@ -94,7 +106,7 @@ _Tài liệu hướng dẫn viết báo cáo khóa luận hoặc thực tập d�
    * Hệ thống S4 được chúng tôi cài đặt bằng công cụ, thành phần, thư viện ... Khi cài đặt hệ thống S4 bằng công cụ, thành phần, thư viện ... chúng tôi gặp các vấn đề sau ... Chúng tôi đã giải quyết như sau ... Chúng tôi rút ra kinh nghiệm sau ...
    * Sinh viên có thể lập bảng để trình bày ngắn gọn hơn.
 
-### 3.5. Chương 5 – Đánh giá giải pháp (15 trang)
+### 4.5. Chương 5 – Đánh giá giải pháp (15 trang)
 * Khóa luận hoặc thực tập dự án tốt nghiệp đã xây dựng được hệ thống phần mềm với bao nhiêu dòng mã nguồn, bao nhiêu hàm/lớp, bao nhiêu mối liên hệ giữa các hàm/lớp, bao nhiêu bảng dữ liệu, bao nhiêu mối liên hệ giữa các bảng, bao nhiêu màn hình giao diện?
 * Giải pháp đã được kiểm thử như thế nào? Các kết quả kiểm thử thể hiện điều gì? Chúng tôi đã thực hiện kiểm thử NEW_S1 bằng công cụ, thành phần, thư viện sau ... Kết quả kiểm thử có số liệu như sau ... Kết quả này thể hiện rằng ...
 * Khóa luận hoặc thực tập dự án tốt nghiệp đã xây dựng được hệ thống phần mềm với những tính năng nổi bật nào, đã giải quyết được những vấn đề gì trong thực tế.
@@ -103,13 +115,18 @@ _Tài liệu hướng dẫn viết báo cáo khóa luận hoặc thực tập d�
 * Giải pháp đã được đánh giá định lượng, so sánh với ... dựa trên độ đo ... Các kết quả đánh giá thể hiện có số liệu như sau ... Kết quả này thể hiện rằng ... Chi tiết dữ liệu tính toán có thể truy cập ở ...
 * Giải pháp đã được đánh giá định tính bằng ... (khảo sát) ... Số lượng khảo sát là ... Nội dung khảo sát là ... Kết quả thể hiện ...  Chi tiết dữ liệu khảo sát có thể truy cập ở ...
 
-### 3.6. Chương 6 – Kết luận (5 trang)
+### 4.6. Chương 6 – Kết luận (5 trang)
 * Các sản phẩm nổi bật thu được là gì (thiết kế, hệ thống phần mềm, công cụ hỗ trợ, tài liệu nghiên cứu về sản phẩm, dữ liệu tạo ra được, mô hình huấn luyện được, công cụ tạo ra được để xử lý một tác vụ đặc thù nào đó). Có cải tiến, mở rộng mã nguồn mở không?
 * Bảng so sánh các kết quả thu được với các mục tiêu đề ra ban đầu.
 * Phương hướng phát triển và nghiên cứu trong tương lai: Liệt kê một số vấn đề còn tồn tại và đề ra phương hướng giải quyết (một cách rất tổng quát) trong tương lai.
 * Tập trung vào ưu điểm của ứng dụng. Không tập trung vào các hạn chế, không nêu các lý do biện minh (nhân lực, thời gian), chỉ nói là chúng tôi dự định trong tương lai sẽ khắc phục các hạn chế.
 
-### 3.7. Phụ lục
+### 4.7. Tài liệu tham khảo
+* Tối thiểu 3 tài liệu tham khảo.
+* Nếu sách được sử dụng thì sách cần được xuất bản trong 5 năm gần nhất.
+* Các tài liệu tham khảo phải được tham chiếu trong báo cáo.
+  
+### 4.8. Phụ lục
 * Lịch sử các hệ thống, công cụ.
 * Giao diện hệ thống. Các giao diện nên được trình bày ngắn gọn. Sinh viên hạn chế liệt kê toàn bộ các giao diện.
 * Bản mô tả chi tiết thiết kế hệ thống
