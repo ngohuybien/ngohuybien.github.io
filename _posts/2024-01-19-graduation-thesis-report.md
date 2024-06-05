@@ -122,7 +122,7 @@ Bộ khung báo cáo thường như sau:
 * Tập trung vào ưu điểm của ứng dụng. Không tập trung vào các hạn chế, không nêu các lý do biện minh (nhân lực, thời gian), chỉ nói là chúng tôi dự định trong tương lai sẽ khắc phục các hạn chế.
 
 ### 4.7. Tài liệu tham khảo
-* Tối thiểu 3 tài liệu tham khảo.
+* Báo cáo phải có tối thiểu 3 tài liệu tham khảo.
 * Nếu sách được sử dụng thì sách cần được xuất bản trong 5 năm gần nhất.
 * Các tài liệu tham khảo phải được tham chiếu trong báo cáo.
   
