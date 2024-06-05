@@ -10,9 +10,7 @@ _Tài liệu mô tả các sản phẩm cần nộp của khóa luận hoặc th
 
 ## 1. Thông tin chung
 * Đây là các sản phẩm do giảng viên hướng dẫn yêu cầu. Các sản phẩm này khác đôi chút so với với yêu cầu nộp sản phẩm của Khoa/Bộ môn (là thư mục **KANBAN** chứa các sản phẩm trung gian trong quá trình thực hiện đề tài).
-* Các sản phẩm cần được nén lại thành **1 file .ZIP duy nhất**, sau đó tải lên một trang lưu trữ, tạo liên kết để tải về và gửi liên kết cho giảng viên hướng dẫn qua email **trước ngày nộp đơn đăng ký bảo vệ theo dự kiến của Khoa 3 tuần**.
-* Đối với những bộ dữ liệu lớn sinh viên có thể đưa lên nhiều tài khoản Google Drive (mỗi tài khoản được 15Gb).
-* Sinh viên không dùng tiếng Việt có dấu khi đặt tên các thư mục hay tập tin.
+* Sinh viên **không** dùng tiếng Việt có dấu khi đặt tên các thư mục hay tập tin.
 
 ## 2. Các sản phẩm cần nộp
 
@@ -63,16 +61,21 @@ Thư mục gốc chứa
 Thư mục REFERENCES chứa các tài liệu tham khảo. Tên các tập tin tài liệu tham khảo cần đặt theo chuẩn APA.
 
 ### 2.7. Thư mục KANBAN
-Thư mục KANBAN chứa các sản phẩm của mô hình Kanban, có thể bao gồm (nhưng không giới hạn)
+Thư mục KANBAN chứa các sản phẩm của mô hình Kanban, có thể bao gồm, nhưng không giới hạn, các sản phẩm sau:
 * **DomainModel.vsdx** của Visio (hoặc **DomainModel.xml** của Draw.io): Mô hình nghiệp vụ.
 * **Prototype.zip**: Bản mẫu.
 * **ProductBacklog.xlsx**: Các tính năng và sản phẩm cần hoàn thành.
 * **Architecture.vsdx** của Visio (hoặc **Architecture.xml** của Draw.io).
 * **ProofOfConcept.zip**: Mã nguồn tính năng khó của hệ thống nhóm chưa thực hiện bao giờ.
+* **Timeline_v1_YYYY-MM-DD.pdf**, **Timeline_v2_YYYY-MM-DD.pdf**: Các timelines, trong đó YYYY-MM-DD ngày tạo, ví dụ 2023-12-18.
 * File **ConfigurationManagement.txt** chứa
   * Liên kết và tài khoản truy cập hệ thống quản lý dự án (ví dụ Trello).
   * Liên kết và tài khoản truy cập hệ thống build tự động (ví dụ CircleCI).
-  * Liên kết đến trang Release liệt kê các sản phẩm hoàn thành mỗi tuần.
+  * Liên kết đến trang web tĩnh liệt kê các sản phẩm hoàn thành mỗi tuần.
   * Liên kết đến hệ thống triển khai cho người dùng và người quản trị sử dụng cập nhật hằng tuần (ví dụ liên kết của Render).
+    
+## 3. Hình thức và thời hạn nộp
+* Các sản phẩm cần được nén lại thành **1 file .ZIP duy nhất**, sau đó tải lên một trang lưu trữ, ưu tiên Google Drive, tạo liên kết để tải về và gửi liên kết đến đến 1 file ZIP duy nhất (**không** gửi liên kết đến thư mục) vào trang "Nộp CD bản cuối" trong Confluence **trước ngày nộp đơn đăng ký bảo vệ theo dự kiến của Khoa 3 tuần**.
+* Đối với những bộ dữ liệu lớn sinh viên có thể đưa lên nhiều tài khoản Google Drive (mỗi tài khoản được 15Gb).
 
 ### &copy; 2024 Ngô Huy Biên
