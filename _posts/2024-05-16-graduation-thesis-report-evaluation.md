@@ -17,12 +17,13 @@ _Tài liệu mô tả một số tiêu chí có thể dùng để tự đánh gi
 ## 2.	Một số tiêu chí đánh giá báo cáo
 
 ### 2.1. Hình thức
+* Đề cương đã được đưa ra khỏi báo cáo hay chưa?
 * File PDF của báo cáo đã có mục lục dạng Bookmark bên trái hay chưa?
 * Báo cáo đã được đánh số trang hay chưa?
-* Báo cáo đã sử dụng chỉ 1 loại font chữ duy nhất cho các tiêu đề, đoạn văn, bảng biểu, sơ đồ, hay chưa?
+* Báo cáo đã sử dụng chỉ 1 loại font chữ duy nhất cho các đề mục, đoạn văn, bảng biểu, sơ đồ, hay chưa? (Nên giữ nguyên font, format của Latex mẫu.)
 * Báo cáo đã sử dụng chỉ 1 loại font chữ duy nhất cho phần mã nguồn, thường là Consolas hoặc Courier New, hay chưa?
 * Mã nguồn trong báo cáo đã đóng khung chữ nhật, viền đen, hay chưa?
-* Khoảng cách giữa các dòng chữ đã đồng nhất, thường là 1.15, hay chưa?
+* Khoảng cách giữa các dòng chữ đã đồng nhất, thường là 1.15, hay chưa? (Nên giữ nguyên font, format của Latex mẫu.)
 * Các đề mục cha đã có độ lớn của font chữ lớn hơn, hoặc đậm hơn đề mục con, hay chưa?
 * Tiêu đề (headers) của các bảng đã in đậm hay chưa?
 * Chữ trong các bảng, hoặc mã nguồn trong khung, đã có khoảng cách (paddings) với các đường kẻ của bảng hay chưa?
@@ -61,8 +62,10 @@ _Tài liệu mô tả một số tiêu chí có thể dùng để tự đánh gi
 * Các câu hỏi (kết thúc bằng ?) trong báo cáo không nhằm mục đích phát biểu vấn đề đã được bỏ đi hay chưa?
 * Báo cáo đã trình bày các ứng dụng tương tự hay chưa?
 * Báo cáo đã trình bày những kết quả nào đã có sẵn (nền tảng, khung ứng dụng, thư viện, mã nguồn có sẵn, dữ liệu có sẵn) hay chưa?
-* Báo cáo đã trình bày thiết kế hệ thống hay chưa?
+* Báo cáo đã trình bày 4 góc nhìn (Logical View, Development View, Deployment View, Process View) của kiến trúc hệ thống hay chưa?
+* Báo cáo đã trình bày sơ đồ và mô tả logical và physical database schema hay chưa?
 * Báo cáo đã trình bày các công cụ dùng để cài đặt hay chưa?
+* Báo cáo đã mô tả thiết kế và hiện thực hóa searching và reporting, nếu có, hay chưa?
 * Báo cáo đã trình bày các kinh nghiệm thực tế về các vấn đề phát sinh khi cài đặt hay chưa?
 * Báo cáo đã trình bày các test cases thủ công, test data và các kết quả kiểm thử thủ công hay chưa?
 * Báo cáo đã trình bày các công cụ dùng để kiểm thử và các kết quả kiểm thử tự động bằng công cụ hay chưa?
