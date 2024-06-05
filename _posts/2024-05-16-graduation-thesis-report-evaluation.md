@@ -31,8 +31,9 @@ _Tài liệu mô tả một số tiêu chí có thể dùng để tự đánh gi
 * Các danh sách nhằm mục đích liệt kê đã sử dụng các ký hiệu gạch đầu dòng (-), hoặc chấm đen (•), hoặc chấm trắng (◦) hoặc ký tự thường (a, b, c) để liệt kê hay chưa?
 * Các URLs viết trực tiếp trong các đoạn văn đã được thay bằng tên của ứng dụng hoặc tổ chức, kèm theo URL tương ứng ở Footnote của trang hay chưa?
 * Khoảng cách thụt vào của các đề mục, đoạn văn hay items đã có độ lớn theo tài liệu hướng dẫn của Khoa hay chưa?
-* Tên luận văn, tiêu đề, câu, từ, đã được viết bằng chữ thường (NGHĨA LÀ KHÔNG VIẾT IN HOA TẤT CẢ CÁC CHỮ) hay chưa?
-* Các tiêu đề (headers) của báo cáo đã được đảm bảo rằng không nằm ở dòng cuối cùng của trang hay chưa?
+* Tên luận văn, đề mục, câu, từ, đã được viết bằng chữ thường (NGHĨA LÀ KHÔNG VIẾT IN HOA TẤT CẢ CÁC CHỮ) hay chưa?
+* Các đề mục của báo cáo đã được đảm bảo rằng không nằm ở dòng cuối cùng của trang hay chưa?
+* Tất cả các đề mục của báo cáo đã được đánh số hay chưa? (Không dùng chữ in đậm hay in nghiêng không đánh số làm đề mục.)
 * Tiêu đề của ảnh đã nằm cùng trang với ảnh hay chưa?
 * Tài liệu tham khảo đã trình bày theo chuẩn IEEE hay chưa?
 * Các tham chiếu, ví dụ [1] đã có khoảng cách với từ phía trước, và đứng trước dấu chấm hoặc dấu phẩy hay chưa?
