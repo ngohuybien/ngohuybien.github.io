@@ -20,10 +20,10 @@ _Tài liệu mô tả một số tiêu chí có thể dùng để tự đánh gi
 * Đề cương đã được đưa ra khỏi báo cáo hay chưa?
 * File PDF của báo cáo đã có mục lục dạng Bookmark bên trái hay chưa?
 * Báo cáo đã được đánh số trang hay chưa?
-* Báo cáo đã sử dụng chỉ 1 loại font chữ duy nhất cho các đề mục, đoạn văn, bảng biểu, sơ đồ, hay chưa? (Nên giữ nguyên font, format của Latex mẫu.)
+* Báo cáo đã sử dụng chỉ 1 loại font chữ duy nhất cho các đề mục, đoạn văn, bảng biểu, sơ đồ, hay chưa? (Nên giữ nguyên font, format của LaTeX mẫu.)
 * Báo cáo đã sử dụng chỉ 1 loại font chữ duy nhất cho phần mã nguồn, thường là Consolas hoặc Courier New, hay chưa?
 * Mã nguồn trong báo cáo đã đóng khung chữ nhật, viền đen, hay chưa?
-* Khoảng cách giữa các dòng chữ đã đồng nhất, thường là 1.15, hay chưa? (Nên giữ nguyên font, format của Latex mẫu.)
+* Khoảng cách giữa các dòng chữ đã đồng nhất, thường là 1.15, hay chưa? (Nên giữ nguyên font, format của LaTeX mẫu.)
 * Các đề mục cha đã có độ lớn của font chữ lớn hơn, hoặc đậm hơn đề mục con, hay chưa?
 * Tiêu đề (headers) của các bảng đã in đậm hay chưa?
 * Chữ trong các bảng, hoặc mã nguồn trong khung, đã có khoảng cách (paddings) với các đường kẻ của bảng hay chưa?
