@@ -74,7 +74,15 @@ Thư mục KANBAN chứa các sản phẩm của mô hình Kanban, có thể bao
   * Liên kết đến trang web tĩnh liệt kê các sản phẩm hoàn thành mỗi tuần.
   * Liên kết đến hệ thống triển khai cho người dùng và người quản trị sử dụng cập nhật hằng tuần (ví dụ liên kết của Render).
     
-## 3. Hình thức và thời hạn nộp
+## 3. Kiểm tra đĩa CD
+* Các sản phẩm đã được sắp vào đúng các thư mục theo hướng dẫn ở mục 2. hay chưa?
+* Các thư mục LateX đã chứa mã nguồn LateX hay chưa?
+* Thư mục _KANBAN_ đã chứa các Timelines hay chưa?
+* Các tên file trong thư mục _Slides_ đã được đặt đúng hay chưa?
+* Thư mục _SOURCE/Testing_ đã có nội dung và dữ liệu kiểm thử thủ công hay chưa?
+* Thư mục _SOURCE/Model_Training_ đã có nội dung hay chưa? (Nếu đề tài có liên quan đến học máy.)
+
+## 4. Hình thức và thời hạn nộp
 * Các sản phẩm cần được nén lại thành **1 file .ZIP duy nhất**, sau đó tải lên một trang lưu trữ, ưu tiên Google Drive, tạo liên kết để tải về và gửi liên kết đến đến 1 file ZIP duy nhất (**không** gửi liên kết đến thư mục) vào trang "Nộp CD bản cuối" trong Confluence **trước ngày nộp đơn đăng ký bảo vệ theo dự kiến của Khoa 3 tuần**.
 * Đối với những bộ dữ liệu lớn sinh viên có thể đưa lên nhiều tài khoản Google Drive (mỗi tài khoản được 15Gb).
 
