@@ -58,7 +58,7 @@ Thư mục gốc chứa
 * Trong trường hợp vì lý do chính đáng, không thể lưu tất cả các thành phần cần thiết để có thể cài đặt, sinh viên cần tạo file Links.txt ghi rõ tên phần mềm, phiên bản được sử dụng, và liên kết để tải về.
 
 ### 2.6. Thư mục REFERENCES
-Thư mục REFERENCES chứa các tài liệu tham khảo. Tên các tập tin tài liệu tham khảo cần đặt theo chuẩn APA.
+Thư mục REFERENCES chứa các tài liệu tham khảo. Tên các tập tin tài liệu tham khảo cần đặt theo chuẩn APA. Các sách nếu có cần được xuất bản trong 5 năm gần nhất trở lại.
 
 ### 2.7. Thư mục KANBAN
 Thư mục KANBAN chứa các sản phẩm của mô hình Kanban, có thể bao gồm, nhưng không giới hạn, các sản phẩm sau:
