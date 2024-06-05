@@ -30,8 +30,9 @@ _Tài liệu mô tả một số tiêu chí có thể dùng để tự đánh gi
 * Nghiệp vụ đã tương tự với phần mềm mẫu chưa?
 
 ### 2.3. Kiểm thử
-* Các test cases đã được chạy chưa?
-* Các unit tests đã được chạy chưa?
+* Các test cases thủ công đã được thực hiện hay chưa?
+* Các test cases, test data, test reports đã được đưa vào thư mục SOURCE/Testing hay chưa?
+* Các unit tests đã được chạy hay chưa?
 * Tốc độ phần mềm đã được kiểm thử bằng các dịch vụ đám mây hay chưa?
 * Các API đã đòi hỏi phải có chứng thực khi gọi hay chưa?
 * Bảo mật phần mềm đã được kiểm thử bằng công cụ quét lỗi tự động hay chưa?
@@ -41,6 +42,9 @@ _Tài liệu mô tả một số tiêu chí có thể dùng để tự đánh gi
 * Tài liệu kỹ thuật đã mô tả phiên bản của các công cụ được sử dụng hay chưa?
 * Tài liệu kỹ thuật đã hỗ trợ phiên bản LTS gần nhất của các công cụ được sử dụng hay chưa?
 * Các bước của tài liệu kỹ thuật đã được sắp xếp để có thể thực hiện tuần tự, có sự logic, liên kết giữa các bước hay chưa?
+* Các bước và hình ảnh tương ứng cài đặt cơ sở dữ liệu, chạy script, import built-in data đã có hay chưa? (Nếu hard-code các script và data trong mã nguồn thì cần bổ sung mô tả vào trong tài liệu biên dịch và tài liệu triển khai.)
+* Các bước và hình ảnh tương ứng run hệ thống thành công trên local cho từng service và cho toàn hệ thống đã có hay chưa?
+* Các bước và hình ảnh tương ứng run hệ thống thành công trên production cho từng service và cho toàn hệ thống đã có hay chưa?
 * Sinh viên đã chạy các bước của tài liệu biên dịch trên máy ảo vừa mới cài hệ điều hành chưa?
 * Sinh viên đã chạy các bước của tài liệu triển khai trên máy ảo vừa mới cài hệ điều hành chưa?
 * Sinh viên đã chạy các bước của tài liệu triển khai trên môi trường thực (ví dụ AWS, Azure, Google Cloud) hay chưa?
