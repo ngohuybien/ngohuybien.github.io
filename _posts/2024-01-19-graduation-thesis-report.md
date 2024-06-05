@@ -76,7 +76,7 @@ _Tài liệu hướng dẫn viết báo cáo khóa luận hoặc thực tập d�
     * Thiết kế giao diện hệ thống: chỉ 1 hoặc 2 giao diện chính. Sinh viên nên lựa chọn một vài phong cách thiết kế giao diện, phân tích lợi ích của cách tiếp cận, và minh họa phong cách bằng giao diện của hệ thống. Các giao diện còn lại cần để trong Phụ lục. Sinh viên cần trình bày kết hợp thiết kế giao diện theo luồng nghiệp vụ.
     * Giải pháp lưu trữ dữ liệu: Mô tả bằng các sơ đồ và diễn giải từng thành phần trong sơ đồ.
     * Thiết kế kiến trúc tổng quan của hệ thống: Mô tả bằng các sơ đồ và diễn giải từng thành phần trong sơ đồ.
-    * Các thuật toán để hiện thực các tính năng cốt lõi của hệ thống: Mô tả bằng các sơ đồ và diễn giải từng thành phần trong sơ đồ.
+    * Các **thuật toán** để hiện thực các tính năng cốt lõi của hệ thống: Mô tả bằng các sơ đồ, code snippets và diễn giải từng thành phần trong sơ đồ, từng đoạn mã nhỏ.
 * Mạch logich của Chương 3 thường như sau:
     * Ở chương 1 chúng tôi đề xuất xây dựng hệ thống S4.
     * Chúng tôi thiết kế hệ thống S4 như sau: S4 bao gồm các thành phần sau… S4 hoạt động như sau…. Chúng tôi thiết kế S4 như vậy vì…
