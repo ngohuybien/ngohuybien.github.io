@@ -31,11 +31,12 @@ _Tài liệu mô tả một số tiêu chí có thể dùng để tự đánh gi
 * Các danh sách nhằm mục đích liệt kê đã sử dụng các ký hiệu gạch đầu dòng (-), hoặc chấm đen (•), hoặc chấm trắng (◦) hoặc ký tự thường (a, b, c) để liệt kê hay chưa?
 * Các URLs viết trực tiếp trong các đoạn văn đã được thay bằng tên của ứng dụng hoặc tổ chức, kèm theo URL tương ứng ở Footnote của trang hay chưa?
 * Khoảng cách thụt vào của các đề mục, đoạn văn hay items đã có độ lớn theo tài liệu hướng dẫn của Khoa hay chưa?
-* Tên luận văn, tiêu đề, hay câu, trừ trường hợp có dụng ý riêng thật sự đặc biệt, đã được viết bằng chữ thông thường (NGHĨA LÀ KHÔNG VIẾT IN HOA TẤT CẢ CÁC CHỮ) hay chưa?
+* Tên luận văn, tiêu đề, câu, từ, đã được viết bằng chữ thường (NGHĨA LÀ KHÔNG VIẾT IN HOA TẤT CẢ CÁC CHỮ) hay chưa?
 * Các tiêu đề (headers) của báo cáo đã được đảm bảo rằng không nằm ở dòng cuối cùng của trang hay chưa?
 * Tiêu đề của ảnh đã nằm cùng trang với ảnh hay chưa?
 * Tài liệu tham khảo đã trình bày theo chuẩn IEEE hay chưa?
 * Các tham chiếu, ví dụ [1] đã có khoảng cách với từ phía trước, và đứng trước dấu chấm hoặc dấu phẩy hay chưa?
+* Các sách tham khảo đã cập nhật bản mới trong 5 năm gần nhất, hoặc thay bằng các sách tương tự xuất bản trong 5 năm gần nhất hay chưa? (Các bài báo không bị hạn chế phải xuất bản trong 5 năm gần nhất.)
 
 ### 2.1. Nội dung
 * Mỗi thành viên trong nhóm đã đọc báo cáo từ đầu đến cuối để kiểm tra nội dung và **chính tả** hay chưa?
@@ -57,7 +58,6 @@ _Tài liệu mô tả một số tiêu chí có thể dùng để tự đánh gi
 * Các câu văn nói đã được sửa lại hay chưa? Ví dụ "Xài nhiêu trả nhiêu".
 * Các câu văn thiếu ý nghĩa chính xác đã được sửa lại hay chưa? Ví dụ: câu văn "Còn với Tacotron 2, mô hình này đã có lâu và được sử dụng rất rộng rãi." cần sửa lại thành "Mô hình Tacotron 2 được đề xuất từ năm 2017, theo số trích dẫn trên Google Scholar thì hiện tại đã được sử dụng bởi 714 nhóm nghiên cứu."
 * Các câu hỏi (kết thúc bằng ?) trong báo cáo không nhằm mục đích phát biểu vấn đề đã được bỏ đi hay chưa?
-* Các tài liệu ở phần Tài liệu tham khảo đã được tham chiếu trong báo cáo hay chưa?
 * Báo cáo đã trình bày các ứng dụng tương tự hay chưa?
 * Báo cáo đã trình bày những kết quả nào đã có sẵn (nền tảng, khung ứng dụng, thư viện, mã nguồn có sẵn, dữ liệu có sẵn) hay chưa?
 * Báo cáo đã trình bày thiết kế hệ thống hay chưa?
@@ -68,6 +68,8 @@ _Tài liệu mô tả một số tiêu chí có thể dùng để tự đánh gi
 * Báo cáo đã có bảng so sánh các workflows của hệ thống phần mềm xây dựng được với ít nhất một hệ thống tương tự hay chưa?
 * Báo cáo đã có phần thảo luận về lợi ích của phần mềm xây dựng được khi áp dụng vào môi trường thực hay chưa?
 * Báo cáo đã trình bày các vấn đề còn tồn tại và phương hướng giải quyết đề xuất (một cách rất tổng quát) trong tương lai hay chưa?
+* Báo cáo đã có sử dụng tối thiểu 3 tài liệu tham khảo hay chưa?
+* Các tài liệu ở phần Tài liệu tham khảo đã được tham chiếu trong báo cáo hay chưa?
 
 ## 3.	Kết quả tự đánh giá
 * Sinh viên tạo một file Excel với tên gọi **Report_Evaluation.xlsx**, và liệt kê tất cả các tiêu chí ở trên.
@@ -75,7 +77,7 @@ _Tài liệu mô tả một số tiêu chí có thể dùng để tự đánh gi
 * Sinh viên đánh dấu chọn ( ☑ ) vào những tiêu chí nào báo cáo đã đạt được.
 
 ## 4.	Thông tin thêm
-* Sinh viên tham khảo một số tiêu chí đánh giá hằng năm của Khoa ở <a target = "_blank" href = "https://bit.ly/3JECzJ6">đây</a>.
+* Sinh viên tham khảo các tiêu chí đánh giá hằng năm của Khoa ở <a target = "_blank" href = "https://bit.ly/3JECzJ6">đây</a>.
 * Sinh viên tham khảo một số báo cáo của các khóa trước ở <a target = "_blank" href = "https://bit.ly/39wpi2U">đây</a>.
 
 ### &copy; 2024 Ngô Huy Biên
