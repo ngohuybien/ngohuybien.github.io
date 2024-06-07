@@ -78,9 +78,9 @@ Thư mục KANBAN chứa các sản phẩm của mô hình Kanban, có thể bao
 * Các sản phẩm đã được sắp vào đúng các thư mục theo hướng dẫn ở mục 2. hay chưa?
 * Các thư mục LateX đã chứa mã nguồn LateX hay chưa?
 * Thư mục _KANBAN_ đã chứa các Timelines hay chưa?
-* Các tên file trong thư mục _Slides_ đã được đặt đúng hay chưa?
+* Thư mục _Slides_ đã có đủ các files quy định hay chưa? Tên của các files đã được đặt đúng hay chưa?
 * Thư mục _SOURCE/Testing_ đã có dữ liệu và kết quả kiểm thử thủ công hay chưa?
-* Thư mục _SOURCE/Testing_ đã có dữ liệu và kết quả kiểm thử bằng công cụ hay chưa?
+* Thư mục _SOURCE/Testing_ đã có dữ liệu và kết quả kiểm thử performance, security bằng công cụ hay chưa?
 * Thư mục _SOURCE/Testing_ đã có dữ liệu và kết quả khảo sát, nếu có, hay chưa?
 * Thư mục _SOURCE/Model_Training_ đã có dữ liệu, mã nguồn, và hướng dẫn hay chưa? (Nếu đề tài có liên quan đến học máy.)
 
