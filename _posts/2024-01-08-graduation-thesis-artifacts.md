@@ -76,7 +76,7 @@ Thư mục KANBAN chứa các sản phẩm của mô hình Kanban, có thể bao
     
 ## 3. Kiểm tra đĩa CD
 * Các sản phẩm đã được sắp vào đúng các thư mục theo hướng dẫn ở mục 2. hay chưa?
-* Các thư mục LateX đã chứa mã nguồn LateX hay chưa?
+* Các thư mục LateX đã chứa mã nguồn LateX hay chưa? Các hình ảnh đã có trong các thư mục LateX hay chưa?
 * Thư mục _KANBAN_ đã chứa các Timelines hay chưa?
 * Thư mục _Slides_ đã có đủ các files quy định hay chưa? Tên của các files đã được đặt đúng hay chưa?
 * Thư mục _SOURCE/Testing_ đã có dữ liệu và kết quả kiểm thử thủ công hay chưa?
