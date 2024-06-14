@@ -90,7 +90,7 @@ Học viên cần trình bày lý do thực hiện đề tài. Một số lý do
 Học viên cần liệt kê các sản phẩm đã có sẵn, mô tả nội dung các sản phẩm, có thể bao gồm nhưng không giới hạn các sản phẩm sau:
 * Giải pháp dự kiến áp dụng, học viên cần mô tả chi tiết **quy trình**, **kiến trúc**, **thuật toán**, **ngôn ngữ lập trình**, và **các công cụ** của giải pháp XYZ đề xuất bởi bài báo đã tìm hiểu. Học viên cần cung cấp liên kết đến các mã nguồn đã công bố có thể tải về được, dạng footnote, nếu bài báo đã có mã nguồn.
 * Các nguồn **dữ liệu và mã nguồn có sẵn** dự kiến sẽ được dùng để nghiên cứu, học viên cần mô tả chi tiết cấu trúc của nguồn dữ liệu và mã nguồn này. Học viên cần cung cấp liên kết đến các bộ dữ liệu có thể tải về được, dạng footnote.
-* Ảnh chụp kết quả chạy thử nghiệm mã nguồn và dữ liệu có sẵn.
+* **Ảnh chụp** kết quả chạy thử nghiệm mã nguồn và dữ liệu có sẵn.
 * Các **độ đo** sẽ dùng để so sánh, đánh giá các kết quả thu được.
 * Kết quả hay hệ thống sẽ dùng để so sánh với các kết quả sẽ thu được. Học viên cần cung cấp liên kết đến các kết quả hay hệ thống này, dạng footnote.
 * Danh sách những người dự kiến sẽ khảo sát (nếu có).
@@ -147,7 +147,7 @@ Học viên cần tạo bảng kế hoạch với những cột mốc phù hợp
 
 ### 5.8. Tài liệu tham khảo
 * Học viên liệt kê các sách và bài báo, bao gồm bài báo ở phần 1. và ít nhất thêm 4 tài liệu là các sách, bài báo liên quan.
-* Học viên **KHÔNG** sử dụng các liên kết trong phần này. Các liên kết trong đề cương nếu có, , ví dụ liên kết đến mã nguồn hoặc dữ liệu trên GitHub, học viên viên để trong Footnote tại trang đề cập.
+* Học viên **KHÔNG** sử dụng các liên kết trong phần này. Các liên kết trong đề cương nếu có, ví dụ liên kết đến mã nguồn hoặc dữ liệu trên GitHub, học viên để trong Footnote tại trang đề cập.
 * Học viên cần thể hiện các tài liệu tham khảo theo đúng chuẩn thông dụng. Học viên nên sử dụng tính năng Cite (thể hiện bằng dấu nháy) của <a href target = "blank" href = "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Efficient+backprop">Google Scholar</a> để xem mẫu trình bày tài liệu tham khảo. Học viên nên chọn chuẩn APA.
 
 ## 6. Công cụ viết đề cương
