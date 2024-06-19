@@ -39,6 +39,7 @@ _Tài liệu mô tả một số tiêu chí có thể dùng để tự đánh gi
 * Khả năng mở rộng của phần mềm đã được kiểm thử hay chưa?
 
 ### 2.4. Tài liệu kỹ thuật
+* Sinh viên tham khảo một số tài liệu kỹ thuật của các khóa trước ở <a target = "_blank" href = "https://bit.ly/3IMkWa4">đây</a>.
 * Tài liệu kỹ thuật đã mô tả phiên bản của các công cụ được sử dụng hay chưa?
 * Tài liệu kỹ thuật đã hỗ trợ phiên bản LTS gần nhất của các công cụ được sử dụng hay chưa?
 * Các bước của tài liệu kỹ thuật đã được sắp xếp để có thể thực hiện tuần tự, có sự logic, liên kết giữa các bước hay chưa?
@@ -60,6 +61,5 @@ _Tài liệu mô tả một số tiêu chí có thể dùng để tự đánh gi
 
 ## 4.	Thông tin thêm
 * Sinh viên tham khảo một số tiêu chí đánh giá hằng năm của Khoa ở <a target = "_blank" href = "https://bit.ly/3JECzJ6">đây</a>.
-* Sinh viên tham khảo một số tài liệu kỹ thuật của các khóa trước ở <a target = "_blank" href = "https://bit.ly/3IMkWa4">đây</a>.
 
 ### &copy; 2024 Ngô Huy Biên
