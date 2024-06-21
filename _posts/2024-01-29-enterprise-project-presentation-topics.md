@@ -1,4 +1,4 @@
----
+![image](https://github.com/ngohuybien/ngohuybien.github.io/assets/146669970/8a428716-9a30-4d9a-b6cc-aa925deb33a9)![image](https://github.com/ngohuybien/ngohuybien.github.io/assets/146669970/ea1232e5-e6f9-4164-a3b3-37c26f4cf59a)---
 layout: post
 title: "Các chủ đề thuyết trình theo hướng hệ thống doanh nghiệp"
 categories: [Software Engineering Capstone]
@@ -103,7 +103,11 @@ _Tài liệu mô tả các chủ đề thuyết trình theo hướng hệ thốn
 ### 5.3. Chủ đề 3: Phần identity and access management của hệ thống nên được thiết kế và xây dựng như thế nào?
 * Số nhóm thuyết trình **dự kiến**: 2 nhóm (ưu tiên 1 nhóm web, 1 nhóm mobile).
 * Nội dung cần trình bày:
-    * Giải thích OAuth 2.
+    * Giải thích quá trình hoạt động của giao thức OAuth 2.
+    * Giải thích cấu trúc của JSON Web Token Authentication.
+    * Giải thích quá trình hoạt động của giao thức Proof Key for Code Exchange.
+    * Giải thích quá trình hoạt động của giao thức OpenID Connect (OIDC).
+    * Giải thích lý do ứng dụng mẫu thiết kế Backend for Frontend trong đăng nhập và phân quyền hệ thống.
     * Demo một tính năng của hệ thống đã được tích hợp với phần identity and access management.
     * Giải thích các công cụ đã dùng và các bước để thực hiện tính năng trên.
 * Các **câu hỏi** thường gặp:
