@@ -132,6 +132,7 @@ _Tài liệu mô tả các chủ đề thuyết trình theo hướng hệ thốn
 ### 5.4. Chủ đề 4: Thiết kế và xây dựng hệ thống như thế nào để giảm sự phụ thuộc vào các công nghệ và tăng khả năng quản lý sự phức tạp của hệ thống?
 * Số nhóm thuyết trình **dự kiến**: 1 nhóm.
 * Nội dung cần trình bày:
+    * Giải thích các bước tuần tự nhóm đã thực hiện để xây dựng một tính năng của hệ thống.
     * Giải thích phương pháp thiết kế từ nghiệp vụ (Domain-Driven Design).
     * Demo một chức năng của hệ thống được xây dựng bằng phương pháp thiết kế từ nghiệp vụ.
 * Các **câu hỏi** thường gặp:
