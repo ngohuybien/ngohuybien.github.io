@@ -103,6 +103,7 @@ _Tài liệu mô tả các chủ đề thuyết trình theo hướng hệ thốn
 ### 5.3. Chủ đề 3: Phần identity and access management của hệ thống nên được thiết kế và xây dựng như thế nào?
 * Số nhóm thuyết trình **dự kiến**: 2 nhóm (ưu tiên 1 nhóm web, 1 nhóm mobile).
 * Nội dung cần trình bày:
+    * Giải thích sơ đồ dữ liệu của một hệ thống quản lý định danh và quyền truy cập.
     * Giải thích quá trình hoạt động của giao thức OAuth 2.
     * Giải thích cấu trúc của JSON Web Token Authentication.
     * Giải thích quá trình hoạt động của giao thức Proof Key for Code Exchange.
