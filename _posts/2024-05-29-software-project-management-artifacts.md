@@ -104,7 +104,7 @@ _Tài liệu mô tả các sản phẩm cần nộp cho đồ án của môn h�
         * Trang 2 chứa liên kết đến video trên YouTube giới thiệu cách sử dụng hệ thống của nhóm để giải quyết từng vấn đề của người dùng.
     * **03_User Guide.pdf**.
 
-## 3. Hình thức và thời hạn nộp
+## 5. Hình thức và thời hạn nộp
 Các sản phẩm của đồ án được nộp làm **2 lần**:
 * Lần 1 (giữa kỳ):
     * Các nhóm in ra tất cả các sản phẩm đã được dạy trong thư mục **01_Documents**,
@@ -117,7 +117,7 @@ Các sản phẩm của đồ án được nộp làm **2 lần**:
     * Lớp trưởng nén thư mục của toàn lớp lại thành 1 tập tin .zip hoặc .rar, chỉ **một tập tin .zip hoặc .rar duy nhất** cho toàn lớp.
     * Lớp trưởng liên hệ và nộp cho giảng viên **qua email** vào thứ 6, **tuần thứ 11** của môn học đối với lớp CLC, hoặc **tuần thứ 15** của môn học đối với lớp CQ.
 
-## 4. Các tiêu chí đánh giá
+## 6. Các tiêu chí đánh giá
 * Kết quả **lần 1 (giữa kỳ)** được đánh giá dựa trên **các câu hỏi thường gặp** dưới đây:
     * Demo **một vấn đề** được giải quyết bằng hệ thống đã xây dựng (một business case).
     * Demo **quy trình** nhóm đã áp dụng để quản lý dự án tính đến thời điểm hiện tại thông qua **các dữ liệu đã được thu thập** trên các hệ thống quản lý.
