@@ -30,10 +30,10 @@ Thư mục gốc chứa
 
 ### 2.3. Thư mục SOURCE chứa
 * File **SourceCode.zip** chứa toàn bộ mã nguồn và dữ liệu của chương trình (desktop, mobile, web, API, unit tests, trang Release, các công cụ xử lý dữ liệu, tùy theo nội dung từng khóa luận).
-* Thư mục **Testing** chứa các dữ liệu, kịch bản dùng để kiểm thử và kết quả kiểm thử của: performance testing, pen testing, và horizontal scalability testing.
+* Thư mục **Testing**: chứa các dữ liệu, kịch bản dùng để kiểm thử và kết quả kiểm thử của: manual testing, performance testing, pen testing, và horizontal scalability testing, các dữ liệu khảo sát và kết quả tính toán nếu có.
 * Thư mục **CompilationGuide_LaTeX**: chứa tài liệu “Hướng dẫn cài đặt công cụ, cấu hình và biên dịch mã nguồn” của Source Code cho OS sạch, kèm ảnh minh họa. OS sạch là máy tính vừa cài đặt xong hệ điều hành, chưa có bất cứ thư viện lập trình ứng dụng nào. Sinh viên được khuyến khích sử dụng các kịch bản viết cho các công cụ triển khai tự động, ví dụ như Docker, Kubernetes hay Circle CI, để thu gọn tài liệu “Hướng dẫn cài đặt công cụ, cấu hình và biên dịch mã nguồn”.
 * File **CompilationGuide.pdf**: là bản PDF của thư mục CompilationGuide_LaTeX.
-* Nếu khóa luận liên quan đến học máy, học sâu hay mô hình ngôn ngữ lớn, thì cần có thêm thư mục **Model_Training** chứa
+* Nếu khóa luận liên quan đến học máy, học sâu hay mô hình ngôn ngữ lớn, thì cần có thêm thư mục **Model_Training**: chứa
   * Thư mục **Data**: chứa toàn bộ dữ liệu training/validation/test để huấn luyện mô hình,
   * Thư mục **Model**: chứa mã nguồn để huấn luyện các mô hình,
   * Thư mục **ModelTraningGuide_LaTeX**: chứa tài liệu "Hướng dẫn huấn luyện các mô hình" cho OS sạch, kèm ảnh minh họa, dạng DOCX và PDF. Sinh viên được khuyến khích sử dụng các kịch bản viết cho các công cụ triển khai tự động, ví dụ như Docker, Kubernetes hay Circle CI, để thu gọn tài liệu “Hướng dẫn huấn luyện các mô hình”, và
