@@ -9,7 +9,7 @@ meta: "Graduation Thesis Artifacts"
 _Tài liệu mô tả các sản phẩm cần nộp của khóa luận hoặc thực tập dự án tốt nghiệp do giảng viên Ngô Huy Biên hướng dẫn._
 
 ## 1. Thông tin chung
-* Đây là các sản phẩm do giảng viên hướng dẫn yêu cầu. Các sản phẩm này khác đôi chút so với với yêu cầu nộp sản phẩm của Khoa/Bộ môn (là thư mục **KANBAN** chứa các sản phẩm trung gian trong quá trình thực hiện đề tài).
+* Đây là các sản phẩm do giảng viên hướng dẫn yêu cầu. Các sản phẩm này khác đôi chút so với yêu cầu nộp sản phẩm của Khoa/Bộ môn (là thư mục **KANBAN** chứa các sản phẩm trung gian trong quá trình thực hiện đề tài).
 * Sinh viên **không** dùng tiếng Việt có dấu khi đặt tên các thư mục hay tập tin.
 
 ## 2. Các sản phẩm cần nộp
@@ -33,32 +33,32 @@ Thư mục gốc chứa
 * Thư mục **Testing** chứa các dữ liệu, kịch bản dùng để kiểm thử và kết quả kiểm thử của: performance testing, pen testing, và horizontal scalability testing.
 * Thư mục **CompilationGuide_LaTeX**: chứa tài liệu “Hướng dẫn cài đặt công cụ, cấu hình và biên dịch mã nguồn” của Source Code cho OS sạch, kèm ảnh minh họa. OS sạch là máy tính vừa cài đặt xong hệ điều hành, chưa có bất cứ thư viện lập trình ứng dụng nào. Sinh viên được khuyến khích sử dụng các kịch bản viết cho các công cụ triển khai tự động, ví dụ như Docker, Kubernetes hay Circle CI, để thu gọn tài liệu “Hướng dẫn cài đặt công cụ, cấu hình và biên dịch mã nguồn”.
 * File **CompilationGuide.pdf**: là bản PDF của thư mục CompilationGuide_LaTeX.
-* Nếu khóa luận liên quan đến học máy hoặc học sâu, thì cần có thêm thư mục **Model_Training** chứa
-  * Thư mục **Data** chứa toàn bộ dữ liệu training/validation/test để huấn luyện mô hình,
-  * Thư mục **Model** chứa mã nguồn để huấn luyện các mô hình,
-  * Thư mục **ModelTraningGuide_LaTeX** chứa tài liệu "Hướng dẫn huấn luyện các mô hình" cho OS sạch, kèm ảnh minh họa, dạng DOCX và PDF. Sinh viên được khuyến khích sử dụng các kịch bản viết cho các công cụ triển khai tự động, ví dụ như Docker, Kubernetes hay Circle CI, để thu gọn tài liệu “Hướng dẫn huấn luyện các mô hình”,  và
+* Nếu khóa luận liên quan đến học máy, học sâu hay mô hình ngôn ngữ lớn, thì cần có thêm thư mục **Model_Training** chứa
+  * Thư mục **Data**: chứa toàn bộ dữ liệu training/validation/test để huấn luyện mô hình,
+  * Thư mục **Model**: chứa mã nguồn để huấn luyện các mô hình,
+  * Thư mục **ModelTraningGuide_LaTeX**: chứa tài liệu "Hướng dẫn huấn luyện các mô hình" cho OS sạch, kèm ảnh minh họa, dạng DOCX và PDF. Sinh viên được khuyến khích sử dụng các kịch bản viết cho các công cụ triển khai tự động, ví dụ như Docker, Kubernetes hay Circle CI, để thu gọn tài liệu “Hướng dẫn huấn luyện các mô hình”, và
   * File **ModelTraningGuide.pdf**: là bản PDF của thư mục **ModelTraningGuide_LaTeX**.
 
 ### 2.4. Thư mục GUIDES chứa các thư mục theo mô tả bên dưới.
-* Thư mục **CloudServiceGuide_LaTeX** chứa tài liệu “Hướng dẫn đăng ký các dịch vụ đám mây và cấu hình hệ thống để kết nối với các dịch vụ đám mây” nếu đề tài có sử dụng các Cloud API của một nhà cung cấp dịch vụ đám mây.
+* Thư mục **CloudServiceGuide_LaTeX**: chứa tài liệu “Hướng dẫn đăng ký các dịch vụ đám mây và cấu hình hệ thống để kết nối với các dịch vụ đám mây” nếu đề tài có sử dụng các Cloud API của một nhà cung cấp dịch vụ đám mây.
 * File **CloudServiceGuide.pdf**: là bản PDF của thư mục CloudServiceGuide _LaTeX.
 * File **CloudServiceGuide.mp4**: là file video minh họa việc thực hiện các bước của tài liệu “Hướng dẫn đăng ký các dịch vụ đám mây và cấu hình hệ thống để kết nối với các dịch vụ đám mây”.
-* Thư mục **DeploymentGuide_LaTeX** chứa tài liệu “Hướng dẫn triển khai và cấu hình hệ thống” trên máy chủ EC2, hoặc Google Could, hoặc MS Azure, hoặc Heroku, hoặc một nhà cung cấp dịch vụ Hosting nếu đề tài có phát triển phần web/api server. Sinh viên được khuyến khích sử dụng các kịch bản viết cho các công cụ triển khai tự động, ví dụ như Docker, Kubernetes hay Circle CI, để thu gọn tài liệu “Hướng dẫn triển khai và cấu hình”.
+* Thư mục **DeploymentGuide_LaTeX**: chứa tài liệu “Hướng dẫn triển khai và cấu hình hệ thống” trên máy chủ EC2, hoặc Google Could, hoặc MS Azure, hoặc Heroku, hoặc một nhà cung cấp dịch vụ Hosting nếu đề tài có phát triển phần web/api server. Sinh viên được khuyến khích sử dụng các kịch bản viết cho các công cụ triển khai tự động, ví dụ như Docker, Kubernetes hay Circle CI, để thu gọn tài liệu “Hướng dẫn triển khai và cấu hình”.
 * File **DeploymentGuide.pdf**: là bản PDF của thư mục DeploymentGuide_LaTeX.
 * File **DeploymentGuide.mp4**: là file video minh họa việc thực hiện các bước của tài liệu “Hướng dẫn triển khai và cấu hình hệ thống”.
-* Thư mục **StoreDeploymentGuide_LaTeX** chứa tài liệu “Hướng dẫn triển khai mobile client” trên Google Play hoặc App Store, hoặc trên điện thoại cá nhân nếu đề tài có phát triển phần mobile client.
+* Thư mục **StoreDeploymentGuide_LaTeX**: chứa tài liệu “Hướng dẫn triển khai mobile client” trên Google Play hoặc App Store, hoặc trên điện thoại cá nhân nếu đề tài có phát triển phần mobile client.
 * File **StoreDeploymentGuide.pdf**: là bản PDF của thư mục StoreDeploymentGuide_LaTeX.
 * File **StoreDeploymentGuide.mp4**: là file video minh họa việc thực hiện các bước của tài liệu “Hướng dẫn triển khai mobile client”.
-* Thư mục **UserGuide_LaTeX** chứa tài liệu “Hướng dẫn cài đặt và sử dụng phần mềm” cho người dùng cuối.
+* Thư mục **UserGuide_LaTeX**: chứa tài liệu “Hướng dẫn cài đặt và sử dụng phần mềm” cho người dùng cuối.
 * File **UserGuide.pdf**: là bản PDF của thư mục UserGuide_LaTeX.
 * File **UserGuide.mp4**: là file video minh họa việc thực hiện các bước của tài liệu “Hướng dẫn cài đặt và sử dụng phần mềm”.
 
 ### 2.5. Thư mục TOOLS
-* Thư mục TOOLS chứa các phần mềm liên quan trong quá trình thực hiện đề tài (ví dụ, phần mềm chỉnh sửa ảnh, audio), các phần mềm dùng để hỗ trợ biên dịch mã nguồn.
-* Trong trường hợp vì lý do chính đáng, không thể lưu tất cả các thành phần cần thiết để có thể cài đặt, sinh viên cần tạo file Links.txt ghi rõ tên phần mềm, phiên bản được sử dụng, và liên kết để tải về.
+* Thư mục TOOLS chứa các phần mềm liên quan, được sử dụng trong quá trình thực hiện đề tài. Ví dụ các phần mềm dùng để hỗ trợ biên dịch mã nguồn, phần mềm chỉnh sửa ảnh, audio.
+* Trong trường hợp phần mềm liên quan lớn hơn 1Gb, hoặc bắt buộc phải cài đặt online, sinh viên cần tạo file Links.txt trong thư mục này, trong đó ghi rõ tên phần mềm, phiên bản được sử dụng, và liên kết để tải về file cài đặt.
 
 ### 2.6. Thư mục REFERENCES
-Thư mục REFERENCES chứa các tài liệu tham khảo. Tên các tập tin tài liệu tham khảo cần đặt theo chuẩn APA. Các sách nếu có cần được xuất bản trong 5 năm gần nhất trở lại.
+Thư mục REFERENCES chứa các tài liệu tham khảo. Tên các tập tin tài liệu tham khảo cần đặt theo chuẩn APA. Các sách, nếu có, cần được xuất bản trong 5 năm gần nhất trở lại.
 
 ### 2.7. Thư mục KANBAN
 Thư mục KANBAN chứa các sản phẩm của mô hình Kanban, có thể bao gồm, nhưng không giới hạn, các sản phẩm sau:
