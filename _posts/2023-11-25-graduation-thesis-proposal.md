@@ -83,7 +83,18 @@ Sinh viên liệt kê các tính năng của phần mềm có liên quan đến 
 
 ### 2.5. Phần Kế hoạch thực hiện
 * Sinh viên dựa vào phần Mục tiêu, phần Kết quả dự kiến của đề tài, các cột mốc thời gian của Khoa, và nguồn nhân lực của nhóm để đưa ra kế hoạch phù hợp.
-* Sinh viên trình bày theo các cột mốc và sản phẩm tương ứng.
+* Sinh viên đăng ký một tài khoản miễn phí tại <a href target = "blank" href = "https://www.preceden.com/pricing">Preceden</a> và trình bày trong tối đa 10 cột mốc với các sản phẩm tương ứng.
+* Một số cột mốc quan trọng cần phải có:
+    * Ngày bắt đầu (ngày bắt đầu làm đề cương).
+    * Ngày kết thúc (ngày nộp đơn đăng ký bảo vệ theo dự kiến của Khoa, các em cần tìm thông tin này trong thông báo kế hoạch năm học của Khoa phù hợp với chương trình đào tạo của mình).
+    * Ngày hiện tại.
+    * Ngày nộp đơn đăng ký thực hiện đề tài (ngày nộp đơn đăng ký thực hiện đề tài của Khoa, các em cần tìm thông báo trên trang web của Khoa phù hợp với chương trình đào tạo của mình).
+    * Ngày nộp đề cương cho Khoa (ngày nộp đề cương theo dự kiến của Khoa, các em cần tìm thông tin này trong thông báo kế hoạch năm học của Khoa phù hợp với chương trình đào tạo của mình).
+    * Ngày dự kiến bắt đầu và kết thúc việc phát triển phần mềm hoặc thực hiện công việc nghiên cứu của đề tài.
+    * Ngày dự kiến bắt đầu và kết thúc việc hoàn thành các tài liệu kỹ thuật của đề tài (Tài liệu hướng dẫn biên dịch, Tài liệu hướng dẫn triển khai, Tài liệu hướng dẫn kiểm thử, Tài liệu hướng dẫn sử dụng).
+    * Ngày dự kiến bắt đầu và kết thúc việc hoàn thành quyển báo cáo của đề tài.
+    * Các cột mốc khác, kèm sản phẩm, do sinh viên tự đề xuất, nếu có.
+    * Các công việc nào đã hoàn thành các bạn để màu xanh, đang tiến hành các bạn để màu vàng, chưa làm các bạn để màu đỏ.
 
 ### 2.6. Phần Tài liệu tham khảo
 * Sinh viên chỉ liệt kê các sách và bài báo, và cần có ít nhất 5 tài liệu tham khảo.
