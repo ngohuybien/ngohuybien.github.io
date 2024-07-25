@@ -10,6 +10,7 @@ _Tài liệu mô tả các sản phẩm cần nộp của khóa luận hoặc th
 
 ## 1. Thông tin chung
 * Đây là các sản phẩm do giảng viên hướng dẫn yêu cầu. Các sản phẩm này khác đôi chút so với yêu cầu nộp sản phẩm của Khoa/Bộ môn (là thư mục **KANBAN** chứa các sản phẩm trung gian trong quá trình thực hiện đề tài).
+* Bản quyền toàn bộ các sản phẩm thuộc về Trường Đại học Khoa học tự nhiên. Sinh viên cam kết sẽ **không** sử dụng chúng ở những nơi khác, với bất kỳ mục đích nào khác.
 * Sinh viên **không** dùng tiếng Việt có dấu khi đặt tên các thư mục hay tập tin.
 
 ## 2. Các sản phẩm cần nộp
@@ -83,9 +84,9 @@ Thư mục KANBAN chứa các sản phẩm của mô hình Kanban, có thể bao
 * Thư mục _SOURCE/Testing_ đã có dữ liệu và kết quả kiểm thử performance, security bằng công cụ hay chưa?
 * Thư mục _SOURCE/Testing_ đã có dữ liệu và kết quả khảo sát, nếu có, hay chưa?
 * Thư mục _SOURCE/Model_Training_ đã có dữ liệu, mã nguồn, và hướng dẫn hay chưa? (Nếu đề tài có liên quan đến học máy.)
-
+ 
 ## 4. Hình thức và thời hạn nộp
-* Các sản phẩm cần được nén lại thành **1 file .ZIP duy nhất**, sau đó tải lên một trang lưu trữ, ưu tiên Google Drive, tạo liên kết để tải về và gửi liên kết đến đến 1 file ZIP duy nhất (**không** gửi liên kết đến thư mục) vào trang "Nộp CD bản cuối" trong Confluence **trước ngày nộp đơn đăng ký bảo vệ theo dự kiến của Khoa 3 tuần**.
+* Các sản phẩm cần được nén lại thành **1 file .ZIP duy nhất**, sau đó tải lên một trang lưu trữ, ưu tiên Google Drive, tạo liên kết để tải về và gửi liên kết đến đến 1 file ZIP duy nhất (**không** gửi liên kết đến thư mục) vào trang **Nộp CD bản cuối** trong Confluence **trước ngày nộp đơn đăng ký bảo vệ theo dự kiến của Khoa 3 tuần**.
 * Đối với những bộ dữ liệu lớn sinh viên có thể đưa lên nhiều tài khoản Google Drive (mỗi tài khoản được 15Gb).
 
 ### &copy; 2024 Ngô Huy Biên
