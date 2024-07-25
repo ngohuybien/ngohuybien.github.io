@@ -9,7 +9,7 @@ meta: "Master Thesis Artifacts"
 _Tài liệu mô tả các sản phẩm cần nộp và một số thông tin liên quan của luận văn cao học do giảng viên Ngô Huy Biên hướng dẫn._
 
 ## 1. Thông tin chung
-* Các sản phẩm cần được nén lại thành **1 file .ZIP duy nhất**, sau đó tải lên một trang lưu trữ, ưu tiên Google Drive, tạo liên kết để tải về và gửi liên kết đến đến 1 file ZIP duy nhất (**không** gửi liên kết đến thư mục) vào trang **Nộp CD bản cuối** trong Confluence **TRƯỚC** ngày đăng ký thông tin bảo vệ với Khoa tối thiểu **1 tháng**.
+* Các sản phẩm cần được nén lại thành **1 file .ZIP duy nhất**, sau đó tải lên một trang lưu trữ, ưu tiên Google Drive, tạo liên kết để tải về và gửi liên kết đến đến 1 file ZIP duy nhất (**không** gửi liên kết đến thư mục) vào trang **Nộp CD bản cuối** trong Confluence **trước** ngày đăng ký thông tin bảo vệ với Khoa tối thiểu **1 tháng**.
 * Đối với những bộ dữ liệu lớn học viên có thể đưa lên nhiều tài khoản Google Drive (mỗi tài khoản được 15Gb).
 * Bản quyền toàn bộ các sản phẩm thuộc về Trường Đại học Khoa học tự nhiên. Học viên cam kết sẽ **không** sử dụng chúng ở những nơi khác, với bất kỳ mục đích nào khác.
 * Học viên **không** dùng tiếng Việt có dấu khi đặt tên các thư mục hay tập tin.
