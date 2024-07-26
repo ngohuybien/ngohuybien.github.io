@@ -30,7 +30,7 @@ Sinh viên liệt kê các tính năng của phần mềm có liên quan đến 
 
 ### 2.3. Phần Cách tiếp cận dự kiến
 
-#### Nếu sinh viên làm khóa luận theo hướng ứng dụng hoặc thực tập dự án tốt nghiệp thì cần trình bày
+#### 2.3.1. Nếu sinh viên làm khóa luận theo hướng ứng dụng hoặc thực tập dự án tốt nghiệp thì cần trình bày
 * Bản mẫu, 
 * Kiến trúc,
 * Mô hình dữ liệu, 
@@ -47,7 +47,7 @@ Sinh viên liệt kê các tính năng của phần mềm có liên quan đến 
     * Các độ đo sẽ dùng để đánh giá kết quả của mô hình,
     * Ảnh chụp kết quả chạy thử nghiệm mô hình dự kiến sẽ áp dụng.
 
-#### Nếu sinh viên làm khóa luận theo hướng nghiên cứu thì cần trình bày
+#### 2.3.2. Nếu sinh viên làm khóa luận theo hướng nghiên cứu thì cần trình bày
 * Các nghiên cứu liên quan trực tiếp đến đề tài,
 * Các mô hình dự kiến sẽ mở rộng hoặc cải tiến,
 * Các nguồn dữ liệu và mã nguồn có sẵn dự kiến sẽ được dùng để huấn luyện hoặc tinh chỉnh (fine-tune),
@@ -58,7 +58,7 @@ Sinh viên liệt kê các tính năng của phần mềm có liên quan đến 
 
 ### 2.4. Phần Kết quả dự kiến của đề tài
 
-#### Nếu sinh viên làm khóa luận theo hướng ứng dụng hoặc thực tập dự án tốt nghiệp thì cần trình bày các sản phẩm liên quan đến phần mềm dự kiến sẽ thu được ở đây, ví dụ như
+#### 2.4.1. Nếu sinh viên làm khóa luận theo hướng ứng dụng hoặc thực tập dự án tốt nghiệp thì cần trình bày các sản phẩm liên quan đến phần mềm dự kiến sẽ thu được ở đây, ví dụ như
 * Mã nguồn ứng dụng di động, 
 * Mã nguồn ứng dụng web, 
 * Mã nguồn dịch vụ web, 
@@ -72,7 +72,7 @@ Sinh viên liệt kê các tính năng của phần mềm có liên quan đến 
     * Mã nguồn công cụ xử lý dữ liệu,
     * Dịch vụ triển khai mô hình.
 
-#### Nếu sinh viên làm khóa luận theo hướng nghiên cứu thì cần trình bày các sản phẩm **khác** với những gì đã có sẵn, dự kiến sẽ thu được ở đây, ví dụ như
+#### 2.4.2. Nếu sinh viên làm khóa luận theo hướng nghiên cứu thì cần trình bày các sản phẩm _khác_ với những gì đã có sẵn, dự kiến sẽ thu được ở đây, ví dụ như
 * Mã nguồn huấn luyện hoặc tinh chỉnh (fine-tune) mô hình được chỉnh sửa/tạo thêm/tạo mới,
 * Dữ liệu chỉnh sửa/tạo thêm/tạo mới,
 * Mô hình đã được huấn luyện hoặc tinh chỉnh,
