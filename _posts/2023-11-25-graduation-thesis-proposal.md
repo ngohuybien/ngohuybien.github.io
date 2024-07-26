@@ -70,17 +70,18 @@ Sinh viên liệt kê các tính năng của phần mềm có liên quan đến 
     * Dữ liệu chỉnh sửa/tạo thêm/tạo mới,
     * Mô hình đã được huấn luyện hoặc tinh chỉnh (fine-tuned),
     * Mã nguồn công cụ xử lý dữ liệu,
-    * Dịch vụ triển khai mô hình,
+    * Dịch vụ triển khai mô hình.
 
-#### Nếu sinh viên làm khóa luận theo hướng nghiên cứu thì cần trình bày các sản phẩm KHÁC với những gì đã có sẵn, dự kiến sẽ thu được ở đây, ví dụ như
-* Mã nguồn huấn luyện mô hình được chỉnh sửa/tạo thêm/tạo mới,
+#### Nếu sinh viên làm khóa luận theo hướng nghiên cứu thì cần trình bày các sản phẩm **khác** với những gì đã có sẵn, dự kiến sẽ thu được ở đây, ví dụ như
+* Mã nguồn huấn luyện hoặc tinh chỉnh (fine-tune) mô hình được chỉnh sửa/tạo thêm/tạo mới,
 * Dữ liệu chỉnh sửa/tạo thêm/tạo mới,
-* Mô hình đã được huấn luyện hoặc tinh chỉnh (fine-tuned),
+* Mô hình đã được huấn luyện hoặc tinh chỉnh,
 * Mã nguồn công cụ xử lý dữ liệu,
 * Dịch vụ triển khai mô hình,
 * Ứng dụng biểu diễn việc sử dụng mô hình đã được triển khai,
-* Các tài liệu kỹ thuật hướng dẫn chi tiết phương pháp tái tạo các sản phẩm của khóa luận.
-
+* Các tài liệu kỹ thuật hướng dẫn chi tiết phương pháp tái tạo các sản phẩm của khóa luận,
+* Dữ liệu, báo cáo các kết quả đánh giá, so sánh với các nghiên cứu liên quan.
+  
 ### 2.5. Phần Kế hoạch thực hiện
 * Sinh viên dựa vào phần Mục tiêu, phần Kết quả dự kiến của đề tài, các cột mốc thời gian của Khoa, và nguồn nhân lực của nhóm để đưa ra kế hoạch phù hợp.
 * Sinh viên đăng ký một tài khoản miễn phí tại <a href target = "blank" href = "https://www.preceden.com/pricing">Preceden</a> và trình bày trong tối đa 10 cột mốc với các sản phẩm tương ứng.
