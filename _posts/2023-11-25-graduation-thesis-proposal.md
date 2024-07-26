@@ -80,7 +80,8 @@ Sinh viên liệt kê các tính năng của phần mềm có liên quan đến 
 * Dịch vụ triển khai mô hình,
 * Ứng dụng biểu diễn việc sử dụng mô hình đã được triển khai,
 * Các tài liệu kỹ thuật hướng dẫn chi tiết phương pháp tái tạo các sản phẩm của khóa luận,
-* Dữ liệu, báo cáo các kết quả đánh giá, so sánh với các nghiên cứu liên quan.
+* Dữ liệu, báo cáo các kết quả đánh giá, so sánh với các nghiên cứu liên quan,
+* Dữ liệu, báo cáo kết quả khảo sát.
   
 ### 2.5. Phần Kế hoạch thực hiện
 * Sinh viên dựa vào phần Mục tiêu, phần Kết quả dự kiến của đề tài, các cột mốc thời gian của Khoa, và nguồn nhân lực của nhóm để đưa ra kế hoạch phù hợp.
