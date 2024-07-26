@@ -72,7 +72,7 @@ Sinh viên liệt kê các tính năng của phần mềm có liên quan đến 
     * Mã nguồn công cụ xử lý dữ liệu,
     * Dịch vụ triển khai mô hình.
 
-#### 2.4.2. Nếu sinh viên làm khóa luận theo hướng nghiên cứu thì cần trình bày các sản phẩm _khác_ với những gì đã có sẵn, dự kiến sẽ thu được ở đây, ví dụ như
+#### 2.4.2. Nếu sinh viên làm khóa luận theo hướng nghiên cứu thì cần trình bày các sản phẩm KHÁC với những gì đã có sẵn, dự kiến sẽ thu được ở đây, ví dụ như
 * Mã nguồn huấn luyện hoặc tinh chỉnh (fine-tune) mô hình được chỉnh sửa/tạo thêm/tạo mới,
 * Dữ liệu chỉnh sửa/tạo thêm/tạo mới,
 * Mô hình đã được huấn luyện hoặc tinh chỉnh,
