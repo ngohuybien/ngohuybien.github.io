@@ -23,22 +23,22 @@ Thư mục gốc chứa
 * Tập tin **Report_Evaluation.xlsx** liệt kê **tất cả** các tiêu chí đánh giá báo cáo của đề tài, được giảng viên gợi ý, dạng danh sách, và đánh dấu chọn ( ☑ ) vào những **kết quả tự đánh giá** là đạt được.
 
 ### 2.2. Thư mục THESIS chứa
-* Thư mục tên **DeCuong_LaTeX**: chứa đề cương đề tài.
-* Thư mục tên **BaoCao_LaTeX**: chứa quyển báo cáo đề tài.
-* Thư mục tên **PDF**: chứa file **DeCuong.pdf** kèm mục lục dạng Bookmarks bên trái, và file **BaoCao.pdf** kèm mục lục dạng Bookmarks bên trái.
+* Tập tin tên **Proposal_LaTeX.zip**: chứa đề cương đề tài, định dạng LaTeX, bao gồm cả các ảnh và tài nguyên liên quan.
+* Tập tin tên **Report_LaTeX.zip**: chứa quyển báo cáo đề tài, định dạng LaTeX, bao gồm cả các ảnh và tài nguyên liên quan.
+* Thư mục tên **PDF**: chứa file **Proposal.pdf** là bản PDF của đề cương đề tài, kèm mục lục dạng Bookmarks bên trái, và file **Report.pdf** là bản PDF của quyển báo cáo đề tài, kèm mục lục dạng Bookmarks bên trái.
 * Thư mục tên **Slides**: chứa file **Slides.pptx** (đối với khóa luận), hoặc **Poster.psd/Poster.xml** và **Poster.pdf**  (đối với thực tập dự án tốt nghiệp) dùng để bảo vệ.
 * Thư mục tên **Videos**: chứa file file **DryRun.mp4** quay thuyết trình bảo vệ thử, file **Demo.mp4** quay demo sẽ dùng để demo trong buổi bảo vệ.
 
 ### 2.3. Thư mục SOURCE chứa
 * File **SourceCode.zip** chứa toàn bộ mã nguồn và dữ liệu của chương trình (desktop, mobile, web, API, unit tests, trang Release, các công cụ xử lý dữ liệu, tùy theo nội dung từng khóa luận).
 * Thư mục **Testing**: chứa các dữ liệu, kịch bản dùng để kiểm thử và kết quả kiểm thử của: manual testing, performance testing, pen testing, và horizontal scalability testing, các dữ liệu khảo sát và kết quả tính toán nếu có.
-* Thư mục **CompilationGuide_LaTeX**: chứa tài liệu “Hướng dẫn cài đặt công cụ, cấu hình và biên dịch mã nguồn” của Source Code cho OS sạch, kèm ảnh minh họa. OS sạch là máy tính vừa cài đặt xong hệ điều hành, chưa có bất cứ thư viện lập trình ứng dụng nào. Sinh viên được khuyến khích sử dụng các kịch bản viết cho các công cụ triển khai tự động, ví dụ như Docker, Kubernetes hay Circle CI, để thu gọn tài liệu “Hướng dẫn cài đặt công cụ, cấu hình và biên dịch mã nguồn”.
-* File **CompilationGuide.pdf**: là bản PDF của thư mục CompilationGuide_LaTeX.
+* File **CompilationGuide_LaTeX.zip**: là tài liệu "Hướng dẫn cài đặt công cụ, cấu hình và biên dịch mã nguồn" của Source Code cho OS sạch, kèm ảnh minh họa, định dạng LaTeX. OS sạch là máy tính vừa cài đặt xong hệ điều hành, chưa có bất cứ thư viện lập trình ứng dụng nào. Sinh viên được khuyến khích sử dụng các kịch bản viết cho các công cụ triển khai tự động, ví dụ như Docker, Kubernetes hay Circle CI, để thu gọn tài liệu "Hướng dẫn cài đặt công cụ, cấu hình và biên dịch mã nguồn".
+* File **CompilationGuide.pdf**: là bản PDF của tài liệu "Hướng dẫn cài đặt công cụ, cấu hình và biên dịch mã nguồn.
 * Nếu khóa luận liên quan đến học máy, học sâu hay mô hình ngôn ngữ lớn, thì cần có thêm thư mục **Model_Training**: chứa
   * Thư mục **Data**: chứa toàn bộ dữ liệu training/validation/test để huấn luyện mô hình,
   * Thư mục **Model**: chứa mã nguồn để huấn luyện các mô hình,
-  * Thư mục **ModelTraningGuide_LaTeX**: chứa tài liệu "Hướng dẫn huấn luyện các mô hình" cho OS sạch, kèm ảnh minh họa, dạng DOCX và PDF. Sinh viên được khuyến khích sử dụng các kịch bản viết cho các công cụ triển khai tự động, ví dụ như Docker, Kubernetes hay Circle CI, để thu gọn tài liệu “Hướng dẫn huấn luyện các mô hình”, và
-  * File **ModelTraningGuide.pdf**: là bản PDF của thư mục **ModelTraningGuide_LaTeX**.
+  * Thư mục **ModelTraningGuide_LaTeX.zip**: là tài liệu "Hướng dẫn huấn luyện mô hình" cho OS sạch, kèm ảnh minh họa, định dạng LaTeX. Sinh viên được khuyến khích sử dụng các kịch bản viết cho các công cụ triển khai tự động, ví dụ như Docker, Kubernetes hay Circle CI, để thu gọn tài liệu "Hướng dẫn huấn luyện mô hình", và
+  * File **ModelTraningGuide.pdf**: là bản PDF của tài liệu "Hướng dẫn huấn luyện mô hình".
 
 ### 2.4. Thư mục GUIDES chứa các thư mục theo mô tả bên dưới.
 * Thư mục **CloudServiceGuide_LaTeX**: chứa tài liệu “Hướng dẫn đăng ký các dịch vụ đám mây và cấu hình hệ thống để kết nối với các dịch vụ đám mây” nếu đề tài có sử dụng các Cloud API của một nhà cung cấp dịch vụ đám mây.
