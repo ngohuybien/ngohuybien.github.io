@@ -72,19 +72,22 @@ Sinh viên demo sản phẩm khi được người xem yêu cầu. Ưu tiên dem
 * Luôn ưu tiên demo trực tiếp bằng chương trình thật, nếu có thể.
 * Sinh viên luôn quay sẵn clip demo, cho dù có thể demo trực tiếp bằng chương trình thật.
 
-## 4. Quy trình bảo vệ khóa luận
+## 4. Các lưu ý đối với báo cáo
+* Nếu báo cáo có cập nhật sinh viên cần in ra 1 bản và gửi cho Hội đồng **trước** khi bảo vệ.
+
+## 5. Quy trình bảo vệ khóa luận
 * Thông thường, hội đồng chấm khóa luận sẽ bao gồm 5 thành viên: Chủ tịch hội đồng, Thư ký, Giảng viên hướng dẫn, Giảng viên phản biện, và Ủy viên. Kết quả chấm là trung bình cộng làm tròn đến 0,1 của các thành viên của hội đồng.
 * Thời gian bảo vệ trước hội đồng cho mỗi đề tài là **25 phút** bao gồm:
     * 20 phút trình bày + chạy thử nghiệm chương trình. Hội đồng sẽ **ngắt phần trình bày sau 20 phút**, do đó sinh viên cần chuẩn bị và tập trình bày Slides và demo chỉ trong vòng 20 phút. Nếu sinh viên làm được nhiều hơn thì cần chuẩn bị 1 Slide liệt kê rõ những phần sinh viên làm được nhưng chưa trình bày.
     * 5 phút trả lời câu hỏi của hội đồng.
 * Sinh viên cần bình tĩnh khi thuyết trình. Muốn bình tĩnh khi thuyết trình thì sinh viên cần tập trước, càng nhiều lần càng tốt, càng thuộc lòng càng tốt.
 * Khi trả lời các câu hỏi của hội đồng, sinh viên cần trả lời rõ ràng, bằng ví dụ nếu có thể. Nếu gặp các câu hỏi mà không biết câu trả lời, sinh viên cần trả lời là sẽ tìm hiểu thêm.
-* Sinh viên tham khảo thêm quy trình bảo vệ của năm 2023 ở <a target ="_blank" href = "https://bit.ly/3NERtjI">đây</a>.
+* Sinh viên đọc kỹ các file liên quan đến quy trình bảo vệ của năm 2023 ở <a target ="_blank" href = "https://bit.ly/3NERtjI">đây</a>.
 
-## 5. Quy trình bảo vệ thực tập dự án tốt nghiệp
+## 6. Quy trình bảo vệ thực tập dự án tốt nghiệp
 * Thông thường, hội đồng chấm thực tập dự án tốt nghiệp sẽ bao gồm 3 thành viên: Chủ tịch hội đồng, Thư ký, và Ủy viên. Kết quả chấm là trung bình cộng làm tròn đến 0,1 của các thành viên của hội đồng.
 * Sinh viên sẽ tập trung vào giải thích các phần của Poster khi người xem chưa rõ nội dung, và trả lời các câu hỏi của hội đồng.
 * Khi trả lời các câu hỏi của hội đồng, sinh viên cần trả lời rõ ràng, bằng ví dụ nếu có thể. Nếu gặp các câu hỏi mà không biết câu trả lời, sinh viên cần trả lời là sẽ tìm hiểu thêm.
-* Sinh viên tham khảo thêm quy trình bảo vệ của năm 2023 ở <a target ="_blank" href = "https://bit.ly/3NERtjI">đây</a>.
+* Sinh viên đọc kỹ các file liên quan đến quy trình bảo vệ của năm 2023 ở <a target ="_blank" href = "https://bit.ly/3NERtjI">đây</a>.
 
 ### &copy; 2024 Ngô Huy Biên
