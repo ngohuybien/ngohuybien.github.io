@@ -27,7 +27,7 @@ _Tài liệu mô tả một số tiêu chí có thể dùng để tự đánh gi
 ### 2.2. Nghiệp vụ
 * Nghiệp vụ có tương đương hoặc tốt hơn giải pháp thủ công (trivial solution) hay không?
 * Nghiệp vụ đã giải quyết trọn vẹn một bài toán cụ thể hay chưa?
-* Nghiệp vụ có tương đương hoặc tốt hơn giải pháp của một phần mềm sẵn có hay không?
+* Nghiệp vụ có tương đương hoặc tốt hơn giải pháp của một phần mềm sẵn có hay không? Nếu có, hãy cho biết tên phần mềm đang dùng để so sánh.
 
 ### 2.3. Kiểm thử
 * Các test cases thủ công đã được thực hiện hay chưa?
