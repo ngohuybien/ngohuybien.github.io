@@ -64,11 +64,11 @@ _Tài liệu mô tả một số tiêu chí có thể dùng để tự đánh gi
 * Báo cáo đã mô tả rõ ràng đầu vào, đầu ra mong muốn của bài toán luận văn chọn để giải quyết hay chưa?
 * Báo cáo đã trình bày các nghiên cứu đã có liên quan, mà có công bố mã nguồn, hay chưa?
 * Báo cáo đã trình bày những kết quả nào đã có sẵn (nền tảng, khung ứng dụng, thư viện, mã nguồn có sẵn, dữ liệu có sẵn) hay chưa?
-* Báo cáo đã thu gọn phần lý thuyết nền tảng, nếu trên 10 trang, bằng cách chỉ liệt kê khái niệm, công thức toán học, và chú thích nguồn hay chưa?
+* Báo cáo đã thu gọn phần **Cơ sở lý thuyết**, nếu trên 10 trang, bằng cách chỉ liệt kê khái niệm, công thức toán học, và chú thích nguồn hay chưa?
 * Báo cáo đã trình bày 4 góc nhìn (Logical View, Development View, Deployment View, Process View) của kiến trúc hệ thống, nếu có, hay chưa?
-* Báo cáo đã trình bày sơ đồ và mô tả logical và physical database schema, nếu có, hay chưa?
-* Báo cáo đã trình bày các giải pháp kỹ thuật (sơ đồ dữ liệu, sequence diagram, code snippets) cho từng bài toán đặt ra hay chưa?
-* Báo cáo đã trình bày các giải pháp kỹ thuật cho searching và reporting, nếu có, hay chưa?
+* Báo cáo đã trình bày sơ đồ và mô tả Logical và Physical Database Schema, nếu có, hay chưa?
+* Báo cáo đã trình bày các giải pháp kỹ thuật (Sequence Diagram, Code Snippets) cho từng bài toán đặt ra hay chưa?
+* Báo cáo đã trình bày các giải pháp kỹ thuật cho bài toán tìm kiếm (Searching) và báo cáo (Reporting), nếu có, hay chưa?
 * Báo cáo đã trình bày các công cụ dùng để cài đặt hay chưa?
 * Báo cáo đã trình bày các kinh nghiệm thực tế về các vấn đề phát sinh khi cài đặt hay chưa?
 * Báo cáo đã phân tích các giải pháp khác nhau đã được thử nghiệm cho cùng một vấn đề, nếu có, hay chưa?
