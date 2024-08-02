@@ -14,20 +14,20 @@ _Tài liệu mô tả một số tiêu chí có thể dùng để tự đánh gi
 * Để nâng cao tính tự chủ và tinh thần trách nhiệm trong công việc.
 *	Để nâng cao tính cẩn thận, chi tiết đối với kết quả công việc.
 
-## 2.	Một số tiêu chí đánh giá phần mềm
+## 2.	Một số tiêu chí đánh giá phần mềm hoặc bản mẫu
 
 ### 2.1. Giao diện
 * Logo phần mềm đã có chưa?
-* Paddings, font chữ, color, headers/titles đã phù hợp với các nguyên lý chưa?
+* Paddings, font chữ, color, headers/titles trên giao diện đã phù hợp với các nguyên lý chưa?
 * Phần mềm đã loại bỏ việc phải kéo (scroll) thanh ngang khi sử dụng chưa?
 * Validation messages, error messages đã có chưa?
 * Phần mềm đã loại bỏ các incomplete/unavailable features, broken links hay chưa?
-* Giao diện đã tương tự với phần mềm mẫu hay chưa?
+* Giao diện đã tương tự với giao diện của một phần mềm mẫu được chọn hay chưa?
 
 ### 2.2. Nghiệp vụ
-* Nghiệp vụ có tương đương hoặc tốt hơn giải pháp thủ công (trivial solution) không?
-* Phần mềm mẫu được chọn có phù hợp chưa (phần mềm thông dụng hoặc số lượng tải hơn 10,000)?
-* Nghiệp vụ đã tương tự với phần mềm mẫu chưa?
+* Nghiệp vụ có tương đương hoặc tốt hơn giải pháp thủ công (trivial solution) hay không?
+* Nghiệp vụ đã giải quyết trọn vẹn một bài toán cụ thể hay chưa?
+* Nghiệp vụ có tương đương hoặc tốt hơn giải pháp của một phần mềm sẵn có hay không?
 
 ### 2.3. Kiểm thử
 * Các test cases thủ công đã được thực hiện hay chưa?
