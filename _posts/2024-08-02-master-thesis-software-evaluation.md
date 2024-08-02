@@ -8,8 +8,8 @@ meta: "Master Thesis Software Evaluation"
 ---
 _Tài liệu mô tả một số tiêu chí có thể dùng để tự đánh giá phần mềm hoặc bản mẫu của luận văn cao học do giảng viên Ngô Huy Biên hướng dẫn._
 
-## 1.	Tại sao cần đánh giá phần mềm?
-* Để đảm bảo phần mềm đạt chất lượng đủ để có thể đăng ký bảo vệ.
+## 1.	Tại sao cần đánh giá phần mềm hoặc bản mẫu?
+* Để đảm bảo phần mềm hoặc bản mẫu đạt chất lượng đủ để có thể đăng ký bảo vệ.
 * Để nâng cao kỹ năng viết tài liệu kỹ thuật một cách logic, hợp lý.
 * Để nâng cao tính tự chủ và tinh thần trách nhiệm trong công việc.
 *	Để nâng cao tính cẩn thận, chi tiết đối với kết quả công việc.
@@ -32,14 +32,11 @@ _Tài liệu mô tả một số tiêu chí có thể dùng để tự đánh gi
 ### 2.3. Kiểm thử
 * Các test cases thủ công đã được thực hiện hay chưa?
 * Các test cases, test data, test reports đã được đưa vào thư mục SOURCE/Testing hay chưa?
-* Các unit tests đã được chạy hay chưa?
-* Tốc độ phần mềm đã được kiểm thử bằng các dịch vụ đám mây hay chưa?
-* Các API đã đòi hỏi phải có chứng thực khi gọi hay chưa?
-* Bảo mật phần mềm đã được kiểm thử bằng công cụ quét lỗi tự động hay chưa?
+* Tốc độ phần mềm đã được kiểm thử bằng công cụ hay dịch vụ đám mây hay chưa?
 * Khả năng mở rộng của phần mềm đã được kiểm thử hay chưa?
 
 ### 2.4. Tài liệu kỹ thuật
-* Học viên tham khảo một số tài liệu kỹ thuật của các khóa trước ở <a target = "_blank" href = "https://bit.ly/3IMkWa4">đây</a>.
+* Học viên tham khảo một số tài liệu kỹ thuật ở <a target = "_blank" href = "https://bit.ly/3IMkWa4">đây</a>.
 * Tài liệu kỹ thuật đã mô tả phiên bản của các công cụ được sử dụng hay chưa?
 * Tài liệu kỹ thuật đã hỗ trợ phiên bản LTS gần nhất của các công cụ được sử dụng hay chưa?
 * Các bước của tài liệu kỹ thuật đã được sắp xếp để có thể thực hiện tuần tự, có sự logic, liên kết giữa các bước hay chưa?
