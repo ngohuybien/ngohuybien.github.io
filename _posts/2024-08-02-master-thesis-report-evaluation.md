@@ -41,7 +41,7 @@ _Tài liệu mô tả một số tiêu chí có thể dùng để tự đánh gi
 * Các sách tham khảo đã cập nhật bản mới trong 5 năm gần nhất, hoặc thay bằng các sách tương tự xuất bản trong 5 năm gần nhất hay chưa? (Các bài báo không bị hạn chế phải xuất bản trong 5 năm gần nhất.)
 
 ### 2.1. Nội dung
-* **Các đoạn văn dịch từ tiếng Anh (hoặc dịch và sửa đôi chút) đã được in nghiêng đặt trong 2 dấu ngoặc kép và chú thích nguồn chưa? Lưu ý: Vi phạm quy định này học viên có thẻ bị hủy bảo vệ.**
+* **Các đoạn văn dịch từ tiếng Anh (hoặc dịch và sửa đôi chút) đã được in nghiêng đặt trong 2 dấu ngoặc kép và chú thích nguồn chưa? **Lý do**: Vi phạm quy định này học viên có thể không được ra bảo vệ.**
 * Học viên đã đọc báo cáo từ đầu đến cuối để kiểm tra nội dung và **chính tả** hay chưa?
 * Báo cáo đã được kiểm tra chính tả bằng công cụ tự động hay chưa, nếu có, hãy chú thích đó là công cụ nào?
 * Các từ tiếng Anh được sử dụng nhiều hơn 5 lần trong báo cáo đã được đưa vào bảng thuật ngữ hay chưa?
@@ -57,25 +57,24 @@ _Tài liệu mô tả một số tiêu chí có thể dùng để tự đánh gi
 * Các hình vẽ nhỏ và mờ đã được chia nhiều phần, mỗi phần là một hình vẽ riêng rõ ràng, đủ lớn hay chưa?
 * Chi tiết giao diện ứng dụng đã được đưa xuống Phụ lục hay chưa?
 * Các nội dung phụ như lịch sử các phiên bản, giá thành, nếu có, đã được đưa vào Phụ lục hay chưa?
-* Báo cáo đã chỉ sử dụng một đại từ thống nhất từ đầu đến cuối: "chúng em", "khóa luận", hay "nhóm sinh viên" hay chưa?
+* Báo cáo đã chỉ sử dụng một đại từ thống nhất từ đầu đến cuối: "em", "luận văn" hay chưa?
 * Các câu văn nói đã được sửa lại hay chưa? Ví dụ "Xài nhiêu trả nhiêu".
 * Các câu văn thiếu ý nghĩa chính xác đã được sửa lại hay chưa? Ví dụ: câu văn "Còn với Tacotron 2, mô hình này đã có lâu và được sử dụng rất rộng rãi." cần sửa lại thành "Mô hình Tacotron 2 được đề xuất từ năm 2017, theo số trích dẫn trên Google Scholar thì hiện tại đã được sử dụng bởi 714 nhóm nghiên cứu."
 * Các câu hỏi (kết thúc bằng ?) trong báo cáo không nhằm mục đích phát biểu vấn đề đã được bỏ đi hay chưa?
-* Báo cáo đã trình bày các ứng dụng tương tự hay chưa?
+* Báo cáo đã trình bày các nghiên cứu kèm mã nguồn đã có hay chưa?
 * Báo cáo đã trình bày những kết quả nào đã có sẵn (nền tảng, khung ứng dụng, thư viện, mã nguồn có sẵn, dữ liệu có sẵn) hay chưa?
-* Báo cáo đã trình bày 4 góc nhìn (Logical View, Development View, Deployment View, Process View) của kiến trúc hệ thống hay chưa?
-* Báo cáo đã trình bày sơ đồ và mô tả logical và physical database schema hay chưa?
+* Báo cáo đã trình bày 4 góc nhìn (Logical View, Development View, Deployment View, Process View) của kiến trúc hệ thống, nếu có, hay chưa?
+* Báo cáo đã trình bày sơ đồ và mô tả logical và physical database schema, nếu có, hay chưa?
 * Báo cáo đã trình bày các giải pháp kỹ thuật (sơ đồ dữ liệu, sequence diagram, code snippets) cho từng bài toán đặt ra hay chưa?
 * Báo cáo đã trình bày các giải pháp kỹ thuật cho searching và reporting, nếu có, hay chưa?
 * Báo cáo đã trình bày các công cụ dùng để cài đặt hay chưa?
 * Báo cáo đã trình bày các kinh nghiệm thực tế về các vấn đề phát sinh khi cài đặt hay chưa?
 * Báo cáo đã trình bày các test cases thủ công, test data và các kết quả kiểm thử thủ công hay chưa?
-* Báo cáo đã trình bày các dữ liệu, công cụ dùng để kiểm thử, các kết quả kiểm thử bằng công cụ, kèm ảnh minh họa từng bước một, hay chưa?
+* Báo cáo đã trình bày các dữ liệu, công cụ dùng để kiểm thử tốc độ, các kết quả kiểm thử bằng công cụ, kèm ảnh minh họa từng bước một, hay chưa?
 * Báo cáo đã có bảng so sánh các sản phẩm thu được với các mục tiêu đề ra ban đầu hay chưa?
-* Báo cáo đã có bảng so sánh các workflows của hệ thống phần mềm xây dựng được với ít nhất một hệ thống tương tự hay chưa?
-* Báo cáo đã có phần thảo luận về lợi ích của phần mềm xây dựng được khi áp dụng vào môi trường thực hay chưa?
+* Báo cáo đã có phần thảo luận về lợi ích của phần mềm hay bản mẫu xây dựng được khi áp dụng vào môi trường thực hay chưa?
 * Báo cáo đã trình bày các vấn đề còn tồn tại và phương hướng giải quyết đề xuất (một cách rất tổng quát) trong tương lai hay chưa?
-* Báo cáo đã có sử dụng tối thiểu 3 tài liệu tham khảo hay chưa?
+* Báo cáo đã có sử dụng tối thiểu 10 tài liệu tham khảo hay chưa?
 * Các tài liệu ở phần Tài liệu tham khảo đã được tham chiếu trong báo cáo hay chưa?
 
 ## 3.	Kết quả tự đánh giá
@@ -84,7 +83,6 @@ _Tài liệu mô tả một số tiêu chí có thể dùng để tự đánh gi
 * Học viên đánh dấu chọn ( ☑ ) vào những tiêu chí nào báo cáo đã đạt được.
 
 ## 4.	Thông tin thêm
-* Học viên tham khảo các tiêu chí đánh giá hằng năm của Khoa ở <a target = "_blank" href = "https://bit.ly/3JECzJ6">đây</a>.
 * Học viên tham khảo một số báo cáo của các khóa trước ở <a target = "_blank" href = "https://bit.ly/39wpi2U">đây</a>.
 
 ### &copy; 2024 Ngô Huy Biên
