@@ -55,20 +55,23 @@ _Tài liệu mô tả một số tiêu chí có thể dùng để tự đánh gi
 * Các bảng đã có diễn giải hay chưa?
 * Các sơ đồ đã có diễn giải hay chưa?
 * Các hình vẽ nhỏ và mờ đã được chia nhiều phần, mỗi phần là một hình vẽ riêng rõ ràng, đủ lớn hay chưa?
-* Chi tiết giao diện ứng dụng đã được đưa xuống Phụ lục hay chưa?
+* Chi tiết giao diện ứng dụng, nếu có, đã được đưa xuống Phụ lục hay chưa?
 * Các nội dung phụ như lịch sử các phiên bản, giá thành, nếu có, đã được đưa vào Phụ lục hay chưa?
 * Báo cáo đã chỉ sử dụng một đại từ thống nhất từ đầu đến cuối: "em", "luận văn" hay chưa?
 * Các câu văn nói đã được sửa lại hay chưa? Ví dụ "Xài nhiêu trả nhiêu".
 * Các câu văn thiếu ý nghĩa chính xác đã được sửa lại hay chưa? Ví dụ: câu văn "Còn với Tacotron 2, mô hình này đã có lâu và được sử dụng rất rộng rãi." cần sửa lại thành "Mô hình Tacotron 2 được đề xuất từ năm 2017, theo số trích dẫn trên Google Scholar thì hiện tại đã được sử dụng bởi 714 nhóm nghiên cứu."
 * Các câu hỏi (kết thúc bằng ?) trong báo cáo không nhằm mục đích phát biểu vấn đề đã được bỏ đi hay chưa?
-* Báo cáo đã trình bày các nghiên cứu kèm mã nguồn đã có hay chưa?
+* Báo cáo đã mô tả rõ ràng đầu vào, đầu ra mong muốn của bài toán luận văn chọn để giải quyết hay chưa?
+* Báo cáo đã trình bày các nghiên cứu đã có liên quan, mà có công bố mã nguồn, hay chưa?
 * Báo cáo đã trình bày những kết quả nào đã có sẵn (nền tảng, khung ứng dụng, thư viện, mã nguồn có sẵn, dữ liệu có sẵn) hay chưa?
+* Báo cáo đã thu gọn phần lý thuyết nền tảng, nếu trên 10 trang, bằng cách chỉ liệt kê khái niệm, công thức toán học, và chú thích nguồn hay chưa?
 * Báo cáo đã trình bày 4 góc nhìn (Logical View, Development View, Deployment View, Process View) của kiến trúc hệ thống, nếu có, hay chưa?
 * Báo cáo đã trình bày sơ đồ và mô tả logical và physical database schema, nếu có, hay chưa?
 * Báo cáo đã trình bày các giải pháp kỹ thuật (sơ đồ dữ liệu, sequence diagram, code snippets) cho từng bài toán đặt ra hay chưa?
 * Báo cáo đã trình bày các giải pháp kỹ thuật cho searching và reporting, nếu có, hay chưa?
 * Báo cáo đã trình bày các công cụ dùng để cài đặt hay chưa?
 * Báo cáo đã trình bày các kinh nghiệm thực tế về các vấn đề phát sinh khi cài đặt hay chưa?
+* Báo cáo đã phân tích các giải pháp khác nhau đã được thử nghiệm cho cùng một vấn đề, nếu có, hay chưa?
 * Báo cáo đã trình bày các test cases thủ công, test data và các kết quả kiểm thử thủ công hay chưa?
 * Báo cáo đã trình bày các dữ liệu, công cụ dùng để kiểm thử tốc độ, các kết quả kiểm thử bằng công cụ, kèm ảnh minh họa từng bước một, hay chưa?
 * Báo cáo đã có bảng so sánh các sản phẩm thu được với các mục tiêu đề ra ban đầu hay chưa?
