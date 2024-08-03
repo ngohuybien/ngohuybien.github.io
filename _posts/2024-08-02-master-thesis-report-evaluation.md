@@ -41,7 +41,7 @@ _Tài liệu mô tả một số tiêu chí có thể dùng để tự đánh gi
 * Các sách tham khảo đã cập nhật bản mới trong 5 năm gần nhất, hoặc thay bằng các sách tương tự xuất bản trong 5 năm gần nhất hay chưa? (Các bài báo không bị hạn chế phải xuất bản trong 5 năm gần nhất.)
 
 ### 2.1. Nội dung
-* **Các đoạn văn dịch từ tiếng Anh (hoặc dịch và sửa đôi chút) đã được in nghiêng đặt trong 2 dấu ngoặc kép và chú thích nguồn chưa? **Lý do**: Vi phạm quy định này học viên có thể không được ra bảo vệ.**
+* **Các đoạn văn dịch từ tiếng Anh (hoặc dịch và sửa đôi chút) đã được in nghiêng đặt trong 2 dấu ngoặc kép và chú thích nguồn chưa? **Lý do**: Vi phạm quy định này học viên có thể không được ra bảo vệ.** Các đoạn dịch thường đọc lên sẽ thấy văn phong của tiếng Anh, như thể bị động, câu quá dài, lủng củng.
 * Báo cáo đã loại bỏ các thông tin mà các đề tài của các năm trước đã trình bày hay chưa? **Lý do**: Báo cáo chép lại hoặc chép lại và sửa lại một lượng lớn nội dung của các đề tài cũ (lượng lớn theo đánh giá định tính của **giảng viên phản biện**), có thể **không được ra bảo vệ**. Báo cáo có thể được kiểm tra bằng các công cụ chống đạo văn tự động, hoặc đơn giản là copy khoảng 5 chữ liền kề bất kỳ, đặt trong 2 dấu nháy và paste vào Google.
 * Tất cả các đoạn văn chép hoặc dịch đã được đặt trong hai dấu nháy, in nghiêng, và chú thích nguồn hay chưa?
 * Tất cả các ảnh, bảng số liệu và sơ đồ lấy từ nguồn khác đã được chú thích nguồn hay chưa?
