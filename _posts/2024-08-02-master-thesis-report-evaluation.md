@@ -42,15 +42,15 @@ _Tài liệu mô tả một số tiêu chí có thể dùng để tự đánh gi
 
 ### 2.1. Nội dung
 * **Các đoạn văn dịch từ tiếng Anh (hoặc dịch và sửa đôi chút) đã được in nghiêng đặt trong 2 dấu ngoặc kép và chú thích nguồn chưa? **Lý do**: Vi phạm quy định này học viên có thể không được ra bảo vệ.**
+* Báo cáo đã loại bỏ các thông tin mà các đề tài của các năm trước đã trình bày hay chưa? **Lý do**: Báo cáo chép lại hoặc chép lại và sửa lại một lượng lớn nội dung của các đề tài cũ (lượng lớn theo đánh giá định tính của **giảng viên phản biện**), có thể **không được ra bảo vệ**. Báo cáo có thể được kiểm tra bằng các công cụ chống đạo văn tự động, hoặc đơn giản là copy khoảng 5 chữ liền kề bất kỳ, đặt trong 2 dấu nháy và paste vào Google.
+* Tất cả các đoạn văn chép hoặc dịch đã được đặt trong hai dấu nháy, in nghiêng, và chú thích nguồn hay chưa?
+* Tất cả các ảnh, bảng số liệu và sơ đồ lấy từ nguồn khác đã được chú thích nguồn hay chưa?
 * Học viên đã đọc báo cáo từ đầu đến cuối để kiểm tra nội dung và **chính tả** hay chưa?
 * Báo cáo đã được kiểm tra chính tả bằng công cụ tự động hay chưa, nếu có, hãy chú thích đó là công cụ nào?
 * Các từ tiếng Anh được sử dụng nhiều hơn 5 lần trong báo cáo đã được đưa vào bảng thuật ngữ hay chưa?
-* Tất cả các đoạn văn chép hoặc dịch đã được đặt trong hai dấu nháy, in nghiêng, và chú thích nguồn hay chưa?
-* Tất cả các ảnh, bảng số liệu và sơ đồ lấy từ nguồn khác đã được chú thích nguồn hay chưa?
 * Các câu văn trong báo cáo có đủ chủ ngữ và vị ngữ hay chưa?
 * Đầu mỗi chương đã có tóm tắt nội dung chương, thường là nửa trang A4, in nghiêng, hay chưa?
 * Báo cáo đã loại bỏ các liên kết đến các blog cá nhân (không phải các liên kết đến các cơ quan, tổ chức) hay chưa?
-* Báo cáo đã loại bỏ các thông tin mà các đề tài của các năm trước đã trình bày hay chưa? **Lý do**: Báo cáo chép lại hoặc chép lại và sửa lại một lượng lớn nội dung của các đề tài cũ (lượng lớn theo đánh giá định tính của **giảng viên phản biện**), có thể **không được ra bảo vệ**.
 * Các ảnh đã có diễn giải hay chưa?
 * Các bảng đã có diễn giải hay chưa?
 * Các sơ đồ đã có diễn giải hay chưa?
@@ -61,9 +61,9 @@ _Tài liệu mô tả một số tiêu chí có thể dùng để tự đánh gi
 * Các câu văn nói đã được sửa lại hay chưa? Ví dụ "Xài nhiêu trả nhiêu".
 * Các câu văn thiếu ý nghĩa chính xác đã được sửa lại hay chưa? Ví dụ: câu văn "Còn với Tacotron 2, mô hình này đã có lâu và được sử dụng rất rộng rãi." cần sửa lại thành "Mô hình Tacotron 2 được đề xuất từ năm 2017, theo số trích dẫn trên Google Scholar thì hiện tại đã được sử dụng bởi 714 nhóm nghiên cứu."
 * Các câu hỏi (kết thúc bằng ?) trong báo cáo không nhằm mục đích phát biểu vấn đề đã được bỏ đi hay chưa?
-* Báo cáo đã mô tả rõ ràng đầu vào, đầu ra mong muốn của bài toán luận văn chọn để giải quyết hay chưa?
-* Báo cáo đã trình bày các nghiên cứu đã có liên quan, mà có công bố mã nguồn, hay chưa?
-* Báo cáo đã trình bày những kết quả nào đã có sẵn (nền tảng, khung ứng dụng, thư viện, mã nguồn có sẵn, dữ liệu có sẵn) hay chưa?
+* Báo cáo đã mô tả rõ ràng đầu vào, đầu ra mong muốn của bài toán luận văn chọn để giải quyết hay chưa? Nếu có, hãy ghi rõ từ trang bao nhiêu đến trang bao nhiêu trong báo cáo thể hiện điều này.
+* Báo cáo đã trình bày các nghiên cứu đã có liên quan, mà có công bố mã nguồn, hay chưa? Nếu có, hãy ghi rõ từ trang bao nhiêu đến trang bao nhiêu trong báo cáo thể hiện điều này.
+* Báo cáo đã trình bày những kết quả nào đã có sẵn (nền tảng, khung ứng dụng, thư viện, mã nguồn có sẵn, dữ liệu có sẵn) hay chưa? Nếu có, hãy ghi rõ từ trang bao nhiêu đến trang bao nhiêu trong báo cáo thể hiện điều này.
 * Báo cáo đã thu gọn phần **Cơ sở lý thuyết**, nếu trên 10 trang, bằng cách chỉ liệt kê khái niệm, công thức toán học, và chú thích nguồn hay chưa?
 * Báo cáo đã trình bày 4 góc nhìn (Logical View, Development View, Deployment View, Process View) của kiến trúc hệ thống, nếu có, hay chưa?
 * Báo cáo đã trình bày sơ đồ và mô tả Logical và Physical Database Schema, nếu có, hay chưa?
@@ -73,11 +73,13 @@ _Tài liệu mô tả một số tiêu chí có thể dùng để tự đánh gi
 * Báo cáo đã trình bày các kinh nghiệm thực tế về các vấn đề phát sinh khi cài đặt hay chưa?
 * Báo cáo đã phân tích các giải pháp khác nhau đã được thử nghiệm cho cùng một vấn đề, nếu có, hay chưa?
 * Báo cáo đã trình bày các test cases thủ công, test data và các kết quả kiểm thử thủ công hay chưa?
-* Báo cáo đã trình bày các dữ liệu, công cụ dùng để kiểm thử tốc độ, các kết quả kiểm thử bằng công cụ, kèm ảnh minh họa từng bước một, hay chưa?
+* Báo cáo đã trình bày các dữ liệu, công cụ dùng để **kiểm thử tốc độ**, các kết quả kiểm thử bằng công cụ, kèm ảnh minh họa từng bước một, hay chưa?
+* Báo cáo đã trình bày các dữ liệu **khảo sát** và kết quả tính toán, nếu có, hay chưa?
 * Báo cáo đã có bảng so sánh các sản phẩm thu được với các mục tiêu đề ra ban đầu hay chưa?
 * Báo cáo đã có phần thảo luận về lợi ích của phần mềm hay bản mẫu xây dựng được khi áp dụng vào môi trường thực hay chưa?
 * Báo cáo đã trình bày các vấn đề còn tồn tại và phương hướng giải quyết đề xuất (một cách rất tổng quát) trong tương lai hay chưa?
 * Báo cáo đã có sử dụng tối thiểu 10 tài liệu tham khảo hay chưa?
+* Các sách sử dụng làm tài liệu tham khảo, nếu có, có được xuất bản trong 5 năm trở lại hay chưa?
 * Các tài liệu ở phần Tài liệu tham khảo đã được tham chiếu trong báo cáo hay chưa?
 
 ## 3.	Kết quả tự đánh giá
