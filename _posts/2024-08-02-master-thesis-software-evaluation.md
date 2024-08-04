@@ -30,14 +30,17 @@ _Tài liệu mô tả một số tiêu chí có thể dùng để tự đánh gi
 
 ### 2.3. Kiểm thử
 * Các test cases thủ công đã được thực hiện hay chưa?
-* Các test cases, test data, test reports đã được đưa vào thư mục SOURCE/Testing hay chưa?
-* Tốc độ phần mềm đã được kiểm thử bằng công cụ hay dịch vụ đám mây hay chưa?
-* Khả năng mở rộng của phần mềm đã được kiểm thử hay chưa?
+* Các test cases, test data, test reports của quá trình kiểm thử thủ công đã được đưa vào thư mục SOURCE/Testing hay chưa?
+* Các dữ liệu khảo sát và kết quả tính toán, nếu có, đã được đưa vào thư mục SOURCE/Testing hay chưa?
+* Tốc độ phần mềm đã được đánh giá bằng công cụ hay dịch vụ đám mây hay chưa?
+* Các dữ liệu đánh giá tốc độ và kết quả thu được, nếu có, đã được đưa vào thư mục SOURCE/Testing hay chưa?
+* Khả năng mở rộng của phần mềm đã được đánh giá hay chưa?
+* Các dữ liệu đánh giá khả năng mở rộng và kết quả thu được, nếu có, đã được đưa vào thư mục SOURCE/Testing hay chưa?
 
 ### 2.4. Tài liệu kỹ thuật
-* Học viên tham khảo một số tài liệu kỹ thuật ở <a target = "_blank" href = "https://bit.ly/3IMkWa4">đây</a>.
-* Tài liệu kỹ thuật đã mô tả phiên bản của các công cụ được sử dụng hay chưa?
+* Học viên tham khảo một số tài liệu kỹ thuật ở <a href="https://bit.ly/3IMkWa4" target="_blank">đây</a>.
 * Tài liệu kỹ thuật đã hỗ trợ phiên bản LTS gần nhất của các công cụ được sử dụng hay chưa?
+* Tài liệu kỹ thuật đã mô tả phiên bản của các công cụ được sử dụng hay chưa?
 * Các bước của tài liệu kỹ thuật đã được sắp xếp để có thể thực hiện tuần tự, có sự logic, liên kết giữa các bước hay chưa?
 * Các bước và hình ảnh tương ứng cài đặt cơ sở dữ liệu, chạy script, import built-in data đã có hay chưa? (Nếu hard-code các script và data trong mã nguồn thì cần bổ sung mô tả vào trong tài liệu biên dịch và tài liệu triển khai.)
 * Các bước và hình ảnh tương ứng run hệ thống thành công trên local cho từng service và cho toàn hệ thống đã có hay chưa?
@@ -47,7 +50,7 @@ _Tài liệu mô tả một số tiêu chí có thể dùng để tự đánh gi
 * Học viên đã chạy các bước của tài liệu triển khai trên môi trường thực (ví dụ AWS, Azure, Google Cloud) hay chưa?
 
 ### 2.5. Cấu hình
-* Tài liệu biên dịch và tài liệu triển khai đã bao gồm các bước để tạo và nhận các thông tin cấu hình, ví dụ như thông tin truy cập cơ sở dữ liệu, các API keys, các tài khoản online, hay chưa?
+* Tài liệu biên dịch và tài liệu triển khai đã bao gồm các bước để tạo và nhận các thông tin cấu hình (ví dụ như thông tin truy cập cơ sở dữ liệu, các API keys, các tài khoản online) hay chưa?
 * Vị trí thông tin cấu hình cần thay đổi trong các file mã nguồn, để biên dịch hoặc triển khai, đã được tài liệu hóa trong tài liệu biên dịch và tài liệu triển khai hay chưa?
 
 ## 3.	Kết quả tự đánh giá
@@ -56,6 +59,6 @@ _Tài liệu mô tả một số tiêu chí có thể dùng để tự đánh gi
 * Học viên đánh dấu chọn ( ☑ ) vào những tiêu chí nào phần mềm đạt được.
 
 ## 4.	Thông tin thêm
-* Học viên tham khảo một số tiêu chí đánh giá hằng năm của Khoa ở <a target = "_blank" href = "https://bit.ly/3JECzJ6">đây</a>.
+* Học viên tham khảo một số tiêu chí đánh giá hằng năm của Khoa ở <a href ="https://bit.ly/46FNblp" target="_blank">đây</a>.
 
 ### &copy; 2024 Ngô Huy Biên
