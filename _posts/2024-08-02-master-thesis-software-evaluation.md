@@ -17,8 +17,8 @@ _Tài liệu mô tả một số tiêu chí có thể dùng để tự đánh gi
 ## 2.	Một số tiêu chí đánh giá phần mềm hoặc bản mẫu
 
 ### 2.1. Giao diện
-* Giao diện đã tương tự với giao diện của một phần mềm mẫu được chọn hay chưa?
-* Paddings, font chữ, color, headers/titles trên giao diện đã phù hợp với các nguyên lý chưa?
+* Giao diện đã tương tự với giao diện của một phần mềm mẫu được chọn hay chưa? Nếu có, hãy cho biết tên phần mềm được dùng để so sánh.
+* Paddings, font chữ, color, headers/titles trên giao diện đã phù hợp với các nguyên lý chưa? Học viên có thể kiểm tra tự động bằng <a href="https://accessibe.com/accessscan" target="_blank">Access Scan</a> và <a href="https://www.accessibilitychecker.org/" target="_blank">Accessibility Checker</a>.
 * Phần mềm đã loại bỏ việc phải kéo (scroll) thanh ngang khi sử dụng chưa?
 * Validation messages, error messages đã có chưa?
 * Phần mềm đã loại bỏ các incomplete/unavailable features, broken links hay chưa?
