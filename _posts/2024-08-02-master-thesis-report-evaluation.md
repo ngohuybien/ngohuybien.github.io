@@ -88,6 +88,6 @@ _Tài liệu mô tả một số tiêu chí có thể dùng để tự đánh gi
 * Học viên đánh dấu chọn ( ☑ ) vào những tiêu chí nào báo cáo đã đạt được.
 
 ## 4.	Thông tin thêm
-* Học viên tham khảo một số báo cáo của các khóa trước ở <a target = "_blank" href = "https://bit.ly/39wpi2U">đây</a>.
+* Học viên tham khảo một số tiêu chí đánh giá hằng năm của Khoa ở <a href ="https://bit.ly/46FNblp" target="_blank">đây</a>.
 
 ### &copy; 2024 Ngô Huy Biên
