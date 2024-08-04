@@ -18,16 +18,16 @@ _Tài liệu mô tả một số tiêu chí có thể dùng để tự đánh gi
 
 ### 2.1. Giao diện
 * Logo phần mềm đã có chưa?
-* Paddings, font chữ, color, headers/titles đã phù hợp với các nguyên lý chưa?
+* Giao diện đã tương tự với giao diện của một phần mềm mẫu được chọn hay chưa? Nếu có, hãy cho biết tên phần mềm được dùng để so sánh.
+* Paddings, font chữ, color, headers/titles trên giao diện đã phù hợp với các nguyên lý chưa? Sinh viên có thể kiểm tra tự động bằng <a href="https://accessibe.com/accessscan" target="_blank">Access Scan</a> và <a href="https://www.accessibilitychecker.org/" target="_blank">Accessibility Checker</a>.
 * Phần mềm đã loại bỏ việc phải kéo (scroll) thanh ngang khi sử dụng chưa?
 * Validation messages, error messages đã có chưa?
 * Phần mềm đã loại bỏ các incomplete/unavailable features, broken links hay chưa?
-* Giao diện đã tương tự với phần mềm mẫu hay chưa?
 
 ### 2.2. Nghiệp vụ
-* Nghiệp vụ có tương đương hoặc tốt hơn giải pháp thủ công (trivial solution) không?
-* Phần mềm mẫu được chọn có phù hợp chưa (phần mềm thông dụng hoặc số lượng tải hơn 10,000)?
-* Nghiệp vụ đã tương tự với phần mềm mẫu chưa?
+* Nghiệp vụ có tương đương hoặc tốt hơn giải pháp thủ công (trivial solution) hay không?
+* Nghiệp vụ đã giải quyết trọn vẹn một bài toán cụ thể hay chưa?
+* Nghiệp vụ có tương đương hoặc tốt hơn giải pháp của một phần mềm sẵn có hay không? Nếu có, hãy cho biết tên phần mềm được dùng để so sánh.
 
 ### 2.3. Kiểm thử
 * Các test cases thủ công đã được thực hiện hay chưa?
