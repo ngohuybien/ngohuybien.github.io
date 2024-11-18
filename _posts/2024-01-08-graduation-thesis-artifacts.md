@@ -30,10 +30,13 @@ Thư mục gốc chứa
 * Thư mục tên **Videos**: chứa file file **DryRun.mp4** quay thuyết trình bảo vệ thử, file **Demo.mp4** quay demo sẽ dùng để demo trong buổi bảo vệ.
 
 ### 2.3. Thư mục SOURCE chứa
-* File **SourceCode.zip** chứa toàn bộ mã nguồn và dữ liệu của chương trình (desktop, mobile, web, API, unit tests, trang Release, các công cụ xử lý dữ liệu, tùy theo nội dung từng khóa luận).
-* Thư mục **Testing**: chứa các dữ liệu, kịch bản dùng để kiểm thử và kết quả kiểm thử của: manual testing, performance testing, pen testing, và horizontal scalability testing, các dữ liệu khảo sát và kết quả tính toán nếu có.
-* File **CompilationGuide_LaTeX.zip**: là tài liệu "Hướng dẫn cài đặt công cụ, cấu hình và biên dịch mã nguồn" của Source Code cho OS sạch, kèm ảnh minh họa, định dạng LaTeX. OS sạch là máy tính vừa cài đặt xong hệ điều hành, chưa có bất cứ thư viện lập trình ứng dụng nào. Sinh viên được khuyến khích sử dụng các kịch bản viết cho các công cụ triển khai tự động, ví dụ như Docker, Kubernetes hay Circle CI, để thu gọn tài liệu "Hướng dẫn cài đặt công cụ, cấu hình và biên dịch mã nguồn".
-* File **CompilationGuide.pdf**: là bản PDF của tài liệu "Hướng dẫn cài đặt công cụ, cấu hình và biên dịch mã nguồn.
+* Thư mục **SourceCode**: chứa toàn bộ mã nguồn và dữ liệu của chương trình (SQL scripts, desktop, mobile, web, API, unit tests source code, các công cụ xử lý dữ liệu, tùy theo nội dung từng khóa luận).
+* File **CloudServiceGuide_LaTeX.zip**: là tài liệu "Hướng dẫn đăng ký các dịch vụ đám mây và cấu hình hệ thống để kết nối với các dịch vụ đám mây" nếu đề tài có sử dụng các Cloud API của một nhà cung cấp dịch vụ đám mây.
+* File **CloudServiceGuide.pdf**: là bản PDF của tài liệu CloudServiceGuide.
+* File **CloudServiceGuide.mp4**: là file video minh họa việc thực hiện các bước trong tài liệu CloudServiceGuide.
+* Thư mục **Testing**: chứa các dữ liệu, kịch bản dùng để kiểm thử và kết quả kiểm thử của: manual testing (bắt buộc), performance testing (bắt buộc), pen testing (bắt buộc), horizontal scalability testing (nếu có), các dữ liệu khảo sát và kết quả tính toán (nếu có).
+* File **CompilationGuide_LaTeX.zip**: là tài liệu "Hướng dẫn cài đặt công cụ, cấu hình, biên dịch và chạy mã nguồn" trên máy tính cục bộ của một lập trình viên, với OS sạch, kèm ảnh minh họa, định dạng LaTeX. OS sạch là máy tính vừa cài đặt xong hệ điều hành, chưa có bất cứ thư viện lập trình ứng dụng nào. Sinh viên được khuyến khích sử dụng các kịch bản viết cho các công cụ triển khai tự động, ví dụ như Docker, Kubernetes hay Circle CI, để thu gọn tài liệu Compilation Guide.
+* File **CompilationGuide.pdf**: là bản PDF của tài liệu "Hướng dẫn cài đặt công cụ, cấu hình, biên dịch và chạy mã nguồn".
 * Nếu khóa luận liên quan đến học máy, học sâu hay mô hình ngôn ngữ lớn, thì cần có thêm thư mục **Model_Training**: chứa
   * Thư mục **Data**: chứa toàn bộ dữ liệu training/validation/test để huấn luyện mô hình,
   * Thư mục **Model**: chứa mã nguồn để huấn luyện các mô hình,
@@ -41,9 +44,6 @@ Thư mục gốc chứa
   * File **ModelTraningGuide.pdf**: là bản PDF của tài liệu "Hướng dẫn huấn luyện mô hình".
 
 ### 2.4. Thư mục GUIDES chứa các thư mục theo mô tả bên dưới.
-* Thư mục **CloudServiceGuide_LaTeX**: chứa tài liệu “Hướng dẫn đăng ký các dịch vụ đám mây và cấu hình hệ thống để kết nối với các dịch vụ đám mây” nếu đề tài có sử dụng các Cloud API của một nhà cung cấp dịch vụ đám mây.
-* File **CloudServiceGuide.pdf**: là bản PDF của thư mục CloudServiceGuide _LaTeX.
-* File **CloudServiceGuide.mp4**: là file video minh họa việc thực hiện các bước của tài liệu “Hướng dẫn đăng ký các dịch vụ đám mây và cấu hình hệ thống để kết nối với các dịch vụ đám mây”.
 * Thư mục **DeploymentGuide_LaTeX**: chứa tài liệu “Hướng dẫn triển khai và cấu hình hệ thống” trên máy chủ EC2, hoặc Google Could, hoặc MS Azure, hoặc Heroku, hoặc một nhà cung cấp dịch vụ Hosting nếu đề tài có phát triển phần web/api server. Sinh viên được khuyến khích sử dụng các kịch bản viết cho các công cụ triển khai tự động, ví dụ như Docker, Kubernetes hay Circle CI, để thu gọn tài liệu “Hướng dẫn triển khai và cấu hình”.
 * File **DeploymentGuide.pdf**: là bản PDF của thư mục DeploymentGuide_LaTeX.
 * File **DeploymentGuide.mp4**: là file video minh họa việc thực hiện các bước của tài liệu “Hướng dẫn triển khai và cấu hình hệ thống”.
