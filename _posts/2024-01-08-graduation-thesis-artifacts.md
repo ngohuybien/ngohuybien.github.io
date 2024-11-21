@@ -38,12 +38,13 @@ Thư mục gốc chứa
 * File **CompilationGuide_LaTeX.zip**: là tài liệu "Hướng dẫn cài đặt công cụ, cấu hình, biên dịch và chạy mã nguồn" trên máy tính cục bộ của một lập trình viên, với OS sạch, kèm ảnh minh họa, định dạng LaTeX. OS sạch là máy tính vừa cài đặt xong hệ điều hành, chưa có bất cứ thư viện lập trình ứng dụng nào. Sinh viên được khuyến khích sử dụng các kịch bản viết cho các công cụ triển khai tự động, ví dụ như Docker, Kubernetes hay Circle CI, để thu gọn tài liệu Compilation Guide.
 * File **CompilationGuide.pdf**: là bản PDF của tài liệu "Hướng dẫn cài đặt công cụ, cấu hình, biên dịch và chạy mã nguồn".
 * Nếu khóa luận liên quan đến học máy, học sâu hay mô hình ngôn ngữ lớn, thì cần có thêm thư mục **Model_Training**: chứa
-  * Thư mục **Data**: chứa toàn bộ dữ liệu training/validation/test để huấn luyện mô hình,
-  * Thư mục **Model**: chứa mã nguồn để huấn luyện các mô hình,
-  * Thư mục **ModelTraningGuide_LaTeX.zip**: là tài liệu "Hướng dẫn huấn luyện mô hình" cho OS sạch, kèm ảnh minh họa, định dạng LaTeX. Sinh viên được khuyến khích sử dụng các kịch bản viết cho các công cụ triển khai tự động, ví dụ như Docker, Kubernetes hay Circle CI, để thu gọn tài liệu "Hướng dẫn huấn luyện mô hình", và
+  * **Mã nguồn** để huấn luyện mô hình (ví dụ file .ipynb),
+  * Thư mục **Data**: chứa toàn bộ các dữ liệu để huấn luyện mô hình (training/validation/test data),
+  * Thư mục **Model**: chứa mô hình đã được huấn luyện,
+  * File **ModelTraningGuide_LaTeX.zip**: là tài liệu "Hướng dẫn huấn luyện mô hình" cho OS sạch, kèm ảnh minh họa, định dạng LaTeX. Sinh viên được khuyến khích sử dụng các kịch bản viết cho các công cụ triển khai tự động, ví dụ như Docker, Kubernetes hay Circle CI, để thu gọn tài liệu "Hướng dẫn huấn luyện mô hình", và
   * File **ModelTraningGuide.pdf**: là bản PDF của tài liệu "Hướng dẫn huấn luyện mô hình".
 
-### 2.4. Thư mục GUIDES chứa các thư mục theo mô tả bên dưới.
+### 2.4. Thư mục DEPLOYMENT chứa các thư mục theo mô tả bên dưới.
 * Thư mục **DeploymentGuide_LaTeX**: chứa tài liệu “Hướng dẫn triển khai và cấu hình hệ thống” trên máy chủ EC2, hoặc Google Could, hoặc MS Azure, hoặc Heroku, hoặc một nhà cung cấp dịch vụ Hosting nếu đề tài có phát triển phần web/api server. Sinh viên được khuyến khích sử dụng các kịch bản viết cho các công cụ triển khai tự động, ví dụ như Docker, Kubernetes hay Circle CI, để thu gọn tài liệu “Hướng dẫn triển khai và cấu hình”.
 * File **DeploymentGuide.pdf**: là bản PDF của thư mục DeploymentGuide_LaTeX.
 * File **DeploymentGuide.mp4**: là file video minh họa việc thực hiện các bước của tài liệu “Hướng dẫn triển khai và cấu hình hệ thống”.
