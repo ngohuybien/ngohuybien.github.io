@@ -45,6 +45,7 @@ Thư mục gốc chứa
   * File **ModelTraningGuide.pdf**: là bản PDF của tài liệu "Hướng dẫn huấn luyện mô hình".
 
 ### 2.4. Thư mục DEPLOYMENT chứa các thư mục theo mô tả bên dưới.
+* File **Package.zip**: chứa các sản phẩm dùng để triển khai, ví dụ mã nguồn, SQL scripts. Sinh viên được khuyến khích đưa các sản phẩm này lên các dịch vụ đám mây hoặc hệ thống DevOps.
 * Thư mục **DeploymentGuide_LaTeX**: chứa tài liệu “Hướng dẫn triển khai và cấu hình hệ thống” trên máy chủ EC2, hoặc Google Could, hoặc MS Azure, hoặc Heroku, hoặc một nhà cung cấp dịch vụ Hosting nếu đề tài có phát triển phần web/api server. Sinh viên được khuyến khích sử dụng các kịch bản viết cho các công cụ triển khai tự động, ví dụ như Docker, Kubernetes hay Circle CI, để thu gọn tài liệu “Hướng dẫn triển khai và cấu hình hệ thống”.
 * File **DeploymentGuide.pdf**: là bản PDF của thư mục DeploymentGuide_LaTeX.
 * File **DeploymentGuide.mp4**: là file video minh họa việc thực hiện các bước của tài liệu “Hướng dẫn triển khai và cấu hình hệ thống”.
