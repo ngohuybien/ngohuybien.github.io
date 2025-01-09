@@ -34,7 +34,7 @@ _Tài liệu hướng dẫn lựa chọn chủ đề cho luận văn cao học, 
 Học viên chọn cụ thể 1 trong 3 hướng đi ở trên để phân tích tiếp theo.
 
 ## 3. Phân tích giải pháp
-Học viên phân tích giải pháp theo một hướng đi cụ thể đã lựa chọn. Mục đích chính của việc phân tích này là xác định được **bài toán cụ thể**, thực sự cần giải quyết?
+Học viên phân tích giải pháp theo **một hướng đi cụ thể** đã lựa chọn. Mục đích chính của việc phân tích này là xác định được **bài toán cụ thể**, thực sự cần giải quyết?
 
    * #### Hướng 1 - Xây dựng lại giải pháp
        * Giải pháp đề xuất đã được ứng dụng ở hệ thống phần mềm thực tế nào hay chưa?
