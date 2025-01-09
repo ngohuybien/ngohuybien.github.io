@@ -8,6 +8,10 @@ meta: "Master Thesis Proposal"
 ---
 _Tài liệu hướng dẫn viết đề cương cao học, lĩnh vực khoa học máy tính, hệ thống thông tin, công nghệ phần mềm, do giảng viên Ngô Huy Biên hướng dẫn._
 
+## Công cụ viết đề cương
+* Học viên **phải** sử dụng LaTeX để viết đề cương.
+* Học viên có thể đăng ký tài khoản trang web của <a target = "blank" href = "https://www.overleaf.com/">Overleaf</a> để viết đề cương.
+* Học viên có thể hiệu chỉnh lại <a target = "blank" href = "https://www.overleaf.com/read/qxbpwhmkcfbh#94c634">biểu mẫu khóa luận (đại học) của Khoa</a> để viết đề cương.
   
 ## Nội dung đề cương
 
@@ -86,10 +90,5 @@ Học viên cần tạo bảng kế hoạch với những cột mốc phù hợp
 * Học viên liệt kê các sách và bài báo, bao gồm bài báo ở phần 1. và ít nhất thêm 4 tài liệu là các sách, bài báo liên quan.
 * Học viên **KHÔNG** sử dụng các liên kết trong phần này. Các liên kết trong đề cương nếu có, ví dụ liên kết đến mã nguồn hoặc dữ liệu trên GitHub, học viên để trong Footnote tại trang đề cập.
 * Học viên cần thể hiện các tài liệu tham khảo theo đúng chuẩn thông dụng. Học viên nên sử dụng tính năng Cite (thể hiện bằng dấu nháy) của <a href target = "blank" href = "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Efficient+backprop">Google Scholar</a> để xem mẫu trình bày tài liệu tham khảo. Học viên nên chọn chuẩn APA.
-
-## Công cụ viết đề cương
-* Học viên **phải** sử dụng LaTeX để viết đề cương.
-* Học viên có thể đăng ký tài khoản trang web của <a target = "blank" href = "https://www.overleaf.com/">Overleaf</a> để viết đề cương.
-* Học viên có thể hiệu chỉnh lại <a target = "blank" href = "https://www.overleaf.com/read/qxbpwhmkcfbh#94c634">biểu mẫu khóa luận (đại học) của Khoa</a> để viết đề cương.
 
 ### &copy; 2024 Ngô Huy Biên
