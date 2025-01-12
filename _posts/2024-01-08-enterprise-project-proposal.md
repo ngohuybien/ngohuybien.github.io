@@ -1,26 +1,19 @@
 ---
 layout: post
-title: "Hướng dẫn viết đề xuất dự án lĩnh vực hệ thống doanh nghiệp"
+title: "02. Project Idea"
 categories: [Software Engineering Capstone]
 author:
 - Ngô Huy Biên
-meta: "Enterprise Project Proposal"
+meta: "Project Idea"
+published: false
 ---
-_Tài liệu hướng dẫn viết đề xuất dự án lĩnh vực hệ thống doanh nghiệp cho môn học Software Engineering Capstone._
+_Ý tưởng cho dự án thuộc lĩnh vực hệ thống doanh nghiệp_
 
-## 1. Thông tin chung
-* Mỗi nhóm tự chọn một ý tưởng cho đồ án môn học, tập trung vào lĩnh vực hệ thống doanh nghiệp, dựa theo lựa chọn của nhóm và các gợi ý của giảng viên ở buổi học đầu tiên.
-* Đồ án sẽ được thực hiện trong **10 tuần** đối với hệ CLC, trong **14 tuần** đối với hệ CQ, thời gian làm đồ án của mỗi thành viên là 8 giờ / tuần.
-* Các nhóm **chuẩn bị Slides** cho đề xuất dự án của nhóm, in ra để giảng viên góp ý vào đầu buổi học thứ hai.
-* Khi làm đề xuất nếu có chỗ nào không rõ **sinh viên tự đặt các giả định** để hoàn thiện, những chỗ nào không biết làm sinh viên có thể **bỏ qua**.
-* Chỉ những đề xuất nào được giảng viên chấp nhận mới được chọn làm **đồ án môn học chính thức** của nhóm. Những nhóm có đề xuất không được chấp nhận sẽ lựa chọn 1 đề tài có sẵn trong danh sách các đề tài giảng viên đưa ra.
-* Mỗi nhóm cần tập trung nguồn lực chuẩn bị thật tốt cho đề xuất và chỉ chuẩn bị một đề xuất duy nhất.
-
-## 2. Ý tưởng cho đề tài
+## 1. Ý tưởng cho đề tài
 Một số tham khảo để lên ý tưởng:
-* Ứng dụng di động: Sinh viên tham khảo các ứng dụng, trò chơi trên App Store, Google Play.
-* Ứng dụng web (có thể kết hợp với di động): xử lý vấn đề nghiệp vụ thực tế và xử lý dữ liệu lớn bằng công nghệ trong kinh doanh, giao thông, giáo dục, truyền thông, y học, ~~ngân hàng~~.
-* Bảo mật (có thể áp dụng ứng dụng để bàn hoặc máy trạm): ứng dụng dựa trên blockchain; ứng dụng cung cấp giải pháp bảo mật cho các lĩnh vực đặc thù, ví dụ như email, chat, họp trực tuyến, đồng bộ hóa lưu trữ với đám mây.
+* Ứng dụng di động: Tham khảo các ứng dụng, trò chơi trên App Store, Google Play.
+* Ứng dụng web (có thể kết hợp với di động): Xử lý các vấn đề nghiệp vụ thực tế và xử lý dữ liệu lớn bằng công nghệ trong kinh doanh, giao thông, giáo dục, truyền thông, y học, ngân hàng.
+* Bảo mật (có thể áp dụng ứng dụng web, mobile hoặc để bàn): ứng dụng dựa trên blockchain; ứng dụng cung cấp giải pháp bảo mật cho các lĩnh vực đặc thù, ví dụ như email, chat, họp trực tuyến, lưu trữ trong môi trường đám mây.
 * Ý tưởng sáng tạo của cá nhân.
 
 ## 3. Nội dung Slides
