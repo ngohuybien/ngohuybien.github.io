@@ -12,11 +12,7 @@ _Tài liệu hướng dẫn viết đề xuất dự án lĩnh vực học máy 
 
 ### 3.4. Cách tiếp cận dự kiến
 Slides cần thể hiện cách tiếp cận dự kiến thông qua các sản phẩm sau:
-* Bản mẫu, 
-* Các mô hình dự kiến áp dụng hoặc cải tiến, 
-* Các nguồn dữ liệu và mã nguồn có sẵn dự kiến sẽ được dùng để huấn luyện, 
-* Tài nguyên GPU dự định sẽ sử dụng, 
-* Ảnh chụp kết quả chạy thử nghiệm huấn luyện và suy luận bằng mã nguồn và bộ dữ liệu có sẵn,  
+
 * Các độ đo để so sánh, đánh giá các kết quả thu được trong thí nghiệm có kiểm soát, 
 * Các độ đo để so sánh, đánh giá hệ thống thu được với các hệ thống tương tự (khảo sát người dùng), và 
 * Danh sách các công nghệ, công cụ dự định sẽ sử dụng.
