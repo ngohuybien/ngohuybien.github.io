@@ -68,8 +68,15 @@ Học viên phân tích giải pháp theo **một hướng đi cụ thể** đã
 
 ## 4. Chuẩn bị kết quả để thảo luận
 * Tên đề tài học viên đề xuất là gì? Thường có thể là "Giải pháp XYZ cho bài toán ABC", hoặc "Hệ thống ABC dựa trên giải pháp XYZ".
-* Học viên **in ra** các kết quả tìm hiểu, bao gồm **tên đề tài**, **bài báo lựa chọn**, **hướng đi lựa chọn**, mô tả **bài toán cụ thể**, diễn giải **các tiêu chí đánh giá**, và các nội dung khác nếu có, sau đó **gặp và thảo luận trực tiếp với giảng viên** để thống nhất nội dung đề tài.
-* Học viên cần có kết quả và thảo luận trực tiếp với giảng viên  **trước** thời hạn nộp đơn đăng ký thực hiện luận văn của Trường **ít nhất là 2 tháng**.
-* Học viên nhận xác nhận của giảng viên và bắt đầu viết đề cương chi tiết.
-  
+* Học viên **in ra** các kết quả đã tìm hiểu, bao gồm:
+  * Tên đề tài,
+  * Bài báo lựa chọn,
+  * Hướng đi lựa chọn,
+  * Mô tả **bài toán cụ thể**,
+  * Diễn giải **các tiêu chí đánh giá**, và
+  * Các nội dung khác nếu có,
+  * sau đó **gặp và thảo luận trực tiếp với giảng viên** để thống nhất nội dung đề tài.
+* Học viên cần có kết quả đã tìm hiểu, và thảo luận trực tiếp với giảng viên **trước** thời hạn nộp đơn đăng ký thực hiện luận văn của Trường **ít nhất là 2 tháng**.
+* Sau khi thảo luận với giảng viên và xác định được đề tài, học viên nhận xác nhận của giảng viên, và bắt đầu viết đề cương chi tiết.
+
 ### &copy; 2024 Ngô Huy Biên
