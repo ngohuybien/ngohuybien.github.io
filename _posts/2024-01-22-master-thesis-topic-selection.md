@@ -76,7 +76,7 @@ Học viên phân tích giải pháp theo **một hướng đi cụ thể** đã
   * Diễn giải **các tiêu chí đánh giá**, và
   * Các nội dung khác nếu có,
   * sau đó **gặp và thảo luận trực tiếp với giảng viên** để thống nhất nội dung đề tài.
-* Học viên cần có kết quả đã tìm hiểu, và thảo luận trực tiếp với giảng viên **trước** thời hạn nộp đơn đăng ký thực hiện luận văn của Trường **ít nhất là 2 tháng**.
+* Học viên cần có các kết quả đã tìm hiểu, và thảo luận trực tiếp với giảng viên **trước** thời hạn nộp đơn đăng ký thực hiện luận văn của Trường **ít nhất là 2 tháng**.
 * Sau khi thảo luận với giảng viên và xác định được đề tài, học viên nhận xác nhận của giảng viên, và bắt đầu viết đề cương chi tiết.
 
 ### &copy; 2024 Ngô Huy Biên
