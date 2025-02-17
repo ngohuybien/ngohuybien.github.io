@@ -30,29 +30,29 @@ _Tài liệu mô tả các sản phẩm cần nộp cho đồ án theo hướng 
 </div>
 
 ## 3. Định dạng các sản phẩm
-* Các sản phẩm thường ở dạng **DOCX**, **PPTX**, **XLSX**, hoặc **ZIP** (nếu sản phẩm gồm nhiều tập tin).
+* Các sản phẩm thường ở dạng **DOCX**, hoặc **XLSX**, hoặc **ZIP** (nếu sản phẩm gồm nhiều tập tin).
 * Các sản phẩm không phải dạng ZIP cần được export ra bản **PDF** tương ứng nhằm đảm bảo việc kiểm tra sản phẩm không gặp vấn đề về font chữ hay layout.
-* Nếu nhóm có các sản phẩm là ảnh chụp rõ nét bản viết hoặc vẽ bằng tay hoặc ghi chú (sticky notes) dạng PNG hoặc JPG, thì nhóm chỉ cần dán vào các Slide.
-* Các hệ thống trực tuyến của nhóm cần để **chế độ công khai** (Public) trừ trường hợp hệ thống không cho phép.
+* Nếu nhóm có các sản phẩm là ảnh chụp rõ nét bản viết hoặc vẽ bằng tay hoặc ghi chú (sticky notes) dạng PNG hoặc JPG, thì nhóm có thể dán vào các tài liệu DOCX hoặc XLSX.
+* Các hệ thống trực tuyến của nhóm cần để **chế độ công khai** (Public), trừ trường hợp nhà cung cấp không cho phép.
 * Các tài liệu của môn học cần **đơn giản**, diễn giải đủ các khía cạnh, dễ hiểu, hỗ trợ tốt cho việc liên lạc, tương tự như những gì đã được minh họa trên lớp.
 
 ## 4. Danh sách các sản phẩm cần nộp, và quy định đặt tên tập tin
 * Các sản phẩm dưới đây là **bắt buộc**, nhưng không giới hạn. Các nhóm có thể nộp thêm các sản phẩm tự đề xuất trong quá trình thực hiện đồ án.
 * Danh sách các sản phẩm này có thể được giảng viên hiệu chỉnh lại trong quá trình học, tùy theo tình hình lớp học.
 * Thư mục **01_Documents** chứa các sản phẩm với các **tên in đậm** sau:
-    * **01_Project Proposal.pptx**: trình bày đề xuất dự án (những phần nào trong file trình chiếu liên quan đến một sản phẩm khác thì sinh viên chỉ trình bày một, hai hoặc tối đa là ba ví dụ, và ghi chú là xem chi tiết ở tài liệu "XYZ", ví dụ, phần Bản mẫu sinh viên chỉ trình bày 3 giao diện, và ghi chú là xem chi tiết bản mẫu ở tài liệu "05_Prototype.docx"),
-    *	**01_Project Proposal.pdf**,
-    * **02_Business Cases.docx**: trình bày các vai trò, các vấn đề, các mục tiêu một vai trò mong muốn đạt được, các luồng quy trình nghiệp vụ nhóm sẽ xây dựng để đạt được mục tiêu trong đời sống thực,
-    * **02_Business Cases.pdf**,
-    * **03_Domain Model.docx**: trình bày các thực thể nghiệp vụ trong đời sống thực (có thể có liên quan đến phần mềm) và mối liên hệ giữa các thực thể này với nhau,
-    * **03_Domain Model.pdf**,
-    * **04_Product Backlog.xlsx**: trình bày toàn bộ các sản phẩm và tính năng cần có để đạt được các mục tiêu đề ra.
-    * **05_Prototype.docx**: trình bày giao diện từng bước của ít nhất một luồng quy trình nghiệp vụ,
-    * **05_Prototype.pdf**,
-    * **06_Architecture.docx**: trình bày kiến trúc hệ thống theo các góc nhìn khác nhau, các công nghệ, công cụ được lựa chọn để xây dựng hệ thống,
-    * **06_Architecture.pdf**,
-    * **07_Proof of Concept.docx**: trình bày quá trình nhóm đã thử nghiệm việc hiện thực hóa một tính năng khó về mặt kỹ thuật, và kết quả cụ thể thu được,
-    * **07_Proof of Concept.pdf**,
+    * **01_Business Cases.docx**: trình bày các vai trò, các vấn đề, các mục tiêu một vai trò mong muốn đạt được, các luồng quy trình nghiệp vụ nhóm sẽ xây dựng để đạt được mục tiêu trong đời sống thực, tài liệu có thể bao gồm thêm các quy trình nghiệp vụ thủ công.
+    * **01_Business Cases.pdf**,
+    * **02_Domain Model.docx**: trình bày mô hình và diễn giải các thực thể nghiệp vụ trong đời sống thực (có thể có liên quan đến phần mềm) và mối liên hệ giữa các thực thể này với nhau,
+    * **02_Domain Model.pdf**,
+    * **03_Product Backlog.xlsx**: trình bày toàn bộ các sản phẩm và tính năng cần có để đạt được các mục tiêu đề ra.
+    * **04_Prototype.docx**: trình bày giao diện từng bước của ít nhất một luồng quy trình nghiệp vụ chính trong hệ thống,
+    * **04_Prototype.pdf**,
+    * **05_Architecture.docx**: trình bày các mô hình và diễn giải kiến trúc hệ thống theo các góc nhìn khác nhau, các công nghệ, công cụ được lựa chọn để xây dựng hệ thống,
+    * **05_Architecture.pdf**,
+    * **06_Proof of Concept.docx**: trình bày quá trình nhóm đã thử nghiệm việc hiện thực hóa một tính năng khó về mặt kỹ thuật bằng mã nguồn, và kết quả cụ thể thu được,
+    * **06_Proof of Concept.pdf**,
+    * **07_Coding Standards.docx**: thể hiện chuẩn mã nguồn (Coding Standards) hoặc quy ước mã nguồn (Coding Convention) nhóm phát triển cần tuân thủ,
+    * **07_Coding Standards.pdf**.
     * **08_Project Management.docx**: trình bày các kết quả ước lượng kích cỡ, thời gian và chi phí cần có để hoàn thành đồ án, các cột mốc quan trọng được nhóm đề xuất. Ngoài ra trong tài liệu này còn có các thông tin sau:
         * Trang 2 chứa thông tin về các thành viên của nhóm, vai trò của thành viên trong nhóm.
         * Trang 3 chứa liên kết đến video trên YouTube quay một buổi team building của nhóm.
@@ -68,22 +68,20 @@ _Tài liệu mô tả các sản phẩm cần nộp cho đồ án theo hướng 
     * **01_Source Code**: Thư mục chứa mã nguồn hệ thống (bao gồm cả các thông tin của source control, các unit tests),
     * **02_Raw Data**: Thư mục chứa các dữ liệu gốc (raw) của hệ thống (nếu có). Ví dụ: các file dữ liệu ảnh (Photoshop), video, audio gốc,
     * **03_Build Scripts**: Thư mục chứa các tập tin cấu hình, kịch bản (scripts) build và tích hợp tự động,
-    * **04_Compilation Guide.docx**: Tài liệu hướng dẫn **một nhà phát triển** cách cài đặt môi trường và biên dịch mã nguồn cho máy tính vừa cài đặt xong hệ điều hành và cách thực thi các tập tin cấu hình, kịch bản. Ngoài ra trong tài liệu này còn có các thông tin sau:
+    * **04_Compilation Guide.docx**: Tài liệu hướng dẫn **một nhà phát triển** (Developer) cách cài đặt môi trường, biên dịch mã nguồn, chỉnh sửa các thông tin cấu hình, thực thi các tập tinn kịch bản, và chạy hệ thống trên một máy tính vừa cài đặt xong hệ điều hành. Ngoài ra trong tài liệu này còn có các thông tin sau:
         * Trang 2 chứa liên kết và tài khoản để truy cập hệ thống source control của nhóm (ví dụ GitHub).
         * Trang 3 chứa liên kết và tài khoản để truy cập hệ thống build và tích hợp tự động của nhóm (ví dụ GitLab).
         * Trang 4 chứa liên kết đến video trên YouTube biểu diễn quá trình cài đặt môi trường, biên dịch, cấu hình và chạy mã nguồn trên máy một nhà phát triển.
     * **04_Compilation Guide.pdf**,
-    * **05_Coding Standards.docx**: thể hiện chuẩn mã nguồn (Coding Standards) hoặc quy ước mã nguồn (Coding Convention) nhóm phát triển cần tuân thủ,
-    * **05_Coding Standards.pdf**.
     * Các giảng viên sẽ **KHÔNG** giải quyết các thắc mắc về điểm số nếu mã nguồn không biên dịch được theo tài liệu "04_Compilation Guide.docx" (minh chứng bằng các ảnh chụp màn hình).
     * Các giảng viên sẽ **KHÔNG** giải quyết các thắc mắc về điểm số nếu các liên kết hoặc tài khoản không hoạt động được (minh chứng bằng các ảnh chụp màn hình).
 
 * Thư mục **03_Packages** chứa các sản phẩm với các tên in đậm sau:
-    * **01_Deployment_Package**: Thư mục chứa các sản phẩm để cài đặt và triển khai, bao gồm cả các tập tin cấu hình, kịch bản (scripts) để triển khai.
-    * **02_Deployment Guide.docx**: Tài liệu hướng dẫn **người quản trị hệ thống** cách đăng ký hoặc cài đặt môi trường triển khai, cách cấu hình hệ thống triển khai/chuyển giao liên tục, mô tả các kịch bản cung cấp và quản lý tài nguyên để vận hành hệ thống (IaaC), mô tả các kết quả thu được khi thực thi các kịch bản triển khai hệ thống lên môi trường Internet và thiết bị thực sự. Ngoài ra trong tài liệu này còn có các thông tin sau:
+    * **01_Deployment_Package**: Thư mục chứa các sản phẩm, tập tin cấu hình, kịch bản (scripts) để triển khai, để cài đặt và triển khai trong môi trường thực.
+    * **02_Deployment Guide.docx**: Tài liệu hướng dẫn **một nhà quản trị hệ thống** (IT Administrator) cách đăng ký các dịch vụ, cài đặt môi trường triển khai, cấu hình hệ thống triển khai liên tục, hệ thống chuyển giao liên tục, thực thi các kịch bản cung cấp và tài nguyên để vận hành hệ thống (IaaC). Tài liệu cũng cần mô tả từng kết quả thu được sau khi triển khai hệ thống lên môi trường Internet và thiết bị thực sự, ví dụ như web UI, APIs, databases, authenciation and authorization service. Ngoài ra trong tài liệu này còn có các thông tin sau:
         * Trang 2 chứa liên kết đến video trên YouTube biểu diễn cách triển khai hệ thống của nhóm.
     * **02_Deployment Guide.pdf**, 
-    * **03_User Guide.docx**: Tài liệu hướng dẫn **người dùng cuối** cách cài đặt và sử dụng sản phẩm. Ngoài ra trong tài liệu này còn có các thông tin sau:
+    * **03_User Guide.docx**: Tài liệu hướng dẫn **người dùng cuối** (User) cách cài đặt và sử dụng sản phẩm. Ngoài ra trong tài liệu này còn có các thông tin sau:
         * Trang 2 chứa liên kết đến video trên YouTube giới thiệu cách sử dụng hệ thống của nhóm.
     * **03_User Guide.pdf**.
 
