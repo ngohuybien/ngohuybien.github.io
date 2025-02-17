@@ -11,8 +11,8 @@ _Tài liệu mô tả các sản phẩm cần nộp cho đồ án theo hướng 
 ## 1. Quy định chung
 * Điểm đồ án giữa kỳ được tự động **chia đều** cho các thành viên trong nhóm.
 * Điểm đồ án cuối kỳ được tự động **chia đều** cho các thành viên trong nhóm.
-* Nếu nhóm có mong muốn **tự chia điểm đồ án cuối kỳ** theo **tỷ lệ riêng**, thì cần ghi rõ thông tin từng thành viên và tỷ lệ điểm từng thành viên sẽ được nhận, ví dụ 50%, 120%, 150%, trong trang bìa **từng sản phẩm**. Tỷ lệ điểm từng thành viên sẽ được nhận cần giống hệt nhau ở tất cả các sản phẩm. Tổng số % của nhóm = Số thành viên x 100%. Nếu thành viên nào có % x Tổng điểm lớn hơn 10, thì điểm của thành viên cũng chỉ được tính là 10. Đồng thời trưởng nhóm cần thông báo cho giảng viên mong muốn tự chia điểm **trước** khi nộp kết quả đồ án cuối kỳ.
-* Kết quả đồ án được đánh giá theo số thành viên thực sự hoạt động của nhóm. Do vậy, nếu nhóm có thành viên bỏ nhóm, hoặc không thực hiện đồ án, trưởng nhóm cần **thông báo trực tiếp cho giảng viên vào buổi vấn đáp đồ án giữa kỳ**, để các nhóm được đánh giá công bằng với nhau.
+* Nếu nhóm có mong muốn **tự chia điểm đồ án cuối kỳ** theo **tỷ lệ riêng**, thì cần ghi rõ thông tin từng thành viên và tỷ lệ điểm từng thành viên sẽ được nhận, ví dụ 50%, 120%, 150%, trong trang bìa **từng sản phẩm**. Tỷ lệ điểm từng thành viên sẽ được nhận cần giống hệt nhau ở tất cả các sản phẩm. Tổng số % của nhóm = Số thành viên x 100%. Nếu thành viên nào có % x Tổng điểm lớn hơn 10, thì điểm của thành viên cũng chỉ được tính là 10. Đồng thời trưởng nhóm cần thông báo trực tiếp cho giảng viên mong muốn tự chia điểm **vào đầu buổi học lý thuyết cuối cùng** của môn học.
+* Kết quả đồ án được đánh giá theo số thành viên thực sự hoạt động của nhóm. Do vậy, nếu nhóm có thành viên bỏ nhóm, hoặc không thực hiện đồ án, trưởng nhóm cần **thông báo trực tiếp cho giảng viên vào đầu buổi vấn đáp đồ án giữa kỳ**, để các nhóm được đánh giá công bằng với nhau.
 
 ## 2. Quy định tổ chức và đặt tên thư mục
 * Mỗi nhóm cần đặt tên thư mục gốc là Team_X, không dấu, X là số thứ tự nhóm, ghi dưới dạng 2 chữ số, ví dụ: 01, 02, 03, 04.
