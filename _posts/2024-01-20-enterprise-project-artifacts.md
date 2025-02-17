@@ -15,13 +15,13 @@ _Tài liệu mô tả các sản phẩm cần nộp cho đồ án theo hướng 
 * Kết quả đồ án được đánh giá theo số thành viên thực sự hoạt động của nhóm. Do vậy, nếu nhóm có thành viên bỏ nhóm, hoặc không thực hiện đồ án, trưởng nhóm cần **thông báo trực tiếp cho giảng viên vào buổi vấn đáp đồ án giữa kỳ**, để các nhóm được đánh giá công bằng với nhau.
 
 ## 2. Quy định tổ chức và đặt tên thư mục
-* Mỗi nhóm cần đặt tên thư mục gốc là Nhom_X, không dấu, X là số thứ tự nhóm, ghi dưới dạng 2 chữ số, ví dụ: 01, 02, 03, 04.
+* Mỗi nhóm cần đặt tên thư mục gốc là Team_X, không dấu, X là số thứ tự nhóm, ghi dưới dạng 2 chữ số, ví dụ: 01, 02, 03, 04.
 * Trong thư mục gốc bao gồm 3 thư mục chính.
     * **01_Documents**: chứa các tài liệu của dự án,
     * **02_Source**: chứa mã nguồn lấy từ source control về, dữ liệu hệ thống, và các tài liệu liên quan đến biên dịch hệ thống.
     * **03_Deployment**: chứa các tập tin cần thiết, và các tài liệu liên quan đến việc triển khai hệ thống.
 * <a href ="https://drive.google.com/drive/folders/17HOXq4MS4uKKT0jnB32I19GqO519JClm?usp=sharing" target="_blank">
-  Ví dụ minh họa tổ chức cây thư mục và tên sản phẩm</a>
+  Ví dụ minh họa việc tổ chức cây thư mục và tên sản phẩm</a>
 
 ## 3. Định dạng các sản phẩm
 * Các sản phẩm thường ở dạng **DOCX**, hoặc **XLSX**, hoặc **ZIP** (nếu sản phẩm gồm nhiều tập tin).
