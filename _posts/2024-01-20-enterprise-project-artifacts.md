@@ -18,16 +18,10 @@ _Tài liệu mô tả các sản phẩm cần nộp cho đồ án theo hướng 
 * Mỗi nhóm cần đặt tên thư mục gốc là Nhom_X, không dấu, X là số thứ tự nhóm, ghi dưới dạng 2 chữ số, ví dụ: 01, 02, 03, 04.
 * Trong thư mục gốc bao gồm 3 thư mục chính.
     * **01_Documents**: chứa các tài liệu của dự án,
-    * **02_Source**: chứa mã nguồn lấy từ source control về, dữ liệu hệ thống, và các tài liệu liên quan đến biên dịch.
-    * **03_Packages**: chứa file cài đặt và các tài liệu liên quan việc triển khai và cài đặt.
-      
-<div align="center">
-<img src ="https://ngohuybien.github.io/assets/images/folder-structure.png" alt = "Cây thư mục và tên sản phẩm" width="1024">
-</div>
-<div align="center">
-<br>
-<i>Hình minh họa tổ chức cây thư mục và tên sản phẩm.</i>
-</div>
+    * **02_Source**: chứa mã nguồn lấy từ source control về, dữ liệu hệ thống, và các tài liệu liên quan đến biên dịch hệ thống.
+    * **03_Deployment**: chứa các tập tin cần thiết, và các tài liệu liên quan đến việc triển khai hệ thống.
+* <a href ="https://drive.google.com/drive/folders/17HOXq4MS4uKKT0jnB32I19GqO519JClm?usp=sharing" target="_blank">
+  Ví dụ minh họa tổ chức cây thư mục và tên sản phẩm</a>
 
 ## 3. Định dạng các sản phẩm
 * Các sản phẩm thường ở dạng **DOCX**, hoặc **XLSX**, hoặc **ZIP** (nếu sản phẩm gồm nhiều tập tin).
@@ -42,8 +36,8 @@ _Tài liệu mô tả các sản phẩm cần nộp cho đồ án theo hướng 
 * Thư mục **01_Documents** chứa các sản phẩm với các **tên in đậm** sau:
     * **01_Business Cases.docx**: trình bày các vai trò, các vấn đề, các mục tiêu một vai trò mong muốn đạt được, các luồng quy trình nghiệp vụ nhóm sẽ xây dựng để đạt được mục tiêu trong đời sống thực, tài liệu có thể bao gồm thêm các quy trình nghiệp vụ thủ công.
     * **01_Business Cases.pdf**,
-    * **02_Domain Model.docx**: trình bày mô hình và diễn giải các thực thể nghiệp vụ trong đời sống thực (có thể có liên quan đến phần mềm) và mối liên hệ giữa các thực thể này với nhau,
-    * **02_Domain Model.pdf**,
+    * **02_Domain Models.docx**: trình bày và diễn giải các thực thể nghiệp vụ trong đời sống thực (có thể có liên quan đến phần mềm), và mối liên hệ giữa các thực thể này với nhau,
+    * **02_Domain Models.pdf**,
     * **03_Product Backlog.xlsx**: trình bày toàn bộ các sản phẩm và tính năng cần có để đạt được các mục tiêu đề ra.
     * **04_Prototype.docx**: trình bày giao diện từng bước của ít nhất một luồng quy trình nghiệp vụ chính trong hệ thống,
     * **04_Prototype.pdf**,
@@ -76,7 +70,7 @@ _Tài liệu mô tả các sản phẩm cần nộp cho đồ án theo hướng 
     * Các giảng viên sẽ **KHÔNG** giải quyết các thắc mắc về điểm số nếu mã nguồn không biên dịch được theo tài liệu "04_Compilation Guide.docx" (minh chứng bằng các ảnh chụp màn hình).
     * Các giảng viên sẽ **KHÔNG** giải quyết các thắc mắc về điểm số nếu các liên kết hoặc tài khoản không hoạt động được (minh chứng bằng các ảnh chụp màn hình).
 
-* Thư mục **03_Packages** chứa các sản phẩm với các tên in đậm sau:
+* Thư mục **03_Deployment** chứa các sản phẩm với các tên in đậm sau:
     * **01_Deployment_Package**: Thư mục chứa các sản phẩm, tập tin cấu hình, kịch bản (scripts) để triển khai, để cài đặt và triển khai trong môi trường thực.
     * **02_Deployment Guide.docx**: Tài liệu hướng dẫn **một nhà quản trị hệ thống** (IT Administrator) cách đăng ký các dịch vụ, cài đặt môi trường triển khai, cấu hình hệ thống triển khai liên tục, hệ thống chuyển giao liên tục, thực thi các kịch bản cung cấp và tài nguyên để vận hành hệ thống (IaaC). Tài liệu cũng cần mô tả từng kết quả thu được sau khi triển khai hệ thống lên môi trường Internet và thiết bị thực sự, ví dụ như web UI, APIs, databases, authenciation and authorization service. Ngoài ra trong tài liệu này còn có các thông tin sau:
         * Trang 2 chứa liên kết đến video trên YouTube biểu diễn cách triển khai hệ thống của nhóm.
