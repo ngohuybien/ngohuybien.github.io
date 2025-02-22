@@ -9,7 +9,7 @@ meta: "Software Architecture Research Process"
 _Tài liệu hướng dẫn thực hiện đề tài luận văn cao học, trong lĩnh vực kiến trúc phần mềm, do giảng viên Ngô Huy Biên hướng dẫn._
 
 ## 1. Lưu ý chung
-* Thông thường đối với các đề tài tập trung vào kiến trúc tham khảo (Reference Architecture), đề cương hoàn chỉnh chỉ ở mức xác định rõ ràng bài toán (inputs, outputs, evaluation methods) và giải pháp dự kiến (solution) một cách định tính(chiếm khoảng 5% khối lượng công việc của đề tài).
+* Thông thường, đối với các đề tài tập trung vào kiến trúc tham khảo (Reference Architecture), đề cương hoàn chỉnh chỉ ở mức xác định rõ ràng bài toán (inputs, outputs, evaluation methods) và giải pháp dự kiến (solution) một cách định tính (chiếm khoảng 5% khối lượng công việc của đề tài).
 * Quá trình thực hiện đề tài sẽ cần nhiều công sức để hoàn thiện chi tiết các outputs/evaluation results, và bài toán có thể thu hẹp lại nếu tình cờ phát hiện được một bài toán cụ thể hơn.
 * Một kiến trúc tham khảo đề xuất luôn phải được đánh giá bởi các chuyên gia bằng khảo sát, và bằng một số độ đo định lượng phù hợp (ví dụ performance, scalability).
 
