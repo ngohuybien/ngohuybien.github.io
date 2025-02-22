@@ -14,9 +14,9 @@ _Tài liệu hướng dẫn thực hiện đề tài luận văn cao học, tron
 
 ## 2. Các bước khuyến nghị
 Các bước thực hiện thường như sau:
-* Từ một Architecture có sẵn (trong Books hoặc Papers), học viên cần viết, mở rộng mã nguồn cài đặt bản mẫu hệ thống (ví dụ CRM, Hotel Management system).
-* Trong quá trình cài đặt học viên có thể bổ sung một số khía cạnh chưa hỗ trợ (ví dụ multi-tenancy, serverless).
-* Dựa trên mã nguồn bản mẫu đã cài đặt, học viên trích xuất ra Reference Architecture.
+* Từ một Architecture có sẵn (trong Books hoặc Papers), học viên cần mở rộng mã nguồn bản mẫu hệ thống hoặc mã nguồn hệ thống thực tế (ví dụ hệ thống CRM, Hotel Management).
+* Trong quá trình cài đặt học viên có thể bổ sung một số khía cạnh chưa được hỗ trợ (ví dụ multi-tenancy, serverless).
+* Dựa trên mã nguồn đã cài đặt, học viên trích xuất ra Reference Architecture.
 * Học viên gửi Reference Architecture đến các nhà nghiên cứu, kiến trúc sư, nhà phát triển để khảo sát ý kiến định tính về kiến trúc tham khảo đề xuất. Ví dụ:
     * Architecture tương tự Reference Architecture này có được người khảo sát dùng hay chưa? 
     * Người được khảo sát có mối quan tâm đến Reference Architecture này không? Tại sao có? Tại sao không?
