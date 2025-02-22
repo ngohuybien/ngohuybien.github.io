@@ -17,14 +17,14 @@ Các bước thực hiện thường như sau:
 * Từ một Architecture có sẵn (trong Books hoặc Papers), học viên cần mở rộng mã nguồn bản mẫu hệ thống hoặc mã nguồn hệ thống thực tế (ví dụ hệ thống CRM, Hotel Management).
 * Trong quá trình cài đặt học viên có thể bổ sung một số khía cạnh chưa được hỗ trợ (ví dụ multi-tenancy, serverless).
 * Dựa trên mã nguồn đã cài đặt, học viên trích xuất ra Reference Architecture.
-* Học viên gửi Reference Architecture đến các nhà nghiên cứu, kiến trúc sư, nhà phát triển để khảo sát ý kiến định tính về kiến trúc tham khảo đề xuất. Ví dụ:
-    * Architecture tương tự Reference Architecture này có được người khảo sát dùng hay chưa? 
-    * Người được khảo sát có mối quan tâm đến Reference Architecture này không? Tại sao có? Tại sao không?
+* Học viên gửi kiến trúc tham khảo đề xuất (Reference Architecture) đến các nhà nghiên cứu, kiến trúc sư, nhà phát triển để khảo sát các ý kiến một cách định tính. Ví dụ:
+    * Người được khảo sát có mối quan tâm đến kiến trúc tham khảo (Reference Architecture) này hay không? Tại sao có? Tại sao không?
+    * Kiến trúc (Architecture) tương tự như kiến trúc tham khảo này đã được người khảo sát dùng bao giờ hay chưa? Trong lĩnh vực nào? Tại sao kiến trúc được lựa chọn?
     * Người được khảo sát có đề xuất bổ sung thêm thành phần nào vào Reference Architecture này không? Lý do là gì?
     * Người được khảo sát có đề xuất loại bỏ thành phần nào của Reference Architecture này không? Lý do là gì?
-    * Người được khảo sát có gặp vấn đề gì cần giải quyết không khi sử dụng một kiến trúc tương tự như Reference Architecture này không?
-* Dựa trên kết quả khảo sát, học viên chọn các ý kiến phù hợp (một cách định tính) để tinh chỉnh lại Reference Architecture.
-* Dựa trên Reference Architecture đã tinh chỉnh, học viên hiệu chỉnh lại mã nguồn.
+    * Người được khảo sát có gặp vấn đề gì chưa được giải quyết không, khi sử dụng một kiến trúc tương tự như kiến trúc tham khảo này không?
+* Dựa trên kết quả khảo sát, học viên chọn các ý kiến phù hợp (một cách định tính) để tinh chỉnh lại kiến trúc tham khảo.
+* Dựa trên kiến trúc tham khảo đã tinh chỉnh, học viên hiệu chỉnh lại mã nguồn.
 * Dựa trên mã nguồn học viên thực hiện việc đánh giá performance, scalability (định lượng).
 
 ## 3. Thu hẹp phạm vi (cơ hội)
