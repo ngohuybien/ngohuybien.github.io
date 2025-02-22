@@ -8,15 +8,17 @@ meta: "Software Architecture Research Process"
 ---
 _Tài liệu hướng dẫn thực hiện đề tài luận văn cao học, trong lĩnh vực kiến trúc phần mềm, do giảng viên Ngô Huy Biên hướng dẫn._
 
-## 1. Đề cương
-* Thông thường đối với các đề tài về Reference Architecture, đề cương hoàn chỉnh chỉ là xác định rõ ràng bài toán (inputs, outputs, evaluation) và giải pháp dự kiến (solution) (định tính, khoảng 5% đề tài).
+## 1. Lưu ý chung
+* Thông thường đối với các đề tài về kiến trúc tham khảo (Reference Architecture), đề cương hoàn chỉnh chỉ là xác định rõ ràng bài toán (inputs, outputs, evaluation) và giải pháp dự kiến (solution) (định tính, khoảng 5% đề tài).
 * Quá trình thực hiện sẽ cần nhiều công sức để hoàn thiện chi tiết các outputs/evaluation, và bài toán có thể thu hẹp lại nếu tình cờ phát hiện được một bài toán cụ thể hơn.
+* Kiến trúc tham khảo luôn phải được đánh giá bởi các chuyên gia (bằng khảo sát), và bằng một số độ đo định lượng phù hợp (ví dụ performance, scalability).
 
 ## 2. Các bước khuyến nghị
 Các bước thực hiện thường như sau:
-* Từ một Architecture có sẵn (trong Books hoặc Papers), học viên cần mở rộng mã nguồn bản mẫu hệ thống hoặc mã nguồn hệ thống thực tế (ví dụ hệ thống CRM, Hotel Management).
+* Từ một Architecture có sẵn (trong Books hoặc Papers), học viên cần mở rộng mã nguồn bản mẫu hệ thống, hoặc mã nguồn hệ thống thực tế (ví dụ hệ thống CRM, Hotel Management).
 * Trong quá trình cài đặt học viên có thể bổ sung một số khía cạnh chưa được hỗ trợ (ví dụ multi-tenancy, serverless).
-* Dựa trên mã nguồn đã cài đặt, học viên trích xuất ra Reference Architecture.
+* Nếu xây dựng bản mẫu hệ thống, học viên nên tìm thử **mã nguồn mở** mới nhất, để tiết kiệm thời gian, đồng thời khối lượng và chất lượng ở mức chấp nhận được, không quá đơn giản quá. Nếu không tìm được mã nguồn mở phù hợp, học viên có thể liên hệ với giảng viên để xem giảng viên có thể cung cấp mã nguồn cũ để cập nhật lại để mở rộng tiếp tục được không. Trường hợp giảng viên không cung cấp mã nguồn được, thì khi đó học viên mới viết mã nguồn mới.
+* Dựa trên mã nguồn đã cài đặt, học viên trích xuất ra kiến trúc tham khảo (Reference Architecture). Kiến trúc tham khảo đề xuất luôn cần dựa trên một kiến trúc có sẵn (học viên không tự suy diễn), và có mã nguồn minh họa (học viên đề xuất thuần túy lý thuyết).
 * Học viên gửi kiến trúc tham khảo đề xuất (Reference Architecture) đến các nhà nghiên cứu, kiến trúc sư, nhà phát triển để khảo sát các ý kiến một cách định tính. Ví dụ:
     * Người được khảo sát có mối quan tâm đến kiến trúc tham khảo (Reference Architecture) này hay không? Tại sao có? Tại sao không?
     * Kiến trúc (Architecture) tương tự như kiến trúc tham khảo này đã được người khảo sát dùng bao giờ hay chưa? Trong lĩnh vực nào? Tại sao kiến trúc được lựa chọn?
