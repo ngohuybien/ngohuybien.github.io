@@ -15,9 +15,9 @@ _Tài liệu hướng dẫn thực hiện đề tài luận văn cao học, tron
 
 ## 2. Quy trình khuyến nghị
 Các bước thực hiện thường như sau:
-* Từ một Architecture có sẵn (trong Books hoặc Papers), học viên cần mở rộng mã nguồn bản mẫu hệ thống, hoặc mã nguồn hệ thống thực tế (ví dụ hệ thống CRM, Hotel Management).
-* Trong quá trình cài đặt học viên có thể bổ sung một số khía cạnh chưa được hỗ trợ (ví dụ multi-tenancy, serverless).
-* Nếu xây dựng bản mẫu hệ thống, học viên nên tìm thử **mã nguồn mở** mới nhất, để tiết kiệm thời gian, đồng thời khối lượng và chất lượng ở mức chấp nhận được, không quá đơn giản quá. Nếu không tìm được mã nguồn mở phù hợp, học viên có thể liên hệ với giảng viên để xem giảng viên có thể cung cấp mã nguồn cũ để cập nhật lại để mở rộng tiếp tục được không. Trường hợp giảng viên không cung cấp mã nguồn được, thì khi đó học viên mới viết mã nguồn mới.
+* Từ một kiến trúc mẫu (Architecture pattern) hoặc kiến trúc tham khảo (Reference Architecture) có sẵn trong sách, hoặc trong bài báo nghiên cứu, học viên cần mở rộng mã nguồn bản mẫu hệ thống, hoặc mã nguồn hệ thống thực tế (ví dụ hệ thống CRM, Hotel Management).
+* Trong quá trình cài đặt mã nguồn học viên có thể bổ sung một số khía cạnh chưa được hỗ trợ (ví dụ multi-tenancy, serverless).
+* Nếu chọn xây dựng bản mẫu hệ thống, học viên nên tìm thử **mã nguồn mở** mới nhất, để tiết kiệm thời gian, đồng thời khối lượng và chất lượng ở mức chấp nhận được, không quá đơn giản quá. Nếu không tìm được mã nguồn mở phù hợp, học viên có thể liên hệ với giảng viên để xem giảng viên có thể cung cấp mã nguồn cũ để cập nhật lại để mở rộng tiếp tục được không. Trường hợp giảng viên không cung cấp mã nguồn được, thì khi đó học viên mới viết mã nguồn mới.
 * Dựa trên mã nguồn đã cài đặt, học viên trích xuất ra kiến trúc tham khảo (Reference Architecture). Kiến trúc tham khảo đề xuất luôn cần dựa trên một kiến trúc có sẵn (học viên không tự suy diễn), và có mã nguồn minh họa (học viên đề xuất thuần túy lý thuyết).
 * Học viên gửi kiến trúc tham khảo đề xuất (Reference Architecture) đến các nhà nghiên cứu, kiến trúc sư, nhà phát triển để khảo sát các ý kiến một cách định tính. Ví dụ:
     * Người được khảo sát có mối quan tâm đến kiến trúc tham khảo (Reference Architecture) này hay không? Tại sao có? Tại sao không?
