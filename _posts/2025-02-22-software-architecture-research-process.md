@@ -30,7 +30,7 @@ Các bước thực hiện thường như sau:
 * Dựa trên mã nguồn học viên thực hiện việc đánh giá performance, scalability (định lượng).
 
 ## 3. Thu hẹp phạm vi (cơ hội)
-* Trường hợp học viên tình cờ phát hiện được một bài toán cụ thể hơn trong khi viết mã nguồn cho bản mẫu, hoặc hệ thống thực tế, thì học viên có thể **chỉ cần giải quyết bài toán cụ thể**, đánh giá giải pháp cho bài toán cụ thể, và bỏ qua các bước còn lại. Cơ hội này giúp học viên tiết kiệm được nhiều thời gian, và các kết quả của đề tài thường được đánh giá cao hơn so với các kết quả của quy trình thông thường.
+* Trường hợp học viên tình cờ phát hiện được một bài toán cụ thể hơn trong khi viết mã nguồn cho bản mẫu, hoặc cho hệ thống thực tế, thì học viên có thể **chỉ cần giải quyết bài toán cụ thể**, đánh giá giải pháp cho bài toán cụ thể, và bỏ qua các bước còn lại của quy trình. Cơ hội này giúp học viên tiết kiệm được nhiều thời gian, và các kết quả của đề tài thường được đánh giá cao hơn so với các kết quả của quy trình thông thường.
 * Thông thường, đối với các hệ thống thực tế đủ lớn thì các bài toán này cụ thể này có thể rất dễ tìm và rõ ràng. Tuy nhiên học viên cần lưu ý vấn đề bản quyền, đảm bảo phải được chủ sở hữu mã nguồn cho phép trước khi thực hiện và công bố các kết quả nghiên cứu.
 
 ### &copy; 2025 Ngô Huy Biên
