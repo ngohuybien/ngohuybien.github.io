@@ -10,16 +10,15 @@ _Tài liệu hướng dẫn thực hiện đề tài luận văn cao học, tron
 
 ## 1. Lưu ý chung
 * Thông thường, đối với các đề tài tập trung vào kiến trúc tham khảo (Reference Architecture), đề cương hoàn chỉnh chỉ ở mức xác định rõ ràng bài toán (inputs, outputs, evaluation methods) và giải pháp dự kiến (solution) một cách định tính (chiếm khoảng 5% khối lượng công việc của đề tài).
-* Quá trình thực hiện đề tài sẽ cần nhiều công sức để hoàn thiện chi tiết các outputs/evaluation results, và bài toán có thể thu hẹp lại nếu tình cờ phát hiện được một bài toán cụ thể hơn.
+* Quá trình thực hiện đề tài sẽ cần nhiều công sức để hoàn thiện chi tiết mã nguồn bản mẫu, các sơ đồ và diễn giải, các kết quả khảo sát và đánh giá, và bài toán có thể thu hẹp lại nếu tình cờ phát hiện được một bài toán cụ thể hơn.
 * Một kiến trúc tham khảo đề xuất luôn phải được đánh giá bởi các chuyên gia bằng khảo sát, và bằng một số độ đo định lượng phù hợp (ví dụ performance, scalability).
 
 ## 2. Quy trình khuyến nghị
 Các bước thực hiện thường như sau:
-* Từ một kiến trúc mẫu (Architecture pattern) hoặc kiến trúc tham khảo (Reference Architecture) có sẵn trong sách, hoặc trong bài báo nghiên cứu, học viên cần mở rộng mã nguồn bản mẫu hệ thống, hoặc mã nguồn hệ thống thực tế (ví dụ hệ thống CRM, Hotel Management).
-* Trong quá trình cài đặt mã nguồn học viên có thể bổ sung một số khía cạnh chưa được hỗ trợ (ví dụ multi-tenancy, serverless).
-* Nếu chọn xây dựng bản mẫu hệ thống, học viên nên tìm thử **mã nguồn mở** mới nhất, để tiết kiệm thời gian, đồng thời khối lượng và chất lượng ở mức chấp nhận được, không quá đơn giản quá. Nếu không tìm được mã nguồn mở phù hợp, học viên có thể liên hệ với giảng viên để xem giảng viên có thể cung cấp mã nguồn cũ để cập nhật lại để mở rộng tiếp tục được không. Trường hợp giảng viên không cung cấp mã nguồn được, thì khi đó học viên mới viết mã nguồn mới.
+* Từ một kiến trúc mẫu (Architecture Pattern), hoặc một kiến trúc tham khảo (Reference Architecture) có sẵn trong sách, hoặc đề xuất bởi một bài báo khoa học, học viên mở rộng mã nguồn bản mẫu có sẵn, hoặc mã nguồn hệ thống thực tế có sẵn (ví dụ hệ thống CRM, Hotel Management), nhằm bổ sung một số khía cạnh chưa được hỗ trợ (ví dụ Multi-tenancy, Service Mesh, Serverless).
+* Nếu chọn xây dựng **bản mẫu hệ thống từ đầu**, học viên nên tìm thử **mã nguồn mở** liên quan mới nhất, để tiết kiệm thời gian, đồng thời khối lượng và chất lượng của bản mẫu phù hợp với nhu cầu thực tế, không quá đơn giản. Chỉ trong trường hợp không thể tìm được mã nguồn có sẵn nào phù hợp, và thời gian và khả năng pho phép, thì học viên mới viết mã nguồn từ đầu cho bản mẫu.
 * Dựa trên mã nguồn đã cài đặt, học viên trích xuất ra kiến trúc tham khảo (Reference Architecture). Kiến trúc tham khảo đề xuất luôn cần dựa trên một kiến trúc có sẵn (học viên không tự suy diễn), và có mã nguồn minh họa (học viên đề xuất thuần túy lý thuyết).
-* Học viên gửi kiến trúc tham khảo đề xuất (Reference Architecture) đến các nhà nghiên cứu, kiến trúc sư, nhà phát triển để khảo sát các ý kiến một cách định tính. Ví dụ:
+* Dựa trên mạng lưới quan hệ của cá nhân mình, và dựa trên giới thiệu của giảng viên, học viên gửi kiến trúc tham khảo đề xuất (Reference Architecture) đến các nhà nghiên cứu, kiến trúc sư, nhà phát triển để khảo sát các ý kiến một cách định tính. Ví dụ:
     * Người được khảo sát có mối quan tâm đến kiến trúc tham khảo (Reference Architecture) này hay không? Tại sao có? Tại sao không?
     * Kiến trúc (Architecture) tương tự như kiến trúc tham khảo này đã được người khảo sát dùng bao giờ hay chưa? Trong lĩnh vực nào? Tại sao kiến trúc được lựa chọn?
     * Người được khảo sát có đề xuất bổ sung thêm thành phần nào vào Reference Architecture này không? Lý do là gì?
