@@ -153,18 +153,20 @@ _Tài liệu mô tả các chủ đề thuyết trình theo hướng hệ thốn
     * Demo việc cài đặt và cấu hình các công cụ hỗ trợ.
     * Demo khả năng mở rộng của hệ thống nhóm đã xây dựng theo chiều ngang.
 * Các **câu hỏi** thường gặp:
-    * Demo phần xử lý của một API của hệ thống, được chia tải (load balancing) trên 3 máy chủ web (hoặc 3 containers).
-    * Demo phần dữ liệu lưu trữ từ một API của hệ thống, được chia tải và sharding trên 3 máy chủ cơ sở dữ liệu.
+    * Demo phần xử lý của một API của hệ thống, được chia tải (load balancing) trên 3 máy chủ web, hoặc 3 containers, hoặc trên một dịch vụ đám mây.
+    * Demo phần dữ liệu lưu trữ từ một API của hệ thống, được chia tải và sharding trên 3 máy chủ cơ sở dữ liệu, hoặc trên một dịch vụ đám mây.
     * Demo phương pháp và kết quả kiểm thử khả năng chịu tải (load testing) của toàn hệ thống với số lượng bản ghi dữ liệu tối thiểu là 50,000 cho mỗi đối tượng hoặc bảng.
     * Demo phương pháp và kết quả kiểm thử ngưỡng chịu tải (stress testing) của toàn hệ thống với số lượng bản ghi dữ liệu tối thiểu là 50,000 cho mỗi đối tượng hoặc bảng.
-    * Demo phần bộ nhớ đệm của hệ thống, được chia tải và sharding trên 3 máy chủ.
-    * Demo phần lưu trữ tập tin của hệ thống, được chia tải và sharding trên 3 máy chủ (nếu có).
+    * Demo phần bộ nhớ đệm của hệ thống, được chia tải và sharding trên 3 máy chủ, hoặc trên một dịch vụ đám mây.
+    * Demo phần lưu trữ tập tin của hệ thống, được chia tải và sharding trên 3 máy chủ (nếu có), hoặc trên một dịch vụ đám mây.
 * Tài liệu tham khảo:
     * Derek DeJonghe (2022). NGINX Cookbook. O'Reilly Media. (CHAPTER 1. High-Performance Load Balancing.)
     * Thomas Hunter II (2021). Distributed Systems with Node.js. O'Reilly Media. (Chapter 3. Scaling.)
     * Baron Schwartz, Peter Zaitsev, Vadim Tkachenko (2012). High Performance MySQL - Optimization, Backups, and Replication. O'Reilly Media. (CHAPTER 2. Benchmarking MySQL, CHAPTER 10. Replication, CHAPTER 11. Scaling MySQL, CHAPTER 12. High Availability.)
     * Vinicius M. Grippa and Sergey Kuzmichev (2021). Learning MySQL. O'Reilly Media. (Chapter 13. High Availability, Chapter 15. Load Balancing MySQL.)
     * Bradshaw Shannon, Eoin Brazil and Kristina Chodorow (2019). MongoDB - The Definitive Guide. 3rd Edition. O'Reilly Media. (Part III. Replication, Part IV. Sharding.)
+    * Justin Domingus and John Arundel (2022). Cloud Native DevOps with Kubernetes. O'Reilly Media.
+    * Ashley Davis (2021). Bootstrapping Microservices with Docker, Kubernetes, and Terraform. Manning Publications.
     * <a target ="blank" href="https://docs.sevalla.com/">Sevalla</a>
     * <a target ="blank" href="https://azure.microsoft.com/en-us/products/app-service/web">Azure Web Apps</a>
     * <a target ="blank" href="https://console.neon.tech/signup">Neon</a>
@@ -189,8 +191,6 @@ _Tài liệu mô tả các chủ đề thuyết trình theo hướng hệ thốn
     * Vladimir Khorikov (2019). Unit Testing Principles, Practices, and Patterns. Manning Publications.
     * Chaminda Chandrasekara and Pushpa Herath (2019). Hands-On Functional Test Automation: With Visual Studio 2017 and Selenium. Apress.
     * Koushik Das (2022). Create an Enterprise-Level Test Automation Framework with Appium. Apress.
-    * Justin Domingus and John Arundel (2022). Cloud Native DevOps with Kubernetes. O'Reilly Media.
-    * Ashley Davis (2021). Bootstrapping Microservices with Docker, Kubernetes, and Terraform. Manning Publications.
 
 ### 5.7. Chủ đề 7: Thiết kế và xây dựng hệ thống như thế nào để lưu trữ tất cả các trạng thái của ứng dụng nhằm mục đích tăng tốc độ xử lý, dễ dàng tích hợp các hệ thống con, truy vết (Audit Log), gỡ rối (Debugging), sửa chữa, hoặc khôi phục hệ thống?
 * Số nhóm thuyết trình **dự kiến**: Tất cả các nhóm chưa đủ 2 bài thuyết trình.
