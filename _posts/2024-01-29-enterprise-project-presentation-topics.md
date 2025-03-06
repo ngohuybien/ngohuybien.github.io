@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/f3db4a2d-d539-4988-b360-c8f35898eb2b)---
 layout: post
 title: "Các chủ đề thuyết trình theo hướng hệ thống doanh nghiệp"
 categories: [Software Engineering Capstone]
@@ -166,7 +166,11 @@ _Tài liệu mô tả các chủ đề thuyết trình theo hướng hệ thốn
     * Vinicius M. Grippa and Sergey Kuzmichev (2021). Learning MySQL. O'Reilly Media. (Chapter 13. High Availability, Chapter 15. Load Balancing MySQL.)
     * Bradshaw Shannon, Eoin Brazil and Kristina Chodorow (2019). MongoDB - The Definitive Guide. 3rd Edition. O'Reilly Media. (Part III. Replication, Part IV. Sharding.)
     * <a target ="blank" href="https://docs.sevalla.com/">Sevalla</a>
-
+    * <a target ="blank" href="https://azure.microsoft.com/en-us/products/app-service/web">Azure Web Apps</a>
+    * <a target ="blank" href="https://console.neon.tech/signup">Neon</a>
+    * <a target ="blank" href="https://redis.io/">Redis</a>
+    * <a target ="blank" href="https://aws.amazon.com/s3/">Amazon S3</a>
+    
 ### 5.6. Chủ đề 6: Làm sao để đảm bảo chất lượng cho các chức năng của hệ thống?
 * Số nhóm thuyết trình **dự kiến**: Tất cả các nhóm chưa đủ 2 bài thuyết trình.
 * Nội dung cần trình bày:
