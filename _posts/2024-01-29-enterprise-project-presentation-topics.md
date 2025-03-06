@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f3db4a2d-d539-4988-b360-c8f35898eb2b)---
+---
 layout: post
 title: "Các chủ đề thuyết trình theo hướng hệ thống doanh nghiệp"
 categories: [Software Engineering Capstone]
