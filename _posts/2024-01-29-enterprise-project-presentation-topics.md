@@ -165,6 +165,7 @@ _Tài liệu mô tả các chủ đề thuyết trình theo hướng hệ thốn
     * Baron Schwartz, Peter Zaitsev, Vadim Tkachenko (2012). High Performance MySQL - Optimization, Backups, and Replication. O'Reilly Media. (CHAPTER 2. Benchmarking MySQL, CHAPTER 10. Replication, CHAPTER 11. Scaling MySQL, CHAPTER 12. High Availability.)
     * Vinicius M. Grippa and Sergey Kuzmichev (2021). Learning MySQL. O'Reilly Media. (Chapter 13. High Availability, Chapter 15. Load Balancing MySQL.)
     * Bradshaw Shannon, Eoin Brazil and Kristina Chodorow (2019). MongoDB - The Definitive Guide. 3rd Edition. O'Reilly Media. (Part III. Replication, Part IV. Sharding.)
+    * <a target ="blank" href="https://docs.sevalla.com/">Sevalla</a>
 
 ### 5.6. Chủ đề 6: Làm sao để đảm bảo chất lượng cho các chức năng của hệ thống?
 * Số nhóm thuyết trình **dự kiến**: Tất cả các nhóm chưa đủ 2 bài thuyết trình.
