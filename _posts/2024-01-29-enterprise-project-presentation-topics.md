@@ -167,7 +167,8 @@ _Tài liệu mô tả các chủ đề thuyết trình theo hướng hệ thốn
     * Vinicius M. Grippa and Sergey Kuzmichev (2021). Learning MySQL. O'Reilly Media. (Chapter 13. High Availability, Chapter 15. Load Balancing MySQL.)
     * Bradshaw Shannon, Eoin Brazil and Kristina Chodorow (2019). MongoDB - The Definitive Guide. 3rd Edition. O'Reilly Media. (Part III. Replication, Part IV. Sharding.)
     * Justin Domingus and John Arundel (2022). Cloud Native DevOps with Kubernetes. O'Reilly Media.
-    * Ashley Davis (2021). Bootstrapping Microservices with Docker, Kubernetes, and Terraform. Manning Publications.
+    * Ashley Davis (2024). Bootstrapping Microservices with Docker, Kubernetes, GitHub Actions, and Terraform. Manning Publications.
+    * Michael Kaufmann at al. (2025). GitHub Actions in Action. Manning Publications.
     * <a target ="blank" href="https://docs.sevalla.com/">Sevalla</a>
     * <a target ="blank" href="https://azure.microsoft.com/en-us/products/app-service/web">Azure Web Apps</a>
     * <a target ="blank" href="https://console.neon.tech/signup">Neon</a>
