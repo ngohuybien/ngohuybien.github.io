@@ -150,7 +150,7 @@ _Tài liệu mô tả các chủ đề thuyết trình theo hướng hệ thốn
 ### 5.5. Chủ đề 5: Thiết kế và xây dựng khả năng mở rộng hệ thống theo chiều ngang như thế nào?
 * Số nhóm thuyết trình **dự kiến**: Tất cả các nhóm chưa đủ 2 bài thuyết trình, và các nhóm đã đủ điểm thuyết trình có mong muốn cải thiện điểm môn học.
 * Nội dung cần trình bày:
-    * Giải thích về mở rộng hệ thống theo chiều ngang (horizontal scaling) cho APIs, databases, caches, files.
+    * Giải thích về mở rộng hệ thống theo chiều ngang (horizontal scaling) cho APIs, databases, caches, và files.
     * Demo việc cài đặt và cấu hình các công cụ hỗ trợ, hoặc đăng ký và cấu hình các dịch vụ đám mây.
     * Demo việc kiểm thử khả năng mở rộng của hệ thống nhóm đã xây dựng theo chiều ngang.
 * Các **câu hỏi** thường gặp:
