@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/bcf3a78a-852e-43d2-986c-9746a2729711)---
 layout: post
 title: "Các chủ đề thuyết trình theo hướng hệ thống doanh nghiệp"
 categories: [Software Engineering Capstone]
@@ -176,23 +176,26 @@ _Tài liệu mô tả các chủ đề thuyết trình theo hướng hệ thốn
     * <a target ="blank" href="https://aws.amazon.com/s3/">Amazon S3</a>
     
 ### 5.6. Chủ đề 6: Làm sao để đảm bảo chất lượng cho các chức năng của hệ thống?
-* Số nhóm thuyết trình **dự kiến**: Tất cả các nhóm chưa đủ 2 bài thuyết trình.
+* Số nhóm thuyết trình **dự kiến**: Tất cả các nhóm chưa đủ 2 bài thuyết trình, và các nhóm đã đủ điểm thuyết trình có mong muốn cải thiện điểm môn học.
 * Nội dung cần trình bày:
-    * Giải thích test automation.
+    * Giải thích các khái niệm của unit testing và test automation.
     * Demo các unit tests của hệ thống.
+    * Demo việc chạy các unit tests của hệ thống trong quá trình CI/CD/DevOps.
 * Các **câu hỏi** thường gặp:
     * Demo việc cài đặt và cấu hình các công cụ hỗ trợ viết và chạy các unit tests (ví dụ Jest, Selenium).
     * Giải thích các bước để tạo và thực thi một unit test.
     * Giải thích mã nguồn và thực thi các unit test đã viết cho một hàm back-end của hệ thống.
     * Giải thích mã nguồn và thực thi các unit test đã viết để tự động hóa việc kiểm thử từ đầu đến cuối (end-to-end workflow) cho một tính năng của hệ thống.
-    * Demo việc cài đặt các công cụ để thực hiện việc triển khai/chuyển giao liên tục hệ thống (ví dụ Jenkins).
-    * Demo việc đăng ký các dịch vụ đã dùng và các bước để thực hiện việc triển khai/chuyển giao liên tục hệ thống (ví dụ CircleCI, AWS CodeDeploy, Azure DevOps Services, GCP).
-    * Demo việc chạy các unit tests trong quá trình triển khai/chuyển giao liên tục hệ thống của nhóm.
+    * Demo việc cài đặt các công cụ để thực hiện việc tích hợp/triển khai/chuyển giao liên tục hệ thống (ví dụ Jenkins), hoặc việc đăng ký các dịch vụ và các bước để thực hiện việc tích hợp/triển khai/chuyển giao liên tục hệ thống (ví dụ CircleCI, AWS CodeDeploy, Azure DevOps, GCP).
+    * Demo việc chạy các unit tests trong quá trình tích hợp/triển khai/chuyển giao liên tục hệ thống của nhóm.
 * Tài liệu tham khảo:
     * Roy Osherove (2022). The Art of Unit Testing with Examples in JavaScript. Manning Publications.
     * Vladimir Khorikov (2019). Unit Testing Principles, Practices, and Patterns. Manning Publications.
     * Chaminda Chandrasekara and Pushpa Herath (2019). Hands-On Functional Test Automation: With Visual Studio 2017 and Selenium. Apress.
     * Koushik Das (2022). Create an Enterprise-Level Test Automation Framework with Appium. Apress.
+    * <a target ="blank" href="https://docs.github.com/en/actions/use-cases-and-examples/building-and-testing">GitHub Actions</a>
+    * <a target ="blank" href="https://circleci.com/docs/test/">CircleCI</a>
+    * <a target ="blank" href="https://learn.microsoft.com/en-us/training/modules/run-quality-tests-build-pipeline/">Azure Pipelines</a>
 
 ### 5.7. Chủ đề 7: Thiết kế và xây dựng hệ thống như thế nào để lưu trữ tất cả các trạng thái của ứng dụng nhằm mục đích tăng tốc độ xử lý, dễ dàng tích hợp các hệ thống con, truy vết (Audit Log), gỡ rối (Debugging), sửa chữa, hoặc khôi phục hệ thống?
 * Số nhóm thuyết trình **dự kiến**: Tất cả các nhóm chưa đủ 2 bài thuyết trình.
