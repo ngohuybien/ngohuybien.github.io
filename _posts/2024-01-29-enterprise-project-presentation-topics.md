@@ -148,18 +148,18 @@ _Tài liệu mô tả các chủ đề thuyết trình theo hướng hệ thốn
     * Vlad Khononov (2021). Learning Domain-Driven Design. O'Reilly Media.
 
 ### 5.5. Chủ đề 5: Thiết kế và xây dựng khả năng mở rộng hệ thống theo chiều ngang như thế nào?
-* Số nhóm thuyết trình **dự kiến**: Tất cả các nhóm chưa đủ 2 bài thuyết trình.
+* Số nhóm thuyết trình **dự kiến**: Tất cả các nhóm chưa đủ 2 bài thuyết trình, và các nhóm đã đủ điểm thuyết trình có mong muốn cải thiện điểm môn học.
 * Nội dung cần trình bày:
-    * Giải thích về mở rộng hệ thống theo chiều ngang (horizontal scaling).
-    * Demo việc cài đặt và cấu hình các công cụ hỗ trợ.
-    * Demo khả năng mở rộng của hệ thống nhóm đã xây dựng theo chiều ngang.
+    * Giải thích về mở rộng hệ thống theo chiều ngang (horizontal scaling) cho APIs, databases, caches, files.
+    * Demo việc cài đặt và cấu hình các công cụ hỗ trợ, hoặc đăng ký và cấu hình các dịch vụ đám mây.
+    * Demo việc kiểm thử khả năng mở rộng của hệ thống nhóm đã xây dựng theo chiều ngang.
 * Các **câu hỏi** thường gặp:
     * Demo phần xử lý của một API của hệ thống, được chia tải (load balancing) trên 3 máy chủ web, hoặc 3 containers, hoặc trên một dịch vụ đám mây.
     * Demo phần dữ liệu lưu trữ từ một API của hệ thống, được chia tải và sharding trên 3 máy chủ cơ sở dữ liệu, hoặc trên một dịch vụ đám mây.
     * Demo phương pháp và kết quả kiểm thử khả năng chịu tải (load testing) của toàn hệ thống với số lượng bản ghi dữ liệu tối thiểu là 50,000 cho mỗi đối tượng hoặc bảng.
     * Demo phương pháp và kết quả kiểm thử ngưỡng chịu tải (stress testing) của toàn hệ thống với số lượng bản ghi dữ liệu tối thiểu là 50,000 cho mỗi đối tượng hoặc bảng.
-    * Demo phần bộ nhớ đệm của hệ thống, được chia tải và sharding trên 3 máy chủ, hoặc trên một dịch vụ đám mây.
-    * Demo phần lưu trữ tập tin của hệ thống, được chia tải và sharding trên 3 máy chủ (nếu có), hoặc trên một dịch vụ đám mây.
+    * Demo phần bộ nhớ đệm của hệ thống, được chia tải và shard trên 3 máy chủ, hoặc trên một dịch vụ đám mây.
+    * Demo phần lưu trữ tập tin của hệ thống, được chia tải và shard trên 3 máy chủ (nếu có), hoặc trên một dịch vụ đám mây.
 * Tài liệu tham khảo:
     * Derek DeJonghe (2022). NGINX Cookbook. O'Reilly Media. (CHAPTER 1. High-Performance Load Balancing.)
     * Thomas Hunter II (2021). Distributed Systems with Node.js. O'Reilly Media. (Chapter 3. Scaling.)
