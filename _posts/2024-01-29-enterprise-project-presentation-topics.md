@@ -71,6 +71,7 @@ _Tài liệu mô tả các chủ đề thuyết trình theo hướng hệ thốn
     * <a target ="blank" href ="https://martinfowler.com/articles/modularizing-react-apps.html">Modularizing React Applications with Established UI Patterns</a>
     * <a target ="blank" href ="https://www.storyblok.com/tp/react-dynamic-component-from-json">How to render dynamic component defined in JSON using React</a>
     * <a target ="blank" href ="https://v0.dev/">v0.dev: A generative UI tool by Vercel</a>
+    * <a target ="blank" href ="https://www.cursor.com/downloads">Cursor: The AI Code Editor</a>
     
 ### 5.2. Chủ đề 2: Làm sao để tăng tốc độ phát triển và đảm bảo chất lượng các API của hệ thống?
 * Số nhóm thuyết trình **dự kiến**: 2 nhóm (ưu tiên 1 nhóm RESTful và gRPC, 1 nhóm GraphQL).
