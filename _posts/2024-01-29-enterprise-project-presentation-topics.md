@@ -70,6 +70,7 @@ _Tài liệu mô tả các chủ đề thuyết trình theo hướng hệ thốn
     * Slides môn học.
     * <a target ="blank" href ="https://martinfowler.com/articles/modularizing-react-apps.html">Modularizing React Applications with Established UI Patterns</a>
     * <a target ="blank" href ="https://www.storyblok.com/tp/react-dynamic-component-from-json">How to render dynamic component defined in JSON using React</a>
+    * <a target ="blank" href ="https://github.com/features/copilot">GitHub Copilot: The AI editor for everyone</a>
     * <a target ="blank" href ="https://v0.dev/">v0.dev: A generative UI tool by Vercel</a>
     * <a target ="blank" href ="https://www.cursor.com/downloads">Cursor: The AI Code Editor</a>
     
