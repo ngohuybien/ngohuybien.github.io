@@ -10,7 +10,7 @@ _Tài liệu mô tả các chủ đề thuyết trình theo hướng hệ thốn
 
 ## 1. Quy định chung
 * Điểm thuyết trình được **chia đều** cho các thành viên cho nhóm.
-* Nếu nhóm có mong muốn **tự chia điểm thuyết trình** theo **tỷ lệ riêng**, thì cần ghi rõ mong muốn tự chia điểm, thông tin từng thành viên và tỷ lệ điểm từng thành viên sẽ được nhận, ví dụ 50%, 120%, 150%, trong trang 2 của Slides. Tổng số % của nhóm = Số thành viên x 100%. Nếu thành viên nào có % x Tổng điểm lớn hơn 10, thì điểm của thành viên cũng chỉ được tính là 10. Điểm của từng thành viên chỉ gồm 1 chữ số thập phân. Trong trường hợp chia theo % còn dư hoặc thiếu điểm, nhóm cần hiệu chỉnh lại để đảm bảo tổng số điểm của tất cả các thành viên luôn nhỏ hơn hoặc bằng tổng điểm của toàn nhóm.
+* Nếu nhóm có mong muốn **tự chia điểm thuyết trình** theo **tỷ lệ riêng**, thì cần ghi rõ mong muốn tự chia điểm, thông tin từng thành viên và tỷ lệ điểm từng thành viên sẽ được nhận, ví dụ 50%, 120%, 150%, trong trang 2 của Slides. Tổng số % của nhóm = Số thành viên x 100%. Nếu thành viên nào có % x Tổng điểm lớn hơn 10, thì điểm của thành viên cũng chỉ được tính là 10. Điểm của từng thành viên chỉ gồm một chữ số thập phân. Trong trường hợp tổng điểm của nhóm chia theo % dư hoặc thiếu điểm, nhóm cần hiệu chỉnh lại để đảm bảo tổng số điểm của tất cả các thành viên luôn nhỏ hơn hoặc bằng tổng điểm của toàn nhóm.
 * Bài thuyết trình được đánh giá theo số thành viên thực sự hoạt động của nhóm. Do vậy, nếu nhóm có thành viên bỏ nhóm, hoặc không tham gia vào bài thuyết trình, trưởng nhóm cần **thông báo trực tiếp cho giảng viên vào buổi thuyết trình**, để các nhóm được đánh giá công bằng với nhau.
 
 ## 2. Quy định về bài thuyết trình
