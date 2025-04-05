@@ -136,13 +136,18 @@ _Tài liệu mô tả các chủ đề thuyết trình theo hướng hệ thốn
 ### 5.4. Chủ đề 4: Thiết kế và xây dựng hệ thống như thế nào để giảm sự phụ thuộc vào các công nghệ và tăng khả năng quản lý sự phức tạp của hệ thống?
 * Số nhóm thuyết trình **dự kiến**: 1 nhóm.
 * Nội dung cần trình bày:
-    * Giải thích các bước tuần tự nhóm đã thực hiện để xây dựng một tính năng của hệ thống.
-    * Giải thích phương pháp thiết kế từ nghiệp vụ (Domain-Driven Design).
-    * Demo một chức năng của hệ thống được xây dựng bằng phương pháp thiết kế từ nghiệp vụ.
+    * Giải thích các bước tuần tự (step by step) nhóm đã thực hiện để xây dựng một tính năng của hệ thống mà **không** áp dụng hướng tiếp cận thiết kế từ nghiệp vụ (Domain-Driven Design).
+    * Giải thích các mẫu kiến trúc có thể áp dụng cho hướng tiếp cận thiết kế từ nghiệp vụ (Domain-Driven Design): Layered Architecture/Hexagonal Architecture/Onion Architecture/Clean Architecture.
+    * Giải thích các khái niệm và chiến thuật đề xuất bởi Domain-Driven Design: Ubiquitous Language, Bounded Context, Entities, Value Object, Aggregates, Factories, Repositories, Domain Services, Domain Events, Context Map, Shared Kernel, Anti-Corruption Layer.
+    * Giải thích quy trình áp dụng Domain-Driven Design.
+    * Demo một chức năng của hệ thống được xây dựng bằng cách áp dụng Domain-Driven Design (step by step).
 * Các **câu hỏi** thường gặp:
     * Demo việc lấy mã nguồn của nhóm từ source control và build không lỗi.
-    * Demo quá trình chạy chi tiết qua từng thành phần của Domain-Driven Design của một tính năng đã được xây dựng.
-    * Giải thích mục đích của các thành phần tham gia vào quá trình chạy của tính năng.
+    * Giải thích sự khác nhau giữa Layered Architecture và Clean Architecture?
+    * Tại sao nên áp dụng Clean Architecture?
+    * Tại sao nên áp dụng Domain-Driven Design?
+    * Demo quá trình chạy chi tiết qua từng thành phần đề xuất bởi Domain-Driven Design của một tính năng đã được xây dựng.
+    * Giải thích mục đích của từng thành phần tham gia vào quá trình chạy của tính năng.
 * Tài liệu tham khảo:
     * Eric Evans (2003). Domain-Driven Design - Tackling Complexity in the Heart of Software. Addison Wesley.
     * Vaughn Vernon (2013). Implementing Domain-Driven Design. Addison-Wesley Professional.
