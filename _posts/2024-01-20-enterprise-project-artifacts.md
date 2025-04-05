@@ -84,13 +84,13 @@ Các sản phẩm của đồ án được nộp làm **2 lần**:
 * Lần 1 (giữa kỳ):
     * Các nhóm in ra tất cả các sản phẩm đã được dạy trong thư mục **01_Documents**,
     * Demo trực tiếp sản phẩm đã triển khai, **trong 15 phút**, và 
-    * Trả lời các câu hỏi của giảng viên, vào **tuần thứ 6** của môn học đối với lớp CLC, hoặc **tuần thứ 8** của môn học đối với lớp CQ, **tại lớp học lý thuyết**.
+    * Trả lời các câu hỏi của giảng viên, vào **tuần thứ 7** của môn học, **tại lớp học lý thuyết**.
     * Chỉ những bạn sinh viên có mặt ở buổi kiểm tra mới có điểm đồ án giữa kỳ.
 * Lần 2 (cuối kỳ):
     * Nhóm trưởng các nhóm nộp bản mềm điện tử tất cả các sản phẩm ở mục 2. trong tài liệu này, không nén, cho lớp trưởng.
     * Đối với các tài liệu, các nhóm **có thể cập nhật** lại nếu cần.
     * Lớp trưởng nén thư mục của toàn lớp lại thành 1 tập tin .zip hoặc .rar, chỉ **một tập tin .zip hoặc .rar duy nhất** cho toàn lớp.
-    * Lớp trưởng liên hệ và nộp cho giảng viên **qua email** vào thứ 6, **tuần thứ 11** của môn học đối với lớp CLC, hoặc **tuần thứ 15** của môn học đối với lớp CQ.
+    * Lớp trưởng liên hệ và nộp cho giảng viên **qua email** vào thứ 6, **tuần thứ 11** của môn học.
 
 ## 4. Các tiêu chí đánh giá
 * Kết quả **lần 1 (giữa kỳ)** được đánh giá dựa trên **các câu hỏi thường gặp** dưới đây:
