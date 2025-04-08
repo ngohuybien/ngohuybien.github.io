@@ -38,9 +38,9 @@ _Tài liệu mô tả các sản phẩm cần nộp cho đồ án theo hướng 
     * **01_Business Cases.pdf**,
     * **02_Domain Model.docx**: trình bày và diễn giải các thực thể nghiệp vụ trong đời sống thực (có thể có liên quan đến phần mềm), và mối liên hệ giữa các thực thể này với nhau,
     * **02_Domain Model.pdf**,
-    * **03_Product Backlog.xlsx**: trình bày toàn bộ các sản phẩm và tính năng cần có để đạt được các mục tiêu đề ra.
-    * **04_Prototype.docx**: trình bày giao diện từng bước của ít nhất một luồng quy trình nghiệp vụ chính trong hệ thống,
-    * **04_Prototype.pdf**,
+    * **03_Prototype.docx**: trình bày giao diện từng bước của ít nhất một luồng quy trình nghiệp vụ chính trong hệ thống,
+    * **03_Prototype.pdf**,
+    * **04_Product Backlog.xlsx**: trình bày toàn bộ các sản phẩm và tính năng cần có để đạt được các mục tiêu đề ra.
     * **05_Architecture.docx**: trình bày các mô hình và diễn giải kiến trúc hệ thống theo các góc nhìn khác nhau, các công nghệ, công cụ được lựa chọn để xây dựng hệ thống,
     * **05_Architecture.pdf**,
     * **06_Proof of Concept.docx**: trình bày quá trình nhóm đã thử nghiệm việc hiện thực hóa một tính năng khó về mặt kỹ thuật bằng mã nguồn, và kết quả cụ thể thu được,
