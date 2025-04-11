@@ -28,8 +28,8 @@ _Tài liệu mô tả các chủ đề thuyết trình theo hướng hệ thốn
 * Các nhóm sẽ được **gọi thuyết trình trực tiếp tại lớp** theo thứ tự sau:
     * Nhóm xung phong thuyết trình.
     * Nhóm chưa thuyết trình đủ 2 chủ đề, theo **số thứ tự** nhóm.
-    * Nhóm muốn cải thiện điểm thuyết trình.
-    * Nhóm đã thuyết trình đủ 2 chủ đề muốn lấy điểm cộng môn học.
+    * Nhóm đã thuyết trình đủ 2 chủ đề, muốn cải thiện điểm thuyết trình.
+    * Cá nhân thuộc nhóm đã thuyết trình đủ 2 chủ đề, muốn lấy điểm cộng môn học cho cá nhân.
 * Các nhóm được gọi mà **không có Slides** hoặc **không chuẩn bị** để thuyết trình sẽ **nhận điểm 0** cho bài thuyết trình được gọi.
 
 ## 4. Quy định về việc nộp Slides sau khi thuyết trình
