@@ -12,7 +12,7 @@ _Tài liệu hướng dẫn lựa chọn chủ đề cho luận văn cao học, 
 * Học viên chọn **một bài báo** yêu thích và tìm hiểu **vấn đề** bài báo đề cập và **giải pháp** đề xuất của bài báo.
 * Nếu học viên chưa có bài báo yêu thích thì có thể tìm theo từ khóa chủ đề mình quan tâm trên <a target = "blank" href = "https://scholar.google.com/">Google Scholar</a> hoặc <a target = "blank" href = "https://paperswithcode.com/">Paper with Code</a>.
 * Học viên cần chọn bài báo **gần nhất**, hoặc bài báo **có hiệu quả thực sự** vẫn còn tính ứng dụng, liên quan đến chủ đề mình quan tâm, và chỉ cần một bài báo là đủ. Luận văn sẽ tập trung vào việc tạo ra kết quả, và so sánh kết quả đó với kết quả của bài báo được lựa chọn.
-* Bài báo được chọn, nếu tốt, sẽ có sẵn cách so sánh, kết quả so sánh với giải pháp trước đó, và thường có cả mã nguồn/thư viện/hệ thống/dữ liệu. Cách tiến hành thực nghiệm và đánh giá của bài báo sẽ được dùng để định hướng quá trình thực hiện luận văn.
+* Bài báo được chọn, nếu tốt, sẽ có sẵn cách so sánh, kết quả so sánh với giải pháp trước đó, và thường có cả mã nguồn/thư viện/hệ thống/dữ liệu. Cách tiến hành thực nghiệm và đánh giá của bài báo thường sẽ được dùng để định hướng quá trình thực hiện luận văn.
 
 ## 2. Lựa chọn hướng đi
 * #### Hướng 1 - Xây dựng lại giải pháp
