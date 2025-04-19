@@ -43,6 +43,9 @@ Học viên phân tích giải pháp theo **một hướng đi cụ thể** đã
        * Các bảng dữ liệu khảo sát, nếu có, sẽ có cấu trúc như thế nào? Lý do thu thập dữ liệu khảo sát là gì?
          
    * #### Hướng 2 - Áp dụng giải pháp vào hệ thống khác
+       * Mã nguồn và dữ liệu có sẵn có thể tải về từ đâu?
+       * Kết quả sau khi chạy mã nguồn và dữ liệu có sẵn là gì?
+       * Kết quả đánh giá từ mã nguồn và dữ liệu có sẵn có đúng như công bố?
        * Giải pháp đề xuất đã được ứng dụng ở hệ thống phần mềm thực tế nào hay chưa?
        * Học viên dự định áp dụng giải pháp để giải quyết **bài toán cụ thể** nào, trong **hệ thống cụ thể** nào? Bài toán đó được mô hình cụ thể như thế nào? Học viên có thể mô hình bằng, nhưng không giới hạn: các nghiệp vụ thực tế (business use cases), các giao diện, các lược đồ, các mô hình toán học. Phần **Introduction** của bài báo có thể hỗ trợ thêm thông tin cho phần phân tích này.
        * Điểm quan trọng cần lưu ý ở đây là **bài toán cụ thể** đề tài dự định giải quyết cần nhất quán với bài toán mà bài báo đề cập. Nghĩa là bài toán cụ thể có thể có phạm vi trùng khớp, hoặc nhỏ hơn, hoặc lớn hơn phạm vi bài toán bài báo đề xuất, nhưng cả hai đều phải có chung vấn đề quan tâm, và cùng hướng đến các tiêu chí đánh giá giống nhau. Phần **Related Work**, **Evaluation**,  **Performance**, hoặc **Experience** của bài báo có thể hỗ trợ thêm thông tin cho phần phân tích này.
@@ -57,6 +60,9 @@ Học viên phân tích giải pháp theo **một hướng đi cụ thể** đã
        * Các bảng dữ liệu khảo sát, nếu có, sẽ có cấu trúc như thế nào? Lý do thu thập dữ liệu khảo sát là gì?
          
   * #### Hướng 3 - Cải tiến giải pháp
+       * Mã nguồn và dữ liệu có sẵn có thể tải về từ đâu?
+       * Kết quả sau khi chạy mã nguồn và dữ liệu có sẵn là gì?
+       * Kết quả đánh giá từ mã nguồn và dữ liệu có sẵn có đúng như công bố?
        * Giải pháp đề xuất đã được ứng dụng ở hệ thống phần mềm thực tế nào hay chưa?
        * Giải pháp có vấn đề gì, thiếu sót gì mà cần mở rộng? Ý tưởng mở rộng là gì? Ai là người có nhu cầu, hoặc sẽ quan tâm?
        * Dự kiến mã nguồn/thư viện/hệ thống/dữ liệu có thể mở rộng ở đâu. Phần **Conclusion** hoặc **Future Work** của bài báo có thể hỗ trợ hỗ trợ thông tin cho phần phân tích này.
@@ -72,6 +78,9 @@ Học viên phân tích giải pháp theo **một hướng đi cụ thể** đã
   * Tên đề tài,
   * Bài báo lựa chọn,
   * Hướng đi lựa chọn,
+  * Liên kết đến mã nguồn, dữ liệu có sẵn nếu học viên chọn hướng 2 hoặc 3.
+  * Kết quả chạy mã nguồn, dữ liệu có sẵn nếu học viên chọn hướng 2 hoặc 3.
+  * Kết quả đánh giá từ mã nguồn, dữ liệu có sẵn nếu học viên chọn hướng 2 hoặc 3.
   * Mô tả **bài toán cụ thể**,
   * Diễn giải **các tiêu chí đánh giá**, và
   * Các nội dung khác nếu có,
