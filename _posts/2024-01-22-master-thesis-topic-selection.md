@@ -81,7 +81,7 @@ Học viên phân tích giải pháp theo **một hướng đi cụ thể** đã
   * Liên kết đến mã nguồn/thư viện/hệ thống/dữ liệu có sẵn, nếu học viên chọn hướng 2 hoặc 3.
   * Các câu lệnh, và ảnh chụp kết quả chạy mã nguồn/thư viện/hệ thống/dữ liệu có sẵn, nếu học viên chọn hướng 2 hoặc 3.
   * Các câu lệnh, và ảnh chụp kết quả đánh giá từ mã nguồn/thư viện/hệ thống/dữ liệu có sẵn, nếu học viên chọn hướng 2 hoặc 3.
-  * Nếu luận văn chọn mở rộng dữ liệu thì cần có liên kết đến **dữ liệu của riêng mình**, và có một mô hình lựa chọn để so sánh, kèm ảnh chụp kết quả chạy mô hình này, và chỉ cần một mô hình phù hợp nhất để so sánh là đủ.
+  * Nếu luận văn chọn mở rộng dữ liệu thì cần có liên kết đến **dữ liệu của riêng mình**, và có một mô hình lựa chọn để so sánh, kèm ảnh chụp kết quả chạy mô hình này, và chỉ cần một mô hình phù hợp nhất để so sánh là đủ. Học viên chỉ được phép sử dụng các dataset của công ty trong trường hợp có giấy chấp nhận đồng ý của công ty.
   * Nếu luận văn chọn tạo một plug-in thì phải có một plug-in tương tự, hoặc một tool tương tự (tốt nhất là commercial), để so sánh.
   * Mô tả **bài toán cụ thể**,
   * Diễn giải **các tiêu chí đánh giá**, và
