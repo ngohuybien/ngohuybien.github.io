@@ -78,9 +78,9 @@ Học viên phân tích giải pháp theo **một hướng đi cụ thể** đã
   * Tên đề tài,
   * Bài báo lựa chọn,
   * Hướng đi lựa chọn,
-  * Liên kết đến mã nguồn, dữ liệu có sẵn nếu học viên chọn hướng 2 hoặc 3.
-  * Kết quả chạy mã nguồn, dữ liệu có sẵn nếu học viên chọn hướng 2 hoặc 3.
-  * Kết quả đánh giá từ mã nguồn, dữ liệu có sẵn nếu học viên chọn hướng 2 hoặc 3.
+  * Liên kết đến mã nguồn, dữ liệu có sẵn, nếu học viên chọn hướng 2 hoặc 3.
+  * Kết quả chạy mã nguồn, dữ liệu có sẵn, nếu học viên chọn hướng 2 hoặc 3.
+  * Kết quả đánh giá từ mã nguồn, dữ liệu có sẵn, nếu học viên chọn hướng 2 hoặc 3.
   * Mô tả **bài toán cụ thể**,
   * Diễn giải **các tiêu chí đánh giá**, và
   * Các nội dung khác nếu có,
